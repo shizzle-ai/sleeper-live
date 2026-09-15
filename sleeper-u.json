@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T00:43:33.528Z",
+  "generated_at": "2026-09-15T00:57:07.506Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 383264
+      "adds": 391512
     },
     {
       "id": "6130",
@@ -4037,7 +4037,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 364050
+      "adds": 374805
     },
     {
       "id": "3161",
@@ -4048,7 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 247698
+      "adds": 252006
     },
     {
       "id": "4993",
@@ -4059,7 +4059,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 207648
+      "adds": 211324
     },
     {
       "id": "TB",
@@ -4070,7 +4070,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 161065
+      "adds": 164015
     },
     {
       "id": "SF",
@@ -4081,62 +4081,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 131760
-    },
-    {
-      "id": "9486",
-      "name": "Dontayvion Wicks",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 204,
-      "adds": 102030
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 673,
-      "adds": 59064
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 645,
-      "adds": 57476
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 54765
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 6,
-      "rank": 679,
-      "adds": 45720
+      "adds": 133797
     },
     {
       "id": "12492",
@@ -4147,7 +4092,62 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35192
+      "adds": 114064
+    },
+    {
+      "id": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 204,
+      "adds": 103905
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 673,
+      "adds": 60447
+    },
+    {
+      "id": "3634",
+      "name": "Kalif Raymond",
+      "pos": "WR",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 645,
+      "adds": 58392
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 470,
+      "adds": 55476
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 6,
+      "rank": 679,
+      "adds": 46482
     },
     {
       "id": "6826",
@@ -4158,7 +4158,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 488,
-      "adds": 27621
+      "adds": 28296
     },
     {
       "id": "12711",
@@ -4169,7 +4169,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 27378
+      "adds": 27906
     },
     {
       "id": "12472",
@@ -4180,7 +4180,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 25776
+      "adds": 26448
     }
   ]
 }
