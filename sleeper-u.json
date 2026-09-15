@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T08:36:13.941Z",
+  "generated_at": "2026-09-15T08:51:38.714Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3515,7 +3515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 642240
+      "adds": 648496
     },
     {
       "id": "6130",
@@ -3526,7 +3526,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 567747
+      "adds": 572724
     },
     {
       "id": "3161",
@@ -3537,7 +3537,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 314688
+      "adds": 317046
     },
     {
       "id": "TB",
@@ -3548,7 +3548,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 302185
+      "adds": 307160
     },
     {
       "id": "4993",
@@ -3559,7 +3559,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 232176
+      "adds": 233764
     },
     {
       "id": "SF",
@@ -3570,7 +3570,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 212940
+      "adds": 215697
     },
     {
       "id": "12492",
@@ -3581,7 +3581,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 177104
+      "adds": 177952
     },
     {
       "id": "9486",
@@ -3592,7 +3592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 134406
+      "adds": 135573
     },
     {
       "id": "4454",
@@ -3603,7 +3603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 92382
+      "adds": 93315
     },
     {
       "id": "4066",
@@ -3614,7 +3614,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 84984
+      "adds": 85720
     },
     {
       "id": "12472",
@@ -3625,7 +3625,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 81464
+      "adds": 82952
     },
     {
       "id": "3634",
@@ -3636,7 +3636,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 75028
+      "adds": 75704
     },
     {
       "id": "3286",
@@ -3647,18 +3647,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 66756
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 45333
+      "adds": 67608
     },
     {
       "id": "4177",
@@ -3669,7 +3658,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 697,
-      "adds": 44805
+      "adds": 45630
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 470,
+      "adds": 45540
     }
   ]
 }
