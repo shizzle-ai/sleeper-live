@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T19:37:57.193Z",
+  "generated_at": "2026-09-15T19:47:29.497Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -1660,9 +1660,9 @@
           "name": "Dylan Sampson",
           "pos": "RB",
           "team": "CLE",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 3,
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 5,
           "rank": 129
         },
         {
@@ -3517,7 +3517,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1400072
+      "adds": 1393464
     },
     {
       "id": "6130",
@@ -3528,7 +3528,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1156662
+      "adds": 1158255
     },
     {
       "id": "TB",
@@ -3539,7 +3539,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1030825
+      "adds": 1034070
     },
     {
       "id": "SF",
@@ -3550,7 +3550,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 589491
+      "adds": 589614
     },
     {
       "id": "3161",
@@ -3561,7 +3561,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 569670
+      "adds": 564690
     },
     {
       "id": "4993",
@@ -3572,7 +3572,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 370604
+      "adds": 365792
     },
     {
       "id": "12492",
@@ -3583,7 +3583,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 332224
+      "adds": 334848
     },
     {
       "id": "12472",
@@ -3594,7 +3594,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 311968
+      "adds": 325432
     },
     {
       "id": "9486",
@@ -3605,7 +3605,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 254406
+      "adds": 252363
     },
     {
       "id": "4066",
@@ -3616,7 +3616,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 211384
+      "adds": 213632
     },
     {
       "id": "3286",
@@ -3627,7 +3627,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 207822
+      "adds": 209778
     },
     {
       "id": "4177",
@@ -3638,7 +3638,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 180243
+      "adds": 182124
     },
     {
       "id": "4454",
@@ -3649,7 +3649,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 179793
+      "adds": 179133
     },
     {
       "id": "3634",
@@ -3660,7 +3660,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 150900
+      "adds": 150362
     },
     {
       "id": "2020",
@@ -3671,7 +3671,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 81095
+      "adds": 81788
     }
   ]
 }
