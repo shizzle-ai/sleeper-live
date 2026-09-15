@@ -1,13 +1,13 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T03:54:34.913Z",
+  "generated_at": "2026-09-15T04:03:46.203Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
     "season": "2026",
     "status": "in_season",
-    "current_week": 1,
+    "current_week": 2,
     "total_rosters": 12,
     "roster_positions": [
       "QB",
@@ -389,11 +389,11 @@
   ],
   "matchup": {
     "found": true,
-    "week": 1,
+    "week": 2,
     "mine": {
       "roster_id": 11,
       "team": "PimpShizzle",
-      "points": 138.52,
+      "points": 0,
       "starters": [
         {
           "id": "6770",
@@ -498,105 +498,105 @@
       ]
     },
     "opponent": {
-      "roster_id": 3,
-      "team": "D’s Nuts",
-      "points": 129.26,
+      "roster_id": 2,
+      "team": "Herby Fully Loaded! ",
+      "points": 0,
       "starters": [
         {
-          "id": "11566",
-          "name": "Jayden Daniels",
+          "id": "6797",
+          "name": "Justin Herbert",
           "pos": "QB",
-          "team": "WAS",
+          "team": "LAC",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 21
+          "rank": 34
         },
         {
-          "id": "4866",
-          "name": "Saquon Barkley",
+          "id": "12507",
+          "name": "Omarion Hampton",
           "pos": "RB",
-          "team": "PHI",
+          "team": "LAC",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 11
+          "rank": 12
         },
         {
-          "id": "7611",
-          "name": "Rhamondre Stevenson",
+          "id": "12512",
+          "name": "Quinshon Judkins",
           "pos": "RB",
-          "team": "NE",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 45
+        },
+        {
+          "id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "pos": "WR",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 7
+        },
+        {
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 23
+        },
+        {
+          "id": "9484",
+          "name": "Tucker Kraft",
+          "pos": "TE",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 64
+        },
+        {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "team": "DEN",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 58
+          "rank": 72
         },
         {
-          "id": "8144",
-          "name": "Chris Olave",
-          "pos": "WR",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 29
-        },
-        {
-          "id": "5927",
-          "name": "Terry McLaurin",
-          "pos": "WR",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 55
-        },
-        {
-          "id": "12517",
-          "name": "Colston Loveland",
-          "pos": "TE",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 37
-        },
-        {
-          "id": "2216",
-          "name": "Mike Evans",
-          "pos": "WR",
-          "team": "SF",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 60
-        },
-        {
-          "id": "12508",
-          "name": "Jaxson Dart",
+          "id": "96",
+          "name": "Aaron Rodgers",
           "pos": "QB",
-          "team": "NYG",
+          "team": "PIT",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 42
+          "rank": 188
         },
         {
-          "id": "12185",
-          "name": "Spencer Shrader",
+          "id": "1945",
+          "name": "Chris Boswell",
           "pos": "K",
-          "team": "IND",
+          "team": "PIT",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 355
+          "rank": 151
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "DEN",
+          "name": "Denver Broncos",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2810,518 +2810,7 @@
       "taxi": []
     }
   ],
-  "recent_transactions": [
-    {
-      "transaction_id": "1403410352477114368",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788961611435,
-      "adds": [
-        {
-          "player": {
-            "id": "2306",
-            "name": "Jameis Winston",
-            "pos": "QB",
-            "team": "NYG",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 493
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "drops": [],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1403409830139473920",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788961486901,
-      "adds": [
-        {
-          "player": {
-            "id": "11559",
-            "name": "Michael Penix",
-            "pos": "QB",
-            "team": "ATL",
-            "injury": "Out",
-            "status": "Active",
-            "depth": 2,
-            "rank": 228
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13275",
-            "name": "Ty Simpson",
-            "pos": "QB",
-            "team": "LAR",
-            "injury": "Out",
-            "status": "Active",
-            "depth": 2,
-            "rank": 242
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1403390348297797633",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788956842068,
-      "adds": [
-        {
-          "player": {
-            "id": "10213",
-            "name": "Tre Tucker",
-            "pos": "WR",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 183
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13276",
-            "name": "Omar Cooper",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": "Out",
-            "status": "Active",
-            "depth": 3,
-            "rank": 151
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1402805390172815360",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788817377183,
-      "adds": [
-        {
-          "player": {
-            "id": "13285",
-            "name": "Malachi Fields",
-            "pos": "WR",
-            "team": "NYG",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 200
-          },
-          "roster_id": 10,
-          "team": "CHASEing Dubs"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "1479",
-            "name": "Keenan Allen",
-            "pos": "WR",
-            "team": "IND",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 180
-          },
-          "roster_id": 10,
-          "team": "CHASEing Dubs"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1402023043450089472",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1788630851188,
-      "adds": [
-        {
-          "player": {
-            "id": "5850",
-            "name": "Josh Jacobs",
-            "pos": "RB",
-            "team": "GB",
-            "injury": "NA",
-            "status": "Active",
-            "depth": 1,
-            "rank": 20
-          },
-          "roster_id": 5,
-          "team": "Grass-fed Beef"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "4199",
-            "name": "Aaron Jones",
-            "pos": "RB",
-            "team": "MIN",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 85
-          },
-          "roster_id": 5,
-          "team": "Grass-fed Beef"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401677819234263040",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1788548543322,
-      "adds": [
-        {
-          "player": {
-            "id": "5850",
-            "name": "Josh Jacobs",
-            "pos": "RB",
-            "team": "GB",
-            "injury": "NA",
-            "status": "Active",
-            "depth": 1,
-            "rank": 20
-          },
-          "roster_id": 10,
-          "team": "CHASEing Dubs"
-        }
-      ],
-      "drops": [],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401649207969849344",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788541721865,
-      "adds": [
-        {
-          "player": {
-            "id": "9508",
-            "name": "Tyjae Spears",
-            "pos": "RB",
-            "team": "TEN",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 122
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "8180",
-            "name": "Jalen Nailor",
-            "pos": "WR",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 171
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401639097801449472",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788539311412,
-      "adds": [
-        {
-          "player": {
-            "id": "1166",
-            "name": "Kirk Cousins",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 270
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "5850",
-            "name": "Josh Jacobs",
-            "pos": "RB",
-            "team": "GB",
-            "injury": "NA",
-            "status": "Active",
-            "depth": 1,
-            "rank": 20
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401250518868738048",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788446666975,
-      "adds": [
-        {
-          "player": {
-            "id": "4017",
-            "name": "Deshaun Watson",
-            "pos": "QB",
-            "team": "CLE",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 296
-          },
-          "roster_id": 8,
-          "team": "Kingz of Paulys"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "8210",
-            "name": "Chig Okonkwo",
-            "pos": "TE",
-            "team": "WAS",
-            "injury": "Questionable",
-            "status": "Active",
-            "depth": 1,
-            "rank": 137
-          },
-          "roster_id": 8,
-          "team": "Kingz of Paulys"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401246837968519168",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788445789380,
-      "adds": [
-        {
-          "player": {
-            "id": "7042",
-            "name": "Tyler Bass",
-            "pos": "K",
-            "team": "BUF",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 288
-          },
-          "roster_id": 12,
-          "team": "City of Brotherly Shove"
-        }
-      ],
-      "drops": [],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401237928096587776",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788443665101,
-      "adds": [
-        {
-          "player": {
-            "id": "5844",
-            "name": "T.J. Hockenson",
-            "pos": "TE",
-            "team": "MIN",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 128
-          },
-          "roster_id": 2,
-          "team": "Herby Fully Loaded! "
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "3214",
-            "name": "Hunter Henry",
-            "pos": "TE",
-            "team": "NE",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 92
-          },
-          "roster_id": 2,
-          "team": "Herby Fully Loaded! "
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401235431609114624",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788443069892,
-      "adds": [
-        {
-          "player": {
-            "id": "LAC",
-            "name": "Los Angeles Chargers",
-            "pos": "DEF",
-            "team": "LAC",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13311",
-            "name": "Chris Bell",
-            "pos": "WR",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 4,
-            "rank": 198
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401235287606095872",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788443035560,
-      "adds": [
-        {
-          "player": {
-            "id": "12015",
-            "name": "Harrison Mevis",
-            "pos": "K",
-            "team": "LAR",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 154
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "drops": [],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401085716523421696",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788407375034,
-      "adds": [
-        {
-          "player": {
-            "id": "12185",
-            "name": "Spencer Shrader",
-            "pos": "K",
-            "team": "IND",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 355
-          },
-          "roster_id": 3,
-          "team": "D’s Nuts"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13269",
-            "name": "Fernando Mendoza",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 107
-          },
-          "roster_id": 3,
-          "team": "D’s Nuts"
-        }
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1401075987050962944",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1788405055347,
-      "adds": [
-        {
-          "player": {
-            "id": "11834",
-            "name": "Devaughn Vele",
-            "pos": "WR",
-            "team": "NO",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 209
-          },
-          "roster_id": 2,
-          "team": "Herby Fully Loaded! "
-        }
-      ],
-      "drops": [],
-      "waiver_bid": null
-    }
-  ],
+  "recent_transactions": [],
   "free_agents": {
     "QB": [
       {
@@ -4026,7 +3515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 482136
+      "adds": 495392
     },
     {
       "id": "6130",
@@ -4037,7 +3526,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 463212
+      "adds": 473877
     },
     {
       "id": "3161",
@@ -4048,7 +3537,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 269730
+      "adds": 274986
     },
     {
       "id": "4993",
@@ -4059,7 +3548,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 212316
+      "adds": 216208
     },
     {
       "id": "TB",
@@ -4070,7 +3559,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 199680
+      "adds": 205685
     },
     {
       "id": "12492",
@@ -4081,7 +3570,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 161352
+      "adds": 163096
     },
     {
       "id": "SF",
@@ -4092,7 +3581,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 155049
+      "adds": 158847
     },
     {
       "id": "9486",
@@ -4103,7 +3592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 112647
+      "adds": 115374
     },
     {
       "id": "4454",
@@ -4114,7 +3603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 71259
+      "adds": 73329
     },
     {
       "id": "4066",
@@ -4125,7 +3614,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 62736
+      "adds": 64768
     },
     {
       "id": "3634",
@@ -4136,7 +3625,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 62624
+      "adds": 64050
     },
     {
       "id": "3286",
@@ -4147,7 +3636,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 46578
+      "adds": 47736
     },
     {
       "id": "9482",
@@ -4158,7 +3647,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 470,
-      "adds": 46386
+      "adds": 47043
     },
     {
       "id": "12472",
@@ -4169,7 +3658,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 41984
+      "adds": 43848
     },
     {
       "id": "12711",
@@ -4180,7 +3669,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 31008
+      "adds": 31626
     }
   ]
 }
