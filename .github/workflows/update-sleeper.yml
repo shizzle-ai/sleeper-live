@@ -1,0 +1,47 @@
+name: Update Sleeper Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-snapshot
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch live Sleeper snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          url="https://dark-mode-d68b.craig-beloff.workers.dev/u"
+          curl --fail --silent --show-error --location --retry 3 --retry-delay 2 \
+            -H 'Accept: application/json' \
+            "$url" -o sleeper-u.json.tmp
+
+          jq -e '.ok == true and .my_roster != null and .rosters != null' sleeper-u.json.tmp >/dev/null
+          mv sleeper-u.json.tmp sleeper-u.json
+
+      - name: Commit snapshot if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- sleeper-u.json && git ls-files --error-unmatch sleeper-u.json >/dev/null 2>&1; then
+            echo "Snapshot unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sleeper-u.json
+          git commit -m "Update Sleeper snapshot"
+          git push
