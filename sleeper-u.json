@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T01:39:29.440Z",
+  "generated_at": "2026-09-15T01:51:50.050Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -393,7 +393,7 @@
     "mine": {
       "roster_id": 11,
       "team": "PimpShizzle",
-      "points": 130.4,
+      "points": 130.64,
       "starters": [
         {
           "id": "6770",
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 402392
+      "adds": 413048
     },
     {
       "id": "6130",
@@ -4037,7 +4037,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 398772
+      "adds": 410481
     },
     {
       "id": "3161",
@@ -4048,7 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 248022
+      "adds": 253356
     },
     {
       "id": "4993",
@@ -4059,7 +4059,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 206724
+      "adds": 211496
     },
     {
       "id": "TB",
@@ -4070,18 +4070,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 165585
-    },
-    {
-      "id": "SF",
-      "name": "San Francisco 49ers",
-      "pos": "DEF",
-      "team": "SF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 133233
+      "adds": 170125
     },
     {
       "id": "12492",
@@ -4092,7 +4081,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 127584
+      "adds": 144752
+    },
+    {
+      "id": "SF",
+      "name": "San Francisco 49ers",
+      "pos": "DEF",
+      "team": "SF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 136698
     },
     {
       "id": "9486",
@@ -4103,7 +4103,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 102174
+      "adds": 104355
     },
     {
       "id": "4454",
@@ -4114,7 +4114,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 60699
+      "adds": 62400
     },
     {
       "id": "3634",
@@ -4125,7 +4125,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 57586
+      "adds": 58928
     },
     {
       "id": "9482",
@@ -4136,18 +4136,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 470,
-      "adds": 50967
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 6,
-      "rank": 679,
-      "adds": 44988
+      "adds": 51786
     },
     {
       "id": "4066",
@@ -4158,7 +4147,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 43968
+      "adds": 46016
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 6,
+      "rank": 679,
+      "adds": 45882
     },
     {
       "id": "12472",
@@ -4169,7 +4169,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 28048
+      "adds": 29376
     },
     {
       "id": "12711",
@@ -4180,7 +4180,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 27678
+      "adds": 28386
     }
   ]
 }
