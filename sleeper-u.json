@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T03:27:42.777Z",
+  "generated_at": "2026-09-15T03:42:07.525Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -4018,17 +4018,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 660,
-      "adds": 488367
-    },
-    {
       "id": "13296",
       "name": "Caleb Douglas",
       "pos": "WR",
@@ -4037,7 +4026,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 460376
+      "adds": 459816
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 660,
+      "adds": 443763
     },
     {
       "id": "3161",
@@ -4048,7 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 268488
+      "adds": 260178
     },
     {
       "id": "4993",
@@ -4059,7 +4059,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 217996
+      "adds": 205140
     },
     {
       "id": "TB",
@@ -4070,7 +4070,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 190795
+      "adds": 189355
     },
     {
       "id": "12492",
@@ -4081,7 +4081,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 158808
+      "adds": 158616
     },
     {
       "id": "SF",
@@ -4092,7 +4092,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150627
+      "adds": 147846
     },
     {
       "id": "9486",
@@ -4103,7 +4103,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 110604
+      "adds": 107742
     },
     {
       "id": "4454",
@@ -4114,7 +4114,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 68574
+      "adds": 67752
     },
     {
       "id": "3634",
@@ -4125,7 +4125,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 62168
+      "adds": 59922
     },
     {
       "id": "4066",
@@ -4136,7 +4136,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 57808
+      "adds": 59464
     },
     {
       "id": "9482",
@@ -4147,7 +4147,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 470,
-      "adds": 49869
+      "adds": 45198
     },
     {
       "id": "3286",
@@ -4158,7 +4158,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 47034
+      "adds": 44544
     },
     {
       "id": "12472",
@@ -4169,7 +4169,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 37520
+      "adds": 38752
     },
     {
       "id": "12711",
@@ -4180,7 +4180,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 30756
+      "adds": 29598
     }
   ]
 }
