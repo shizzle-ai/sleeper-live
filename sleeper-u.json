@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T16:35:15.505Z",
+  "generated_at": "2026-09-15T16:47:38.350Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -1125,16 +1125,6 @@
           "rank": 54
         },
         {
-          "id": "13293",
-          "name": "Ja'Kobi Lane",
-          "pos": "WR",
-          "team": "BAL",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 8,
-          "rank": 148
-        },
-        {
           "id": "5870",
           "name": "Daniel Jones",
           "pos": "QB",
@@ -1165,7 +1155,18 @@
           "rank": 99
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "13293",
+          "name": "Ja'Kobi Lane",
+          "pos": "WR",
+          "team": "BAL",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 8,
+          "rank": 148
+        }
+      ],
       "taxi": []
     },
     {
@@ -3516,7 +3517,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1211256
+      "adds": 1231712
     },
     {
       "id": "6130",
@@ -3527,7 +3528,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1008405
+      "adds": 1024614
     },
     {
       "id": "TB",
@@ -3538,7 +3539,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 854200
+      "adds": 872215
     },
     {
       "id": "3161",
@@ -3549,7 +3550,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 506136
+      "adds": 514056
     },
     {
       "id": "SF",
@@ -3560,7 +3561,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 494982
+      "adds": 504486
     },
     {
       "id": "4993",
@@ -3571,7 +3572,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 337424
+      "adds": 342140
     },
     {
       "id": "12492",
@@ -3582,7 +3583,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 286184
+      "adds": 290072
     },
     {
       "id": "12472",
@@ -3593,7 +3594,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 244152
+      "adds": 249872
     },
     {
       "id": "9486",
@@ -3604,7 +3605,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 225372
+      "adds": 228915
     },
     {
       "id": "4066",
@@ -3615,7 +3616,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 181424
+      "adds": 184392
     },
     {
       "id": "3286",
@@ -3626,7 +3627,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 169026
+      "adds": 172254
     },
     {
       "id": "4454",
@@ -3637,7 +3638,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 159810
+      "adds": 161934
     },
     {
       "id": "4177",
@@ -3648,7 +3649,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 145884
+      "adds": 149049
     },
     {
       "id": "3634",
@@ -3659,7 +3660,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 131338
+      "adds": 133492
     },
     {
       "id": "12711",
@@ -3670,7 +3671,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 66126
+      "adds": 67218
     }
   ]
 }
