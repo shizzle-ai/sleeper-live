@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T20:20:12.204Z",
+  "generated_at": "2026-09-15T20:31:13.704Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3517,7 +3517,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1430360
+      "adds": 1442056
     },
     {
       "id": "6130",
@@ -3528,7 +3528,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1193004
+      "adds": 1201797
     },
     {
       "id": "TB",
@@ -3539,7 +3539,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1062210
+      "adds": 1079990
     },
     {
       "id": "SF",
@@ -3550,7 +3550,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 605454
+      "adds": 613326
     },
     {
       "id": "3161",
@@ -3561,7 +3561,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 579924
+      "adds": 580506
     },
     {
       "id": "4993",
@@ -3572,7 +3572,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 373688
+      "adds": 372636
     },
     {
       "id": "12472",
@@ -3583,7 +3583,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 347792
+      "adds": 360240
     },
     {
       "id": "12492",
@@ -3594,7 +3594,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 343240
+      "adds": 349728
     },
     {
       "id": "9486",
@@ -3605,18 +3605,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 258978
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 461,
-      "adds": 218816
+      "adds": 260220
     },
     {
       "id": "3286",
@@ -3627,7 +3616,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 217776
+      "adds": 223356
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 461,
+      "adds": 222432
     },
     {
       "id": "4177",
@@ -3638,7 +3638,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 188547
+      "adds": 192858
     },
     {
       "id": "4454",
@@ -3649,7 +3649,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 183594
+      "adds": 184722
     },
     {
       "id": "3634",
@@ -3660,7 +3660,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 154524
+      "adds": 155672
     },
     {
       "id": "2020",
@@ -3671,7 +3671,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 84602
+      "adds": 86247
     }
   ]
 }
