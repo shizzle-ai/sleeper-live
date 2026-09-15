@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T19:26:45.190Z",
+  "generated_at": "2026-09-15T19:37:57.193Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3517,7 +3517,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1383184
+      "adds": 1400072
     },
     {
       "id": "6130",
@@ -3528,7 +3528,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1143783
+      "adds": 1156662
     },
     {
       "id": "TB",
@@ -3539,7 +3539,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1017980
+      "adds": 1030825
     },
     {
       "id": "SF",
@@ -3550,7 +3550,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 582033
+      "adds": 589491
     },
     {
       "id": "3161",
@@ -3561,7 +3561,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 563028
+      "adds": 569670
     },
     {
       "id": "4993",
@@ -3572,7 +3572,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 367004
+      "adds": 370604
     },
     {
       "id": "12492",
@@ -3583,7 +3583,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 328496
+      "adds": 332224
     },
     {
       "id": "12472",
@@ -3594,7 +3594,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 304360
+      "adds": 311968
     },
     {
       "id": "9486",
@@ -3605,7 +3605,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 251556
+      "adds": 254406
     },
     {
       "id": "4066",
@@ -3616,7 +3616,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 209120
+      "adds": 211384
     },
     {
       "id": "3286",
@@ -3627,18 +3627,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 204474
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 673,
-      "adds": 177888
+      "adds": 207822
     },
     {
       "id": "4177",
@@ -3649,7 +3638,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 177525
+      "adds": 180243
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 673,
+      "adds": 179793
     },
     {
       "id": "3634",
@@ -3660,7 +3660,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 149130
+      "adds": 150900
     },
     {
       "id": "2020",
@@ -3671,7 +3671,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 79786
+      "adds": 81095
     }
   ]
 }
