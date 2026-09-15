@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T00:26:29.399Z",
+  "generated_at": "2026-09-15T00:43:33.528Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -393,7 +393,7 @@
     "mine": {
       "roster_id": 11,
       "team": "PimpShizzle",
-      "points": 116.22,
+      "points": 123.72,
       "starters": [
         {
           "id": "6770",
@@ -3401,7 +3401,7 @@
         "team": "CHI",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": null,
         "rank": 292
       },
       {
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 392776
+      "adds": 383264
     },
     {
       "id": "6130",
@@ -4037,7 +4037,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 359991
+      "adds": 364050
     },
     {
       "id": "3161",
@@ -4048,7 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 282504
+      "adds": 247698
     },
     {
       "id": "4993",
@@ -4059,7 +4059,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 225300
+      "adds": 207648
     },
     {
       "id": "TB",
@@ -4070,7 +4070,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 169185
+      "adds": 161065
     },
     {
       "id": "SF",
@@ -4081,7 +4081,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139683
+      "adds": 131760
     },
     {
       "id": "9486",
@@ -4092,7 +4092,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 110673
+      "adds": 102030
     },
     {
       "id": "4454",
@@ -4103,18 +4103,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 62604
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 62244
+      "adds": 59064
     },
     {
       "id": "3634",
@@ -4125,7 +4114,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 60752
+      "adds": 57476
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 470,
+      "adds": 54765
     },
     {
       "id": "3286",
@@ -4136,7 +4136,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 49668
+      "adds": 45720
     },
     {
       "id": "12492",
@@ -4147,7 +4147,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 37960
+      "adds": 35192
     },
     {
       "id": "6826",
@@ -4158,7 +4158,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 488,
-      "adds": 30474
+      "adds": 27621
     },
     {
       "id": "12711",
@@ -4169,7 +4169,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 29082
+      "adds": 27378
     },
     {
       "id": "12472",
@@ -4180,7 +4180,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 26456
+      "adds": 25776
     }
   ]
 }
