@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T17:30:10.750Z",
+  "generated_at": "2026-09-15T17:41:41.619Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3517,7 +3517,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1298536
+      "adds": 1287984
     },
     {
       "id": "6130",
@@ -3528,7 +3528,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1078209
+      "adds": 1070280
     },
     {
       "id": "TB",
@@ -3539,18 +3539,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 926070
-    },
-    {
-      "id": "3161",
-      "name": "Carson Wentz",
-      "pos": "QB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 633,
-      "adds": 539484
+      "adds": 929300
     },
     {
       "id": "SF",
@@ -3561,7 +3550,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 535356
+      "adds": 535023
+    },
+    {
+      "id": "3161",
+      "name": "Carson Wentz",
+      "pos": "QB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 633,
+      "adds": 530844
     },
     {
       "id": "4993",
@@ -3572,7 +3572,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 357124
+      "adds": 349944
     },
     {
       "id": "12492",
@@ -3583,7 +3583,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 303256
+      "adds": 304720
     },
     {
       "id": "12472",
@@ -3594,7 +3594,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 268568
+      "adds": 271744
     },
     {
       "id": "9486",
@@ -3605,7 +3605,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 240123
+      "adds": 236451
     },
     {
       "id": "4066",
@@ -3616,7 +3616,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 193560
+      "adds": 194840
     },
     {
       "id": "3286",
@@ -3627,7 +3627,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 184260
+      "adds": 184596
     },
     {
       "id": "4454",
@@ -3638,7 +3638,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 169065
+      "adds": 167475
     },
     {
       "id": "4177",
@@ -3649,7 +3649,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 159450
+      "adds": 160443
     },
     {
       "id": "3634",
@@ -3660,18 +3660,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 140584
+      "adds": 139462
     },
     {
-      "id": "12711",
-      "name": "Tyler Loop",
+      "id": "2020",
+      "name": "Cairo Santos",
       "pos": "K",
-      "team": "BAL",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 150,
-      "adds": 71028
+      "rank": 190,
+      "adds": 70700
     }
   ]
 }
