@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T04:21:12.487Z",
+  "generated_at": "2026-09-15T04:35:08.638Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3515,7 +3515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 507816
+      "adds": 510208
     },
     {
       "id": "6130",
@@ -3526,7 +3526,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 483507
+      "adds": 475929
     },
     {
       "id": "3161",
@@ -3537,18 +3537,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 279660
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 219704
+      "adds": 273798
     },
     {
       "id": "TB",
@@ -3559,7 +3548,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 212510
+      "adds": 212055
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 209392
     },
     {
       "id": "12492",
@@ -3570,7 +3570,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 164296
+      "adds": 163456
     },
     {
       "id": "SF",
@@ -3581,7 +3581,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 163185
+      "adds": 160023
     },
     {
       "id": "9486",
@@ -3592,7 +3592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 117741
+      "adds": 115308
     },
     {
       "id": "4454",
@@ -3603,7 +3603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 75147
+      "adds": 74310
     },
     {
       "id": "4066",
@@ -3614,7 +3614,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 66312
+      "adds": 67760
     },
     {
       "id": "3634",
@@ -3625,29 +3625,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 65308
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 6,
-      "rank": 679,
-      "adds": 49176
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 47592
+      "adds": 63492
     },
     {
       "id": "12472",
@@ -3658,7 +3636,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 690,
-      "adds": 46160
+      "adds": 48928
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 6,
+      "rank": 679,
+      "adds": 48564
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 470,
+      "adds": 44586
     },
     {
       "id": "12711",
@@ -3669,7 +3669,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 32256
+      "adds": 31140
     }
   ]
 }
