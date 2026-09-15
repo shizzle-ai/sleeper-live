@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T15:23:42.988Z",
+  "generated_at": "2026-09-15T15:35:02.098Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3515,7 +3515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 1102976
+      "adds": 1110680
     },
     {
       "id": "6130",
@@ -3526,7 +3526,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 911223
+      "adds": 917838
     },
     {
       "id": "TB",
@@ -3537,7 +3537,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 734325
+      "adds": 750860
     },
     {
       "id": "3161",
@@ -3548,7 +3548,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 471606
+      "adds": 469524
     },
     {
       "id": "SF",
@@ -3559,7 +3559,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 436773
+      "adds": 442794
     },
     {
       "id": "4993",
@@ -3570,7 +3570,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 318916
+      "adds": 316728
     },
     {
       "id": "12492",
@@ -3581,18 +3581,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 261176
-    },
-    {
-      "id": "9486",
-      "name": "Dontayvion Wicks",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 204,
-      "adds": 209868
+      "adds": 265216
     },
     {
       "id": "12472",
@@ -3603,7 +3592,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 206312
+      "adds": 212952
+    },
+    {
+      "id": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 204,
+      "adds": 209541
     },
     {
       "id": "4066",
@@ -3614,18 +3614,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 159408
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 673,
-      "adds": 148305
+      "adds": 163304
     },
     {
       "id": "3286",
@@ -3636,7 +3625,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 146928
+      "adds": 149184
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 673,
+      "adds": 148728
     },
     {
       "id": "4177",
@@ -3647,7 +3647,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 122919
+      "adds": 126606
     },
     {
       "id": "3634",
@@ -3658,7 +3658,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 120408
+      "adds": 120452
     },
     {
       "id": "12711",
@@ -3669,7 +3669,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 60606
+      "adds": 60648
     }
   ]
 }
