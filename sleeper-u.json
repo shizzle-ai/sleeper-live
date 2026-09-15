@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-15T00:57:07.506Z",
+  "generated_at": "2026-09-15T01:09:32.802Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -393,7 +393,7 @@
     "mine": {
       "roster_id": 11,
       "team": "PimpShizzle",
-      "points": 123.72,
+      "points": 123.92,
       "starters": [
         {
           "id": "6770",
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 391512
+      "adds": 398832
     },
     {
       "id": "6130",
@@ -4037,7 +4037,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 374805
+      "adds": 383247
     },
     {
       "id": "3161",
@@ -4048,7 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 633,
-      "adds": 252006
+      "adds": 255954
     },
     {
       "id": "4993",
@@ -4059,7 +4059,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 211324
+      "adds": 214412
     },
     {
       "id": "TB",
@@ -4070,7 +4070,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 164015
+      "adds": 166575
     },
     {
       "id": "SF",
@@ -4081,7 +4081,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 133797
+      "adds": 135558
     },
     {
       "id": "12492",
@@ -4092,7 +4092,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 114064
+      "adds": 119792
     },
     {
       "id": "9486",
@@ -4103,7 +4103,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 204,
-      "adds": 103905
+      "adds": 105534
     },
     {
       "id": "4454",
@@ -4114,7 +4114,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 60447
+      "adds": 61656
     },
     {
       "id": "3634",
@@ -4125,7 +4125,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 645,
-      "adds": 58392
+      "adds": 59242
     },
     {
       "id": "9482",
@@ -4136,7 +4136,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 470,
-      "adds": 55476
+      "adds": 55926
     },
     {
       "id": "3286",
@@ -4147,7 +4147,18 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 46482
+      "adds": 47046
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 460,
+      "adds": 38792
     },
     {
       "id": "6826",
@@ -4158,7 +4169,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 488,
-      "adds": 28296
+      "adds": 28674
     },
     {
       "id": "12711",
@@ -4169,18 +4180,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 150,
-      "adds": 27906
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 690,
-      "adds": 26448
+      "adds": 28374
     }
   ]
 }
