@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T19:57:19.494Z",
+  "generated_at": "2026-09-16T20:09:46.841Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -151,7 +151,7 @@
         "name": "Joe Burrow",
         "pos": "QB",
         "team": "CIN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 16
@@ -269,7 +269,7 @@
           "name": "Joe Burrow",
           "pos": "QB",
           "team": "CIN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 16
@@ -2229,6 +2229,26 @@
           "rank": 41
         },
         {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "pos": "WR",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 3,
+          "rank": 77
+        },
+        {
+          "id": "7839",
+          "name": "Evan McPherson",
+          "pos": "K",
+          "team": "CIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 156
+        },
+        {
           "id": "9226",
           "name": "De'Von Achane",
           "pos": "RB",
@@ -2281,16 +2301,6 @@
           "rank": 96
         },
         {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 3,
-          "rank": 77
-        },
-        {
           "id": "7021",
           "name": "Rico Dowdle",
           "pos": "RB",
@@ -2299,16 +2309,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 65
-        },
-        {
-          "id": "7839",
-          "name": "Evan McPherson",
-          "pos": "K",
-          "team": "CIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 156
         },
         {
           "id": "8154",
@@ -2604,7 +2604,7 @@
           "name": "Joe Burrow",
           "pos": "QB",
           "team": "CIN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 16
@@ -3873,7 +3873,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1419405
+      "adds": 1425375
     },
     {
       "id": "6130",
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1334997
+      "adds": 1346679
     },
     {
       "id": "12472",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 835840
+      "adds": 841632
     },
     {
       "id": "12492",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 421672
+      "adds": 425576
     },
     {
       "id": "3286",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 396072
+      "adds": 403218
     },
     {
       "id": "4177",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 339129
+      "adds": 342270
     },
     {
       "id": "4993",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 314852
+      "adds": 316820
     },
     {
       "id": "11729",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 232526
+      "adds": 234927
     },
     {
       "id": "4066",
@@ -3961,7 +3961,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 219824
+      "adds": 221504
     },
     {
       "id": "2020",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 199577
+      "adds": 201481
     },
     {
       "id": "11630",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 141264
+      "adds": 142191
     },
     {
       "id": "11610",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 104280
+      "adds": 106072
     },
     {
       "id": "5854",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 94440
+      "adds": 94805
     },
     {
       "id": "4035",
@@ -4016,7 +4016,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 86552
+      "adds": 87736
     },
     {
       "id": "9757",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 85760
+      "adds": 86346
     },
     {
       "id": "13545",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 77216
+      "adds": 77940
     },
     {
       "id": "GB",
@@ -4049,7 +4049,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66166
+      "adds": 66715
     },
     {
       "id": "9482",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 65889
+      "adds": 66555
     },
     {
       "id": "7049",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64036
+      "adds": 65240
     },
     {
       "id": "5189",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 62853
+      "adds": 63297
     }
   ]
 }
