@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T14:03:40.102Z",
+  "generated_at": "2026-09-16T14:20:32.883Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3794,7 +3794,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1729800
+      "adds": 1744825
     },
     {
       "id": "6130",
@@ -3805,7 +3805,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1545786
+      "adds": 1557441
     },
     {
       "id": "12472",
@@ -3816,7 +3816,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 870824
+      "adds": 876616
     },
     {
       "id": "12492",
@@ -3827,7 +3827,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 468392
+      "adds": 472136
     },
     {
       "id": "3286",
@@ -3838,7 +3838,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 422172
+      "adds": 425322
     },
     {
       "id": "4993",
@@ -3849,7 +3849,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 398204
+      "adds": 401472
     },
     {
       "id": "4177",
@@ -3860,7 +3860,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 366153
+      "adds": 369612
     },
     {
       "id": "9486",
@@ -3871,7 +3871,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 348426
+      "adds": 350766
     },
     {
       "id": "4066",
@@ -3882,7 +3882,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 263176
+      "adds": 265288
     },
     {
       "id": "11729",
@@ -3893,7 +3893,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 212716
+      "adds": 214774
     },
     {
       "id": "2020",
@@ -3904,7 +3904,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 187460
+      "adds": 190883
     },
     {
       "id": "11630",
@@ -3915,7 +3915,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 157383
+      "adds": 158661
     },
     {
       "id": "5854",
@@ -3926,18 +3926,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 120073
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 98404
+      "adds": 120503
     },
     {
       "id": "11610",
@@ -3948,7 +3937,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 98152
+      "adds": 99432
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 98956
     },
     {
       "id": "4035",
@@ -3959,7 +3959,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 80448
+      "adds": 81544
     },
     {
       "id": "13545",
@@ -3970,7 +3970,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 74220
+      "adds": 75588
     },
     {
       "id": "9482",
@@ -3981,7 +3981,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 71631
+      "adds": 72360
     },
     {
       "id": "5189",
@@ -3992,7 +3992,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 62937
+      "adds": 63897
     },
     {
       "id": "GB",
@@ -4003,7 +4003,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56237
+      "adds": 57640
     }
   ]
 }
