@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-16T05:13:32.282Z",
+  "generated_at": "2026-09-16T05:26:53.065Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -115,7 +115,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "id": "3451",
@@ -125,7 +125,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 128
+        "rank": 129
       },
       {
         "id": "4046",
@@ -145,7 +145,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 80
+        "rank": 81
       },
       {
         "id": "6770",
@@ -217,7 +217,7 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 2,
-        "rank": 74
+        "rank": 75
       },
       {
         "id": "1166",
@@ -443,7 +443,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "10236",
@@ -463,7 +463,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 80
+          "rank": 81
         },
         {
           "id": "4046",
@@ -483,7 +483,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 128
+          "rank": 129
         },
         {
           "id": "DET",
@@ -760,7 +760,7 @@
           "injury": null,
           "status": "Active",
           "depth": 4,
-          "rank": 180
+          "rank": 179
         },
         {
           "id": "8132",
@@ -1191,7 +1191,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 132
         },
         {
           "id": "4943",
@@ -1513,7 +1513,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 131
+          "rank": 130
         },
         {
           "id": "7553",
@@ -1752,7 +1752,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 124
+          "rank": 125
         },
         {
           "id": "7526",
@@ -1834,7 +1834,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 178
+          "rank": 177
         },
         {
           "id": "12529",
@@ -1922,7 +1922,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "12518",
@@ -1932,7 +1932,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 47
         },
         {
           "id": "12522",
@@ -2273,7 +2273,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 147
+          "rank": 146
         },
         {
           "id": "11635",
@@ -2293,7 +2293,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "3198",
@@ -2473,7 +2473,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "3451",
@@ -2483,7 +2483,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 128
+          "rank": 129
         },
         {
           "id": "4046",
@@ -2503,7 +2503,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 80
+          "rank": 81
         },
         {
           "id": "6770",
@@ -2575,7 +2575,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 74
+          "rank": 75
         },
         {
           "id": "1166",
@@ -2663,7 +2663,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "6904",
@@ -2894,7 +2894,7 @@
         "injury": "Out",
         "status": "Active",
         "depth": null,
-        "rank": 295
+        "rank": 297
       },
       {
         "id": "6136",
@@ -3382,7 +3382,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 171
+        "rank": 170
       },
       {
         "id": "5189",
@@ -3422,7 +3422,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 195
+        "rank": 194
       }
     ],
     "DEF": [
@@ -3518,7 +3518,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 2116512
+      "adds": 2135944
     },
     {
       "id": "TB",
@@ -3529,7 +3529,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1655815
+      "adds": 1667365
     },
     {
       "id": "6130",
@@ -3540,7 +3540,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1590921
+      "adds": 1601631
     },
     {
       "id": "SF",
@@ -3551,7 +3551,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 938505
+      "adds": 945135
     },
     {
       "id": "3161",
@@ -3562,7 +3562,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 906636
+      "adds": 916872
     },
     {
       "id": "12472",
@@ -3573,7 +3573,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 795656
+      "adds": 804760
     },
     {
       "id": "4993",
@@ -3584,7 +3584,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 433936
+      "adds": 436596
     },
     {
       "id": "12492",
@@ -3595,7 +3595,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 428112
+      "adds": 432096
     },
     {
       "id": "3286",
@@ -3606,7 +3606,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 408528
+      "adds": 412116
     },
     {
       "id": "9486",
@@ -3617,7 +3617,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 360402
+      "adds": 363015
     },
     {
       "id": "4177",
@@ -3628,7 +3628,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 345429
+      "adds": 348252
     },
     {
       "id": "4066",
@@ -3639,7 +3639,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 267208
+      "adds": 268784
     },
     {
       "id": "4454",
@@ -3650,7 +3650,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 249918
+      "adds": 251835
     },
     {
       "id": "3634",
@@ -3661,7 +3661,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 231358
+      "adds": 233116
     },
     {
       "id": "11729",
@@ -3672,7 +3672,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 172200
+      "adds": 174440
     }
   ]
 }
