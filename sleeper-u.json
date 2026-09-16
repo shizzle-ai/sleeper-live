@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T23:05:12.360Z",
+  "generated_at": "2026-09-16T23:19:24.788Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3910,7 +3910,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1306070
+      "adds": 1310415
     },
     {
       "id": "6130",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1261476
+      "adds": 1268253
     },
     {
       "id": "12472",
@@ -3932,7 +3932,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 769544
+      "adds": 772760
     },
     {
       "id": "12492",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 397328
+      "adds": 399232
     },
     {
       "id": "3286",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 393450
+      "adds": 395784
     },
     {
       "id": "4177",
@@ -3965,7 +3965,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 329439
+      "adds": 331359
     },
     {
       "id": "4993",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 293264
+      "adds": 294956
     },
     {
       "id": "11729",
@@ -3987,18 +3987,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 230601
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 460,
-      "adds": 206360
+      "adds": 231889
     },
     {
       "id": "2020",
@@ -4009,7 +3998,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 206346
+      "adds": 208467
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 460,
+      "adds": 207464
     },
     {
       "id": "11630",
@@ -4020,7 +4020,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 132687
+      "adds": 133371
     },
     {
       "id": "11610",
@@ -4031,7 +4031,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 110680
+      "adds": 112056
     },
     {
       "id": "4035",
@@ -4042,7 +4042,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 106088
+      "adds": 107784
     },
     {
       "id": "5854",
@@ -4053,7 +4053,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 81282
+      "adds": 81476
     },
     {
       "id": "13545",
@@ -4064,7 +4064,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 80104
+      "adds": 80768
     },
     {
       "id": "9757",
@@ -4075,18 +4075,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 77946
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 70805
+      "adds": 78240
     },
     {
       "id": "13347",
@@ -4097,7 +4086,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 70341
+      "adds": 72153
+    },
+    {
+      "id": "7049",
+      "name": "Jauan Jennings",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 123,
+      "adds": 71358
     },
     {
       "id": "GB",
@@ -4108,7 +4108,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69270
+      "adds": 69714
     },
     {
       "id": "9482",
@@ -4119,7 +4119,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 64476
+      "adds": 64917
     }
   ]
 }
