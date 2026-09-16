@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T20:09:46.841Z",
+  "generated_at": "2026-09-16T20:24:01.664Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2434,7 +2434,7 @@
           "name": "D'Andre Swift",
           "pos": "RB",
           "team": "CHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 46
@@ -3873,7 +3873,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1425375
+      "adds": 1431190
     },
     {
       "id": "6130",
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1346679
+      "adds": 1358262
     },
     {
       "id": "12472",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 841632
+      "adds": 847424
     },
     {
       "id": "12492",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 425576
+      "adds": 428904
     },
     {
       "id": "3286",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 403218
+      "adds": 409092
     },
     {
       "id": "4177",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 342270
+      "adds": 345306
     },
     {
       "id": "4993",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 316820
+      "adds": 318988
     },
     {
       "id": "11729",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 234927
+      "adds": 237447
     },
     {
       "id": "4066",
@@ -3961,7 +3961,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 221504
+      "adds": 222888
     },
     {
       "id": "2020",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 201481
+      "adds": 203427
     },
     {
       "id": "11630",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 142191
+      "adds": 143235
     },
     {
       "id": "11610",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 106072
+      "adds": 107760
     },
     {
       "id": "5854",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 94805
+      "adds": 95103
     },
     {
       "id": "4035",
@@ -4016,7 +4016,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 87736
+      "adds": 88904
     },
     {
       "id": "9757",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 86346
+      "adds": 87012
     },
     {
       "id": "13545",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 77940
+      "adds": 78636
     },
     {
       "id": "GB",
@@ -4049,7 +4049,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66715
+      "adds": 67327
     },
     {
       "id": "9482",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 66555
+      "adds": 67041
     },
     {
       "id": "7049",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 65240
+      "adds": 66388
     },
     {
       "id": "5189",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 63297
+      "adds": 63813
     }
   ]
 }
