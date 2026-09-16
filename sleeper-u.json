@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T20:55:39.864Z",
+  "generated_at": "2026-09-16T21:05:52.982Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3188,7 +3188,7 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "team": "NO",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 119
@@ -3873,7 +3873,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1385525
+      "adds": 1389450
     },
     {
       "id": "6130",
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1310067
+      "adds": 1317150
     },
     {
       "id": "12472",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 811320
+      "adds": 814792
     },
     {
       "id": "12492",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 416992
+      "adds": 418968
     },
     {
       "id": "3286",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 402474
+      "adds": 405048
     },
     {
       "id": "4177",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 338205
+      "adds": 339963
     },
     {
       "id": "4993",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 307032
+      "adds": 308476
     },
     {
       "id": "11729",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 234143
+      "adds": 235375
     },
     {
       "id": "4066",
@@ -3961,7 +3961,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 215288
+      "adds": 216296
     },
     {
       "id": "2020",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 202055
+      "adds": 203420
     },
     {
       "id": "11630",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 138492
+      "adds": 139140
     },
     {
       "id": "11610",
@@ -3994,7 +3994,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 107656
+      "adds": 108592
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 93376
     },
     {
       "id": "5854",
@@ -4005,18 +4016,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 89977
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 89784
+      "adds": 90147
     },
     {
       "id": "9757",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 83258
+      "adds": 83500
     },
     {
       "id": "13545",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 78404
+      "adds": 78824
     },
     {
       "id": "GB",
@@ -4049,7 +4049,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67607
+      "adds": 67955
     },
     {
       "id": "7049",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 66969
+      "adds": 67578
     },
     {
       "id": "9482",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 65511
+      "adds": 65925
     },
     {
       "id": "5189",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 63150
+      "adds": 63501
     }
   ]
 }
