@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T22:27:36.216Z",
+  "generated_at": "2026-09-16T22:39:10.462Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3873,7 +3873,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1357705
+      "adds": 1297350
     },
     {
       "id": "6130",
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1304100
+      "adds": 1248030
     },
     {
       "id": "12472",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 799432
+      "adds": 763136
     },
     {
       "id": "12492",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 413856
+      "adds": 393784
     },
     {
       "id": "3286",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 404544
+      "adds": 388578
     },
     {
       "id": "4177",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 338340
+      "adds": 326010
     },
     {
       "id": "4993",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 303164
+      "adds": 289064
     },
     {
       "id": "11729",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 235907
+      "adds": 227857
     },
     {
       "id": "4066",
@@ -3961,7 +3961,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 213208
+      "adds": 203832
     },
     {
       "id": "2020",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 206157
+      "adds": 201033
     },
     {
       "id": "11630",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 137934
+      "adds": 131643
     },
     {
       "id": "11610",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 111200
+      "adds": 108384
     },
     {
       "id": "4035",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 104456
+      "adds": 102896
     },
     {
       "id": "5854",
@@ -4016,18 +4016,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 86215
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 81412
+      "adds": 80911
     },
     {
       "id": "13545",
@@ -4038,7 +4027,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 79900
+      "adds": 78288
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 77404
     },
     {
       "id": "7049",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 70350
+      "adds": 69356
     },
     {
       "id": "GB",
@@ -4060,18 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69438
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 469,
-      "adds": 66510
+      "adds": 68455
     },
     {
       "id": "13347",
@@ -4082,7 +4071,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 65121
+      "adds": 66684
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 469,
+      "adds": 63387
     }
   ]
 }
