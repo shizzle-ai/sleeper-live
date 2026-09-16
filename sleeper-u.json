@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T13:28:02.483Z",
+  "generated_at": "2026-09-16T13:41:51.006Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3794,7 +3794,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1788875
+      "adds": 1710475
     },
     {
       "id": "6130",
@@ -3805,7 +3805,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1598193
+      "adds": 1530594
     },
     {
       "id": "12472",
@@ -3816,7 +3816,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 882464
+      "adds": 863152
     },
     {
       "id": "12492",
@@ -3827,7 +3827,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 477864
+      "adds": 463688
     },
     {
       "id": "3286",
@@ -3838,7 +3838,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 433326
+      "adds": 418500
     },
     {
       "id": "4993",
@@ -3849,7 +3849,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 415580
+      "adds": 394272
     },
     {
       "id": "4177",
@@ -3860,7 +3860,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 375018
+      "adds": 361749
     },
     {
       "id": "9486",
@@ -3871,7 +3871,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 361023
+      "adds": 345498
     },
     {
       "id": "4066",
@@ -3882,7 +3882,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 273600
+      "adds": 260488
     },
     {
       "id": "11729",
@@ -3893,7 +3893,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 213206
+      "adds": 210308
     },
     {
       "id": "2020",
@@ -3904,7 +3904,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 186403
+      "adds": 183372
     },
     {
       "id": "11630",
@@ -3915,7 +3915,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 161640
+      "adds": 156132
     },
     {
       "id": "5854",
@@ -3926,7 +3926,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 124459
+      "adds": 119475
     },
     {
       "id": "9757",
@@ -3937,7 +3937,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 101656
+      "adds": 97656
     },
     {
       "id": "11610",
@@ -3948,7 +3948,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 98784
+      "adds": 96184
     },
     {
       "id": "4035",
@@ -3959,7 +3959,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 81200
+      "adds": 79136
     },
     {
       "id": "13545",
@@ -3970,7 +3970,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 74560
+      "adds": 72604
     },
     {
       "id": "9482",
@@ -3981,7 +3981,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 73332
+      "adds": 70686
     },
     {
       "id": "5189",
@@ -3992,18 +3992,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 63204
+      "adds": 61770
     },
     {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "team": "GB",
       "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 55328
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 54460
     }
   ]
 }
