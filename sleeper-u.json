@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-16T05:26:53.065Z",
+  "generated_at": "2026-09-16T05:39:19.125Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -3518,7 +3518,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 2135944
+      "adds": 2104560
     },
     {
       "id": "TB",
@@ -3529,7 +3529,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1667365
+      "adds": 1647995
     },
     {
       "id": "6130",
@@ -3540,7 +3540,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1601631
+      "adds": 1574712
     },
     {
       "id": "SF",
@@ -3551,7 +3551,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 945135
+      "adds": 932634
     },
     {
       "id": "3161",
@@ -3562,7 +3562,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 916872
+      "adds": 909108
     },
     {
       "id": "12472",
@@ -3573,18 +3573,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 804760
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 436596
+      "adds": 803128
     },
     {
       "id": "12492",
@@ -3595,7 +3584,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 432096
+      "adds": 430808
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 425992
     },
     {
       "id": "3286",
@@ -3606,7 +3606,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 412116
+      "adds": 409014
     },
     {
       "id": "9486",
@@ -3617,7 +3617,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 363015
+      "adds": 357093
     },
     {
       "id": "4177",
@@ -3628,7 +3628,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 348252
+      "adds": 345726
     },
     {
       "id": "4066",
@@ -3639,7 +3639,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 268784
+      "adds": 264968
     },
     {
       "id": "4454",
@@ -3650,7 +3650,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 251835
+      "adds": 245682
     },
     {
       "id": "3634",
@@ -3661,7 +3661,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 645,
-      "adds": 233116
+      "adds": 229544
     },
     {
       "id": "11729",
@@ -3672,7 +3672,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 174440
+      "adds": 176652
     }
   ]
 }
