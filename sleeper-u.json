@@ -1,7 +1,7 @@
 {
   "ok": true,
   "version": "2026-09-14-u4",
-  "generated_at": "2026-09-16T07:01:00.942Z",
+  "generated_at": "2026-09-16T07:17:46.094Z",
   "league": {
     "league_id": "1384388632730697728",
     "name": "Paul’s League",
@@ -84,7 +84,7 @@
       "fpts": 138.52,
       "fpts_against": 129.26
     },
-    "waiver_position": 2,
+    "waiver_position": 8,
     "faab_used": 0,
     "starters": [
       {
@@ -230,6 +230,16 @@
         "rank": 270
       },
       {
+        "id": "4199",
+        "name": "Aaron Jones",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 85
+      },
+      {
         "id": "8126",
         "name": "Wan'Dale Robinson",
         "pos": "WR",
@@ -238,16 +248,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 105
-      },
-      {
-        "id": "9508",
-        "name": "Tyjae Spears",
-        "pos": "RB",
-        "team": "TEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 122
       }
     ],
     "reserve": [],
@@ -617,7 +617,7 @@
         "fpts": 127.78,
         "fpts_against": 133.06
       },
-      "waiver_position": 5,
+      "waiver_position": 11,
       "faab_used": 0,
       "starters": [
         {
@@ -709,16 +709,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 14
-        },
-        {
-          "id": "LAC",
-          "name": "Los Angeles Chargers",
-          "pos": "DEF",
-          "team": "LAC",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "bench": [
@@ -763,6 +753,16 @@
           "rank": 179
         },
         {
+          "id": "4454",
+          "name": "Kendrick Bourne",
+          "pos": "WR",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 673
+        },
+        {
           "id": "8132",
           "name": "Tyler Allgeier",
           "pos": "RB",
@@ -771,6 +771,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 89
+        },
+        {
+          "id": "SF",
+          "name": "San Francisco 49ers",
+          "pos": "DEF",
+          "team": "SF",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -779,7 +789,7 @@
           "name": "De'Zhaun Stribling",
           "pos": "WR",
           "team": "SF",
-          "injury": "Out",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 10,
           "rank": 113
@@ -808,7 +818,7 @@
         "fpts": 115.6,
         "fpts_against": 143.92
       },
-      "waiver_position": 7,
+      "waiver_position": 4,
       "faab_used": 0,
       "starters": [
         {
@@ -999,7 +1009,7 @@
         "fpts": 129.26,
         "fpts_against": 138.52
       },
-      "waiver_position": 1,
+      "waiver_position": 7,
       "faab_used": 0,
       "starters": [
         {
@@ -1125,6 +1135,16 @@
           "rank": 54
         },
         {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 198
+        },
+        {
           "id": "5870",
           "name": "Daniel Jones",
           "pos": "QB",
@@ -1161,7 +1181,7 @@
           "name": "Ja'Kobi Lane",
           "pos": "WR",
           "team": "BAL",
-          "injury": "Out",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 9,
           "rank": 148
@@ -1180,7 +1200,7 @@
         "fpts": 175.52,
         "fpts_against": 152.06
       },
-      "waiver_position": 8,
+      "waiver_position": 9,
       "faab_used": 0,
       "starters": [
         {
@@ -1198,7 +1218,7 @@
           "name": "Sam Darnold",
           "pos": "QB",
           "team": "SEA",
-          "injury": "Out",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 2,
           "rank": 93
@@ -1300,7 +1320,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 22
@@ -1316,14 +1336,14 @@
           "rank": 132
         },
         {
-          "id": "1373",
-          "name": "Geno Smith",
+          "id": "3161",
+          "name": "Carson Wentz",
           "pos": "QB",
-          "team": "NYJ",
+          "team": "MIN",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 214
+          "depth": 2,
+          "rank": 633
         },
         {
           "id": "7567",
@@ -1360,7 +1380,7 @@
         "fpts": 111.22,
         "fpts_against": 154.78
       },
-      "waiver_position": 12,
+      "waiver_position": 6,
       "faab_used": 0,
       "starters": [
         {
@@ -1540,7 +1560,7 @@
         "fpts": 154.78,
         "fpts_against": 111.22
       },
-      "waiver_position": 3,
+      "waiver_position": 1,
       "faab_used": 0,
       "starters": [
         {
@@ -1809,7 +1829,7 @@
           "name": "Zay Flowers",
           "pos": "WR",
           "team": "BAL",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 40
@@ -1827,21 +1847,11 @@
       ],
       "bench": [
         {
-          "id": "11610",
-          "name": "Malik Washington",
-          "pos": "WR",
-          "team": "MIA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 177
-        },
-        {
           "id": "12529",
           "name": "TreVeyon Henderson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 39
@@ -1855,6 +1865,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 61
+        },
+        {
+          "id": "13301",
+          "name": "Antonio Williams",
+          "pos": "WR",
+          "team": "WAS",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 156
         },
         {
           "id": "6819",
@@ -1901,7 +1921,7 @@
         "fpts": 133.06,
         "fpts_against": 127.78
       },
-      "waiver_position": 11,
+      "waiver_position": 5,
       "faab_used": 0,
       "starters": [
         {
@@ -2081,7 +2101,7 @@
         "fpts": 130.06,
         "fpts_against": 178.12
       },
-      "waiver_position": 9,
+      "waiver_position": 12,
       "faab_used": 0,
       "starters": [
         {
@@ -2145,16 +2165,6 @@
           "rank": 41
         },
         {
-          "id": "8259",
-          "name": "Cameron Dicker",
-          "pos": "K",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 119
-        },
-        {
           "id": "9226",
           "name": "De'Von Achane",
           "pos": "RB",
@@ -2187,6 +2197,16 @@
           "rank": 73
         },
         {
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 645
+        },
+        {
           "id": "5012",
           "name": "Mark Andrews",
           "pos": "TE",
@@ -2215,6 +2235,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 65
+        },
+        {
+          "id": "7839",
+          "name": "Evan McPherson",
+          "pos": "K",
+          "team": "CIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 156
         },
         {
           "id": "8154",
@@ -2262,7 +2292,7 @@
         "fpts": 143.92,
         "fpts_against": 115.6
       },
-      "waiver_position": 6,
+      "waiver_position": 3,
       "faab_used": 0,
       "starters": [
         {
@@ -2412,7 +2442,7 @@
           "name": "Kyler Murray",
           "pos": "QB",
           "team": "MIN",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 86
@@ -2422,7 +2452,7 @@
           "name": "Najee Harris",
           "pos": "RB",
           "team": "NYG",
-          "injury": "Out",
+          "injury": null,
           "status": "Active",
           "depth": 3,
           "rank": 170
@@ -2442,7 +2472,7 @@
         "fpts": 138.52,
         "fpts_against": 129.26
       },
-      "waiver_position": 2,
+      "waiver_position": 8,
       "faab_used": 0,
       "starters": [
         {
@@ -2588,6 +2618,16 @@
           "rank": 270
         },
         {
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 85
+        },
+        {
           "id": "8126",
           "name": "Wan'Dale Robinson",
           "pos": "WR",
@@ -2596,16 +2636,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 105
-        },
-        {
-          "id": "9508",
-          "name": "Tyjae Spears",
-          "pos": "RB",
-          "team": "TEN",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 122
         }
       ],
       "reserve": [],
@@ -2622,7 +2652,7 @@
         "fpts": 152.06,
         "fpts_against": 175.52
       },
-      "waiver_position": 4,
+      "waiver_position": 2,
       "faab_used": 0,
       "starters": [
         {
@@ -2794,7 +2824,7 @@
           "name": "Michael Penix",
           "pos": "QB",
           "team": "ATL",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 228
@@ -2837,11 +2867,21 @@
         "rank": 176
       },
       {
+        "id": "1373",
+        "name": "Geno Smith",
+        "pos": "QB",
+        "team": "NYJ",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 214
+      },
+      {
         "id": "11565",
         "name": "J.J. McCarthy",
         "pos": "QB",
         "team": "MIN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 224
@@ -2861,7 +2901,7 @@
         "name": "Tua Tagovailoa",
         "pos": "QB",
         "team": "ATL",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 237
@@ -2871,7 +2911,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -2881,7 +2921,7 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 286
@@ -2891,7 +2931,7 @@
         "name": "Miller Moss",
         "pos": "QB",
         "team": "CHI",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": null,
         "rank": 297
@@ -2905,29 +2945,9 @@
         "status": "Active",
         "depth": 2,
         "rank": 325
-      },
-      {
-        "id": "13289",
-        "name": "Drew Allar",
-        "pos": "QB",
-        "team": "PIT",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 4,
-        "rank": 360
       }
     ],
     "RB": [
-      {
-        "id": "4199",
-        "name": "Aaron Jones",
-        "pos": "RB",
-        "team": "MIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 85
-      },
       {
         "id": "11655",
         "name": "Tyrone Tracy",
@@ -2943,10 +2963,20 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "team": "NO",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 119
+      },
+      {
+        "id": "9508",
+        "name": "Tyjae Spears",
+        "pos": "RB",
+        "team": "TEN",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 122
       },
       {
         "id": "11576",
@@ -2993,7 +3023,7 @@
         "name": "Sean Tucker",
         "pos": "RB",
         "team": "TB",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 155
@@ -3033,7 +3063,7 @@
         "name": "Nicholas Singleton",
         "pos": "RB",
         "team": "TEN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 167
@@ -3063,7 +3093,7 @@
         "name": "Demond Claiborne",
         "pos": "RB",
         "team": "MIN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 176
@@ -3095,20 +3125,10 @@
         "name": "Omar Cooper",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 151
-      },
-      {
-        "id": "13301",
-        "name": "Antonio Williams",
-        "pos": "WR",
-        "team": "WAS",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 156
       },
       {
         "id": "6783",
@@ -3125,7 +3145,7 @@
         "name": "Jalen McMillan",
         "pos": "WR",
         "team": "TB",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 165
@@ -3169,6 +3189,16 @@
         "status": "Active",
         "depth": 5,
         "rank": 175
+      },
+      {
+        "id": "11610",
+        "name": "Malik Washington",
+        "pos": "WR",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 177
       },
       {
         "id": "6803",
@@ -3345,6 +3375,16 @@
     ],
     "K": [
       {
+        "id": "8259",
+        "name": "Cameron Dicker",
+        "pos": "K",
+        "team": "LAC",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 119
+      },
+      {
         "id": "12711",
         "name": "Tyler Loop",
         "pos": "K",
@@ -3353,16 +3393,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 150
-      },
-      {
-        "id": "7839",
-        "name": "Evan McPherson",
-        "pos": "K",
-        "team": "CIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 156
       },
       {
         "id": "12713",
@@ -3487,20 +3517,20 @@
         "rank": null
       },
       {
-        "id": "TB",
-        "name": "Tampa Bay Buccaneers",
+        "id": "LAC",
+        "name": "Los Angeles Chargers",
         "pos": "DEF",
-        "team": "TB",
+        "team": "LAC",
         "injury": null,
         "status": null,
         "depth": null,
         "rank": null
       },
       {
-        "id": "CLE",
-        "name": "Cleveland Browns",
+        "id": "TB",
+        "name": "Tampa Bay Buccaneers",
         "pos": "DEF",
-        "team": "CLE",
+        "team": "TB",
         "injury": null,
         "status": null,
         "depth": null,
@@ -3510,17 +3540,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 2161304
-    },
-    {
       "id": "TB",
       "name": "Tampa Bay Buccaneers",
       "pos": "DEF",
@@ -3529,7 +3548,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1679405
+      "adds": 1709785
     },
     {
       "id": "6130",
@@ -3540,29 +3559,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1599687
-    },
-    {
-      "id": "SF",
-      "name": "San Francisco 49ers",
-      "pos": "DEF",
-      "team": "SF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 950379
-    },
-    {
-      "id": "3161",
-      "name": "Carson Wentz",
-      "pos": "QB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 633,
-      "adds": 943566
+      "adds": 1613997
     },
     {
       "id": "12472",
@@ -3573,7 +3570,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 836448
+      "adds": 843456
     },
     {
       "id": "12492",
@@ -3584,7 +3581,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 445728
+      "adds": 451016
     },
     {
       "id": "4993",
@@ -3595,7 +3592,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 429100
+      "adds": 433024
     },
     {
       "id": "3286",
@@ -3606,7 +3603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 422292
+      "adds": 426060
     },
     {
       "id": "9486",
@@ -3617,7 +3614,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 363306
+      "adds": 366954
     },
     {
       "id": "4177",
@@ -3628,7 +3625,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 356310
+      "adds": 359895
     },
     {
       "id": "4066",
@@ -3639,29 +3636,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 269712
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 673,
-      "adds": 249933
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 645,
-      "adds": 234760
+      "adds": 272688
     },
     {
       "id": "11729",
@@ -3672,7 +3647,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 186319
+      "adds": 188356
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 158787
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 144557
+    },
+    {
+      "id": "5854",
+      "name": "Drew Lock",
+      "pos": "QB",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 691,
+      "adds": 130907
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 104242
+    },
+    {
+      "id": "12711",
+      "name": "Tyler Loop",
+      "pos": "K",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 150,
+      "adds": 92970
     }
   ]
 }
