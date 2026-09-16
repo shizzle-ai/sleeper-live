@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T17:51:31.049Z",
+  "generated_at": "2026-09-16T17:58:53.070Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3330,7 +3330,7 @@
         "name": "Jalen McMillan",
         "pos": "WR",
         "team": "TB",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 165
@@ -3793,7 +3793,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1482670
+      "adds": 1485300
     },
     {
       "id": "6130",
@@ -3804,7 +3804,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1313379
+      "adds": 1316367
     },
     {
       "id": "12472",
@@ -3815,7 +3815,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 815464
+      "adds": 816520
     },
     {
       "id": "12492",
@@ -3826,7 +3826,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 420376
+      "adds": 421024
     },
     {
       "id": "3286",
@@ -3837,7 +3837,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 384150
+      "adds": 384924
     },
     {
       "id": "4177",
@@ -3848,7 +3848,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 331653
+      "adds": 332460
     },
     {
       "id": "4993",
@@ -3859,7 +3859,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 326904
+      "adds": 327648
     },
     {
       "id": "9486",
@@ -3870,7 +3870,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 296346
+      "adds": 296838
     },
     {
       "id": "4066",
@@ -3881,7 +3881,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 222440
+      "adds": 222992
     },
     {
       "id": "11729",
@@ -3892,7 +3892,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 213395
+      "adds": 213948
     },
     {
       "id": "2020",
@@ -3903,7 +3903,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 194376
+      "adds": 195314
     },
     {
       "id": "11630",
@@ -3914,7 +3914,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 141228
+      "adds": 141444
     },
     {
       "id": "5854",
@@ -3925,7 +3925,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 100154
+      "adds": 100223
     },
     {
       "id": "11610",
@@ -3936,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 97256
+      "adds": 97480
     },
     {
       "id": "9757",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 85846
+      "adds": 85992
     },
     {
       "id": "4035",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 78560
+      "adds": 78776
     },
     {
       "id": "13545",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 74396
+      "adds": 74744
     },
     {
       "id": "9482",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 64683
+      "adds": 64863
     },
     {
       "id": "GB",
@@ -3991,7 +3991,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62698
+      "adds": 62971
     },
     {
       "id": "5189",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 62184
+      "adds": 62394
     }
   ]
 }
