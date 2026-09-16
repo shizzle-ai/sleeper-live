@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-16T18:56:35.728Z",
+  "generated_at": "2026-09-16T19:06:39.762Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1852,7 +1852,7 @@
           "name": "Jordan Mason",
           "pos": "RB",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": "IR",
           "status": "Active",
           "depth": 2,
           "rank": 91
@@ -3793,7 +3793,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1442745
+      "adds": 1450415
     },
     {
       "id": "6130",
@@ -3804,7 +3804,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1282680
+      "adds": 1321425
     },
     {
       "id": "12472",
@@ -3815,7 +3815,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 808176
+      "adds": 823840
     },
     {
       "id": "12492",
@@ -3826,7 +3826,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 411056
+      "adds": 417512
     },
     {
       "id": "3286",
@@ -3837,7 +3837,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 379404
+      "adds": 384618
     },
     {
       "id": "4177",
@@ -3848,7 +3848,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 327702
+      "adds": 333378
     },
     {
       "id": "4993",
@@ -3859,7 +3859,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 316420
+      "adds": 319540
     },
     {
       "id": "9486",
@@ -3870,18 +3870,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 204,
-      "adds": 288129
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 460,
-      "adds": 218240
+      "adds": 291801
     },
     {
       "id": "11729",
@@ -3892,7 +3881,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 216027
+      "adds": 221732
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 460,
+      "adds": 220824
     },
     {
       "id": "2020",
@@ -3903,7 +3903,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 195244
+      "adds": 197225
     },
     {
       "id": "11630",
@@ -3914,7 +3914,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 138924
+      "adds": 140697
     },
     {
       "id": "11610",
@@ -3925,7 +3925,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 97192
+      "adds": 100104
     },
     {
       "id": "5854",
@@ -3936,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 691,
-      "adds": 96491
+      "adds": 96920
     },
     {
       "id": "9757",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 83612
+      "adds": 85572
     },
     {
       "id": "4035",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 78416
+      "adds": 82184
     },
     {
       "id": "13545",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 75116
+      "adds": 75932
     },
     {
       "id": "9482",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 63990
+      "adds": 64917
     },
     {
       "id": "GB",
@@ -3991,7 +3991,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63737
+      "adds": 64473
     },
     {
       "id": "5189",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 62028
+      "adds": 62565
     }
   ]
 }
