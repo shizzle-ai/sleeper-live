@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T02:21:57.527Z",
+  "generated_at": "2026-09-17T02:33:50.395Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3911,7 +3911,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1123725
+      "adds": 1023475
     },
     {
       "id": "6130",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1117503
+      "adds": 1020375
     },
     {
       "id": "12472",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 657552
+      "adds": 587160
     },
     {
       "id": "3286",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 357240
+      "adds": 326796
     },
     {
       "id": "12492",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 340432
+      "adds": 308600
     },
     {
       "id": "4177",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 297324
+      "adds": 271665
     },
     {
       "id": "4993",
@@ -3977,18 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 257972
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 212058
+      "adds": 235136
     },
     {
       "id": "2020",
@@ -3999,7 +3988,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 207382
+      "adds": 198716
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 194299
     },
     {
       "id": "4066",
@@ -4010,29 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 182272
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 115920
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 115542
+      "adds": 166608
     },
     {
       "id": "4035",
@@ -4043,7 +4021,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 115336
+      "adds": 111696
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 177,
+      "adds": 111056
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 103680
     },
     {
       "id": "13347",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 87495
+      "adds": 88086
     },
     {
       "id": "13545",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 81364
+      "adds": 78548
     },
     {
       "id": "7049",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 72289
+      "adds": 70196
     },
     {
       "id": "GB",
@@ -4087,18 +4087,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70000
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 66525
+      "adds": 68014
     },
     {
       "id": "10218",
@@ -4109,7 +4098,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 66241
+      "adds": 66395
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 65335
     },
     {
       "id": "9757",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 64826
+      "adds": 57192
     }
   ]
 }
