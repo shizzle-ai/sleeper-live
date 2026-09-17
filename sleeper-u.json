@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T00:28:30.860Z",
+  "generated_at": "2026-09-17T00:44:46.102Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -823,7 +823,7 @@
           "team": "CLE",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 153
         },
         {
@@ -1978,7 +1978,7 @@
           "team": "MIN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 91
         }
       ],
@@ -3357,7 +3357,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 176
       },
       {
@@ -3439,7 +3439,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 160
       },
       {
@@ -3621,7 +3621,7 @@
         "team": "LAC",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 83
       },
       {
@@ -3661,7 +3661,7 @@
         "team": "LAC",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 131
       },
       {
@@ -3910,7 +3910,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 1262035
+      "adds": 1189050
     },
     {
       "id": "6130",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1233099
+      "adds": 1167111
     },
     {
       "id": "12472",
@@ -3932,7 +3932,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 745488
+      "adds": 698816
     },
     {
       "id": "3286",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 387864
+      "adds": 368550
     },
     {
       "id": "12492",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 385288
+      "adds": 361152
     },
     {
       "id": "4177",
@@ -3965,7 +3965,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 323643
+      "adds": 307848
     },
     {
       "id": "4993",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 286048
+      "adds": 269644
     },
     {
       "id": "11729",
@@ -3987,7 +3987,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 228480
+      "adds": 218561
     },
     {
       "id": "2020",
@@ -3998,7 +3998,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 210301
+      "adds": 205163
     },
     {
       "id": "4066",
@@ -4009,7 +4009,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 201672
+      "adds": 190328
     },
     {
       "id": "11630",
@@ -4020,7 +4020,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 129276
+      "adds": 121734
     },
     {
       "id": "11610",
@@ -4031,7 +4031,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 114672
+      "adds": 112152
     },
     {
       "id": "4035",
@@ -4042,7 +4042,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 111760
+      "adds": 110200
+    },
+    {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 176,
+      "adds": 80562
     },
     {
       "id": "13545",
@@ -4053,40 +4064,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 81960
-    },
-    {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 79077
-    },
-    {
-      "id": "5854",
-      "name": "Drew Lock",
-      "pos": "QB",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 691,
-      "adds": 76397
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 75084
+      "adds": 79976
     },
     {
       "id": "7049",
@@ -4097,7 +4075,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 72310
+      "adds": 70686
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 70194
+    },
+    {
+      "id": "5854",
+      "name": "Drew Lock",
+      "pos": "QB",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 691,
+      "adds": 69566
     },
     {
       "id": "GB",
@@ -4108,18 +4108,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70274
+      "adds": 68995
     },
     {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
       "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 469,
-      "adds": 64278
+      "depth": 1,
+      "rank": 239,
+      "adds": 63350
     }
   ]
 }
