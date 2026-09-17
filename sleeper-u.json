@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T22:38:48.950Z",
+  "generated_at": "2026-09-17T22:46:09.609Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1022,7 +1022,7 @@
           "name": "Kaelon Black",
           "pos": "RB",
           "team": "SF",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 160
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 482832
+      "adds": 487341
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 217912
+      "adds": 219704
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 156378
+      "adds": 157794
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 154378
+      "adds": 155918
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 113260
+      "adds": 114415
     },
     {
       "id": "4177",
@@ -4008,18 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 103992
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 90128
+      "adds": 104658
     },
     {
       "id": "4035",
@@ -4030,7 +4019,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 90008
+      "adds": 90864
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 90864
     },
     {
       "id": "11729",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 89012
+      "adds": 89852
     },
     {
       "id": "12492",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 80400
+      "adds": 80688
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 79112
+      "adds": 79600
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 70014
+      "adds": 70509
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 61032
+      "adds": 61424
     },
     {
       "id": "13347",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 55425
+      "adds": 55653
     },
     {
       "id": "6083",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 46135
+      "adds": 46635
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 42104
+      "adds": 42424
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 41600
+      "adds": 41956
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 39429
+      "adds": 39726
     },
     {
       "id": "7049",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 38605
+      "adds": 38906
     },
     {
       "id": "9482",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 36513
+      "adds": 36927
     }
   ]
 }
