@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T02:55:57.475Z",
+  "generated_at": "2026-09-17T03:06:21.055Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3903,17 +3903,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 1029185
-    },
-    {
       "id": "6130",
       "name": "Devin Singletary",
       "pos": "RB",
@@ -3922,7 +3911,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 1028466
+      "adds": 1032021
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 1031755
     },
     {
       "id": "12472",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 591784
+      "adds": 593888
     },
     {
       "id": "3286",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 330132
+      "adds": 331824
     },
     {
       "id": "12492",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 310752
+      "adds": 311488
     },
     {
       "id": "4177",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 274035
+      "adds": 275097
     },
     {
       "id": "4993",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 237248
+      "adds": 238140
     },
     {
       "id": "2020",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 200956
+      "adds": 201852
     },
     {
       "id": "11729",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 196294
+      "adds": 197043
     },
     {
       "id": "4066",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 168056
+      "adds": 168608
     },
     {
       "id": "4035",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 113560
+      "adds": 114488
     },
     {
       "id": "11610",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 112776
+      "adds": 113528
     },
     {
       "id": "11630",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 104508
+      "adds": 104949
     },
     {
       "id": "13347",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 89313
+      "adds": 89835
     },
     {
       "id": "13545",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 79540
+      "adds": 79988
     },
     {
       "id": "7049",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 70931
+      "adds": 71239
     },
     {
       "id": "10218",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 69713
+      "adds": 71071
     },
     {
       "id": "GB",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68604
+      "adds": 68850
     },
     {
       "id": "6083",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66385
+      "adds": 66675
     },
     {
       "id": "9757",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 57572
+      "adds": 57734
     }
   ]
 }
