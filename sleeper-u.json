@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T23:23:18.815Z",
+  "generated_at": "2026-09-17T23:30:41.206Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 509436
+      "adds": 484290
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 228392
+      "adds": 215912
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 164358
+      "adds": 155184
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 164269
+      "adds": 152677
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 120351
+      "adds": 111944
     },
     {
       "id": "4177",
@@ -4008,29 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 108378
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 94888
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 94736
+      "adds": 101517
     },
     {
       "id": "11729",
@@ -4041,18 +4019,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 93954
+      "adds": 89061
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 82384
+      "depth": 2,
+      "rank": 119,
+      "adds": 88488
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 87696
     },
     {
       "id": "11610",
@@ -4063,7 +4052,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 82240
+      "adds": 77624
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 74632
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 73404
+      "adds": 69681
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 63824
+      "adds": 59248
     },
     {
       "id": "13347",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 56769
+      "adds": 49149
     },
     {
       "id": "6083",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 49115
+      "adds": 46125
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 43944
+      "adds": 42024
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 43780
+      "adds": 40620
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 41247
+      "adds": 39033
     },
     {
       "id": "7049",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 40068
+      "adds": 37436
     },
     {
       "id": "9482",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 38988
+      "adds": 37206
     }
   ]
 }
