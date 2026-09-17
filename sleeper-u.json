@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T22:29:51.798Z",
+  "generated_at": "2026-09-17T22:38:48.950Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 509688
+      "adds": 482832
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 231712
+      "adds": 217912
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 166626
+      "adds": 156378
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 153580
+      "adds": 154378
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 118132
+      "adds": 113260
     },
     {
       "id": "4177",
@@ -4008,18 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 110940
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 97968
+      "adds": 103992
     },
     {
       "id": "4993",
@@ -4030,7 +4019,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 95868
+      "adds": 90128
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 90008
     },
     {
       "id": "11729",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 94052
+      "adds": 89012
     },
     {
       "id": "12492",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 88760
+      "adds": 80400
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 82576
+      "adds": 79112
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 73587
+      "adds": 70014
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 64608
+      "adds": 61032
     },
     {
       "id": "13347",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 63468
+      "adds": 55425
     },
     {
       "id": "6083",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 47840
+      "adds": 46135
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 43960
+      "adds": 42104
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 43564
+      "adds": 41600
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 42165
+      "adds": 39429
     },
     {
       "id": "7049",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 41412
+      "adds": 38605
     },
     {
       "id": "9482",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 38331
+      "adds": 36513
     }
   ]
 }
