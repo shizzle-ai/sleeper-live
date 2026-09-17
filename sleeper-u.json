@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T11:24:12.310Z",
+  "generated_at": "2026-09-17T11:35:15.687Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2020,16 +2020,6 @@
           "rank": 91
         },
         {
-          "id": "12501",
-          "name": "Matthew Golden",
-          "pos": "WR",
-          "team": "GB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 119
-        },
-        {
           "id": "12518",
           "name": "Tyler Warren",
           "pos": "TE",
@@ -2090,6 +2080,16 @@
           "rank": 33
         },
         {
+          "id": "8148",
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 53
+        },
+        {
           "id": "LAR",
           "name": "Los Angeles Rams",
           "pos": "DEF",
@@ -2101,6 +2101,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "12501",
+          "name": "Matthew Golden",
+          "pos": "WR",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 119
+        },
         {
           "id": "12522",
           "name": "Cam Ward",
@@ -2150,16 +2160,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 120
-        },
-        {
-          "id": "8148",
-          "name": "Jameson Williams",
-          "pos": "WR",
-          "team": "DET",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 53
         }
       ],
       "reserve": [],
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 735471
+      "adds": 699894
     },
     {
       "id": "TB",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 603290
+      "adds": 542050
     },
     {
       "id": "12472",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 368840
+      "adds": 350672
     },
     {
       "id": "3286",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 240648
+      "adds": 231582
     },
     {
       "id": "12492",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 195288
+      "adds": 182912
     },
     {
       "id": "4177",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 187971
+      "adds": 177906
     },
     {
       "id": "2020",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 164997
+      "adds": 155365
     },
     {
       "id": "4993",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 158760
+      "adds": 149552
     },
     {
       "id": "11729",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 141449
+      "adds": 135065
     },
     {
       "id": "4066",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 115064
+      "adds": 107904
     },
     {
       "id": "4035",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 107664
+      "adds": 104816
     },
     {
       "id": "13347",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 99555
+      "adds": 99768
     },
     {
       "id": "11610",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 97848
+      "adds": 93408
     },
     {
       "id": "10218",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 88102
+      "adds": 87976
     },
     {
       "id": "11630",
@@ -4065,18 +4065,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 66924
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 64752
+      "adds": 63279
     },
     {
       "id": "7049",
@@ -4087,18 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64491
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 60850
+      "adds": 61789
     },
     {
       "id": "6931",
@@ -4109,18 +4087,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 60771
+      "adds": 61374
     },
     {
-      "id": "GB",
-      "name": "Green Bay Packers",
-      "pos": "DEF",
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
       "team": "GB",
       "injury": null,
-      "status": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 60780
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 57760
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "team": null,
+      "injury": null,
+      "status": "Active",
       "depth": null,
-      "rank": null,
-      "adds": 56618
+      "rank": 145,
+      "adds": 52896
     }
   ]
 }
