@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T12:42:28.964Z",
+  "generated_at": "2026-09-17T12:55:29.166Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -137,14 +137,14 @@
         "rank": 39
       },
       {
-        "id": "4217",
-        "name": "George Kittle",
-        "pos": "TE",
-        "team": "SF",
-        "injury": "Questionable",
+        "id": "4199",
+        "name": "Aaron Jones",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 81
+        "rank": 85
       },
       {
         "id": "6770",
@@ -177,10 +177,10 @@
         "rank": 4
       },
       {
-        "id": "DET",
-        "name": "Detroit Lions",
+        "id": "TB",
+        "name": "Tampa Bay Buccaneers",
         "pos": "DEF",
-        "team": "DET",
+        "team": "TB",
         "injury": null,
         "status": null,
         "depth": null,
@@ -229,14 +229,14 @@
         "rank": 269
       },
       {
-        "id": "4199",
-        "name": "Aaron Jones",
-        "pos": "RB",
-        "team": "MIN",
-        "injury": null,
+        "id": "4217",
+        "name": "George Kittle",
+        "pos": "TE",
+        "team": "SF",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 85
+        "rank": 81
       },
       {
         "id": "8126",
@@ -265,14 +265,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "6770",
-          "name": "Joe Burrow",
+          "id": "4046",
+          "name": "Patrick Mahomes",
           "pos": "QB",
-          "team": "CIN",
+          "team": "KC",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 15
+          "rank": 39
         },
         {
           "id": "8150",
@@ -325,24 +325,24 @@
           "rank": 81
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 81
+          "rank": 85
         },
         {
-          "id": "4046",
-          "name": "Patrick Mahomes",
+          "id": "6770",
+          "name": "Joe Burrow",
           "pos": "QB",
-          "team": "KC",
+          "team": "CIN",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 15
         },
         {
           "id": "3451",
@@ -355,10 +355,10 @@
           "rank": 129
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "pos": "DEF",
-          "team": "DET",
+          "team": "TB",
           "injury": null,
           "status": null,
           "depth": null,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11631": 0,
         "12514": 0,
-        "DET": 0
+        "TB": 0
       }
     },
     "opponent": {
@@ -2601,14 +2601,14 @@
           "rank": 39
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 81
+          "rank": 85
         },
         {
           "id": "6770",
@@ -2641,10 +2641,10 @@
           "rank": 4
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "pos": "DEF",
-          "team": "DET",
+          "team": "TB",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2693,14 +2693,14 @@
           "rank": 269
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
-          "pos": "RB",
-          "team": "MIN",
-          "injury": null,
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "team": "SF",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 81
         },
         {
           "id": "8126",
@@ -2921,6 +2921,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1406294358772211712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789649212118,
+      "adds": [
+        {
+          "player": {
+            "id": "TB",
+            "name": "Tampa Bay Buccaneers",
+            "pos": "DEF",
+            "team": "TB",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "DET",
+            "name": "Detroit Lions",
+            "pos": "DEF",
+            "team": "DET",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "roster_ids": [
+        11
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1406085006794686464",
       "type": "free_agent",
@@ -3890,10 +3932,10 @@
         "rank": null
       },
       {
-        "id": "TB",
-        "name": "Tampa Bay Buccaneers",
+        "id": "CLE",
+        "name": "Cleveland Browns",
         "pos": "DEF",
-        "team": "TB",
+        "team": "CLE",
         "injury": null,
         "status": null,
         "depth": null,
@@ -3911,18 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 677817
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 484795
+      "adds": 682776
     },
     {
       "id": "12472",
@@ -3933,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 338304
+      "adds": 340360
     },
     {
       "id": "3286",
@@ -3944,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 225954
+      "adds": 227334
     },
     {
       "id": "12492",
@@ -3955,7 +3986,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 172024
+      "adds": 172760
     },
     {
       "id": "4177",
@@ -3966,7 +3997,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 169500
+      "adds": 170325
     },
     {
       "id": "2020",
@@ -3977,7 +4008,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 147693
+      "adds": 148701
     },
     {
       "id": "4993",
@@ -3988,7 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 141584
+      "adds": 142272
     },
     {
       "id": "11729",
@@ -3999,7 +4030,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 130935
+      "adds": 131908
     },
     {
       "id": "4035",
@@ -4010,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 104144
+      "adds": 104888
     },
     {
       "id": "4066",
@@ -4021,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 101600
+      "adds": 102104
     },
     {
       "id": "13347",
@@ -4032,7 +4063,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 101544
+      "adds": 101916
     },
     {
       "id": "10218",
@@ -4043,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 92575
+      "adds": 93450
     },
     {
       "id": "11610",
@@ -4054,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 91448
+      "adds": 92096
     },
     {
       "id": "6931",
@@ -4065,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 64797
+      "adds": 65622
     },
     {
       "id": "11630",
@@ -4076,7 +4107,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 60921
+      "adds": 61227
     },
     {
       "id": "7049",
@@ -4087,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 59444
+      "adds": 59815
     },
     {
       "id": "13545",
@@ -4098,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 57704
+      "adds": 58048
     },
     {
       "id": "6083",
@@ -4109,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 55485
+      "adds": 55860
     },
     {
       "id": "3321",
@@ -4120,7 +4151,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 52536
+      "adds": 52864
+    },
+    {
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "team": "GB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 48525
     }
   ]
 }
