@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T21:42:10.746Z",
+  "generated_at": "2026-09-17T21:49:43.069Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3258,7 +3258,7 @@
         "name": "Tyrone Tracy",
         "pos": "RB",
         "team": "NYG",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 110
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 487953
+      "adds": 491355
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 223288
+      "adds": 224472
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 160416
+      "adds": 161436
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 145054
+      "adds": 146524
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 112889
+      "adds": 113701
     },
     {
       "id": "4177",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 107241
+      "adds": 107847
     },
     {
       "id": "4035",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 93592
+      "adds": 94176
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 91660
+      "adds": 92304
     },
     {
       "id": "11729",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 90419
+      "adds": 91063
     },
     {
       "id": "12492",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 86712
+      "adds": 86920
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 80016
+      "adds": 80440
     },
     {
       "id": "6931",
@@ -4074,18 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 71085
-    },
-    {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 62031
+      "adds": 71505
     },
     {
       "id": "4066",
@@ -4096,7 +4085,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 62016
+      "adds": 62376
+    },
+    {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 176,
+      "adds": 62235
     },
     {
       "id": "6083",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 45430
+      "adds": 45745
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 42440
+      "adds": 42688
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 41916
+      "adds": 42136
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 40644
+      "adds": 40743
     },
     {
       "id": "7049",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 40180
+      "adds": 40397
     },
     {
       "id": "9482",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 35847
+      "adds": 36090
     }
   ]
 }
