@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T20:22:13.484Z",
+  "generated_at": "2026-09-17T20:33:14.839Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 558540
+      "adds": 501948
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 262656
+      "adds": 233312
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 198342
+      "adds": 169008
     },
     {
       "id": "10218",
@@ -3986,18 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 136948
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 127575
+      "adds": 136766
     },
     {
       "id": "2020",
@@ -4008,29 +3997,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 121793
+      "adds": 113575
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
+      "id": "4177",
+      "name": "Mack Hollins",
       "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 113904
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 527,
-      "adds": 106190
+      "rank": 697,
+      "adds": 112746
     },
     {
       "id": "4035",
@@ -4041,7 +4019,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 104976
+      "adds": 99808
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 95096
     },
     {
       "id": "4993",
@@ -4052,7 +4041,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 104064
+      "adds": 94312
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 93674
     },
     {
       "id": "11610",
@@ -4063,18 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 87184
-    },
-    {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 83508
+      "adds": 80192
     },
     {
       "id": "6931",
@@ -4085,7 +4074,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 76461
+      "adds": 74022
+    },
+    {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 176,
+      "adds": 69843
     },
     {
       "id": "4066",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 71864
+      "adds": 64240
     },
     {
       "id": "6083",
@@ -4107,29 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 48085
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 47556
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 47502
+      "adds": 45240
     },
     {
       "id": "3321",
@@ -4140,7 +4118,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 46248
+      "adds": 42608
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 42399
     },
     {
       "id": "13545",
@@ -4151,7 +4140,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 45376
+      "adds": 42264
+    },
+    {
+      "id": "7049",
+      "name": "Jauan Jennings",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 123,
+      "adds": 41951
     },
     {
       "id": "9482",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 38016
+      "adds": 35487
     }
   ]
 }
