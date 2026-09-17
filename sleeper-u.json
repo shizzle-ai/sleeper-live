@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T12:26:40.042Z",
+  "generated_at": "2026-09-17T12:42:28.964Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 716616
+      "adds": 677817
     },
     {
       "id": "TB",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 549790
+      "adds": 484795
     },
     {
       "id": "12472",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 358392
+      "adds": 338304
     },
     {
       "id": "3286",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 236190
+      "adds": 225954
     },
     {
       "id": "12492",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 185576
+      "adds": 172024
     },
     {
       "id": "4177",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 181152
+      "adds": 169500
     },
     {
       "id": "2020",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 158529
+      "adds": 147693
     },
     {
       "id": "4993",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 152124
+      "adds": 141584
     },
     {
       "id": "11729",
@@ -3999,18 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 137949
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 460,
-      "adds": 109720
+      "adds": 130935
     },
     {
       "id": "4035",
@@ -4021,7 +4010,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 107304
+      "adds": 104144
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 460,
+      "adds": 101600
     },
     {
       "id": "13347",
@@ -4032,18 +4032,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 101133
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 95760
+      "adds": 101544
     },
     {
       "id": "10218",
@@ -4054,18 +4043,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 92169
+      "adds": 92575
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
+      "id": "11610",
+      "name": "Malik Washington",
       "pos": "WR",
-      "team": "PIT",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 64602
+      "depth": 1,
+      "rank": 177,
+      "adds": 91448
     },
     {
       "id": "6931",
@@ -4076,7 +4065,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 64041
+      "adds": 64797
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 60921
     },
     {
       "id": "7049",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 62951
+      "adds": 59444
     },
     {
       "id": "13545",
@@ -4098,7 +4098,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 62012
+      "adds": 57704
     },
     {
       "id": "6083",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 59095
+      "adds": 55485
     },
     {
       "id": "3321",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 54056
+      "adds": 52536
     }
   ]
 }
