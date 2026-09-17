@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T10:39:39.386Z",
+  "generated_at": "2026-09-17T10:50:52.419Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2020,6 +2020,16 @@
           "rank": 91
         },
         {
+          "id": "12501",
+          "name": "Matthew Golden",
+          "pos": "WR",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 119
+        },
+        {
           "id": "12518",
           "name": "Tyler Warren",
           "pos": "TE",
@@ -2080,16 +2090,6 @@
           "rank": 33
         },
         {
-          "id": "8148",
-          "name": "Jameson Williams",
-          "pos": "WR",
-          "team": "DET",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 53
-        },
-        {
           "id": "LAR",
           "name": "Los Angeles Rams",
           "pos": "DEF",
@@ -2101,16 +2101,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "12501",
-          "name": "Matthew Golden",
-          "pos": "WR",
-          "team": "GB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 119
-        },
         {
           "id": "12522",
           "name": "Cam Ward",
@@ -2160,6 +2150,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 120
+        },
+        {
+          "id": "8148",
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 53
         }
       ],
       "reserve": [],
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 725517
+      "adds": 727704
     },
     {
       "id": "TB",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 598520
+      "adds": 599555
     },
     {
       "id": "12472",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 364400
+      "adds": 365328
     },
     {
       "id": "3286",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 237390
+      "adds": 238086
     },
     {
       "id": "12492",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 193720
+      "adds": 194104
     },
     {
       "id": "4177",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 185958
+      "adds": 186360
     },
     {
       "id": "2020",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 163072
+      "adds": 163457
     },
     {
       "id": "4993",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 157188
+      "adds": 157564
     },
     {
       "id": "11729",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 139580
+      "adds": 139951
     },
     {
       "id": "4066",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 113968
+      "adds": 114216
     },
     {
       "id": "4035",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 106016
+      "adds": 106480
     },
     {
       "id": "13347",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 176,
-      "adds": 98508
+      "adds": 98781
     },
     {
       "id": "11610",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 96608
+      "adds": 96888
     },
     {
       "id": "10218",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 85519
+      "adds": 86219
     },
     {
       "id": "11630",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 66204
+      "adds": 66348
     },
     {
       "id": "13545",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 64016
+      "adds": 64180
     },
     {
       "id": "7049",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 63826
+      "adds": 63959
     },
     {
       "id": "6083",
@@ -4098,7 +4098,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 60165
+      "adds": 60320
     },
     {
       "id": "6931",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 59022
+      "adds": 59427
     },
     {
       "id": "GB",
@@ -4120,7 +4120,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56030
+      "adds": 56153
     }
   ]
 }
