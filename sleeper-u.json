@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-17T14:57:26.685Z",
+  "generated_at": "2026-09-17T15:09:58.289Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 645336
+      "adds": 650646
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 315784
+      "adds": 317976
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 218304
+      "adds": 219600
     },
     {
       "id": "4177",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 155646
+      "adds": 156714
     },
     {
       "id": "12492",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 151568
+      "adds": 152264
     },
     {
       "id": "2020",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 134477
+      "adds": 135618
     },
     {
       "id": "4993",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 127168
+      "adds": 127920
     },
     {
       "id": "11729",
@@ -4030,18 +4030,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 125174
-    },
-    {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 106101
+      "adds": 125937
     },
     {
       "id": "10218",
@@ -4052,7 +4041,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 105462
+      "adds": 106799
+    },
+    {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 176,
+      "adds": 106527
     },
     {
       "id": "4035",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 105160
+      "adds": 105968
     },
     {
       "id": "4066",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 90792
+      "adds": 91464
     },
     {
       "id": "11610",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 89168
+      "adds": 90152
     },
     {
       "id": "6931",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 73095
+      "adds": 73779
     },
     {
       "id": "11630",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 56250
+      "adds": 56664
     },
     {
       "id": "7049",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 55916
+      "adds": 56308
     },
     {
       "id": "3321",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 52320
+      "adds": 52728
     },
     {
       "id": "13545",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 52016
+      "adds": 52372
     },
     {
       "id": "6083",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 51800
+      "adds": 52175
     },
     {
       "id": "GB",
@@ -4162,7 +4162,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41360
+      "adds": 41693
     }
   ]
 }
