@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T16:24:32.115Z",
+  "generated_at": "2026-09-18T16:35:12.691Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 429795
+      "adds": 404244
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 221013
+      "adds": 223110
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 156226
+      "adds": 152124
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 155448
+      "adds": 145656
     },
     {
       "id": "3286",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 121506
+      "adds": 114570
     },
     {
       "id": "2020",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 99939
+      "adds": 94325
     },
     {
       "id": "4035",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 84728
+      "adds": 80880
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 77356
+      "adds": 73496
     },
     {
       "id": "4177",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 71937
+      "adds": 66990
     },
     {
       "id": "11610",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 67448
+      "adds": 63568
     },
     {
       "id": "11729",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 527,
-      "adds": 61950
+      "adds": 57897
     },
     {
       "id": "4066",
@@ -4074,18 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 49256
-    },
-    {
-      "id": "6931",
-      "name": "DeeJay Dallas",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 677,
-      "adds": 43482
+      "adds": 46736
     },
     {
       "id": "9482",
@@ -4096,7 +4085,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 43479
+      "adds": 41769
+    },
+    {
+      "id": "6931",
+      "name": "DeeJay Dallas",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 677,
+      "adds": 40347
     },
     {
       "id": "12492",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 41624
+      "adds": 38320
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 39480
+      "adds": 37600
     },
     {
       "id": "6083",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39015
+      "adds": 36885
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 33147
+      "adds": 31320
     },
     {
       "id": "13545",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 30904
+      "adds": 29012
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 28448
+      "adds": 26467
     }
   ]
 }
