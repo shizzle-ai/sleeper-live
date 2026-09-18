@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T01:00:48.908Z",
+  "generated_at": "2026-09-18T01:14:02.904Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 0,
+      "points": 2.1,
       "starters": [
         {
           "id": "6797",
@@ -508,7 +508,7 @@
         0,
         0,
         0,
-        0,
+        2.1,
         0,
         0,
         0,
@@ -522,7 +522,7 @@
         "5045": 0,
         "5844": 0,
         "6797": 0,
-        "7547": 0,
+        "7547": 2.1,
         "7569": 0,
         "8676": 0,
         "9484": 0,
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 517185
+      "adds": 523647
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 221952
+      "adds": 223760
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 160122
+      "adds": 161586
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 158634
+      "adds": 159880
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 119315
+      "adds": 120386
     },
     {
       "id": "4177",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 103257
+      "adds": 103986
     },
     {
       "id": "11729",
@@ -4019,18 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 92631
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 91808
+      "adds": 97447
     },
     {
       "id": "4993",
@@ -4041,7 +4030,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 91808
+      "adds": 92992
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 92600
     },
     {
       "id": "11610",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 80704
+      "adds": 81496
     },
     {
       "id": "12492",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 72640
+      "adds": 72960
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 70158
+      "adds": 70530
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 60920
+      "adds": 61648
     },
     {
       "id": "6083",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 48945
+      "adds": 49370
     },
     {
       "id": "13347",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 45264
+      "adds": 45441
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 43336
+      "adds": 43624
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 41708
+      "adds": 42060
     },
     {
       "id": "9482",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 40437
+      "adds": 40932
     },
     {
       "id": "11630",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 40131
+      "adds": 40500
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 38556
+      "adds": 38934
     }
   ]
 }
