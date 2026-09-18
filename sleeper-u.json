@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T18:21:58.079Z",
+  "generated_at": "2026-09-18T18:34:47.010Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2381,16 +2381,6 @@
           "rank": 147
         },
         {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
           "id": "1466",
           "name": "Travis Kelce",
           "pos": "TE",
@@ -2441,6 +2431,16 @@
           "rank": 49
         },
         {
+          "id": "5849",
+          "name": "Kyler Murray",
+          "pos": "QB",
+          "team": "MIN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 87
+        },
+        {
           "id": "6790",
           "name": "D'Andre Swift",
           "pos": "RB",
@@ -2483,6 +2483,16 @@
           "rank": 127
         },
         {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
+        {
           "id": "13285",
           "name": "Malachi Fields",
           "pos": "WR",
@@ -2511,16 +2521,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 122
-        },
-        {
-          "id": "5849",
-          "name": "Kyler Murray",
-          "pos": "QB",
-          "team": "MIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 87
         },
         {
           "id": "7528",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 397683
+      "adds": 377037
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 250002
+      "adds": 252675
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 161574
+      "adds": 156205
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 143360
+      "adds": 135752
     },
     {
       "id": "3286",
@@ -3997,18 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 112380
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 93569
+      "adds": 106278
     },
     {
       "id": "4035",
@@ -4019,7 +4008,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 93160
+      "adds": 93840
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 88942
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 74400
+      "adds": 71436
     },
     {
       "id": "4177",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 66015
+      "adds": 62028
     },
     {
       "id": "11610",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 62880
+      "adds": 59568
     },
     {
       "id": "11729",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 527,
-      "adds": 55769
+      "adds": 52626
     },
     {
       "id": "4066",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 48704
+      "adds": 46784
     },
     {
       "id": "9482",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 43623
+      "adds": 42408
     },
     {
       "id": "6931",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 40170
+      "adds": 38061
     },
     {
       "id": "3321",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 37792
+      "adds": 35688
     },
     {
       "id": "12492",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 37232
+      "adds": 34504
     },
     {
       "id": "6083",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 35955
+      "adds": 33995
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 33048
+      "adds": 31887
     },
     {
       "id": "13545",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 28468
+      "adds": 26916
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 25641
+      "adds": 24059
     }
   ]
 }
