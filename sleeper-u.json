@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T20:43:15.589Z",
+  "generated_at": "2026-09-18T20:51:04.114Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1849,6 +1849,16 @@
           "rank": 124
         },
         {
+          "id": "6819",
+          "name": "Michael Pittman",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 105
+        },
+        {
           "id": "7526",
           "name": "Jaylen Waddle",
           "pos": "WR",
@@ -1889,16 +1899,6 @@
           "rank": 102
         },
         {
-          "id": "9997",
-          "name": "Zay Flowers",
-          "pos": "WR",
-          "team": "BAL",
-          "injury": "Doubtful",
-          "status": "Active",
-          "depth": 1,
-          "rank": 40
-        },
-        {
           "id": "SEA",
           "name": "Seattle Seahawks",
           "pos": "DEF",
@@ -1931,16 +1931,6 @@
           "rank": 156
         },
         {
-          "id": "6819",
-          "name": "Michael Pittman",
-          "pos": "WR",
-          "team": "PIT",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 105
-        },
-        {
           "id": "8136",
           "name": "Rachaad White",
           "pos": "RB",
@@ -1969,6 +1959,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 204
+        },
+        {
+          "id": "9997",
+          "name": "Zay Flowers",
+          "pos": "WR",
+          "team": "BAL",
+          "injury": "Doubtful",
+          "status": "Active",
+          "depth": 1,
+          "rank": 40
         }
       ],
       "reserve": [
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 364617
+      "adds": 366273
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 297792
+      "adds": 299943
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 220752
+      "adds": 225372
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 130280
+      "adds": 130888
     },
     {
       "id": "4035",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 105976
+      "adds": 106936
     },
     {
       "id": "3286",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 105000
+      "adds": 105690
     },
     {
       "id": "2020",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 86912
+      "adds": 87388
     },
     {
       "id": "4993",
@@ -4030,18 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 75504
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 63438
+      "adds": 75872
     },
     {
       "id": "9482",
@@ -4052,7 +4041,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 63270
+      "adds": 64359
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 63870
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 62744
+      "adds": 63184
     },
     {
       "id": "4066",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 49024
+      "adds": 49264
     },
     {
       "id": "11729",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 527,
-      "adds": 47747
+      "adds": 47838
     },
     {
       "id": "6931",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 38277
+      "adds": 38517
     },
     {
       "id": "11630",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 37341
+      "adds": 37863
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 34896
+      "adds": 35192
     },
     {
       "id": "12492",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 34008
+      "adds": 34144
     },
     {
       "id": "6083",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 32345
+      "adds": 32470
     },
     {
       "id": "13545",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 25916
+      "adds": 26044
     },
     {
       "id": "7049",
