@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T19:57:11.499Z",
+  "generated_at": "2026-09-18T20:08:47.155Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -444,14 +444,14 @@
           "rank": 7
         },
         {
-          "id": "7569",
-          "name": "Nico Collins",
+          "id": "5045",
+          "name": "Courtland Sutton",
           "pos": "WR",
-          "team": "HOU",
-          "injury": "Questionable",
+          "team": "DEN",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 22
+          "rank": 72
         },
         {
           "id": "9484",
@@ -464,14 +464,14 @@
           "rank": 63
         },
         {
-          "id": "5045",
-          "name": "Courtland Sutton",
+          "id": "11834",
+          "name": "Devaughn Vele",
           "pos": "WR",
-          "team": "DEN",
+          "team": "NO",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 72
+          "depth": 2,
+          "rank": 209
         },
         {
           "id": "96",
@@ -886,6 +886,16 @@
       },
       "starters": [
         {
+          "id": "11834",
+          "name": "Devaughn Vele",
+          "pos": "WR",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 209
+        },
+        {
           "id": "12507",
           "name": "Omarion Hampton",
           "pos": "RB",
@@ -946,16 +956,6 @@
           "rank": 7
         },
         {
-          "id": "7569",
-          "name": "Nico Collins",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 22
-        },
-        {
           "id": "9484",
           "name": "Tucker Kraft",
           "pos": "TE",
@@ -998,16 +998,6 @@
           "rank": 122
         },
         {
-          "id": "11834",
-          "name": "Devaughn Vele",
-          "pos": "WR",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 209
-        },
-        {
           "id": "12474",
           "name": "Woody Marks",
           "pos": "RB",
@@ -1036,6 +1026,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 128
+        },
+        {
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 22
         },
         {
           "id": "8676",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 373266
+      "adds": 375642
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 278757
+      "adds": 282465
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 168966
+      "adds": 180754
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 133856
+      "adds": 134928
     },
     {
       "id": "3286",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 105456
+      "adds": 106392
     },
     {
       "id": "4035",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 102528
+      "adds": 103776
     },
     {
       "id": "2020",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 88844
+      "adds": 89544
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 75600
+      "adds": 76224
     },
     {
       "id": "4177",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 62511
+      "adds": 63327
     },
     {
       "id": "11610",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 61016
+      "adds": 61840
     },
     {
       "id": "9482",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 58977
+      "adds": 60192
     },
     {
       "id": "11729",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 527,
-      "adds": 50540
+      "adds": 50792
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 49280
+      "adds": 49600
     },
     {
       "id": "6931",
@@ -4096,18 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 38550
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 145,
-      "adds": 34968
+      "adds": 38973
     },
     {
       "id": "11630",
@@ -4118,7 +4107,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 34821
+      "adds": 35577
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 145,
+      "adds": 35360
     },
     {
       "id": "12492",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 34200
+      "adds": 34576
     },
     {
       "id": "6083",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 33710
+      "adds": 33920
     },
     {
       "id": "13545",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 26656
+      "adds": 26840
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 22659
+      "adds": 22694
     }
   ]
 }
