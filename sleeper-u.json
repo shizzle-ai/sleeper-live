@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T12:14:06.431Z",
+  "generated_at": "2026-09-18T12:31:52.694Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,18 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 487350
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 179568
+      "adds": 470493
     },
     {
       "id": "11637",
@@ -3975,7 +3964,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 170532
+      "adds": 173205
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 171584
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 153475
+      "adds": 149723
     },
     {
       "id": "3286",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 137718
+      "adds": 132906
     },
     {
       "id": "2020",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 109536
+      "adds": 106407
     },
     {
       "id": "4035",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 86856
+      "adds": 84864
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 84304
+      "adds": 81756
     },
     {
       "id": "4177",
@@ -4041,18 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 83178
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 527,
-      "adds": 74011
+      "adds": 79755
     },
     {
       "id": "11610",
@@ -4063,7 +4052,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 73720
+      "adds": 71384
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 527,
+      "adds": 70791
     },
     {
       "id": "4066",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 53792
+      "adds": 52064
     },
     {
       "id": "6931",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 53199
+      "adds": 50319
     },
     {
       "id": "12492",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 50616
+      "adds": 47760
     },
     {
       "id": "9482",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 43479
+      "adds": 42435
     },
     {
       "id": "6083",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43445
+      "adds": 42030
     },
     {
       "id": "3321",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 41880
+      "adds": 40848
     },
     {
       "id": "13545",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 35192
+      "adds": 33876
     },
     {
       "id": "11630",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 34659
+      "adds": 33552
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 33236
+      "adds": 31997
     }
   ]
 }
