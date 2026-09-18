@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T19:00:41.457Z",
+  "generated_at": "2026-09-18T19:15:10.893Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3460,7 +3460,7 @@
         "name": "Jauan Jennings",
         "pos": "WR",
         "team": "MIN",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 123
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 381816
+      "adds": 385362
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 259956
+      "adds": 264870
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 161238
+      "adds": 165270
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 137496
+      "adds": 139040
     },
     {
       "id": "3286",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 107742
+      "adds": 108876
     },
     {
       "id": "4035",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 97936
+      "adds": 100256
     },
     {
       "id": "2020",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 90181
+      "adds": 91056
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 74040
+      "adds": 76252
     },
     {
       "id": "4177",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 63150
+      "adds": 64203
     },
     {
       "id": "11610",
@@ -4052,18 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 60800
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 527,
-      "adds": 53102
+      "adds": 61840
     },
     {
       "id": "9482",
@@ -4074,7 +4063,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 50094
+      "adds": 55440
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 527,
+      "adds": 53389
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 48408
+      "adds": 49672
     },
     {
       "id": "6931",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 38871
+      "adds": 39513
     },
     {
       "id": "3321",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 36464
+      "adds": 36968
     },
     {
       "id": "12492",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35000
+      "adds": 35440
     },
     {
       "id": "6083",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 34490
+      "adds": 34885
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 33156
+      "adds": 34299
     },
     {
       "id": "13545",
@@ -4151,18 +4151,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 27340
+      "adds": 27572
     },
     {
       "id": "7049",
       "name": "Jauan Jennings",
       "pos": "WR",
       "team": "MIN",
-      "injury": null,
+      "injury": "Out",
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 24290
+      "adds": 24332
     }
   ]
 }
