@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T23:20:19.767Z",
+  "generated_at": "2026-09-18T23:30:17.905Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3983,17 +3983,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 337923
-    },
-    {
       "id": "11637",
       "name": "Keon Coleman",
       "pos": "WR",
@@ -4002,7 +3991,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 332388
+      "adds": 333621
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 303948
     },
     {
       "id": "10218",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 259567
+      "adds": 248794
     },
     {
       "id": "12472",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 118632
+      "adds": 105376
     },
     {
       "id": "4035",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 109192
+      "adds": 103432
     },
     {
       "id": "3286",
@@ -4046,18 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 98634
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 83573
+      "adds": 88560
     },
     {
       "id": "9482",
@@ -4068,7 +4057,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 83565
+      "adds": 81387
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 74515
     },
     {
       "id": "4993",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 72416
+      "adds": 66100
     },
     {
       "id": "11610",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 61256
+      "adds": 57536
     },
     {
       "id": "4177",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 60366
+      "adds": 54843
     },
     {
       "id": "4066",
@@ -4112,18 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 47832
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 527,
-      "adds": 41146
+      "adds": 44056
     },
     {
       "id": "11630",
@@ -4134,18 +4123,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 40653
+      "adds": 38601
     },
     {
-      "id": "6931",
-      "name": "DeeJay Dallas",
+      "id": "11729",
+      "name": "Sione Vaki",
       "pos": "RB",
-      "team": "MIN",
+      "team": "DET",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 677,
-      "adds": 36387
+      "depth": 4,
+      "rank": 527,
+      "adds": 34692
     },
     {
       "id": "3321",
@@ -4156,7 +4145,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 34784
+      "adds": 32400
+    },
+    {
+      "id": "6931",
+      "name": "DeeJay Dallas",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 677,
+      "adds": 32298
     },
     {
       "id": "12492",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 32840
+      "adds": 30272
     },
     {
       "id": "6083",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 29705
+      "adds": 25960
     },
     {
       "id": "13545",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 24384
+      "adds": 21724
     },
     {
       "id": "7571",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 20337
+      "adds": 19570
     }
   ]
 }
