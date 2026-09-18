@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T21:56:29.023Z",
+  "generated_at": "2026-09-18T22:07:21.364Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 353574
+      "adds": 355320
     },
     {
       "id": "11637",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 316035
+      "adds": 318474
     },
     {
       "id": "10218",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 245154
+      "adds": 248780
     },
     {
       "id": "12472",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 125632
+      "adds": 126120
     },
     {
       "id": "4035",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 108520
+      "adds": 109608
     },
     {
       "id": "3286",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 102576
+      "adds": 103110
     },
     {
       "id": "2020",
@@ -4019,18 +4019,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 85869
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 74780
+      "adds": 86534
     },
     {
       "id": "9482",
@@ -4041,7 +4030,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 472,
-      "adds": 74142
+      "adds": 75960
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 75264
     },
     {
       "id": "4177",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 62370
+      "adds": 62778
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 61776
+      "adds": 62296
     },
     {
       "id": "4066",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 461,
-      "adds": 48832
+      "adds": 49144
     },
     {
       "id": "11729",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 527,
-      "adds": 44730
+      "adds": 44870
     },
     {
       "id": "11630",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 39285
+      "adds": 39789
     },
     {
       "id": "6931",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 37617
+      "adds": 37887
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 34952
+      "adds": 35208
     },
     {
       "id": "12492",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 33432
+      "adds": 33728
     },
     {
       "id": "6083",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 31150
+      "adds": 31420
     },
     {
       "id": "13545",
@@ -4151,18 +4151,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 25192
+      "adds": 25368
     },
     {
-      "id": "7049",
-      "name": "Jauan Jennings",
+      "id": "7571",
+      "name": "Rashod Bateman",
       "pos": "WR",
-      "team": "MIN",
-      "injury": "Out",
+      "team": "BAL",
+      "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 18844
+      "depth": 2,
+      "rank": 203,
+      "adds": 18944
     }
   ]
 }
