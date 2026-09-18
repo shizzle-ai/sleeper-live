@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T02:17:02.311Z",
+  "generated_at": "2026-09-18T02:31:10.572Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 17.5,
+      "points": 20.8,
       "starters": [
         {
           "id": "4046",
@@ -371,7 +371,7 @@
         0,
         0,
         0,
-        17.5,
+        20.8,
         0,
         0,
         0,
@@ -387,7 +387,7 @@
         "8126": 0,
         "8150": 0,
         "9493": 0,
-        "10236": 17.5,
+        "10236": 20.8,
         "11581": 0,
         "11584": 0,
         "11625": 0,
@@ -2435,7 +2435,7 @@
           "name": "DJ Moore",
           "pos": "WR",
           "team": "BUF",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 49
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 529920
+      "adds": 509805
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 218112
+      "adds": 205248
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 159858
+      "adds": 151584
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 157157
+      "adds": 148771
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 120470
+      "adds": 114639
     },
     {
       "id": "4177",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 100719
+      "adds": 94476
     },
     {
       "id": "11729",
@@ -4019,7 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 95655
+      "adds": 89985
     },
     {
       "id": "4993",
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 92920
+      "adds": 87928
     },
     {
       "id": "4035",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 91832
+      "adds": 87272
     },
     {
       "id": "11610",
@@ -4052,18 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 81008
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 69104
+      "adds": 76944
     },
     {
       "id": "6931",
@@ -4074,7 +4063,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 68025
+      "adds": 63729
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 63392
     },
     {
       "id": "4066",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 60616
+      "adds": 57440
     },
     {
       "id": "6083",
@@ -4096,7 +4096,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 48650
+      "adds": 46125
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 44001
     },
     {
       "id": "3321",
@@ -4107,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 44688
+      "adds": 43456
     },
     {
       "id": "9482",
@@ -4118,7 +4129,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 41877
+      "adds": 40680
     },
     {
       "id": "13545",
@@ -4129,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 41356
+      "adds": 38884
     },
     {
       "id": "13347",
@@ -4140,7 +4151,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 41337
+      "adds": 37782
     },
     {
       "id": "11630",
@@ -4151,18 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 38979
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 38318
+      "adds": 36774
     }
   ]
 }
