@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T00:25:11.093Z",
+  "generated_at": "2026-09-18T00:40:11.007Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 0,
+      "points": 3.5,
       "starters": [
         {
           "id": "4046",
@@ -371,7 +371,7 @@
         0,
         0,
         0,
-        0,
+        3.5,
         0,
         0,
         0,
@@ -387,7 +387,7 @@
         "8126": 0,
         "8150": 0,
         "9493": 0,
-        "10236": 0,
+        "10236": 3.5,
         "11581": 0,
         "11584": 0,
         "11625": 0,
@@ -1247,7 +1247,7 @@
           "team": "BAL",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 9,
           "rank": 146
         }
       ],
@@ -2901,7 +2901,7 @@
           "team": "ATL",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 228
         },
         {
@@ -3188,7 +3188,7 @@
         "team": "ATL",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 3,
         "rank": 237
       },
       {
@@ -3370,7 +3370,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 167
       },
       {
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 524061
+      "adds": 505845
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 230056
+      "adds": 218760
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 165924
+      "adds": 157770
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 164290
+      "adds": 156205
     },
     {
       "id": "2020",
@@ -3997,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 122549
+      "adds": 117278
     },
     {
       "id": "4177",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 107817
+      "adds": 101949
     },
     {
       "id": "11729",
@@ -4019,18 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 96936
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 94916
+      "adds": 92134
     },
     {
       "id": "4035",
@@ -4041,7 +4030,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 94808
+      "adds": 90184
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 89888
     },
     {
       "id": "11610",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 83472
+      "adds": 79152
     },
     {
       "id": "12492",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 77816
+      "adds": 71696
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 73398
+      "adds": 69474
     },
     {
       "id": "4066",
@@ -4085,18 +4085,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 63616
-    },
-    {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 50727
+      "adds": 59984
     },
     {
       "id": "6083",
@@ -4107,7 +4096,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 50285
+      "adds": 48250
+    },
+    {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 176,
+      "adds": 44985
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 44560
+      "adds": 42712
     },
     {
       "id": "13545",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 43564
+      "adds": 41256
     },
     {
       "id": "11630",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 41814
+      "adds": 39609
     },
     {
       "id": "9482",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 40743
+      "adds": 39483
     },
     {
       "id": "7049",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 39872
+      "adds": 37793
     }
   ]
 }
