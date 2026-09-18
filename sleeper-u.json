@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-18T03:14:04.793Z",
+  "generated_at": "2026-09-18T03:27:10.135Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 25.5,
+      "points": 35.2,
       "starters": [
         {
           "id": "6797",
@@ -508,7 +508,7 @@
         0,
         0,
         0,
-        25.5,
+        35.2,
         0,
         0,
         0,
@@ -522,7 +522,7 @@
         "5045": 0,
         "5844": 0,
         "6797": 0,
-        "7547": 25.5,
+        "7547": 35.2,
         "7569": 0,
         "8676": 0,
         "9484": 0,
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 531540
+      "adds": 539244
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 211992
+      "adds": 214568
     },
     {
       "id": "3286",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 158298
+      "adds": 160650
     },
     {
       "id": "10218",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 155330
+      "adds": 157878
     },
     {
       "id": "2020",
@@ -3997,29 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 118748
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 97611
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 92020
+      "adds": 120540
     },
     {
       "id": "11637",
@@ -4030,18 +4008,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 91953
+      "adds": 104229
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 527,
-      "adds": 91616
+      "rank": 697,
+      "adds": 98778
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 93536
     },
     {
       "id": "4035",
@@ -4052,7 +4041,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 90904
+      "adds": 92256
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 92071
     },
     {
       "id": "11610",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 80256
+      "adds": 81200
     },
     {
       "id": "6931",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 65241
+      "adds": 65793
     },
     {
       "id": "12492",
@@ -4085,7 +4085,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 65080
+      "adds": 65720
     },
     {
       "id": "4066",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 460,
-      "adds": 60080
+      "adds": 61064
     },
     {
       "id": "6083",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 47640
+      "adds": 48215
     },
     {
       "id": "3321",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 45144
+      "adds": 45720
     },
     {
       "id": "9482",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 42543
+      "adds": 43326
     },
     {
       "id": "13545",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 40124
+      "adds": 40512
     },
     {
       "id": "13347",
@@ -4151,7 +4151,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 176,
-      "adds": 38556
+      "adds": 38844
     },
     {
       "id": "11630",
@@ -4162,7 +4162,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 38223
+      "adds": 38709
     }
   ]
 }
