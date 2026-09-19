@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T22:20:40.887Z",
+  "generated_at": "2026-09-19T22:30:40.886Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 347606
+      "adds": 330813
     },
     {
       "id": "11637",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 165150
+      "adds": 153315
     },
     {
       "id": "9482",
@@ -4013,18 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 141237
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 100494
+      "adds": 132849
     },
     {
       "id": "11630",
@@ -4035,7 +4024,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 94023
+      "adds": 93015
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 92223
     },
     {
       "id": "4035",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 80776
+      "adds": 76448
     },
     {
       "id": "2020",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 56014
+      "adds": 52864
     },
     {
       "id": "3286",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 44520
+      "adds": 41670
     },
     {
       "id": "12472",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 39464
+      "adds": 36696
     },
     {
       "id": "11610",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 31696
+      "adds": 29696
     },
     {
       "id": "4177",
@@ -4101,18 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 29934
-    },
-    {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 203,
-      "adds": 27603
+      "adds": 28005
     },
     {
       "id": "6931",
@@ -4123,7 +4112,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 26955
+      "adds": 25632
+    },
+    {
+      "id": "7571",
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 203,
+      "adds": 25600
     },
     {
       "id": "4993",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 24820
+      "adds": 22292
     },
     {
       "id": "3321",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 23664
+      "adds": 22288
     },
     {
       "id": "6650",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 22632
+      "adds": 21656
     },
     {
       "id": "12492",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 20848
+      "adds": 19480
     },
     {
       "id": "4066",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 462,
-      "adds": 19480
+      "adds": 17784
     },
     {
       "id": "6083",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17945
+      "adds": 16825
     },
     {
       "id": "13545",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 16052
+      "adds": 15096
     }
   ]
 }
