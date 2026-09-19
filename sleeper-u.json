@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T20:16:53.095Z",
+  "generated_at": "2026-09-19T20:28:32.099Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1965,7 +1965,7 @@
           "name": "Zay Flowers",
           "pos": "WR",
           "team": "BAL",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 40
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 371336
+      "adds": 386008
     },
     {
       "id": "11637",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 184932
+      "adds": 189045
     },
     {
       "id": "9482",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 140184
+      "adds": 143865
     },
     {
       "id": "6130",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 113634
+      "adds": 116280
     },
     {
       "id": "4035",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 84480
+      "adds": 86592
     },
     {
       "id": "11630",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 71847
+      "adds": 77346
     },
     {
       "id": "2020",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 58037
+      "adds": 59045
     },
     {
       "id": "3286",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 46944
+      "adds": 48600
     },
     {
       "id": "12472",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 43240
+      "adds": 44568
     },
     {
       "id": "11610",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 34672
+      "adds": 35968
     },
     {
       "id": "4177",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 33018
+      "adds": 34290
     },
     {
       "id": "4993",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 29300
+      "adds": 29876
     },
     {
       "id": "7571",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 28262
+      "adds": 29692
     },
     {
       "id": "6931",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 26361
+      "adds": 27498
     },
     {
       "id": "3321",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 24144
+      "adds": 24824
     },
     {
       "id": "6650",
@@ -4156,18 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 22488
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 462,
-      "adds": 21496
+      "adds": 22880
     },
     {
       "id": "12492",
@@ -4178,7 +4167,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 21280
+      "adds": 22216
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 462,
+      "adds": 21920
     },
     {
       "id": "6083",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 18475
+      "adds": 18810
     },
     {
       "id": "13545",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 16688
+      "adds": 16980
     }
   ]
 }
