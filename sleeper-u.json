@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-19T17:05:00.452Z",
+  "generated_at": "2026-09-19T17:17:34.571Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1849,16 +1849,6 @@
           "rank": 124
         },
         {
-          "id": "6819",
-          "name": "Michael Pittman",
-          "pos": "WR",
-          "team": "PIT",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 105
-        },
-        {
           "id": "7526",
           "name": "Jaylen Waddle",
           "pos": "WR",
@@ -1877,6 +1867,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 22
+        },
+        {
+          "id": "9486",
+          "name": "Dontayvion Wicks",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 204
         },
         {
           "id": "9509",
@@ -1931,6 +1931,16 @@
           "rank": 156
         },
         {
+          "id": "6819",
+          "name": "Michael Pittman",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 105
+        },
+        {
           "id": "8136",
           "name": "Rachaad White",
           "pos": "RB",
@@ -1949,16 +1959,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 133
-        },
-        {
-          "id": "9486",
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 204
         },
         {
           "id": "9997",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 327299
+      "adds": 339829
     },
     {
       "id": "11637",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 209070
+      "adds": 212247
     },
     {
       "id": "9482",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 129762
+      "adds": 133632
     },
     {
       "id": "6130",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 125865
+      "adds": 127998
     },
     {
       "id": "4035",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 95528
+      "adds": 97688
     },
     {
       "id": "2020",
@@ -4046,29 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 53634
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 49056
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 47712
+      "adds": 54838
     },
     {
       "id": "11630",
@@ -4079,7 +4057,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 46467
+      "adds": 52641
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 49872
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 49218
     },
     {
       "id": "4993",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 36168
+      "adds": 36780
     },
     {
       "id": "11610",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 34616
+      "adds": 35888
     },
     {
       "id": "4177",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 33522
+      "adds": 34536
     },
     {
       "id": "4066",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 462,
-      "adds": 26712
+      "adds": 27144
     },
     {
       "id": "6931",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 26199
+      "adds": 26886
     },
     {
       "id": "7571",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 24881
+      "adds": 25715
     },
     {
       "id": "3321",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 24784
+      "adds": 25264
     },
     {
       "id": "12492",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 20776
+      "adds": 21272
     },
     {
       "id": "6650",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 19136
+      "adds": 19608
     },
     {
       "id": "6083",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17340
+      "adds": 17755
     },
     {
       "id": "13545",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 15740
+      "adds": 16096
     }
   ]
 }
