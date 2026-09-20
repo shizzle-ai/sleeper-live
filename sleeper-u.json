@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T18:05:13.654Z",
+  "generated_at": "2026-09-20T18:21:15.889Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 43.84,
+      "points": 52.56,
       "starters": [
         {
           "id": "4046",
@@ -368,12 +368,12 @@
       "starters_points": [
         0,
         0,
-        7.3,
+        7.4,
         -0.3,
         0,
         22.5,
-        3.5,
-        1.84,
+        5.2,
+        8.76,
         0,
         9
       ],
@@ -381,16 +381,16 @@
         "1166": 0,
         "3451": 0,
         "4046": 0,
-        "4199": 3.5,
+        "4199": 5.2,
         "4217": 0,
-        "6770": 1.84,
+        "6770": 8.76,
         "8126": 0,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
         "11581": 10,
-        "11584": 7.3,
-        "11625": 3.5,
+        "11584": 7.4,
+        "11625": 5.9,
         "11631": 0,
         "12514": -0.3,
         "TB": 9
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 45.92,
+      "points": 49.18,
       "starters": [
         {
           "id": "6797",
@@ -510,14 +510,14 @@
         3.2,
         35.2,
         0,
-        0,
-        6,
-        2.52,
+        0.5,
+        8.3,
+        2.98,
         -1,
         0
       ],
       "players_points": {
-        "96": 2.52,
+        "96": 2.98,
         "1945": -1,
         "5045": 0,
         "5844": 1.7,
@@ -525,10 +525,10 @@
         "7547": 35.2,
         "7569": 0,
         "8676": 0,
-        "9484": 0,
+        "9484": 0.5,
         "9502": 0,
         "11624": 0,
-        "11834": 6,
+        "11834": 8.3,
         "12474": 3.6,
         "12507": 0,
         "12512": 3.2,
@@ -2316,7 +2316,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -2766,7 +2766,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 94
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 478709
+      "adds": 480312
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 327897
+      "adds": 328437
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 270216
+      "adds": 275661
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 173412
+      "adds": 176598
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 146816
+      "adds": 151704
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 124236
+      "adds": 127098
     },
     {
       "id": "12718",
@@ -4183,18 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 107280
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 93156
+      "adds": 108639
     },
     {
       "id": "9225",
@@ -4205,7 +4194,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 89726
+      "adds": 98889
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 93555
     },
     {
       "id": "3286",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 82974
+      "adds": 84144
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 61912
+      "adds": 62680
     },
     {
       "id": "11610",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 58976
+      "adds": 60016
     },
     {
       "id": "4177",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 47535
+      "adds": 47622
     },
     {
       "id": "6931",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 45309
+      "adds": 45366
     },
     {
       "id": "12472",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 42928
+      "adds": 42960
     },
     {
       "id": "7571",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 40320
+      "adds": 41375
     },
     {
       "id": "6083",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39925
+      "adds": 40650
     },
     {
       "id": "12487",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 38496
+      "adds": 38968
     },
     {
       "id": "12492",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 33928
+      "adds": 34456
     },
     {
       "id": "4993",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 29696
+      "adds": 29832
     }
   ]
 }
