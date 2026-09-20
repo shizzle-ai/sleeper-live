@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T15:40:31.965Z",
+  "generated_at": "2026-09-20T15:48:26.714Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -151,7 +151,7 @@
         "name": "Joe Burrow",
         "pos": "QB",
         "team": "CIN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 15
@@ -339,7 +339,7 @@
           "name": "Joe Burrow",
           "pos": "QB",
           "team": "CIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 15
@@ -1161,7 +1161,7 @@
           "name": "Chris Olave",
           "pos": "WR",
           "team": "NO",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 29
@@ -2626,7 +2626,7 @@
           "name": "Joe Burrow",
           "pos": "QB",
           "team": "CIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 15
@@ -3298,7 +3298,7 @@
         "name": "Tua Tagovailoa",
         "pos": "QB",
         "team": "ATL",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 237
@@ -4075,7 +4075,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 420980
+      "adds": 430444
     },
     {
       "id": "11630",
@@ -4086,7 +4086,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 268002
+      "adds": 276534
     },
     {
       "id": "9482",
@@ -4097,7 +4097,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 202500
+      "adds": 208143
     },
     {
       "id": "6130",
@@ -4108,7 +4108,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 130095
+      "adds": 134487
     },
     {
       "id": "11637",
@@ -4119,7 +4119,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 117891
+      "adds": 119385
     },
     {
       "id": "4035",
@@ -4130,7 +4130,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 104096
+      "adds": 106816
     },
     {
       "id": "2020",
@@ -4141,18 +4141,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 74669
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 67458
+      "adds": 76811
     },
     {
       "id": "12718",
@@ -4163,7 +4152,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 65034
+      "adds": 69678
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 69330
     },
     {
       "id": "11610",
@@ -4174,7 +4174,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 46024
+      "adds": 47136
     },
     {
       "id": "4177",
@@ -4185,7 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 40557
+      "adds": 41601
     },
     {
       "id": "6650",
@@ -4196,7 +4196,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 39560
+      "adds": 41312
     },
     {
       "id": "12472",
@@ -4207,7 +4207,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 38632
+      "adds": 39824
     },
     {
       "id": "6931",
@@ -4218,7 +4218,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 38163
+      "adds": 39462
     },
     {
       "id": "7571",
@@ -4229,7 +4229,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 35352
+      "adds": 36087
     },
     {
       "id": "12487",
@@ -4240,7 +4240,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 28056
+      "adds": 29032
     },
     {
       "id": "12492",
@@ -4251,7 +4251,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 27848
+      "adds": 28376
     },
     {
       "id": "6083",
@@ -4262,7 +4262,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 27025
+      "adds": 27965
     },
     {
       "id": "3321",
@@ -4273,7 +4273,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 26080
+      "adds": 26520
     },
     {
       "id": "4993",
@@ -4284,7 +4284,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 25760
+      "adds": 26452
     }
   ]
 }
