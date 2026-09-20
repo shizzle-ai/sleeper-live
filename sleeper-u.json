@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T17:30:43.367Z",
+  "generated_at": "2026-09-20T17:40:13.399Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 37.76,
+      "points": 38.46,
       "starters": [
         {
           "id": "4046",
@@ -372,7 +372,7 @@
         -0.3,
         0,
         22.5,
-        1.6,
+        2.3,
         1.16,
         0,
         7
@@ -381,16 +381,16 @@
         "1166": 0,
         "3451": 0,
         "4046": 0,
-        "4199": 1.6,
+        "4199": 2.3,
         "4217": 0,
         "6770": 1.16,
         "8126": 0,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
-        "11581": 0,
+        "11581": 1,
         "11584": 5.8,
-        "11625": 1.7,
+        "11625": 3.5,
         "11631": 0,
         "12514": -0.3,
         "TB": 7
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 38.1,
+      "points": 39,
       "starters": [
         {
           "id": "6797",
@@ -507,18 +507,18 @@
       "starters_points": [
         0,
         0,
-        1.9,
+        1.7,
         35.2,
         0,
         0,
-        0,
+        2.1,
         1,
-        0,
+        -1,
         0
       ],
       "players_points": {
         "96": 1,
-        "1945": 0,
+        "1945": -1,
         "5045": 0,
         "5844": 1.7,
         "6797": 0,
@@ -528,10 +528,10 @@
         "9484": 0,
         "9502": 0,
         "11624": 0,
-        "11834": 0,
-        "12474": 0,
+        "11834": 2.1,
+        "12474": 2,
         "12507": 0,
-        "12512": 1.9,
+        "12512": 1.7,
         "13414": 0,
         "DEN": 0
       }
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 476469
+      "adds": 477218
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 326538
+      "adds": 327006
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 260550
+      "adds": 263601
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 168381
+      "adds": 169857
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 132912
+      "adds": 136360
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 119556
+      "adds": 120870
     },
     {
       "id": "12718",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 105111
+      "adds": 105822
     },
     {
       "id": "2020",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 92407
+      "adds": 92624
     },
     {
       "id": "3286",
@@ -4205,73 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 81234
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 60784
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 178,
-      "adds": 57112
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 47328
-    },
-    {
-      "id": "6931",
-      "name": "DeeJay Dallas",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 677,
-      "adds": 45222
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 42712
-    },
-    {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 203,
-      "adds": 40240
+      "adds": 81702
     },
     {
       "id": "9225",
@@ -4282,7 +4216,73 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 39858
+      "adds": 69083
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 61160
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 178,
+      "adds": 57800
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 47385
+    },
+    {
+      "id": "6931",
+      "name": "DeeJay Dallas",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 677,
+      "adds": 45234
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 42744
+    },
+    {
+      "id": "7571",
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 203,
+      "adds": 40264
     },
     {
       "id": "6083",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 38450
+      "adds": 38965
     },
     {
       "id": "12487",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 37832
+      "adds": 38056
     },
     {
       "id": "12492",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 32992
+      "adds": 33360
     },
     {
       "id": "4993",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 29512
+      "adds": 29556
     }
   ]
 }
