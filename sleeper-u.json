@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T21:31:26.520Z",
+  "generated_at": "2026-09-20T21:41:28.229Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 93.14,
+      "points": 94.84,
       "starters": [
         {
           "id": "6797",
@@ -506,7 +506,7 @@
       ],
       "starters_points": [
         2.36,
-        14.1,
+        15.8,
         9.8,
         35.2,
         1.8,
@@ -530,7 +530,7 @@
         "11624": 0,
         "11834": 11.4,
         "12474": 8.5,
-        "12507": 14.1,
+        "12507": 15.8,
         "12512": 9.8,
         "13414": 0.5,
         "DEN": 6
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 396102
+      "adds": 396760
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 308493
+      "adds": 309024
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 293283
+      "adds": 293679
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 205416
+      "adds": 207171
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 150448
+      "adds": 151248
     },
     {
       "id": "9225",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 138488
+      "adds": 140469
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 125991
+      "adds": 127746
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 120267
+      "adds": 121212
     },
     {
       "id": "2505",
@@ -4205,18 +4205,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 107298
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 86748
+      "adds": 111411
     },
     {
       "id": "11256",
@@ -4227,7 +4216,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 86328
+      "adds": 88986
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 86958
     },
     {
       "id": "2020",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 81032
+      "adds": 81102
     },
     {
       "id": "6650",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 74704
+      "adds": 76184
     },
     {
       "id": "11610",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 65368
+      "adds": 65824
     },
     {
       "id": "6083",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42635
+      "adds": 42890
     },
     {
       "id": "6931",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 41823
+      "adds": 41895
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 40358
+      "adds": 40732
     },
     {
       "id": "4177",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 39435
+      "adds": 39468
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 38800
+      "adds": 39104
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 36824
+      "adds": 36848
     }
   ]
 }
