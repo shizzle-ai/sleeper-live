@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T16:58:15.323Z",
+  "generated_at": "2026-09-20T17:09:44.498Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 22.5,
+      "points": 33.54,
       "starters": [
         {
           "id": "4046",
@@ -372,18 +372,18 @@
         0,
         0,
         22.5,
+        0.8,
+        0.24,
         0,
-        0,
-        0,
-        0
+        10
       ],
       "players_points": {
         "1166": 0,
         "3451": 0,
         "4046": 0,
-        "4199": 0,
+        "4199": 0.8,
         "4217": 0,
-        "6770": 0,
+        "6770": 0.24,
         "8126": 0,
         "8150": 0,
         "9493": 0,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11631": 0,
         "12514": 0,
-        "TB": 0
+        "TB": 10
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 35.2,
+      "points": 35.4,
       "starters": [
         {
           "id": "6797",
@@ -507,7 +507,7 @@
       "starters_points": [
         0,
         0,
-        0,
+        0.2,
         35.2,
         0,
         0,
@@ -520,7 +520,7 @@
         "96": 0,
         "1945": 0,
         "5045": 0,
-        "5844": 0,
+        "5844": 1.7,
         "6797": 0,
         "7547": 35.2,
         "7569": 0,
@@ -531,7 +531,7 @@
         "11834": 0,
         "12474": 0,
         "12507": 0,
-        "12512": 0,
+        "12512": 0.2,
         "13414": 0,
         "DEN": 0
       }
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 500864
+      "adds": 504189
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 336177
+      "adds": 338211
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 256185
+      "adds": 263772
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 168534
+      "adds": 171783
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 130792
+      "adds": 132912
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 125865
+      "adds": 126927
     },
     {
       "id": "12718",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 101538
+      "adds": 103905
     },
     {
       "id": "2020",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 94962
+      "adds": 95998
     },
     {
       "id": "3286",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 82038
+      "adds": 83424
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 60416
+      "adds": 61384
     },
     {
       "id": "11610",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 57280
+      "adds": 58528
     },
     {
       "id": "4177",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 49230
+      "adds": 49599
     },
     {
       "id": "6931",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 46686
+      "adds": 46974
     },
     {
       "id": "12472",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 44712
+      "adds": 44944
     },
     {
       "id": "7571",
@@ -4271,18 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 41892
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 37272
+      "adds": 42151
     },
     {
       "id": "6083",
@@ -4293,7 +4282,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37085
+      "adds": 38500
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 38008
     },
     {
       "id": "12492",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 33160
+      "adds": 33680
     },
     {
       "id": "4993",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 30912
+      "adds": 31124
     },
     {
       "id": "3321",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 28928
+      "adds": 29168
     }
   ]
 }
