@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T19:59:31.079Z",
+  "generated_at": "2026-09-20T20:12:32.812Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 68.88,
+      "points": 80.72,
       "starters": [
         {
           "id": "6797",
@@ -505,8 +505,8 @@
         }
       ],
       "starters_points": [
-        0,
-        0,
+        0.64,
+        1.2,
         9.8,
         35.2,
         0,
@@ -514,14 +514,14 @@
         11.4,
         4.98,
         4,
-        0
+        10
       ],
       "players_points": {
         "96": 4.98,
         "1945": 4,
         "5045": 0,
         "5844": 5.9,
-        "6797": 0,
+        "6797": 0.64,
         "7547": 35.2,
         "7569": 0,
         "8676": 0,
@@ -529,11 +529,11 @@
         "9502": 0,
         "11624": 0,
         "11834": 11.4,
-        "12474": 6.7,
-        "12507": 0,
+        "12474": 8.5,
+        "12507": 1.2,
         "12512": 9.8,
         "13414": 0,
-        "DEN": 0
+        "DEN": 10
       }
     }
   },
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 454167
+      "adds": 455357
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 320895
+      "adds": 323775
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 315693
+      "adds": 316341
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 203769
+      "adds": 207099
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 156264
+      "adds": 157248
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 129141
+      "adds": 131598
     },
     {
       "id": "9225",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 122584
+      "adds": 124887
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 117423
+      "adds": 118899
     },
     {
       "id": "3286",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 89940
+      "adds": 91380
     },
     {
       "id": "2020",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 87339
+      "adds": 87423
     },
     {
       "id": "2505",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 76824
+      "adds": 82611
     },
     {
       "id": "6650",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 67768
+      "adds": 69336
     },
     {
       "id": "11610",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 67032
+      "adds": 68608
     },
     {
       "id": "11256",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 55710
+      "adds": 65796
     },
     {
       "id": "6931",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 45693
+      "adds": 45855
     },
     {
       "id": "4177",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 44568
+      "adds": 44610
     },
     {
       "id": "6083",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43795
+      "adds": 44240
     },
     {
       "id": "7571",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42968
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 40416
+      "adds": 43542
     },
     {
       "id": "12487",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 40184
+      "adds": 40968
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 40424
     }
   ]
 }
