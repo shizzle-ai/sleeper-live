@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T20:24:28.264Z",
+  "generated_at": "2026-09-20T20:34:25.097Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 81.24,
+      "points": 82.24,
       "starters": [
         {
           "id": "6797",
@@ -514,7 +514,7 @@
         11.4,
         4.98,
         4,
-        10
+        11
       ],
       "players_points": {
         "96": 4.98,
@@ -533,7 +533,7 @@
         "12507": 1,
         "12512": 9.8,
         "13414": 0,
-        "DEN": 10
+        "DEN": 11
       }
     }
   },
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 456253
+      "adds": 422023
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 324675
+      "adds": 314730
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 316755
+      "adds": 305676
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 209232
+      "adds": 203346
     },
     {
       "id": "4035",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 158008
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 133497
+      "adds": 152504
     },
     {
       "id": "9225",
@@ -4183,7 +4172,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 126581
+      "adds": 127351
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 125136
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 120060
+      "adds": 117486
     },
     {
       "id": "3286",
@@ -4205,18 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 92328
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 87500
+      "adds": 88836
     },
     {
       "id": "2505",
@@ -4227,18 +4216,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 86652
+      "adds": 88641
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
+      "id": "2020",
+      "name": "Cairo Santos",
       "pos": "K",
-      "team": "TB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 199,
-      "adds": 70792
+      "rank": 190,
+      "adds": 83377
     },
     {
       "id": "11256",
@@ -4249,7 +4238,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 70362
+      "adds": 73362
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 69664
     },
     {
       "id": "11610",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 69488
+      "adds": 66496
     },
     {
       "id": "6931",
@@ -4271,18 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 45960
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 44628
+      "adds": 43638
     },
     {
       "id": "6083",
@@ -4293,7 +4282,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 44330
+      "adds": 43170
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 41898
     },
     {
       "id": "7571",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 43983
+      "adds": 40923
     },
     {
       "id": "12487",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 41408
+      "adds": 39328
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 40432
+      "depth": 3,
+      "rank": 172,
+      "adds": 38536
     }
   ]
 }
