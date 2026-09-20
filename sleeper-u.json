@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T23:08:02.716Z",
+  "generated_at": "2026-09-20T23:19:31.374Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -378,7 +378,7 @@
         2
       ],
       "players_points": {
-        "1166": 21.52,
+        "1166": 21.22,
         "3451": 6,
         "4046": 0,
         "4199": 10.5,
@@ -1193,7 +1193,7 @@
           "name": "Jadarian Price",
           "pos": "RB",
           "team": "SEA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 54
@@ -1203,7 +1203,7 @@
           "name": "Caleb Douglas",
           "pos": "WR",
           "team": "MIA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 198
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 382347
+      "adds": 383656
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 305658
+      "adds": 306360
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 287019
+      "adds": 287910
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 220734
+      "adds": 224352
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 162148
+      "adds": 166313
     },
     {
       "id": "4035",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 153808
+      "adds": 154976
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 142929
+      "adds": 146925
     },
     {
       "id": "2505",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 140328
+      "adds": 145179
     },
     {
       "id": "12718",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 127206
+      "adds": 128916
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 112110
+      "adds": 115290
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 92352
+      "adds": 96032
     },
     {
       "id": "3286",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 84288
+      "adds": 84330
     },
     {
       "id": "2020",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 79135
+      "adds": 79219
     },
     {
       "id": "11610",
@@ -4260,51 +4260,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 66696
+      "adds": 67096
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 43945
-    },
-    {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 203,
-      "adds": 42775
-    },
-    {
-      "id": "6931",
-      "name": "DeeJay Dallas",
+      "id": "11435",
+      "name": "Emanuel Wilson",
       "pos": "RB",
-      "team": "MIN",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 677,
-      "adds": 41064
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 40968
+      "depth": 3,
+      "rank": 161,
+      "adds": 48177
     },
     {
       "id": "2307",
@@ -4315,18 +4282,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 40476
+      "adds": 47404
     },
     {
-      "id": "4177",
-      "name": "Mack Hollins",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 44460
+    },
+    {
+      "id": "7571",
+      "name": "Rashod Bateman",
       "pos": "WR",
-      "team": "NE",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 203,
+      "adds": 43488
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 697,
-      "adds": 37755
+      "rank": 141,
+      "adds": 41664
+    },
+    {
+      "id": "6931",
+      "name": "DeeJay Dallas",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 677,
+      "adds": 41214
     }
   ]
 }
