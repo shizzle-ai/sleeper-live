@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T20:57:51.461Z",
+  "generated_at": "2026-09-20T21:09:08.465Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 77.74,
+      "points": 91.82,
       "starters": [
         {
           "id": "6797",
@@ -505,8 +505,8 @@
         }
       ],
       "starters_points": [
-        0.36,
-        1.7,
+        1.84,
+        13.3,
         9.8,
         35.2,
         1.8,
@@ -514,26 +514,26 @@
         11.4,
         4.98,
         4,
-        5
+        6
       ],
       "players_points": {
         "96": 4.98,
         "1945": 4,
         "5045": 1.8,
         "5844": 5.9,
-        "6797": 0.36,
+        "6797": 1.84,
         "7547": 35.2,
         "7569": 0,
-        "8676": 0,
+        "8676": 4.7,
         "9484": 3.5,
         "9502": 0,
         "11624": 0,
         "11834": 11.4,
         "12474": 8.5,
-        "12507": 1.7,
+        "12507": 13.3,
         "12512": 9.8,
         "13414": 0.5,
-        "DEN": 5
+        "DEN": 6
       }
     }
   },
@@ -3856,7 +3856,7 @@
         "name": "David Njoku",
         "pos": "TE",
         "team": "LAC",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 131
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 423668
+      "adds": 424557
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 316071
+      "adds": 316692
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 306576
+      "adds": 306972
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 207378
+      "adds": 209313
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 153920
+      "adds": 154800
     },
     {
       "id": "9225",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 131635
+      "adds": 134764
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 129339
+      "adds": 131445
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 119457
+      "adds": 120393
     },
     {
       "id": "2505",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 96165
+      "adds": 99711
     },
     {
       "id": "3286",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 89598
+      "adds": 89868
     },
     {
       "id": "2020",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 83552
+      "adds": 83594
     },
     {
       "id": "11256",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 79566
+      "adds": 82158
     },
     {
       "id": "6650",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 72208
+      "adds": 73272
     },
     {
       "id": "11610",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 66944
+      "adds": 67192
     },
     {
       "id": "6931",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 43821
+      "adds": 43890
     },
     {
       "id": "6083",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43315
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 41973
+      "adds": 43350
     },
     {
       "id": "7571",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 41723
+      "adds": 42095
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 41991
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 39984
+      "adds": 40264
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 38640
+      "adds": 38672
     }
   ]
 }
