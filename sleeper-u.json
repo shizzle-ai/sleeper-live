@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T21:57:18.629Z",
+  "generated_at": "2026-09-20T22:08:15.211Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -378,11 +378,11 @@
         2
       ],
       "players_points": {
-        "1166": 9.36,
+        "1166": 15.84,
         "3451": 6,
         "4046": 0,
         "4199": 10.5,
-        "4217": 13.2,
+        "4217": 14.4,
         "6770": 16.18,
         "8126": 1.9,
         "8150": 0,
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 106.08,
+      "points": 108.08,
       "starters": [
         {
           "id": "6797",
@@ -514,7 +514,7 @@
         11.4,
         4.98,
         4,
-        6
+        8
       ],
       "players_points": {
         "96": 4.98,
@@ -532,8 +532,8 @@
         "12474": 8.5,
         "12507": 18.4,
         "12512": 9.8,
-        "13414": 0.5,
-        "DEN": 6
+        "13414": 1,
+        "DEN": 8
       }
     }
   },
@@ -1081,7 +1081,7 @@
           "name": "Jayden Daniels",
           "pos": "QB",
           "team": "WAS",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -3856,7 +3856,7 @@
         "name": "David Njoku",
         "pos": "TE",
         "team": "LAC",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 131
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 397656
+      "adds": 398496
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 309591
+      "adds": 310167
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 294300
+      "adds": 294831
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 209817
+      "adds": 212067
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 152192
+      "adds": 153072
     },
     {
       "id": "9225",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 143605
+      "adds": 146006
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 130545
+      "adds": 133101
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 122193
+      "adds": 123129
     },
     {
       "id": "2505",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 116109
+      "adds": 119547
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 91980
+      "adds": 97314
     },
     {
       "id": "3286",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 87108
+      "adds": 87222
     },
     {
       "id": "2020",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 81256
+      "adds": 81333
     },
     {
       "id": "6650",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 78368
+      "adds": 79792
     },
     {
       "id": "11610",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 66408
+      "adds": 66864
     },
     {
       "id": "6083",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43050
+      "adds": 43190
     },
     {
       "id": "6931",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 42015
+      "adds": 42090
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 41281
+      "adds": 41702
     },
     {
       "id": "12487",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 39544
+      "adds": 39896
     },
     {
       "id": "4177",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 39510
+      "adds": 39555
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 36912
+      "adds": 36944
     }
   ]
 }
