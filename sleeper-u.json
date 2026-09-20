@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T18:52:09.045Z",
+  "generated_at": "2026-09-20T18:59:28.824Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 60.16,
+      "points": 70.44,
       "starters": [
         {
           "id": "4046",
@@ -369,11 +369,11 @@
         0,
         0,
         9.9,
-        1.4,
+        8.9,
         0,
         22.5,
-        5.2,
-        9.16,
+        7.5,
+        9.64,
         3,
         9
       ],
@@ -381,18 +381,18 @@
         "1166": 0,
         "3451": 3,
         "4046": 0,
-        "4199": 5.2,
+        "4199": 7.5,
         "4217": 0,
-        "6770": 9.16,
-        "8126": 0,
+        "6770": 9.64,
+        "8126": 1.9,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
-        "11581": 10,
+        "11581": 10.3,
         "11584": 9.9,
-        "11625": 10.1,
+        "11625": 10.2,
         "11631": 0,
-        "12514": 1.4,
+        "12514": 8.9,
         "TB": 9
       }
     },
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 56.06,
+      "points": 56.36,
       "starters": [
         {
           "id": "6797",
@@ -507,17 +507,17 @@
       "starters_points": [
         0,
         0,
-        3.2,
+        3.3,
         35.2,
         0,
         1.5,
         8.3,
-        3.86,
+        4.06,
         4,
         0
       ],
       "players_points": {
-        "96": 3.86,
+        "96": 4.06,
         "1945": 4,
         "5045": 0,
         "5844": 1.7,
@@ -531,7 +531,7 @@
         "11834": 8.3,
         "12474": 4.3,
         "12507": 0,
-        "12512": 3.2,
+        "12512": 3.3,
         "13414": 0,
         "DEN": 0
       }
@@ -1384,7 +1384,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 23
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 465738
+      "adds": 466438
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 319626
+      "adds": 319896
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 289620
+      "adds": 295263
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 185265
+      "adds": 188226
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 152360
+      "adds": 153160
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 124695
+      "adds": 125955
     },
     {
       "id": "12718",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 112986
+      "adds": 114192
     },
     {
       "id": "9225",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 111587
+      "adds": 113008
     },
     {
       "id": "2020",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 90167
+      "adds": 90230
     },
     {
       "id": "3286",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 85248
+      "adds": 86184
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 63048
+      "adds": 63664
     },
     {
       "id": "11610",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 62072
+      "adds": 62928
     },
     {
       "id": "4177",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 45918
+      "adds": 45963
     },
     {
       "id": "6931",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 43950
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 41480
+      "adds": 44214
     },
     {
       "id": "6083",
@@ -4282,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 41305
+      "adds": 41795
     },
     {
       "id": "7571",
@@ -4293,7 +4282,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 41177
+      "adds": 41653
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 41520
     },
     {
       "id": "12487",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 40088
+      "adds": 40656
     },
     {
       "id": "12492",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35928
+      "adds": 36648
     },
     {
       "id": "4066",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 462,
-      "adds": 29232
+      "adds": 29912
     }
   ]
 }
