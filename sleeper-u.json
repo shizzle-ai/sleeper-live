@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T22:20:42.464Z",
+  "generated_at": "2026-09-20T22:30:49.050Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -378,7 +378,7 @@
         2
       ],
       "players_points": {
-        "1166": 16.4,
+        "1166": 16.68,
         "3451": 6,
         "4046": 0,
         "4199": 10.5,
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 108.4,
+      "points": 110.8,
       "starters": [
         {
           "id": "6797",
@@ -506,10 +506,10 @@
       ],
       "starters_points": [
         9.32,
-        18.4,
+        19,
         9.8,
         35.2,
-        3.8,
+        5.6,
         3.5,
         11.4,
         4.98,
@@ -519,18 +519,18 @@
       "players_points": {
         "96": 4.98,
         "1945": 4,
-        "5045": 3.8,
+        "5045": 5.6,
         "5844": 5.9,
         "6797": 9.32,
         "7547": 35.2,
         "7569": 0,
-        "8676": 4.7,
+        "8676": 6.5,
         "9484": 3.5,
         "9502": 0,
         "11624": 0,
         "11834": 11.4,
         "12474": 8.5,
-        "12507": 18.4,
+        "12507": 19,
         "12512": 9.8,
         "13414": 1,
         "DEN": 8
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 399427
+      "adds": 378945
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 310842
+      "adds": 303840
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 295335
+      "adds": 285084
     },
     {
       "id": "6130",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 214434
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 154072
+      "adds": 211104
     },
     {
       "id": "9225",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 148610
+      "adds": 150843
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 150248
     },
     {
       "id": "11637",
@@ -4183,18 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 135954
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 124164
+      "adds": 131391
     },
     {
       "id": "2505",
@@ -4205,7 +4194,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 123462
+      "adds": 126504
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 123120
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 101430
+      "adds": 103896
     },
     {
       "id": "3286",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 87336
+      "adds": 83964
     },
     {
       "id": "6650",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 81560
+      "adds": 82480
     },
     {
       "id": "2020",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 81403
+      "adds": 78932
     },
     {
       "id": "11610",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 67264
+      "adds": 65616
     },
     {
       "id": "6083",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43415
+      "adds": 42705
     },
     {
       "id": "7571",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42206
+      "adds": 40890
     },
     {
       "id": "6931",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 42180
+      "adds": 40746
     },
     {
       "id": "12487",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 40360
+      "adds": 39400
     },
     {
       "id": "4177",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 39591
+      "adds": 37644
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
       "team": "DEN",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 36968
+      "depth": 1,
+      "rank": 462,
+      "adds": 36240
     }
   ]
 }
