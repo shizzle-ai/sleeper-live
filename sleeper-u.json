@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T19:52:21.529Z",
+  "generated_at": "2026-09-20T19:59:31.079Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -141,7 +141,7 @@
         "name": "Aaron Jones",
         "pos": "RB",
         "team": "MIN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 85
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 78.58,
+      "points": 79.68,
       "starters": [
         {
           "id": "4046",
@@ -329,7 +329,7 @@
           "name": "Aaron Jones",
           "pos": "RB",
           "team": "MIN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 85
@@ -368,7 +368,7 @@
       "starters_points": [
         0,
         0,
-        11,
+        12.1,
         10.3,
         0,
         22.5,
@@ -389,8 +389,8 @@
         "9493": 0,
         "10236": 22.5,
         "11581": 10.6,
-        "11584": 11,
-        "11625": 10.2,
+        "11584": 12.1,
+        "11625": 12.3,
         "11631": 0,
         "12514": 10.3,
         "TB": 2
@@ -2616,7 +2616,7 @@
           "name": "Aaron Jones",
           "pos": "RB",
           "team": "MIN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 85
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 453614
+      "adds": 454167
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 318474
+      "adds": 320895
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 315315
+      "adds": 315693
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 201960
+      "adds": 203769
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 155600
+      "adds": 156264
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 127935
+      "adds": 129141
     },
     {
       "id": "9225",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 121562
+      "adds": 122584
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 116694
+      "adds": 117423
     },
     {
       "id": "3286",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 89334
+      "adds": 89940
     },
     {
       "id": "2020",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 87283
+      "adds": 87339
     },
     {
       "id": "2505",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 74205
+      "adds": 76824
     },
     {
       "id": "6650",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 67008
+      "adds": 67768
     },
     {
       "id": "11610",
@@ -4249,29 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 66264
-    },
-    {
-      "id": "6931",
-      "name": "DeeJay Dallas",
-      "pos": "RB",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 677,
-      "adds": 45546
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 44535
+      "adds": 67032
     },
     {
       "id": "11256",
@@ -4282,7 +4260,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 43674
+      "adds": 55710
+    },
+    {
+      "id": "6931",
+      "name": "DeeJay Dallas",
+      "pos": "RB",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 677,
+      "adds": 45693
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 44568
     },
     {
       "id": "6083",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43450
+      "adds": 43795
     },
     {
       "id": "7571",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42662
+      "adds": 42968
     },
     {
       "id": "12472",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 40392
+      "adds": 40416
     },
     {
       "id": "12487",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 39936
+      "adds": 40184
     }
   ]
 }
