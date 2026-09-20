@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T15:56:03.644Z",
+  "generated_at": "2026-09-20T16:06:50.100Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2461,10 +2461,10 @@
           "rank": 3
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
+          "id": "LAC",
+          "name": "Los Angeles Chargers",
           "pos": "DEF",
-          "team": "MIN",
+          "team": "LAC",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2932,6 +2932,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1407430220239089664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789920022596,
+      "adds": [
+        {
+          "player": {
+            "id": "LAC",
+            "name": "Los Angeles Chargers",
+            "pos": "DEF",
+            "team": "LAC",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "MIN",
+            "name": "Minnesota Vikings",
+            "pos": "DEF",
+            "team": "MIN",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1407418510233096192",
       "type": "free_agent",
@@ -4044,20 +4086,20 @@
         "rank": null
       },
       {
-        "id": "LAC",
-        "name": "Los Angeles Chargers",
+        "id": "CLE",
+        "name": "Cleveland Browns",
         "pos": "DEF",
-        "team": "LAC",
+        "team": "CLE",
         "injury": null,
         "status": null,
         "depth": null,
         "rank": null
       },
       {
-        "id": "CLE",
-        "name": "Cleveland Browns",
+        "id": "ATL",
+        "name": "Atlanta Falcons",
         "pos": "DEF",
-        "team": "CLE",
+        "team": "ATL",
         "injury": null,
         "status": null,
         "depth": null,
@@ -4075,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 438998
+      "adds": 455504
     },
     {
       "id": "11630",
@@ -4086,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 283311
+      "adds": 294534
     },
     {
       "id": "9482",
@@ -4097,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 213201
+      "adds": 221238
     },
     {
       "id": "6130",
@@ -4108,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 138555
+      "adds": 144855
     },
     {
       "id": "11637",
@@ -4119,7 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 120645
+      "adds": 122985
     },
     {
       "id": "4035",
@@ -4130,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 109104
+      "adds": 112792
     },
     {
       "id": "2020",
@@ -4141,7 +4183,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 78575
+      "adds": 81515
     },
     {
       "id": "12718",
@@ -4152,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 73953
+      "adds": 78948
     },
     {
       "id": "3286",
@@ -4163,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 70998
+      "adds": 73626
     },
     {
       "id": "11610",
@@ -4174,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 48288
+      "adds": 50016
     },
     {
       "id": "6650",
@@ -4185,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 42880
+      "adds": 45232
     },
     {
       "id": "4177",
@@ -4196,18 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 42465
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 40536
+      "adds": 44001
     },
     {
       "id": "6931",
@@ -4218,7 +4249,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 40521
+      "adds": 41925
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 41712
     },
     {
       "id": "7571",
@@ -4229,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 36769
+      "adds": 37800
     },
     {
       "id": "12487",
@@ -4240,18 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 30048
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 28816
+      "adds": 31240
     },
     {
       "id": "6083",
@@ -4262,7 +4293,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 28710
+      "adds": 30220
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 29728
     },
     {
       "id": "4993",
@@ -4273,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 26948
+      "adds": 27732
     },
     {
       "id": "3321",
@@ -4284,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 26920
+      "adds": 27368
     }
   ]
 }
