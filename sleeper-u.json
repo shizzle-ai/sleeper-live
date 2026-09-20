@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T17:21:01.446Z",
+  "generated_at": "2026-09-20T17:30:43.367Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 30.56,
+      "points": 37.76,
       "starters": [
         {
           "id": "4046",
@@ -368,12 +368,12 @@
       "starters_points": [
         0,
         0,
-        0,
+        5.8,
         -0.3,
         0,
         22.5,
-        0.8,
-        0.56,
+        1.6,
+        1.16,
         0,
         7
       ],
@@ -381,16 +381,16 @@
         "1166": 0,
         "3451": 0,
         "4046": 0,
-        "4199": 0.8,
+        "4199": 1.6,
         "4217": 0,
-        "6770": 0.56,
+        "6770": 1.16,
         "8126": 0,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
         "11581": 0,
-        "11584": 0,
-        "11625": 0,
+        "11584": 5.8,
+        "11625": 1.7,
         "11631": 0,
         "12514": -0.3,
         "TB": 7
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 37.1,
+      "points": 38.1,
       "starters": [
         {
           "id": "6797",
@@ -512,12 +512,12 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
       "players_points": {
-        "96": 0,
+        "96": 1,
         "1945": 0,
         "5045": 0,
         "5844": 1.7,
@@ -1131,7 +1131,7 @@
           "name": "Saquon Barkley",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 11
@@ -1734,7 +1734,7 @@
           "name": "Jayden Reed",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 99
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 504868
+      "adds": 476469
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 338634
+      "adds": 326538
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 267363
+      "adds": 260550
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 173205
+      "adds": 168381
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 137424
+      "adds": 132912
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 127737
+      "adds": 119556
     },
     {
       "id": "12718",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 104679
+      "adds": 105111
     },
     {
       "id": "2020",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 96054
+      "adds": 92407
     },
     {
       "id": "3286",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 83958
+      "adds": 81234
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 61776
+      "adds": 60784
     },
     {
       "id": "11610",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 59088
+      "adds": 57112
     },
     {
       "id": "4177",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 49668
+      "adds": 47328
     },
     {
       "id": "6931",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 47001
+      "adds": 45222
     },
     {
       "id": "12472",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 45048
+      "adds": 42712
     },
     {
       "id": "7571",
@@ -4271,7 +4271,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42186
+      "adds": 40240
+    },
+    {
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 147,
+      "adds": 39858
     },
     {
       "id": "6083",
@@ -4282,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39180
+      "adds": 38450
     },
     {
       "id": "12487",
@@ -4293,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 38248
+      "adds": 37832
     },
     {
       "id": "12492",
@@ -4304,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 34024
+      "adds": 32992
     },
     {
       "id": "4993",
@@ -4315,18 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 31168
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 145,
-      "adds": 29336
+      "adds": 29512
     }
   ]
 }
