@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T19:10:59.221Z",
+  "generated_at": "2026-09-20T19:20:45.562Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 66.9,
+      "points": 68.76,
       "starters": [
         {
           "id": "4046",
@@ -368,14 +368,14 @@
       "starters_points": [
         0,
         0,
-        9.9,
+        9.4,
         8.9,
         0,
         22.5,
         7.8,
-        9.8,
+        15.16,
         2,
-        6
+        3
       ],
       "players_points": {
         "1166": 0,
@@ -383,17 +383,17 @@
         "4046": 0,
         "4199": 7.8,
         "4217": 0,
-        "6770": 9.8,
+        "6770": 15.16,
         "8126": 1.9,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
         "11581": 10.4,
-        "11584": 9.9,
+        "11584": 9.4,
         "11625": 10.2,
         "11631": 0,
         "12514": 8.9,
-        "TB": 6
+        "TB": 3
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 56.94,
+      "points": 57.46,
       "starters": [
         {
           "id": "6797",
@@ -512,12 +512,12 @@
         0,
         1.5,
         8.3,
-        4.14,
+        4.66,
         4,
         0
       ],
       "players_points": {
-        "96": 4.14,
+        "96": 4.66,
         "1945": 4,
         "5045": 0,
         "5844": 1.7,
@@ -1012,7 +1012,7 @@
           "name": "Kaelon Black",
           "pos": "RB",
           "team": "SF",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 161
@@ -3360,7 +3360,7 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 285
@@ -3988,7 +3988,7 @@
         "name": "Eddy Pineiro",
         "pos": "K",
         "team": "SF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 174
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 467740
+      "adds": 468748
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 320382
+      "adds": 320679
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 308718
+      "adds": 314379
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 195192
+      "adds": 198918
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 154560
+      "adds": 156376
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 127575
+      "adds": 129204
     },
     {
       "id": "12718",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 115704
+      "adds": 116955
     },
     {
       "id": "9225",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 114639
+      "adds": 116067
     },
     {
       "id": "2020",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 90412
+      "adds": 90517
     },
     {
       "id": "3286",
@@ -4216,18 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 87660
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 64576
+      "adds": 88614
     },
     {
       "id": "11610",
@@ -4238,7 +4227,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 64264
+      "adds": 65344
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 65304
     },
     {
       "id": "2505",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 50157
+      "adds": 59472
     },
     {
       "id": "4177",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 46014
+      "adds": 46047
     },
     {
       "id": "6931",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 44352
+      "adds": 44415
     },
     {
       "id": "6083",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42460
+      "adds": 43045
     },
     {
       "id": "7571",
@@ -4293,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42104
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 41608
+      "adds": 42477
     },
     {
       "id": "12487",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 41600
+      "adds": 42096
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 41664
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 37624
+      "adds": 38328
     }
   ]
 }
