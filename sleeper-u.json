@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T00:17:03.194Z",
+  "generated_at": "2026-09-20T00:37:27.324Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2884,14 +2884,14 @@
           "rank": 109
         },
         {
-          "id": "2306",
-          "name": "Jameis Winston",
+          "id": "1373",
+          "name": "Geno Smith",
           "pos": "QB",
-          "team": "NYG",
+          "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 495
+          "depth": 1,
+          "rank": 215
         },
         {
           "id": "6806",
@@ -2932,6 +2932,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1407195840430325761",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789864142095,
+      "adds": [
+        {
+          "player": {
+            "id": "1373",
+            "name": "Geno Smith",
+            "pos": "QB",
+            "team": "NYJ",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 215
+          },
+          "roster_id": 12,
+          "team": "City of Brotherly Shove"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "2306",
+            "name": "Jameis Winston",
+            "pos": "QB",
+            "team": "NYG",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 495
+          },
+          "roster_id": 12,
+          "team": "City of Brotherly Shove"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1406815111015907328",
       "type": "free_agent",
@@ -3190,16 +3232,6 @@
         "rank": 176
       },
       {
-        "id": "1373",
-        "name": "Geno Smith",
-        "pos": "QB",
-        "team": "NYJ",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 215
-      },
-      {
         "id": "11565",
         "name": "J.J. McCarthy",
         "pos": "QB",
@@ -3288,6 +3320,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 393
+      },
+      {
+        "id": "7527",
+        "name": "Mac Jones",
+        "pos": "QB",
+        "team": "SF",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 406
       }
     ],
     "RB": [
@@ -3991,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 340452
+      "adds": 331275
     },
     {
       "id": "11637",
@@ -4002,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 151893
+      "adds": 141246
     },
     {
       "id": "9482",
@@ -4013,7 +4055,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 136107
+      "adds": 131283
     },
     {
       "id": "11630",
@@ -4024,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 105408
+      "adds": 106155
     },
     {
       "id": "6130",
@@ -4035,7 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 91620
+      "adds": 87498
     },
     {
       "id": "4035",
@@ -4046,7 +4088,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 78896
+      "adds": 76648
     },
     {
       "id": "2020",
@@ -4057,7 +4099,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 53802
+      "adds": 52017
     },
     {
       "id": "3286",
@@ -4068,7 +4110,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 43872
+      "adds": 42480
     },
     {
       "id": "12472",
@@ -4079,7 +4121,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 37000
+      "adds": 35408
     },
     {
       "id": "11610",
@@ -4090,7 +4132,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 30696
+      "adds": 29944
     },
     {
       "id": "4177",
@@ -4101,7 +4143,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 28800
+      "adds": 27804
     },
     {
       "id": "6931",
@@ -4112,7 +4154,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 26493
+      "adds": 25767
     },
     {
       "id": "7571",
@@ -4123,7 +4165,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 26086
+      "adds": 25068
     },
     {
       "id": "3321",
@@ -4134,18 +4176,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 22960
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 22168
+      "adds": 22000
     },
     {
       "id": "6650",
@@ -4156,7 +4187,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 22144
+      "adds": 21584
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 21036
     },
     {
       "id": "12492",
@@ -4167,18 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 20624
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 462,
-      "adds": 17672
+      "adds": 20080
     },
     {
       "id": "12718",
@@ -4189,7 +4220,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 17505
+      "adds": 17802
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 462,
+      "adds": 16768
     },
     {
       "id": "6083",
@@ -4200,7 +4242,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17180
+      "adds": 16495
     }
   ]
 }
