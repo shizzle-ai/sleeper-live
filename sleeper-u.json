@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T19:37:21.436Z",
+  "generated_at": "2026-09-20T19:44:34.312Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 76.88,
+      "points": 77.88,
       "starters": [
         {
           "id": "4046",
@@ -372,7 +372,7 @@
         10.3,
         0,
         22.5,
-        8,
+        9,
         16.08,
         6,
         3
@@ -381,14 +381,14 @@
         "1166": 0,
         "3451": 6,
         "4046": 0,
-        "4199": 8,
+        "4199": 9,
         "4217": 0,
         "6770": 16.08,
         "8126": 1.9,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
-        "11581": 10.4,
+        "11581": 10.8,
         "11584": 11,
         "11625": 10.2,
         "11631": 0,
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 63.12,
+      "points": 68.68,
       "starters": [
         {
           "id": "6797",
@@ -507,20 +507,20 @@
       "starters_points": [
         0,
         0,
-        5.7,
+        8.6,
         35.2,
         0,
         3.5,
-        11.5,
-        3.22,
+        11.4,
+        5.98,
         4,
         0
       ],
       "players_points": {
-        "96": 3.22,
+        "96": 5.98,
         "1945": 4,
         "5045": 0,
-        "5844": 1.7,
+        "5844": 4.7,
         "6797": 0,
         "7547": 35.2,
         "7569": 0,
@@ -528,10 +528,10 @@
         "9484": 3.5,
         "9502": 0,
         "11624": 0,
-        "11834": 11.5,
-        "12474": 6.8,
+        "11834": 11.4,
+        "12474": 6.7,
         "12507": 0,
-        "12512": 5.7,
+        "12512": 8.6,
         "13414": 0,
         "DEN": 0
       }
@@ -1386,7 +1386,7 @@
           "team": "LV",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 4,
           "rank": 23
         },
         {
@@ -1813,7 +1813,7 @@
           "name": "Caleb Williams",
           "pos": "QB",
           "team": "CHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 22
@@ -2138,7 +2138,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 118
         },
         {
@@ -2316,7 +2316,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -2870,7 +2870,7 @@
           "team": "DEN",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 56
         },
         {
@@ -3574,7 +3574,7 @@
         "team": "NO",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 6,
         "rank": 180
       },
       {
@@ -3696,7 +3696,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 8,
+        "depth": 7,
         "rank": 177
       },
       {
@@ -4117,18 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 452340
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 688,
-      "adds": 314388
+      "adds": 453068
     },
     {
       "id": "9482",
@@ -4139,7 +4128,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 313326
+      "adds": 315864
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 688,
+      "adds": 314919
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 197883
+      "adds": 199917
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 154104
+      "adds": 154848
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 125487
+      "adds": 126747
     },
     {
       "id": "9225",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 118937
+      "adds": 120204
     },
     {
       "id": "12718",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 115065
+      "adds": 115776
     },
     {
       "id": "3286",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 88050
+      "adds": 88794
     },
     {
       "id": "2020",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 87199
+      "adds": 87241
     },
     {
       "id": "2505",
@@ -4227,18 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 67491
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 178,
-      "adds": 64928
+      "adds": 70704
     },
     {
       "id": "6650",
@@ -4249,7 +4238,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 64856
+      "adds": 66096
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 178,
+      "adds": 65560
     },
     {
       "id": "6931",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 44784
+      "adds": 44988
     },
     {
       "id": "4177",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 44481
+      "adds": 44508
     },
     {
       "id": "6083",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42660
+      "adds": 43040
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 41993
+      "adds": 42335
     },
     {
       "id": "12472",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 40344
+      "adds": 40360
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 39496
+      "adds": 39672
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 38136
+      "adds": 38488
     }
   ]
 }
