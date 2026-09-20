@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-20T19:29:07.453Z",
+  "generated_at": "2026-09-20T19:37:21.436Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 73.16,
+      "points": 76.88,
       "starters": [
         {
           "id": "4046",
@@ -368,12 +368,12 @@
       "starters_points": [
         0,
         0,
-        9.6,
-        8.9,
+        11,
+        10.3,
         0,
         22.5,
         8,
-        15.16,
+        16.08,
         6,
         3
       ],
@@ -383,16 +383,16 @@
         "4046": 0,
         "4199": 8,
         "4217": 0,
-        "6770": 15.16,
+        "6770": 16.08,
         "8126": 1.9,
         "8150": 0,
         "9493": 0,
         "10236": 22.5,
         "11581": 10.4,
-        "11584": 9.6,
+        "11584": 11,
         "11625": 10.2,
         "11631": 0,
-        "12514": 8.9,
+        "12514": 10.3,
         "TB": 3
       }
     },
@@ -401,7 +401,7 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "matchup_id": 4,
-      "points": 59.46,
+      "points": 63.12,
       "starters": [
         {
           "id": "6797",
@@ -507,17 +507,17 @@
       "starters_points": [
         0,
         0,
-        5.8,
+        5.7,
         35.2,
         0,
         3.5,
-        8.3,
-        2.66,
+        11.5,
+        3.22,
         4,
         0
       ],
       "players_points": {
-        "96": 2.66,
+        "96": 3.22,
         "1945": 4,
         "5045": 0,
         "5844": 1.7,
@@ -528,10 +528,10 @@
         "9484": 3.5,
         "9502": 0,
         "11624": 0,
-        "11834": 8.3,
+        "11834": 11.5,
         "12474": 6.8,
         "12507": 0,
-        "12512": 5.8,
+        "12512": 5.7,
         "13414": 0,
         "DEN": 0
       }
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 469504
+      "adds": 452340
     },
     {
       "id": "11630",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 320949
+      "adds": 314388
     },
     {
       "id": "9482",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 318213
+      "adds": 313326
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 201420
+      "adds": 197883
     },
     {
       "id": "4035",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 157480
+      "adds": 154104
     },
     {
       "id": "11637",
@@ -4172,18 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 130716
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 118017
+      "adds": 125487
     },
     {
       "id": "9225",
@@ -4194,18 +4183,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 117999
+      "adds": 118937
     },
     {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 90580
+      "depth": 3,
+      "rank": 678,
+      "adds": 115065
     },
     {
       "id": "3286",
@@ -4216,29 +4205,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 89484
+      "adds": 88050
     },
     {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 178,
-      "adds": 66048
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
+      "id": "2020",
+      "name": "Cairo Santos",
       "pos": "K",
-      "team": "TB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 199,
-      "adds": 65952
+      "rank": 190,
+      "adds": 87199
     },
     {
       "id": "2505",
@@ -4249,18 +4227,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 64197
+      "adds": 67491
     },
     {
-      "id": "4177",
-      "name": "Mack Hollins",
+      "id": "11610",
+      "name": "Malik Washington",
       "pos": "WR",
-      "team": "NE",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 46086
+      "depth": 1,
+      "rank": 178,
+      "adds": 64928
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 64856
     },
     {
       "id": "6931",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 677,
-      "adds": 45489
+      "adds": 44784
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 44481
     },
     {
       "id": "6083",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43360
+      "adds": 42660
     },
     {
       "id": "7571",
@@ -4293,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 42918
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 42464
+      "adds": 41993
     },
     {
       "id": "12472",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 41736
+      "adds": 40344
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 39496
     },
     {
       "id": "12492",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 38840
+      "adds": 38136
     }
   ]
 }
