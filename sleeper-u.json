@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T23:14:07.981Z",
+  "generated_at": "2026-09-21T23:25:54.819Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 523341
+      "adds": 534465
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 263862
+      "adds": 266994
     },
     {
       "id": "9225",
@@ -4139,18 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 244510
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 190782
+      "adds": 246708
     },
     {
       "id": "12718",
@@ -4161,7 +4150,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 162738
+      "adds": 207261
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 192519
     },
     {
       "id": "6650",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 158600
+      "adds": 160000
     },
     {
       "id": "1339",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 142029
+      "adds": 151857
     },
     {
       "id": "6130",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 140112
+      "adds": 145674
     },
     {
       "id": "11256",
@@ -4205,18 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 137310
-    },
-    {
-      "id": "2307",
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 132432
+      "adds": 138126
     },
     {
       "id": "7090",
@@ -4227,7 +4216,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 111438
+      "adds": 135207
+    },
+    {
+      "id": "2307",
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 133400
     },
     {
       "id": "MIN",
@@ -4238,29 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 100060
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 293,
-      "adds": 65920
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 62520
+      "adds": 101110
     },
     {
       "id": "7562",
@@ -4271,7 +4249,29 @@
       "status": "Active",
       "depth": 5,
       "rank": 691,
-      "adds": 60823
+      "adds": 73766
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 293,
+      "adds": 66488
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 63040
     },
     {
       "id": "8188",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 59269
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 47790
+      "adds": 59864
     },
     {
       "id": "12487",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 46448
+      "adds": 50544
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 48168
     },
     {
       "id": "12493",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 42320
+      "adds": 43730
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
+      "id": "11168",
+      "name": "Xavier Smith",
       "pos": "WR",
-      "team": "HOU",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 40775
+      "depth": 4,
+      "rank": 551,
+      "adds": 42895
     }
   ]
 }
