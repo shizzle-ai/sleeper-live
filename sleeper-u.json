@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T10:18:22.073Z",
+  "generated_at": "2026-09-21T10:30:55.493Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,18 +4117,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 288568
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 255636
+      "adds": 283850
     },
     {
       "id": "9225",
@@ -4139,7 +4128,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 254317
+      "adds": 255115
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 467,
+      "adds": 253062
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 253764
+      "adds": 252720
     },
     {
       "id": "2505",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 248724
+      "adds": 249462
     },
     {
       "id": "11630",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 215739
+      "adds": 211680
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 197316
+      "adds": 196767
     },
     {
       "id": "11256",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 176154
+      "adds": 176568
     },
     {
       "id": "11435",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 165942
+      "adds": 167310
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 156328
+      "adds": 156352
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 147160
+      "adds": 146064
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 141579
+      "adds": 140814
     },
     {
       "id": "2307",
@@ -4249,18 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 96552
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 6,
-      "rank": 679,
-      "adds": 62844
+      "adds": 96944
     },
     {
       "id": "MIN",
@@ -4271,7 +4260,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62710
+      "adds": 63095
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 6,
+      "rank": 679,
+      "adds": 61890
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 60448
+      "adds": 60088
     },
     {
       "id": "2020",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 59486
+      "adds": 58408
     },
     {
       "id": "4017",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 54960
+      "adds": 55064
     },
     {
       "id": "7571",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 49779
+      "adds": 49490
     },
     {
       "id": "7090",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 46845
+      "adds": 46620
     }
   ]
 }
