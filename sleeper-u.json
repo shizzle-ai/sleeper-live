@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T21:43:20.806Z",
+  "generated_at": "2026-09-21T21:52:01.317Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3852,16 +3852,6 @@
         "rank": 126
       },
       {
-        "id": "4033",
-        "name": "David Njoku",
-        "pos": "TE",
-        "team": "LAC",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 1,
-        "rank": 131
-      },
-      {
         "id": "6865",
         "name": "Colby Parkinson",
         "pos": "TE",
@@ -3939,6 +3929,16 @@
         "injury": null,
         "status": "Active",
         "depth": 5,
+        "rank": 212
+      },
+      {
+        "id": "13401",
+        "name": "Michael Trigg",
+        "pos": "TE",
+        "team": "DAL",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
         "rank": 212
       }
     ],
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 446751
+      "adds": 452979
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 261531
+      "adds": 263223
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 244468
+      "adds": 245574
     },
     {
       "id": "11637",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 191106
+      "adds": 192195
     },
     {
       "id": "6650",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 158240
+      "adds": 159096
     },
     {
       "id": "2307",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 152780
+      "adds": 153536
     },
     {
       "id": "11256",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 149088
+      "adds": 149628
     },
     {
       "id": "6130",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 125982
+      "adds": 126495
     },
     {
       "id": "MIN",
@@ -4205,7 +4205,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 96370
+      "adds": 96980
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 70668
+      "adds": 71361
     },
     {
       "id": "4017",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 69288
+      "adds": 69568
     },
     {
       "id": "4035",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 64000
+      "adds": 64368
     },
     {
       "id": "8188",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 57106
+      "adds": 57442
     },
     {
       "id": "DET",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46890
+      "adds": 47178
     },
     {
       "id": "10218",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 44065
+      "adds": 44114
     },
     {
       "id": "7090",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 40284
+      "adds": 40698
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 35812
+      "adds": 35967
     },
     {
       "id": "11630",
@@ -4304,7 +4304,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 34596
+      "adds": 34776
+    },
+    {
+      "id": "12493",
+      "name": "Oronde Gadsden",
+      "pos": "TE",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 83,
+      "adds": 30175
     },
     {
       "id": "12487",
@@ -4315,18 +4326,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 29280
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 29232
+      "adds": 29640
     }
   ]
 }
