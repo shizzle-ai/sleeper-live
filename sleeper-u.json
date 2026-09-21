@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T13:39:06.345Z",
+  "generated_at": "2026-09-21T13:49:45.164Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 280994
+      "adds": 283479
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 270909
+      "adds": 273006
     },
     {
       "id": "6130",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 244350
+      "adds": 244989
     },
     {
       "id": "10218",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 239624
+      "adds": 239841
     },
     {
       "id": "9482",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 229527
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 201573
+      "adds": 229572
     },
     {
       "id": "11435",
@@ -4183,7 +4172,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 201069
+      "adds": 204372
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 202752
     },
     {
       "id": "11256",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 190224
+      "adds": 191352
     },
     {
       "id": "11630",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 173151
+      "adds": 173331
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 165888
+      "adds": 167184
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 139080
+      "adds": 139528
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 133767
+      "adds": 134046
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 106812
+      "adds": 107616
     },
     {
       "id": "MIN",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73755
+      "adds": 74580
     },
     {
       "id": "4017",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 59984
+      "adds": 60480
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 55952
+      "adds": 56016
     },
     {
       "id": "3286",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 53544
+      "adds": 53556
     },
     {
       "id": "8188",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 48881
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 48482
+      "adds": 49273
     },
     {
       "id": "7571",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 48278
+      "adds": 48500
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 48496
     }
   ]
 }
