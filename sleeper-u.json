@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T11:49:58.762Z",
+  "generated_at": "2026-09-21T11:57:10.306Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 277116
+      "adds": 277242
     },
     {
       "id": "9225",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 262920
+      "adds": 263823
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 255753
+      "adds": 256671
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 253215
+      "adds": 253512
     },
     {
       "id": "9482",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 249435
+      "adds": 249453
     },
     {
       "id": "11630",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 205434
+      "adds": 205515
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 199098
+      "adds": 199584
     },
     {
       "id": "11256",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 180900
+      "adds": 181398
     },
     {
       "id": "11435",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 177858
+      "adds": 179307
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 160504
+      "adds": 161008
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 145312
+      "adds": 145512
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 140661
+      "adds": 140823
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 100016
+      "adds": 100412
     },
     {
       "id": "MIN",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66560
+      "adds": 67005
     },
     {
       "id": "3286",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 60510
+      "adds": 60516
     },
     {
       "id": "11610",
@@ -4282,7 +4282,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 59752
+      "adds": 59776
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 293,
+      "adds": 57032
     },
     {
       "id": "2020",
@@ -4296,17 +4307,6 @@
       "adds": 56917
     },
     {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 293,
-      "adds": 56848
-    },
-    {
       "id": "7571",
       "name": "Rashod Bateman",
       "pos": "WR",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 49758
+      "adds": 49872
     },
     {
       "id": "7090",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 47169
+      "adds": 47268
     }
   ]
 }
