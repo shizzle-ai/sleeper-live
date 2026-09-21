@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T21:11:29.050Z",
+  "generated_at": "2026-09-21T21:24:00.845Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2326,7 +2326,7 @@
           "name": "Brian Robinson",
           "pos": "RB",
           "team": "ATL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 80
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 423882
+      "adds": 433890
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 272934
+      "adds": 276651
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 250971
+      "adds": 253197
     },
     {
       "id": "11637",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 198027
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 161250
+      "adds": 199602
     },
     {
       "id": "6650",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 161112
+      "adds": 162320
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 162072
     },
     {
       "id": "2307",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 150228
+      "adds": 151300
     },
     {
       "id": "6130",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 134199
+      "adds": 135009
     },
     {
       "id": "MIN",
@@ -4205,7 +4205,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 96680
+      "adds": 97850
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 73224
+      "adds": 74205
     },
     {
       "id": "4017",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 70760
+      "adds": 71368
     },
     {
       "id": "4035",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 66792
+      "adds": 67248
     },
     {
       "id": "8188",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 57134
+      "adds": 57715
     },
     {
       "id": "10218",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 47908
+      "adds": 48013
     },
     {
       "id": "DET",
@@ -4271,7 +4271,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 47160
+      "adds": 47619
     },
     {
       "id": "7090",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 40455
+      "adds": 41076
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 37182
+      "adds": 37470
     },
     {
       "id": "11630",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 36342
+      "adds": 36603
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 29472
+      "adds": 29912
     },
     {
       "id": "LV",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29022
+      "adds": 29382
     }
   ]
 }
