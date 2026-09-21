@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T23:00:17.712Z",
+  "generated_at": "2026-09-21T23:14:07.981Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3350,7 +3350,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 509463
+      "adds": 523341
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 260163
+      "adds": 263862
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 242228
+      "adds": 244510
     },
     {
       "id": "11637",
@@ -4150,62 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 188667
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 156688
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 136080
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 131904
-    },
-    {
-      "id": "2307",
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 131116
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 646,
-      "adds": 130266
+      "adds": 190782
     },
     {
       "id": "12718",
@@ -4216,18 +4161,62 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 127161
+      "adds": 162738
     },
     {
-      "id": "MIN",
-      "name": "Minnesota Vikings",
-      "pos": "DEF",
-      "team": "MIN",
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
       "injury": null,
-      "status": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 158600
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
       "depth": null,
-      "rank": null,
-      "adds": 98880
+      "rank": 646,
+      "adds": 142029
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 140112
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 137310
+    },
+    {
+      "id": "2307",
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 132432
     },
     {
       "id": "7090",
@@ -4238,7 +4227,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 85698
+      "adds": 111438
+    },
+    {
+      "id": "MIN",
+      "name": "Minnesota Vikings",
+      "pos": "DEF",
+      "team": "MIN",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 100060
     },
     {
       "id": "4017",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 65264
+      "adds": 65920
     },
     {
       "id": "4035",
@@ -4260,29 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 62120
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 58513
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 47304
+      "adds": 62520
     },
     {
       "id": "7562",
@@ -4293,29 +4271,29 @@
       "status": "Active",
       "depth": 5,
       "rank": 691,
-      "adds": 43862
+      "adds": 60823
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
+      "id": "8188",
+      "name": "Tyquan Thornton",
       "pos": "WR",
-      "team": "HOU",
+      "team": "KC",
       "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 40593
+      "depth": 3,
+      "rank": 522,
+      "adds": 59269
     },
     {
-      "id": "12493",
-      "name": "Oronde Gadsden",
-      "pos": "TE",
-      "team": "LAC",
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 83,
-      "adds": 40500
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 47790
     },
     {
       "id": "12487",
@@ -4326,7 +4304,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 40176
+      "adds": 46448
+    },
+    {
+      "id": "12493",
+      "name": "Oronde Gadsden",
+      "pos": "TE",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 83,
+      "adds": 42320
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 679,
+      "adds": 40775
     }
   ]
 }
