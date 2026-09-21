@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T20:22:51.406Z",
+  "generated_at": "2026-09-21T20:32:39.982Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 388638
+      "adds": 394623
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 286533
+      "adds": 264438
     },
     {
       "id": "9225",
@@ -4139,18 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 252896
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 227904
+      "adds": 244944
     },
     {
       "id": "11637",
@@ -4161,7 +4150,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 201771
+      "adds": 193158
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 157644
     },
     {
       "id": "6650",
@@ -4172,18 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 163168
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 145467
+      "adds": 157336
     },
     {
       "id": "2307",
@@ -4194,7 +4183,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 145364
+      "adds": 146036
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 131985
     },
     {
       "id": "MIN",
@@ -4205,7 +4205,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99890
+      "adds": 93255
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 76176
+      "adds": 70668
     },
     {
       "id": "4017",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 74320
+      "adds": 68616
     },
     {
       "id": "4035",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 70240
+      "adds": 65352
     },
     {
       "id": "8188",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 56007
+      "adds": 55629
     },
     {
       "id": "10218",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 52192
+      "adds": 47502
     },
     {
       "id": "DET",
@@ -4271,7 +4271,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46881
+      "adds": 45675
     },
     {
       "id": "7090",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 39960
+      "adds": 38763
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 38562
+      "adds": 36343
     },
     {
       "id": "11630",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 38286
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 38079
+      "adds": 35595
     },
     {
       "id": "12487",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 30328
+      "adds": 28240
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 28002
     }
   ]
 }
