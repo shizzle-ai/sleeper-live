@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T12:10:30.346Z",
+  "generated_at": "2026-09-21T12:27:36.838Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 277487
+      "adds": 277865
     },
     {
       "id": "9225",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 265503
+      "adds": 268135
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 258210
+      "adds": 260217
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 254223
+      "adds": 255105
     },
     {
       "id": "9482",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 249597
+      "adds": 249669
     },
     {
       "id": "11630",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 205713
+      "adds": 205983
     },
     {
       "id": "11637",
@@ -4183,18 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 200367
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 182268
+      "adds": 201708
     },
     {
       "id": "11435",
@@ -4205,7 +4194,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 181161
+      "adds": 184437
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 183510
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 161984
+      "adds": 163408
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 145864
+      "adds": 146384
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 141165
+      "adds": 141714
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 101068
+      "adds": 102140
     },
     {
       "id": "MIN",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67745
+      "adds": 68795
     },
     {
       "id": "3286",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 679,
-      "adds": 60516
+      "adds": 60528
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 59912
+      "adds": 60072
     },
     {
       "id": "4017",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 57392
+      "adds": 57776
     },
     {
       "id": "2020",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 56917
+      "adds": 56931
     },
     {
       "id": "7571",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 50091
+      "adds": 50394
     },
     {
-      "id": "7090",
-      "name": "Darnell Mooney",
+      "id": "8188",
+      "name": "Tyquan Thornton",
       "pos": "WR",
-      "team": "NYG",
+      "team": "KC",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 194,
-      "adds": 47556
+      "rank": 522,
+      "adds": 47964
     }
   ]
 }
