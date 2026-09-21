@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T14:25:45.703Z",
+  "generated_at": "2026-09-21T14:38:21.219Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 292019
+      "adds": 294469
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 280629
+      "adds": 282267
     },
     {
       "id": "6130",
@@ -4139,29 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 247428
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 240625
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 229923
+      "adds": 235359
     },
     {
       "id": "11435",
@@ -4172,7 +4150,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 214713
+      "adds": 218646
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 467,
+      "adds": 210321
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 679,
+      "adds": 209279
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 206964
+      "adds": 201924
     },
     {
       "id": "11256",
@@ -4194,18 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 195216
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 688,
-      "adds": 174078
+      "adds": 196518
     },
     {
       "id": "6650",
@@ -4216,7 +4205,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 171128
+      "adds": 167088
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 688,
+      "adds": 148086
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 141312
+      "adds": 133328
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 135252
+      "adds": 126963
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 110496
+      "adds": 111500
     },
     {
       "id": "MIN",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77575
+      "adds": 78335
     },
     {
       "id": "4017",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 62056
+      "adds": 62240
     },
     {
       "id": "11610",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 56328
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 6,
-      "rank": 679,
-      "adds": 53580
+      "adds": 52168
     },
     {
       "id": "8188",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 50750
+      "adds": 50225
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 6,
+      "rank": 679,
+      "adds": 47622
     },
     {
       "id": "7571",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 49381
+      "adds": 46792
     },
     {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 48545
+      "depth": 3,
+      "rank": 194,
+      "adds": 45648
     }
   ]
 }
