@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T05:53:42.316Z",
+  "generated_at": "2026-09-21T06:02:25.443Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 310191
+      "adds": 310317
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 268758
+      "adds": 268803
     },
     {
       "id": "6130",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 254250
+      "adds": 254538
     },
     {
       "id": "9225",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 241584
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 688,
-      "adds": 236358
+      "adds": 242193
     },
     {
       "id": "2505",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 236340
+      "adds": 236907
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 688,
+      "adds": 236430
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 194391
+      "adds": 194913
     },
     {
       "id": "11256",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 168222
+      "adds": 168564
     },
     {
       "id": "4035",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 151800
+      "adds": 151984
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 150520
+      "adds": 150960
     },
     {
       "id": "11435",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 146430
+      "adds": 147438
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 143298
+      "adds": 143397
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 90632
+      "adds": 90888
     },
     {
       "id": "3286",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 177,
-      "adds": 62584
+      "adds": 62608
     },
     {
       "id": "MIN",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56380
+      "adds": 56690
     },
     {
       "id": "4017",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 298,
-      "adds": 51992
+      "adds": 52168
     },
     {
       "id": "7571",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 49898
+      "adds": 49979
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 46220
+      "depth": 2,
+      "rank": 141,
+      "adds": 46264
     }
   ]
 }
