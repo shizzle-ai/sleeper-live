@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T17:22:55.600Z",
+  "generated_at": "2026-09-21T17:32:13.824Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4109,17 +4109,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "9225",
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 147,
-      "adds": 334278
-    },
-    {
       "id": "2505",
       "name": "Darren Waller",
       "pos": "TE",
@@ -4128,7 +4117,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 311076
+      "adds": 311904
+    },
+    {
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 147,
+      "adds": 303772
     },
     {
       "id": "11435",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 289638
+      "adds": 293679
     },
     {
       "id": "11256",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 213270
+      "adds": 213948
     },
     {
       "id": "11637",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 206208
+      "adds": 199710
     },
     {
       "id": "6130",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 196839
+      "adds": 175122
     },
     {
       "id": "6650",
@@ -4183,18 +4183,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 164696
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 144216
+      "adds": 152712
     },
     {
       "id": "2307",
@@ -4205,7 +4194,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 125224
+      "adds": 125856
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 467,
+      "adds": 104436
     },
     {
       "id": "4035",
@@ -4216,29 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 113928
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 102375
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 97056
+      "adds": 92984
     },
     {
       "id": "MIN",
@@ -4249,7 +4227,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90715
+      "adds": 90910
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 80658
     },
     {
       "id": "4017",
@@ -4260,18 +4249,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 68136
+      "adds": 67896
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
+      "id": "10218",
+      "name": "Xavier Hutchinson",
       "pos": "WR",
-      "team": "PIT",
+      "team": "HOU",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 688,
-      "adds": 67725
+      "depth": 5,
+      "rank": 679,
+      "adds": 63350
     },
     {
       "id": "8188",
@@ -4282,18 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 53158
-    },
-    {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 203,
-      "adds": 41960
+      "adds": 51828
     },
     {
       "id": "DET",
@@ -4304,7 +4282,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41814
+      "adds": 41976
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 688,
+      "adds": 39843
+    },
+    {
+      "id": "7571",
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 203,
+      "adds": 38962
     },
     {
       "id": "7090",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 41103
+      "adds": 36981
     },
     {
       "id": "11610",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 40160
+      "adds": 32928
     }
   ]
 }
