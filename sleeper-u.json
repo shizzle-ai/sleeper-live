@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T18:29:59.410Z",
+  "generated_at": "2026-09-21T18:45:30.461Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4109,17 +4109,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 322902
-    },
-    {
       "id": "11435",
       "name": "Emanuel Wilson",
       "pos": "RB",
@@ -4128,7 +4117,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 321057
+      "adds": 329832
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 325530
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 315567
+      "adds": 253638
     },
     {
       "id": "11256",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 218322
+      "adds": 219492
     },
     {
       "id": "11637",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 207423
+      "adds": 200592
     },
     {
       "id": "6130",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 178200
+      "adds": 169254
     },
     {
       "id": "6650",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 158728
+      "adds": 157712
     },
     {
       "id": "2307",
@@ -4194,29 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 129952
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 104697
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 95848
+      "adds": 131140
     },
     {
       "id": "MIN",
@@ -4227,7 +4205,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95405
+      "adds": 95480
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 467,
+      "adds": 87129
     },
     {
       "id": "12718",
@@ -4238,7 +4227,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 83691
+      "adds": 80001
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 75096
     },
     {
       "id": "4017",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 70112
+      "adds": 70800
     },
     {
       "id": "10218",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 63707
+      "adds": 57981
     },
     {
       "id": "8188",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 53718
+      "adds": 53760
     },
     {
       "id": "DET",
@@ -4282,18 +4282,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44172
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 688,
-      "adds": 40815
+      "adds": 44388
     },
     {
       "id": "7571",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 40208
+      "adds": 39161
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 688,
+      "adds": 38961
     },
     {
       "id": "7090",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 39006
+      "adds": 38511
     },
     {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 33560
+      "depth": 2,
+      "rank": 141,
+      "adds": 32304
     }
   ]
 }
