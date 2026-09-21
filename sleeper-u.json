@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T06:43:46.186Z",
+  "generated_at": "2026-09-21T06:57:58.311Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 302463
+      "adds": 302610
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 467,
-      "adds": 263844
+      "adds": 263880
     },
     {
       "id": "6130",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 253503
+      "adds": 253953
     },
     {
       "id": "9225",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 244888
+      "adds": 245665
     },
     {
       "id": "2505",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 239247
+      "adds": 239967
     },
     {
       "id": "11630",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 228771
+      "adds": 228906
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 194670
+      "adds": 195399
     },
     {
       "id": "11256",
@@ -4194,18 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 169956
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 152016
+      "adds": 170436
     },
     {
       "id": "11435",
@@ -4216,7 +4205,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 151308
+      "adds": 152685
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 152400
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 149888
+      "adds": 150032
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 142263
+      "adds": 142407
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 91940
+      "adds": 92300
     },
     {
       "id": "3286",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 66204
+      "adds": 66210
     },
     {
       "id": "2020",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 177,
-      "adds": 61952
+      "adds": 62008
     },
     {
       "id": "MIN",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57930
+      "adds": 58355
     },
     {
       "id": "4017",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 52744
+      "adds": 52928
     },
     {
       "id": "7571",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 49742
+      "adds": 49874
     },
     {
       "id": "7090",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 46125
+      "adds": 46215
     }
   ]
 }
