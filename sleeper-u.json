@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T08:43:57.445Z",
+  "generated_at": "2026-09-21T08:53:45.575Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 291865
+      "adds": 291949
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 467,
-      "adds": 257625
+      "adds": 257652
     },
     {
       "id": "6130",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 253035
+      "adds": 253278
     },
     {
       "id": "9225",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 250159
+      "adds": 250488
     },
     {
       "id": "2505",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 244296
+      "adds": 244755
     },
     {
       "id": "11630",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 218736
+      "adds": 218781
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 195507
+      "adds": 195804
     },
     {
       "id": "11256",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 173130
+      "adds": 173358
     },
     {
       "id": "11435",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 159552
+      "adds": 160146
     },
     {
       "id": "6650",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 153824
+      "adds": 154056
     },
     {
       "id": "4035",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 147656
+      "adds": 147760
     },
     {
       "id": "12718",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 141534
+      "adds": 141588
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 94392
+      "adds": 94596
     },
     {
       "id": "3286",
@@ -4260,7 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 63618
+      "adds": 63624
+    },
+    {
+      "id": "MIN",
+      "name": "Minnesota Vikings",
+      "pos": "DEF",
+      "team": "MIN",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 60850
     },
     {
       "id": "11610",
@@ -4272,17 +4283,6 @@
       "depth": 2,
       "rank": 177,
       "adds": 60704
-    },
-    {
-      "id": "MIN",
-      "name": "Minnesota Vikings",
-      "pos": "DEF",
-      "team": "MIN",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 60670
     },
     {
       "id": "2020",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 53808
+      "adds": 53872
     },
     {
       "id": "7571",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 49511
+      "adds": 49572
     },
     {
       "id": "7090",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 46395
+      "adds": 46422
     }
   ]
 }
