@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T21:24:00.845Z",
+  "generated_at": "2026-09-21T21:34:07.613Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 433890
+      "adds": 440667
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 276651
+      "adds": 259497
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 253197
+      "adds": 243040
     },
     {
       "id": "11637",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 199602
+      "adds": 190044
     },
     {
       "id": "6650",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 162320
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 162072
+      "adds": 157240
     },
     {
       "id": "2307",
@@ -4183,7 +4172,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 151300
+      "adds": 152048
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 148578
     },
     {
       "id": "6130",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 135009
+      "adds": 125505
     },
     {
       "id": "MIN",
@@ -4205,7 +4205,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97850
+      "adds": 95655
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 74205
+      "adds": 69993
     },
     {
       "id": "4017",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 71368
+      "adds": 68880
     },
     {
       "id": "4035",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 67248
+      "adds": 63736
     },
     {
       "id": "8188",
@@ -4249,18 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 57715
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 48013
+      "adds": 56819
     },
     {
       "id": "DET",
@@ -4271,7 +4260,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 47619
+      "adds": 46683
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 679,
+      "adds": 43967
     },
     {
       "id": "7090",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 41076
+      "adds": 39798
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 37470
+      "adds": 35621
     },
     {
       "id": "11630",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 36603
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 29912
+      "adds": 34479
     },
     {
       "id": "LV",
@@ -4326,7 +4315,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29382
+      "adds": 29064
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 28856
     }
   ]
 }
