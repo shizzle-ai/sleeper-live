@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T16:17:07.816Z",
+  "generated_at": "2026-09-21T16:30:36.944Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 317912
+      "adds": 320439
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 300240
+      "adds": 301320
     },
     {
       "id": "11435",
@@ -4139,29 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 259236
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 223281
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 207297
+      "adds": 265077
     },
     {
       "id": "11256",
@@ -4172,29 +4150,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 206226
+      "adds": 206964
     },
     {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 198459
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 467,
-      "adds": 185157
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 171206
+      "rank": 660,
+      "adds": 193545
     },
     {
       "id": "6650",
@@ -4205,29 +4183,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 170616
+      "adds": 158840
     },
     {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 119,
-      "adds": 128816
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 120492
+      "rank": 467,
+      "adds": 144009
     },
     {
       "id": "2307",
@@ -4238,18 +4205,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 119700
+      "adds": 120788
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 688,
-      "adds": 118944
+      "depth": 2,
+      "rank": 119,
+      "adds": 110328
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 679,
+      "adds": 101787
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 95094
     },
     {
       "id": "MIN",
@@ -4260,7 +4249,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 86000
+      "adds": 86320
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 688,
+      "adds": 66555
     },
     {
       "id": "4017",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 66224
+      "adds": 65768
     },
     {
       "id": "8188",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 52843
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 48096
+      "adds": 51191
     },
     {
       "id": "7571",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 45620
+      "adds": 40631
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39699
     },
     {
       "id": "7090",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 45108
+      "adds": 39591
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 42008
+      "depth": 1,
+      "rank": 177,
+      "adds": 39504
     }
   ]
 }
