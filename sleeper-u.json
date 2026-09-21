@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T01:17:19.079Z",
+  "generated_at": "2026-09-21T01:30:05.092Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 87.08,
+      "points": 89.64,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        6.6,
+        9.16,
         0,
         13,
         10.3,
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 21.22,
         "3451": 6,
-        "4046": 6.6,
+        "4046": 9.16,
         "4199": 10.5,
         "4217": 18,
         "6770": 16.18,
@@ -527,7 +527,7 @@
         "8676": 6.9,
         "9484": 3.5,
         "9502": 0,
-        "11624": 4.2,
+        "11624": 5.6,
         "11834": 11.4,
         "12474": 8.5,
         "12507": 17.5,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 362964
+      "adds": 349489
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 298251
+      "adds": 291411
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 277488
+      "adds": 269280
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 240507
+      "adds": 238347
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 194558
+      "adds": 196931
     },
     {
       "id": "2505",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 181242
+      "adds": 184203
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 166248
+      "adds": 164124
     },
     {
       "id": "4035",
@@ -4194,18 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 155816
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 137178
+      "adds": 153288
     },
     {
       "id": "11256",
@@ -4216,7 +4205,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 137070
+      "adds": 138930
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 135882
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 119848
+      "adds": 121168
     },
     {
       "id": "11435",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 81594
+      "adds": 85257
     },
     {
       "id": "3286",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 79506
+      "adds": 77034
     },
     {
       "id": "2020",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 75663
+      "adds": 73549
     },
     {
       "id": "2307",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 67216
+      "adds": 68640
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 178,
-      "adds": 66496
+      "adds": 65088
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 46386
+      "adds": 45763
     },
     {
       "id": "6083",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 46100
+      "adds": 45675
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 44816
+      "adds": 43920
     },
     {
       "id": "6931",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 39687
+      "adds": 38496
     }
   ]
 }
