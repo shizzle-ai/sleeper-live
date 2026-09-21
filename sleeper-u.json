@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T23:25:54.819Z",
+  "generated_at": "2026-09-21T23:36:15.460Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 534465
+      "adds": 491283
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 266994
+      "adds": 245484
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 246708
+      "adds": 228431
     },
     {
       "id": "12718",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 207261
+      "adds": 225225
     },
     {
       "id": "11637",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 192519
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 160000
+      "adds": 174132
     },
     {
       "id": "1339",
@@ -4183,29 +4172,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 151857
+      "adds": 159012
     },
     {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 145674
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 138126
+      "depth": 1,
+      "rank": 199,
+      "adds": 143768
     },
     {
       "id": "7090",
@@ -4216,7 +4194,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 135207
+      "adds": 139410
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 131535
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 124776
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 133400
+      "adds": 112500
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 101110
+      "adds": 96370
     },
     {
       "id": "7562",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 691,
-      "adds": 73766
+      "adds": 77714
     },
     {
       "id": "4017",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 66488
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 63040
+      "adds": 60272
     },
     {
       "id": "8188",
@@ -4282,7 +4271,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 59864
+      "adds": 58044
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 57480
     },
     {
       "id": "12487",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 50544
+      "adds": 50240
     },
     {
       "id": "DET",
@@ -4304,7 +4304,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48168
+      "adds": 45126
     },
     {
       "id": "12493",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 43730
+      "adds": 43945
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 551,
-      "adds": 42895
+      "adds": 43585
     }
   ]
 }
