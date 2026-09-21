@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T19:20:29.990Z",
+  "generated_at": "2026-09-21T19:32:34.537Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 350937
+      "adds": 358389
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 331452
+      "adds": 278523
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 258797
+      "adds": 246148
     },
     {
       "id": "11256",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 222858
+      "adds": 224004
     },
     {
       "id": "11637",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 204552
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 170883
+      "adds": 196659
     },
     {
       "id": "6650",
@@ -4183,7 +4172,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 160944
+      "adds": 158104
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 143010
     },
     {
       "id": "2307",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 137824
+      "adds": 140088
     },
     {
       "id": "MIN",
@@ -4205,18 +4205,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 98155
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 467,
-      "adds": 87318
+      "adds": 96195
     },
     {
       "id": "12718",
@@ -4227,18 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 81801
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 76808
+      "adds": 73431
     },
     {
       "id": "4017",
@@ -4249,18 +4227,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 72272
+      "adds": 72376
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 679,
-      "adds": 58219
+      "depth": 2,
+      "rank": 119,
+      "adds": 68152
     },
     {
       "id": "8188",
@@ -4271,7 +4249,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 55055
+      "adds": 54418
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 679,
+      "adds": 51716
     },
     {
       "id": "DET",
@@ -4282,18 +4271,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45711
-    },
-    {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 203,
-      "adds": 39977
+      "adds": 45270
     },
     {
       "id": "7090",
@@ -4304,7 +4282,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 39591
+      "adds": 38259
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 467,
+      "adds": 37926
+    },
+    {
+      "id": "7571",
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 203,
+      "adds": 37580
     },
     {
       "id": "11630",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 688,
-      "adds": 39483
+      "adds": 37548
     },
     {
       "id": "12487",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 33048
+      "adds": 29384
     }
   ]
 }
