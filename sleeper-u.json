@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T03:12:33.544Z",
+  "generated_at": "2026-09-21T03:27:17.979Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 103.32,
+      "points": 105.24,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        22.84,
+        24.76,
         0,
         13,
         10.3,
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 21.22,
         "3451": 6,
-        "4046": 22.84,
+        "4046": 24.76,
         "4199": 10.5,
         "4217": 18,
         "6770": 16.18,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 341572
+      "adds": 342356
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 287046
+      "adds": 287379
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 263574
+      "adds": 264069
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 250353
+      "adds": 252378
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 219072
+      "adds": 221753
     },
     {
       "id": "2505",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 212742
+      "adds": 216081
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 183222
+      "adds": 185652
     },
     {
       "id": "4035",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 156224
+      "adds": 157040
     },
     {
       "id": "11256",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 154614
+      "adds": 156204
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 141714
+      "adds": 142704
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 137128
+      "adds": 139344
     },
     {
       "id": "11435",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 115272
+      "adds": 118557
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 80288
+      "adds": 81476
     },
     {
       "id": "3286",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 74694
+      "adds": 74700
     },
     {
       "id": "2020",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 71582
+      "adds": 71610
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 178,
-      "adds": 65392
+      "adds": 65616
     },
     {
       "id": "7571",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 49056
+      "adds": 49588
     },
     {
       "id": "6083",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 46745
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 298,
-      "adds": 46008
+      "adds": 46975
     },
     {
       "id": "MIN",
@@ -4326,7 +4315,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45455
+      "adds": 46845
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 298,
+      "adds": 46832
     }
   ]
 }
