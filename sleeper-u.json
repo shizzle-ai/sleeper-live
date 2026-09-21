@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T03:27:17.979Z",
+  "generated_at": "2026-09-21T03:41:26.027Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 105.24,
+      "points": 108.18,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        24.76,
+        27.7,
         0,
         13,
         10.3,
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 21.22,
         "3451": 6,
-        "4046": 24.76,
+        "4046": 27.7,
         "4199": 10.5,
         "4217": 18,
         "6770": 16.18,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 342356
+      "adds": 329140
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 287379
+      "adds": 280116
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 264069
+      "adds": 254232
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 252378
+      "adds": 249453
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 221753
+      "adds": 223713
     },
     {
       "id": "2505",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 216081
+      "adds": 218241
     },
     {
       "id": "11637",
@@ -4183,18 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 185652
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 157040
+      "adds": 184293
     },
     {
       "id": "11256",
@@ -4205,7 +4194,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 156204
+      "adds": 157434
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 153824
     },
     {
       "id": "12718",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 142704
+      "adds": 141606
     },
     {
       "id": "6650",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 139344
+      "adds": 140128
     },
     {
       "id": "11435",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 118557
+      "adds": 121266
     },
     {
       "id": "2307",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 81476
+      "adds": 82392
     },
     {
       "id": "3286",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 74700
+      "adds": 72180
     },
     {
       "id": "2020",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 71610
+      "adds": 69160
     },
     {
       "id": "11610",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 178,
-      "adds": 65616
+      "adds": 64280
     },
     {
       "id": "7571",
@@ -4293,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 49588
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 46975
+      "adds": 48866
     },
     {
       "id": "MIN",
@@ -4315,7 +4304,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46845
+      "adds": 47630
     },
     {
       "id": "4017",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 298,
-      "adds": 46832
+      "adds": 47296
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 46405
     }
   ]
 }
