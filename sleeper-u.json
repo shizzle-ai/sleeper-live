@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T01:02:36.154Z",
+  "generated_at": "2026-09-21T01:17:19.079Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 85.64,
+      "points": 87.08,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        5.16,
+        6.6,
         0,
         13,
         10.3,
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 21.22,
         "3451": 6,
-        "4046": 5.16,
+        "4046": 6.6,
         "4199": 10.5,
         "4217": 18,
         "6770": 16.18,
@@ -527,7 +527,7 @@
         "8676": 6.9,
         "9484": 3.5,
         "9502": 0,
-        "11624": 2.6,
+        "11624": 4.2,
         "11834": 11.4,
         "12474": 8.5,
         "12507": 17.5,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 361746
+      "adds": 362964
     },
     {
       "id": "9482",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 472,
-      "adds": 297720
+      "adds": 298251
     },
     {
       "id": "11630",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 276822
+      "adds": 277488
     },
     {
       "id": "6130",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 237717
+      "adds": 240507
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 191359
+      "adds": 194558
     },
     {
       "id": "2505",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 177021
+      "adds": 181242
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 161748
+      "adds": 166248
     },
     {
       "id": "4035",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 154880
+      "adds": 155816
     },
     {
       "id": "12718",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 135828
+      "adds": 137178
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 134724
+      "adds": 137070
     },
     {
       "id": "6650",
@@ -4227,18 +4227,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 116512
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 79482
+      "adds": 119848
     },
     {
       "id": "11435",
@@ -4249,7 +4238,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 77895
+      "adds": 81594
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 79506
     },
     {
       "id": "2020",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 75600
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 178,
-      "adds": 66176
+      "adds": 75663
     },
     {
       "id": "2307",
@@ -4282,18 +4271,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 65604
+      "adds": 67216
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 45800
+      "depth": 2,
+      "rank": 178,
+      "adds": 66496
     },
     {
       "id": "7571",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 203,
-      "adds": 45548
+      "adds": 46386
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 46100
     },
     {
       "id": "12487",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 43664
+      "adds": 44816
     },
     {
       "id": "6931",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 677,
-      "adds": 39630
+      "adds": 39687
     }
   ]
 }
