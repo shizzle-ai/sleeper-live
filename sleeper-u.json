@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T22:53:10.096Z",
+  "generated_at": "2026-09-21T23:00:17.712Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -171,7 +171,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "team": "LAR",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 1,
         "rank": 4
@@ -309,7 +309,7 @@
           "name": "Puka Nacua",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 4
@@ -2646,7 +2646,7 @@
           "name": "Puka Nacua",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 4
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 500958
+      "adds": 509463
     },
     {
       "id": "2505",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 257958
+      "adds": 260163
     },
     {
       "id": "9225",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 240793
+      "adds": 242228
     },
     {
       "id": "11637",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 187056
+      "adds": 188667
     },
     {
       "id": "6650",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 155888
+      "adds": 156688
     },
     {
       "id": "11256",
@@ -4172,29 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 135504
-    },
-    {
-      "id": "2307",
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 130524
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 646,
-      "adds": 123003
+      "adds": 136080
     },
     {
       "id": "6130",
@@ -4205,18 +4183,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 120915
+      "adds": 131904
     },
     {
-      "id": "MIN",
-      "name": "Minnesota Vikings",
-      "pos": "DEF",
-      "team": "MIN",
+      "id": "2307",
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "team": "WAS",
       "injury": null,
-      "status": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 131116
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
       "depth": null,
-      "rank": null,
-      "adds": 98290
+      "rank": 646,
+      "adds": 130266
     },
     {
       "id": "12718",
@@ -4227,40 +4216,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 83439
+      "adds": 127161
     },
     {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
+      "id": "MIN",
+      "name": "Minnesota Vikings",
+      "pos": "DEF",
+      "team": "MIN",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 293,
-      "adds": 64864
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 61968
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 58170
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 98880
     },
     {
       "id": "7090",
@@ -4271,7 +4238,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 51876
+      "adds": 85698
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 293,
+      "adds": 65264
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 62120
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 58513
     },
     {
       "id": "DET",
@@ -4282,7 +4282,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46971
+      "adds": 47304
+    },
+    {
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 691,
+      "adds": 43862
     },
     {
       "id": "10218",
@@ -4293,7 +4304,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 40495
+      "adds": 40593
     },
     {
       "id": "12493",
@@ -4304,29 +4315,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 39590
+      "adds": 40500
     },
     {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 203,
-      "adds": 34828
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 688,
-      "adds": 33183
+      "rank": 141,
+      "adds": 40176
     }
   ]
 }
