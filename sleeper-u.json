@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T11:00:23.604Z",
+  "generated_at": "2026-09-22T11:14:48.605Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3747,7 +3747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1137033
+      "adds": 1163583
     },
     {
       "id": "1339",
@@ -3758,7 +3758,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 366039
+      "adds": 371547
     },
     {
       "id": "2505",
@@ -3769,7 +3769,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 336573
+      "adds": 342297
     },
     {
       "id": "12718",
@@ -3780,7 +3780,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 279360
+      "adds": 279621
     },
     {
       "id": "9225",
@@ -3791,18 +3791,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 269584
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 213528
+      "adds": 273728
     },
     {
       "id": "11637",
@@ -3813,18 +3802,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 213498
+      "adds": 218079
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 141,
-      "adds": 161464
+      "rank": 199,
+      "adds": 216952
     },
     {
       "id": "MIN",
@@ -3835,18 +3824,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 159935
+      "adds": 164120
     },
     {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 149805
+      "depth": 1,
+      "rank": 141,
+      "adds": 163912
     },
     {
       "id": "2307",
@@ -3857,7 +3846,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 148620
+      "adds": 152068
+    },
+    {
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 150021
     },
     {
       "id": "11256",
@@ -3868,7 +3868,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 140322
+      "adds": 143514
     },
     {
       "id": "12493",
@@ -3879,18 +3879,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 108845
-    },
-    {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 691,
-      "adds": 86814
+      "adds": 111180
     },
     {
       "id": "6130",
@@ -3901,7 +3890,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 86706
+      "adds": 86994
+    },
+    {
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 691,
+      "adds": 86870
     },
     {
       "id": "4017",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 83200
+      "adds": 84360
     },
     {
       "id": "4035",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 73864
+      "adds": 75552
     },
     {
       "id": "8188",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 71799
+      "adds": 73675
     },
     {
       "id": "DET",
@@ -3945,7 +3945,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65781
+      "adds": 67320
     },
     {
       "id": "7571",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 48264
+      "adds": 49506
     }
   ]
 }
