@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T14:35:26.122Z",
+  "generated_at": "2026-09-22T14:48:31.696Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "JAX",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 74
       },
       {
@@ -225,7 +225,7 @@
         "team": "LV",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 273
       },
       {
@@ -824,7 +824,7 @@
           "team": "CLE",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 1,
           "rank": 153
         },
         {
@@ -866,7 +866,7 @@
           "team": "SEA",
           "injury": "PUP",
           "status": "Active",
-          "depth": 5,
+          "depth": 4,
           "rank": 101
         }
       ],
@@ -1084,7 +1084,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 20
         },
         {
@@ -1285,7 +1285,7 @@
           "team": "MIN",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 2,
           "rank": 633
         },
         {
@@ -1345,7 +1345,7 @@
           "team": "JAX",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 68
         },
         {
@@ -1557,7 +1557,7 @@
           "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 75
         },
         {
@@ -1587,7 +1587,7 @@
           "team": "GB",
           "injury": "NA",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 20
         },
         {
@@ -1737,7 +1737,7 @@
           "team": "GB",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 98
         },
         {
@@ -1958,7 +1958,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 207
         }
       ],
@@ -2109,7 +2109,7 @@
           "team": "GB",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 119
         },
         {
@@ -2289,7 +2289,7 @@
           "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 73
         },
         {
@@ -2299,7 +2299,7 @@
           "team": "CHI",
           "injury": null,
           "status": "Active",
-          "depth": 5,
+          "depth": 3,
           "rank": 645
         },
         {
@@ -2490,7 +2490,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 91
         },
         {
@@ -2681,7 +2681,7 @@
           "team": "JAX",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 74
         },
         {
@@ -2691,7 +2691,7 @@
           "team": "LV",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 273
         },
         {
@@ -2903,7 +2903,7 @@
           "team": "ATL",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 228
         },
         {
@@ -2932,7 +2932,7 @@
         "team": "LV",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 3,
         "rank": 109
       },
       {
@@ -2952,7 +2952,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 224
       },
       {
@@ -2962,7 +2962,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 227
       },
       {
@@ -2972,7 +2972,7 @@
         "team": "ATL",
         "injury": "Out",
         "status": "Active",
-        "depth": 1,
+        "depth": 3,
         "rank": 237
       },
       {
@@ -3002,7 +3002,7 @@
         "team": "ARI",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 285
       },
       {
@@ -3042,7 +3042,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 387
       }
     ],
@@ -3054,7 +3054,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 4,
         "rank": 110
       },
       {
@@ -3174,7 +3174,7 @@
         "team": "GB",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 173
       },
       {
@@ -3244,7 +3244,7 @@
         "team": "SF",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 222
       }
     ],
@@ -3266,7 +3266,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 3,
         "rank": 160
       },
       {
@@ -3296,7 +3296,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 171
       },
       {
@@ -3306,7 +3306,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 172
       },
       {
@@ -3336,7 +3336,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 6,
+        "depth": 8,
         "rank": 177
       },
       {
@@ -3356,7 +3356,7 @@
         "team": "KC",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 181
       },
       {
@@ -3380,20 +3380,20 @@
         "rank": 184
       },
       {
-        "id": "13320",
-        "name": "Zachariah Branch",
-        "pos": "WR",
-        "team": "ATL",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 185
-      },
-      {
         "id": "12499",
         "name": "Elic Ayomanor",
         "pos": "WR",
         "team": "TEN",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 185
+      },
+      {
+        "id": "13320",
+        "name": "Zachariah Branch",
+        "pos": "WR",
+        "team": "ATL",
         "injury": null,
         "status": "Active",
         "depth": 4,
@@ -3406,7 +3406,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -3436,7 +3436,7 @@
         "team": "PIT",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 194
       },
       {
@@ -3488,7 +3488,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 136
       },
       {
@@ -3518,7 +3518,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 141
       },
       {
@@ -3747,7 +3747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1594197
+      "adds": 1627398
     },
     {
       "id": "1339",
@@ -3758,7 +3758,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 470277
+      "adds": 477252
     },
     {
       "id": "2505",
@@ -3769,7 +3769,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 417465
+      "adds": 424917
     },
     {
       "id": "9225",
@@ -3780,7 +3780,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 314909
+      "adds": 320796
     },
     {
       "id": "11637",
@@ -3791,7 +3791,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 290781
+      "adds": 298161
     },
     {
       "id": "12718",
@@ -3800,9 +3800,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 678,
-      "adds": 277569
+      "adds": 277776
     },
     {
       "id": "6650",
@@ -3813,7 +3813,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 258648
+      "adds": 263248
     },
     {
       "id": "MIN",
@@ -3824,7 +3824,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 232200
+      "adds": 237885
     },
     {
       "id": "12487",
@@ -3833,9 +3833,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 1,
+      "depth": 2,
       "rank": 141,
-      "adds": 207784
+      "adds": 211584
     },
     {
       "id": "2307",
@@ -3844,9 +3844,9 @@
       "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 508,
-      "adds": 201600
+      "adds": 205796
     },
     {
       "id": "11256",
@@ -3857,7 +3857,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 181410
+      "adds": 185334
     },
     {
       "id": "12493",
@@ -3868,7 +3868,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 160175
+      "adds": 163980
     },
     {
       "id": "7090",
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149139
+      "adds": 149328
     },
     {
       "id": "8188",
@@ -3890,18 +3890,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 102452
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 295,
-      "adds": 100984
+      "adds": 104923
     },
     {
       "id": "4035",
@@ -3912,7 +3901,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 100368
+      "adds": 102952
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 295,
+      "adds": 102384
     },
     {
       "id": "DET",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 92250
+      "adds": 94194
     },
     {
       "id": "7562",
@@ -3932,9 +3932,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 3,
       "rank": 691,
-      "adds": 86191
+      "adds": 86254
     },
     {
       "id": "6130",
@@ -3943,9 +3943,9 @@
       "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 2,
       "rank": 660,
-      "adds": 79407
+      "adds": 79722
     },
     {
       "id": "NYG",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72596
+      "adds": 74588
     }
   ]
 }
