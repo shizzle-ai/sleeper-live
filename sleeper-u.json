@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T10:52:34.507Z",
+  "generated_at": "2026-09-22T11:00:23.604Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2382,6 +2382,16 @@
           "rank": 148
         },
         {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 35
+        },
+        {
           "id": "1466",
           "name": "Travis Kelce",
           "pos": "TE",
@@ -2422,24 +2432,14 @@
           "rank": 65
         },
         {
-          "id": "4983",
-          "name": "DJ Moore",
-          "pos": "WR",
-          "team": "BUF",
+          "id": "5849",
+          "name": "Kyler Murray",
+          "pos": "QB",
+          "team": "MIN",
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 50
-        },
-        {
-          "id": "5001",
-          "name": "Dalton Schultz",
-          "pos": "TE",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 98
+          "rank": 87
         },
         {
           "id": "6790",
@@ -2460,16 +2460,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 4
-        },
-        {
-          "id": "LAC",
-          "name": "Los Angeles Chargers",
-          "pos": "DEF",
-          "team": "LAC",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "bench": [
@@ -2482,16 +2472,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 126
-        },
-        {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 35
         },
         {
           "id": "13285",
@@ -2524,6 +2504,16 @@
           "rank": 124
         },
         {
+          "id": "5001",
+          "name": "Dalton Schultz",
+          "pos": "TE",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 98
+        },
+        {
           "id": "7528",
           "name": "Najee Harris",
           "pos": "RB",
@@ -2536,14 +2526,14 @@
       ],
       "reserve": [
         {
-          "id": "5849",
-          "name": "Kyler Murray",
-          "pos": "QB",
-          "team": "MIN",
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "team": "BUF",
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 87
+          "rank": 50
         }
       ],
       "taxi": [],
@@ -3726,20 +3716,20 @@
         "rank": null
       },
       {
-        "id": "CLE",
-        "name": "Cleveland Browns",
+        "id": "LAC",
+        "name": "Los Angeles Chargers",
         "pos": "DEF",
-        "team": "CLE",
+        "team": "LAC",
         "injury": null,
         "status": null,
         "depth": null,
         "rank": null
       },
       {
-        "id": "ATL",
-        "name": "Atlanta Falcons",
+        "id": "CLE",
+        "name": "Cleveland Browns",
         "pos": "DEF",
-        "team": "ATL",
+        "team": "CLE",
         "injury": null,
         "status": null,
         "depth": null,
@@ -3757,7 +3747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1124451
+      "adds": 1137033
     },
     {
       "id": "1339",
@@ -3768,7 +3758,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 363411
+      "adds": 366039
     },
     {
       "id": "2505",
@@ -3779,7 +3769,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 333567
+      "adds": 336573
     },
     {
       "id": "12718",
@@ -3790,7 +3780,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 279288
+      "adds": 279360
     },
     {
       "id": "9225",
@@ -3801,7 +3791,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 267596
+      "adds": 269584
     },
     {
       "id": "6650",
@@ -3812,7 +3802,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 211768
+      "adds": 213528
     },
     {
       "id": "11637",
@@ -3823,7 +3813,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 211194
+      "adds": 213498
     },
     {
       "id": "12487",
@@ -3834,7 +3824,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 160504
+      "adds": 161464
     },
     {
       "id": "MIN",
@@ -3845,7 +3835,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 157845
+      "adds": 159935
     },
     {
       "id": "7090",
@@ -3856,7 +3846,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149760
+      "adds": 149805
     },
     {
       "id": "2307",
@@ -3867,7 +3857,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 146964
+      "adds": 148620
     },
     {
       "id": "11256",
@@ -3878,7 +3868,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 138996
+      "adds": 140322
     },
     {
       "id": "12493",
@@ -3889,7 +3879,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 107565
+      "adds": 108845
     },
     {
       "id": "7562",
@@ -3900,7 +3890,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 86786
+      "adds": 86814
     },
     {
       "id": "6130",
@@ -3911,7 +3901,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 86580
+      "adds": 86706
     },
     {
       "id": "4017",
@@ -3922,7 +3912,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 82576
+      "adds": 83200
     },
     {
       "id": "4035",
@@ -3933,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 73216
+      "adds": 73864
     },
     {
       "id": "8188",
@@ -3944,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 70994
+      "adds": 71799
     },
     {
       "id": "DET",
@@ -3955,7 +3945,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65007
+      "adds": 65781
     },
     {
       "id": "7571",
@@ -3966,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 47599
+      "adds": 48264
     }
   ]
 }
