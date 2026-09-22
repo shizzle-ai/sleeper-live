@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T00:58:49.861Z",
+  "generated_at": "2026-09-22T01:10:31.803Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 110.96,
+      "points": 119.36,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         28.98,
-        1.5,
+        9.9,
         13,
         10.3,
         0,
@@ -385,7 +385,7 @@
         "4217": 18,
         "6770": 16.18,
         "8126": 1.9,
-        "8150": 1.5,
+        "8150": 9.9,
         "9493": 0,
         "10236": 22.5,
         "11581": 8.6,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 566307
+      "adds": 586521
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 295479
+      "adds": 296019
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 243288
+      "adds": 247887
     },
     {
       "id": "9225",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 225232
+      "adds": 228032
     },
     {
       "id": "1339",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 199926
+      "adds": 204732
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 168642
+      "adds": 171117
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 156843
+      "adds": 157806
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 140696
+      "adds": 143352
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 129375
+      "adds": 129735
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 119610
+      "adds": 121218
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 109632
+      "adds": 111308
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97890
+      "adds": 99530
     },
     {
       "id": "7562",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 90958
+      "adds": 91000
     },
     {
       "id": "4017",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 61416
+      "adds": 63056
     },
     {
       "id": "8188",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 59269
+      "adds": 59941
     },
     {
       "id": "12487",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 57176
+      "adds": 58424
     },
     {
       "id": "4035",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 56216
+      "adds": 56824
     },
     {
       "id": "12493",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 50915
+      "adds": 51950
     },
     {
       "id": "11168",
@@ -4315,18 +4315,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 46415
+      "adds": 46420
     },
     {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 44994
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 45765
     }
   ]
 }
