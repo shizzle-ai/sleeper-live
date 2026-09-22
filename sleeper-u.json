@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-21T23:59:30.048Z",
+  "generated_at": "2026-09-22T00:18:08.260Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 513648
+      "adds": 531072
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 267498
+      "adds": 300825
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 249813
+      "adds": 253233
     },
     {
       "id": "9225",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 231700
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 176490
+      "adds": 233989
     },
     {
       "id": "1339",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 172026
+      "adds": 182466
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 178164
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 150993
+      "adds": 158994
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 146456
+      "adds": 148096
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 135729
+      "adds": 139239
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 126120
+      "adds": 127200
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 114112
+      "adds": 115376
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97970
+      "adds": 99450
     },
     {
       "id": "7562",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 691,
-      "adds": 86975
+      "adds": 92477
     },
     {
       "id": "4017",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 61216
+      "adds": 62024
     },
     {
       "id": "8188",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 58877
+      "adds": 59437
     },
     {
       "id": "4035",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 58184
+      "adds": 58848
     },
     {
       "id": "12487",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 54480
+      "adds": 57800
     },
     {
       "id": "12493",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 46195
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 45783
+      "adds": 48225
     },
     {
       "id": "11168",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 551,
-      "adds": 45710
+      "adds": 47100
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 46350
     }
   ]
 }
