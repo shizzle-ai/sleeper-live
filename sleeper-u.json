@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T04:18:37.868Z",
+  "generated_at": "2026-09-22T04:31:20.904Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3757,29 +3757,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 815031
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 678,
-      "adds": 285462
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 280800
+      "adds": 815355
     },
     {
       "id": "1339",
@@ -3790,7 +3768,29 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 278685
+      "adds": 281709
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 678,
+      "adds": 281277
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 272691
     },
     {
       "id": "9225",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 237265
+      "adds": 228802
     },
     {
       "id": "6650",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 178120
+      "adds": 172400
     },
     {
       "id": "11637",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 169281
+      "adds": 162072
     },
     {
       "id": "7090",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 153666
+      "adds": 150705
     },
     {
       "id": "12487",
@@ -3845,18 +3845,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 123968
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 116364
+      "adds": 124536
     },
     {
       "id": "2307",
@@ -3867,7 +3856,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 115548
+      "adds": 112504
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 111546
     },
     {
       "id": "MIN",
@@ -3878,7 +3878,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 113260
+      "adds": 110230
     },
     {
       "id": "6130",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 103230
+      "adds": 95841
     },
     {
       "id": "7562",
@@ -3900,18 +3900,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 88438
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 293,
-      "adds": 71312
+      "adds": 87311
     },
     {
       "id": "12493",
@@ -3922,7 +3911,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 69985
+      "adds": 71125
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 293,
+      "adds": 69192
     },
     {
       "id": "4035",
@@ -3933,18 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 58248
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 58156
+      "adds": 56496
     },
     {
       "id": "DET",
@@ -3955,7 +3944,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55026
+      "adds": 52866
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 51898
     },
     {
       "id": "11168",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 44500
+      "adds": 43745
     }
   ]
 }
