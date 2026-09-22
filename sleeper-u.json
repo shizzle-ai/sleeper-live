@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T20:32:01.988Z",
+  "generated_at": "2026-09-22T20:43:57.899Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2307,7 +2307,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2292651
+      "adds": 2317635
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 646,
-      "adds": 694989
+      "adds": 702486
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 565227
+      "adds": 570897
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 455490
+      "adds": 461277
     },
     {
       "id": "9225",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 384510
+      "adds": 388626
     },
     {
       "id": "MIN",
@@ -3792,7 +3792,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 362090
+      "adds": 366815
     },
     {
       "id": "6650",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 331208
+      "adds": 333648
     },
     {
       "id": "12487",
@@ -3814,7 +3814,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 307520
+      "adds": 311392
     },
     {
       "id": "2307",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 297344
+      "adds": 301520
     },
     {
       "id": "12718",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 269496
+      "adds": 269766
     },
     {
       "id": "12493",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 256120
+      "adds": 259660
     },
     {
       "id": "11256",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 243336
+      "adds": 245274
     },
     {
       "id": "8188",
@@ -3869,18 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 154266
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 144693
+      "adds": 155862
     },
     {
       "id": "4035",
@@ -3891,7 +3880,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 144272
+      "adds": 145904
+    },
+    {
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 144864
     },
     {
       "id": "DET",
@@ -3902,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 135261
+      "adds": 136521
     },
     {
       "id": "4017",
@@ -3913,7 +3913,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 133176
+      "adds": 134544
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 115604
+      "adds": 116788
     },
     {
       "id": "7571",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 104575
+      "adds": 105709
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 101652
+      "adds": 102612
     }
   ]
 }
