@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T01:58:34.528Z",
+  "generated_at": "2026-09-22T02:11:34.096Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -607,7 +607,7 @@
     {
       "rank": 7,
       "roster_id": 12,
-      "team": "City of Brotherly Shove",
+      "team": "Hakuna Mailata",
       "is_me": false,
       "wins": 0,
       "losses": 1,
@@ -1101,7 +1101,7 @@
           "name": "Jaxson Dart",
           "pos": "QB",
           "team": "NYG",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -2732,7 +2732,7 @@
     {
       "roster_id": 12,
       "owner_id": "1128170568349536256",
-      "team": "City of Brotherly Shove",
+      "team": "Hakuna Mailata",
       "record": {
         "wins": 0,
         "losses": 1,
@@ -3034,7 +3034,7 @@
             "rank": 212
           },
           "roster_id": 12,
-          "team": "City of Brotherly Shove"
+          "team": "Hakuna Mailata"
         }
       ],
       "drops": [
@@ -3050,7 +3050,7 @@
             "rank": 496
           },
           "roster_id": 12,
-          "team": "City of Brotherly Shove"
+          "team": "Hakuna Mailata"
         }
       ],
       "roster_ids": [
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 632646
+      "adds": 647406
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 292293
+      "adds": 292554
     },
     {
       "id": "2505",
@@ -4139,18 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 254385
-    },
-    {
-      "id": "9225",
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 147,
-      "adds": 225386
+      "adds": 258642
     },
     {
       "id": "1339",
@@ -4161,7 +4150,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 225099
+      "adds": 229563
+    },
+    {
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 147,
+      "adds": 227584
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 164160
+      "adds": 165969
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 156780
+      "adds": 156879
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 147432
+      "adds": 150912
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 120168
+      "adds": 120348
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 116286
+      "adds": 117564
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 109068
+      "adds": 110384
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 100885
+      "adds": 102315
     },
     {
       "id": "7562",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 89957
+      "adds": 90356
     },
     {
       "id": "4017",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 63512
+      "adds": 65000
     },
     {
       "id": "8188",
@@ -4271,29 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 62440
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 56384
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 119,
-      "adds": 55928
+      "adds": 63196
     },
     {
       "id": "12493",
@@ -4304,7 +4282,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 55795
+      "adds": 56835
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 56600
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 119,
+      "adds": 56512
     },
     {
       "id": "DET",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45990
+      "adds": 46656
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 45735
+      "adds": 45750
     }
   ]
 }
