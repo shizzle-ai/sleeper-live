@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T01:32:55.877Z",
+  "generated_at": "2026-09-22T01:43:26.751Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 117.96,
+      "points": 119.16,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         28.98,
-        8.5,
+        9.7,
         13,
         10.3,
         0,
@@ -385,7 +385,7 @@
         "4217": 18,
         "6770": 16.18,
         "8126": 1.9,
-        "8150": 8.5,
+        "8150": 9.7,
         "9493": 0,
         "10236": 22.5,
         "11581": 8.6,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 599931
+      "adds": 611622
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 291762
+      "adds": 292032
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 239274
+      "adds": 241947
     },
     {
       "id": "9225",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 220269
+      "adds": 222222
     },
     {
       "id": "1339",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 214092
+      "adds": 217818
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 159849
+      "adds": 161469
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 156510
+      "adds": 156582
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 136096
+      "adds": 139640
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 119835
+      "adds": 119970
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 113748
+      "adds": 114558
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 106336
+      "adds": 107196
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97750
+      "adds": 98730
     },
     {
       "id": "7562",
@@ -4252,17 +4252,6 @@
       "adds": 89789
     },
     {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 60935
-    },
-    {
       "id": "4017",
       "name": "Deshaun Watson",
       "pos": "QB",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 60800
+      "adds": 61656
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 61425
     },
     {
       "id": "12487",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 56112
+      "adds": 56208
     },
     {
       "id": "4035",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 54504
+      "adds": 55056
     },
     {
       "id": "12493",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 53345
+      "adds": 54230
     },
     {
       "id": "11168",
@@ -4318,15 +4318,15 @@
       "adds": 45710
     },
     {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 44514
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 44838
     }
   ]
 }
