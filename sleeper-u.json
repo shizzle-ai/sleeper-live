@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T22:25:28.244Z",
+  "generated_at": "2026-09-22T22:35:41.457Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2493342
+      "adds": 2472264
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 646,
-      "adds": 769707
+      "adds": 699102
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 602685
+      "adds": 593973
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 510462
+      "adds": 509454
     },
     {
       "id": "9225",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 414407
+      "adds": 410046
     },
     {
       "id": "MIN",
@@ -3792,18 +3792,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 402720
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 349440
+      "adds": 402840
     },
     {
       "id": "12487",
@@ -3814,7 +3803,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 345968
+      "adds": 347352
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 345784
     },
     {
       "id": "2307",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 330972
+      "adds": 329788
     },
     {
       "id": "12493",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 280530
+      "adds": 268685
     },
     {
       "id": "12718",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 267813
+      "adds": 264195
     },
     {
       "id": "11256",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 257664
+      "adds": 256152
     },
     {
       "id": "8188",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 169435
+      "adds": 169323
     },
     {
       "id": "4035",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 163328
+      "adds": 163432
     },
     {
       "id": "4017",
@@ -3891,18 +3891,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 144512
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 144036
+      "adds": 143328
     },
     {
       "id": "DET",
@@ -3913,7 +3902,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 143307
+      "adds": 142605
+    },
+    {
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 141444
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 125864
+      "adds": 125908
     },
     {
       "id": "7571",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 114321
+      "adds": 114323
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 109424
+      "adds": 109508
     }
   ]
 }
