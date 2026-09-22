@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T02:36:40.822Z",
+  "generated_at": "2026-09-22T02:47:11.680Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 121.66,
+      "points": 124.16,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         28.98,
-        12.2,
+        14.7,
         13,
         10.3,
         0,
@@ -385,7 +385,7 @@
         "4217": 18,
         "6770": 16.18,
         "8126": 1.9,
-        "8150": 12.2,
+        "8150": 14.7,
         "9493": 0,
         "10236": 22.5,
         "11581": 8.6,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 667539
+      "adds": 680400
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 288558
+      "adds": 288630
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 252279
+      "adds": 255672
     },
     {
       "id": "1339",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 238662
+      "adds": 242442
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 220059
+      "adds": 222152
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 155502
+      "adds": 157410
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 155349
+      "adds": 155475
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 150064
+      "adds": 153096
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 110979
+      "adds": 111114
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 109788
+      "adds": 110700
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 105884
+      "adds": 106800
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 100125
+      "adds": 101545
     },
     {
       "id": "7562",
@@ -4249,18 +4249,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 89355
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 293,
-      "adds": 62832
+      "adds": 89376
     },
     {
       "id": "12487",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 61312
+      "adds": 65248
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 293,
+      "adds": 63704
     },
     {
       "id": "8188",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 59087
+      "adds": 59752
     },
     {
       "id": "12493",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 58210
+      "adds": 59110
     },
     {
       "id": "4035",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 54064
+      "adds": 54584
     },
     {
       "id": "DET",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45891
+      "adds": 46737
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 45100
+      "adds": 45120
     }
   ]
 }
