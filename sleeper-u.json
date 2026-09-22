@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T04:31:20.904Z",
+  "generated_at": "2026-09-22T04:43:35.561Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -79,11 +79,11 @@
     "owner_id": "1022575756326666240",
     "team": "PimpShizzle",
     "record": {
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "fpts": 138.52,
-      "fpts_against": 129.26
+      "fpts": 263.68,
+      "fpts_against": 239.02
     },
     "starters": [
       {
@@ -541,102 +541,102 @@
   "standings": [
     {
       "rank": 1,
-      "roster_id": 7,
-      "team": "Bijan Mustard",
-      "is_me": false,
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "fpts": 178.12,
-      "fpts_against": 130.06
-    },
-    {
-      "rank": 2,
       "roster_id": 4,
       "team": "4th and beer",
       "is_me": false,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "fpts": 175.52,
-      "fpts_against": 152.06
+      "fpts": 344.52,
+      "fpts_against": 272.32
     },
     {
-      "rank": 3,
-      "roster_id": 6,
-      "team": "BlackLightning1",
-      "is_me": false,
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "fpts": 154.78,
-      "fpts_against": 111.22
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "roster_id": 10,
       "team": "CHASEing Dubs",
       "is_me": false,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "fpts": 143.92,
-      "fpts_against": 115.6
+      "fpts": 300.8,
+      "fpts_against": 233.1
+    },
+    {
+      "rank": 3,
+      "roster_id": 8,
+      "team": "Kingz of Paulys",
+      "is_me": false,
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "fpts": 300.78,
+      "fpts_against": 270.62
+    },
+    {
+      "rank": 4,
+      "roster_id": 6,
+      "team": "BlackLightning1",
+      "is_me": false,
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "fpts": 291.14,
+      "fpts_against": 189.66
     },
     {
       "rank": 5,
       "roster_id": 11,
       "team": "PimpShizzle",
       "is_me": true,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "fpts": 138.52,
-      "fpts_against": 129.26
+      "fpts": 263.68,
+      "fpts_against": 239.02
     },
     {
       "rank": 6,
-      "roster_id": 8,
-      "team": "Kingz of Paulys",
+      "roster_id": 7,
+      "team": "Bijan Mustard",
       "is_me": false,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "fpts": 133.06,
-      "fpts_against": 127.78
+      "fpts": 309.12,
+      "fpts_against": 279.86
     },
     {
       "rank": 7,
+      "roster_id": 5,
+      "team": "Grass-fed Beef",
+      "is_me": false,
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "fpts": 261.02,
+      "fpts_against": 285.78
+    },
+    {
+      "rank": 8,
       "roster_id": 12,
       "team": "Hakuna Mailata",
       "is_me": false,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 152.06,
-      "fpts_against": 175.52
+      "fpts": 294.9,
+      "fpts_against": 343.24
     },
     {
-      "rank": 8,
+      "rank": 9,
       "roster_id": 9,
       "team": "Achane in the Membrane",
       "is_me": false,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 130.06,
-      "fpts_against": 178.12
-    },
-    {
-      "rank": 9,
-      "roster_id": 3,
-      "team": "D’s Nuts",
-      "is_me": false,
-      "wins": 0,
-      "losses": 1,
-      "ties": 0,
-      "fpts": 129.26,
-      "fpts_against": 138.52
+      "fpts": 250.32,
+      "fpts_against": 347.12
     },
     {
       "rank": 10,
@@ -644,10 +644,10 @@
       "team": "Wades World",
       "is_me": false,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 127.78,
-      "fpts_against": 133.06
+      "fpts": 245.28,
+      "fpts_against": 289.94
     },
     {
       "rank": 11,
@@ -655,21 +655,21 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 115.6,
-      "fpts_against": 143.92
+      "fpts": 225.36,
+      "fpts_against": 269.08
     },
     {
       "rank": 12,
-      "roster_id": 5,
-      "team": "Grass-fed Beef",
+      "roster_id": 3,
+      "team": "D’s Nuts",
       "is_me": false,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 111.22,
-      "fpts_against": 154.78
+      "fpts": 207.7,
+      "fpts_against": 274.88
     }
   ],
   "rosters": [
@@ -679,10 +679,10 @@
       "team": "Wades World",
       "record": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 127.78,
-        "fpts_against": 133.06
+        "fpts": 245.28,
+        "fpts_against": 289.94
       },
       "starters": [
         {
@@ -880,10 +880,10 @@
       "team": "Herby Fully Loaded! ",
       "record": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 115.6,
-        "fpts_against": 143.92
+        "fpts": 225.36,
+        "fpts_against": 269.08
       },
       "starters": [
         {
@@ -1071,10 +1071,10 @@
       "team": "D’s Nuts",
       "record": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 129.26,
-        "fpts_against": 138.52
+        "fpts": 207.7,
+        "fpts_against": 274.88
       },
       "starters": [
         {
@@ -1261,11 +1261,11 @@
       "owner_id": "1122225852273643520",
       "team": "4th and beer",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "ties": 0,
-        "fpts": 175.52,
-        "fpts_against": 152.06
+        "fpts": 344.52,
+        "fpts_against": 272.32
       },
       "starters": [
         {
@@ -1441,11 +1441,11 @@
       "owner_id": "1000846060765409280",
       "team": "Grass-fed Beef",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "ties": 0,
-        "fpts": 111.22,
-        "fpts_against": 154.78
+        "fpts": 261.02,
+        "fpts_against": 285.78
       },
       "starters": [
         {
@@ -1621,11 +1621,11 @@
       "owner_id": "474023265774333952",
       "team": "BlackLightning1",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "ties": 0,
-        "fpts": 154.78,
-        "fpts_against": 111.22
+        "fpts": 291.14,
+        "fpts_against": 189.66
       },
       "starters": [
         {
@@ -1803,10 +1803,10 @@
       "team": "Bijan Mustard",
       "record": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "fpts": 178.12,
-        "fpts_against": 130.06
+        "fpts": 309.12,
+        "fpts_against": 279.86
       },
       "starters": [
         {
@@ -1993,11 +1993,11 @@
       "owner_id": "1123815069701304320",
       "team": "Kingz of Paulys",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "ties": 0,
-        "fpts": 133.06,
-        "fpts_against": 127.78
+        "fpts": 300.78,
+        "fpts_against": 270.62
       },
       "starters": [
         {
@@ -2174,10 +2174,10 @@
       "team": "Achane in the Membrane",
       "record": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 130.06,
-        "fpts_against": 178.12
+        "fpts": 250.32,
+        "fpts_against": 347.12
       },
       "starters": [
         {
@@ -2364,11 +2364,11 @@
       "owner_id": "472115469403287552",
       "team": "CHASEing Dubs",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "ties": 0,
-        "fpts": 143.92,
-        "fpts_against": 115.6
+        "fpts": 300.8,
+        "fpts_against": 233.1
       },
       "starters": [
         {
@@ -2555,11 +2555,11 @@
       "owner_id": "1022575756326666240",
       "team": "PimpShizzle",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "ties": 0,
-        "fpts": 138.52,
-        "fpts_against": 129.26
+        "fpts": 263.68,
+        "fpts_against": 239.02
       },
       "starters": [
         {
@@ -2736,10 +2736,10 @@
       "team": "Hakuna Mailata",
       "record": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 152.06,
-        "fpts_against": 175.52
+        "fpts": 294.9,
+        "fpts_against": 343.24
       },
       "starters": [
         {
@@ -3757,7 +3757,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 815355
+      "adds": 830871
     },
     {
       "id": "1339",
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 281709
+      "adds": 285687
     },
     {
       "id": "12718",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 281277
+      "adds": 281421
     },
     {
       "id": "2505",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 272691
+      "adds": 276345
     },
     {
       "id": "9225",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 228802
+      "adds": 231714
     },
     {
       "id": "6650",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 172400
+      "adds": 175272
     },
     {
       "id": "11637",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 162072
+      "adds": 165078
     },
     {
       "id": "7090",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 150705
+      "adds": 150867
     },
     {
       "id": "12487",
@@ -3845,7 +3845,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 124536
+      "adds": 126376
     },
     {
       "id": "2307",
@@ -3856,7 +3856,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 112504
+      "adds": 114520
     },
     {
       "id": "11256",
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 111546
+      "adds": 113430
     },
     {
       "id": "MIN",
@@ -3878,7 +3878,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 110230
+      "adds": 112765
     },
     {
       "id": "6130",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 95841
+      "adds": 95976
     },
     {
       "id": "7562",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 87311
+      "adds": 87353
     },
     {
       "id": "12493",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 71125
+      "adds": 72860
     },
     {
       "id": "4017",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 69192
+      "adds": 69992
     },
     {
       "id": "4035",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 56496
+      "adds": 57392
     },
     {
       "id": "DET",
@@ -3944,7 +3944,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52866
+      "adds": 53550
     },
     {
       "id": "8188",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 51898
+      "adds": 53102
     },
     {
       "id": "11168",
