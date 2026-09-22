@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T05:38:06.379Z",
+  "generated_at": "2026-09-22T05:47:46.105Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -196,7 +196,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 101
+        "rank": 102
       },
       {
         "id": "11625",
@@ -1016,7 +1016,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 160
+          "rank": 162
         },
         {
           "id": "5844",
@@ -1046,7 +1046,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 150
+          "rank": 149
         }
       ],
       "reserve": [
@@ -2409,7 +2409,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 88
+          "rank": 87
         },
         {
           "id": "421",
@@ -2429,7 +2429,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 48
+          "rank": 50
         },
         {
           "id": "5001",
@@ -2491,7 +2491,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "13285",
@@ -2672,7 +2672,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "11625",
@@ -2862,7 +2862,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 63
         },
         {
           "id": "12489",
@@ -3370,6 +3370,16 @@
         "rank": 181
       },
       {
+        "id": "1479",
+        "name": "Keenan Allen",
+        "pos": "WR",
+        "team": "IND",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 183
+      },
+      {
         "id": "12535",
         "name": "Isaac TeSlaa",
         "pos": "WR",
@@ -3378,16 +3388,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 184
-      },
-      {
-        "id": "1479",
-        "name": "Keenan Allen",
-        "pos": "WR",
-        "team": "IND",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 185
       },
       {
         "id": "13320",
@@ -3450,13 +3450,13 @@
         "rank": 194
       },
       {
-        "id": "13311",
-        "name": "Chris Bell",
+        "id": "12547",
+        "name": "Kyle Williams",
         "pos": "WR",
-        "team": "MIA",
+        "team": "NE",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 195
       }
     ],
@@ -3757,7 +3757,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 884178
+      "adds": 893745
     },
     {
       "id": "1339",
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 301896
+      "adds": 304335
     },
     {
       "id": "2505",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 285345
+      "adds": 287622
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 279981
+      "adds": 280035
     },
     {
       "id": "9225",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 236754
+      "adds": 238406
     },
     {
       "id": "6650",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 181608
+      "adds": 183184
     },
     {
       "id": "11637",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 171972
+      "adds": 173817
     },
     {
       "id": "7090",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 150039
+      "adds": 150093
     },
     {
       "id": "12487",
@@ -3845,7 +3845,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 132960
+      "adds": 133904
     },
     {
       "id": "MIN",
@@ -3856,7 +3856,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120465
+      "adds": 122080
     },
     {
       "id": "2307",
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 119988
+      "adds": 121232
     },
     {
       "id": "11256",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 117528
+      "adds": 118596
     },
     {
       "id": "6130",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 92259
+      "adds": 92349
     },
     {
       "id": "7562",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 87017
+      "adds": 87038
     },
     {
       "id": "12493",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 79780
+      "adds": 80940
     },
     {
       "id": "4017",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 71840
+      "adds": 72368
     },
     {
       "id": "4035",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 59544
+      "adds": 60184
     },
     {
       "id": "8188",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 55965
+      "adds": 56504
     },
     {
       "id": "DET",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54900
+      "adds": 55287
     },
     {
       "id": "11168",
