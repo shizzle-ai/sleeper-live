@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T00:37:08.422Z",
+  "generated_at": "2026-09-22T00:50:34.891Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -173,7 +173,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 1,
+        "depth": 6,
         "rank": 4
       },
       {
@@ -311,7 +311,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 6,
           "rank": 4
         },
         {
@@ -1101,7 +1101,7 @@
           "name": "Jaxson Dart",
           "pos": "QB",
           "team": "NYG",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -2648,7 +2648,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 6,
           "rank": 4
         },
         {
@@ -2748,7 +2748,7 @@
           "team": "LAR",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 46
         },
         {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 534087
+      "adds": 551502
     },
     {
       "id": "12718",
@@ -4126,9 +4126,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 678,
-      "adds": 294993
+      "adds": 295299
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 237033
+      "adds": 240381
     },
     {
       "id": "9225",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 221228
+      "adds": 223454
     },
     {
       "id": "1339",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 189630
+      "adds": 195642
     },
     {
       "id": "11637",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 165159
+      "adds": 166878
     },
     {
       "id": "7090",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 156330
+      "adds": 156348
     },
     {
       "id": "6650",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 137280
+      "adds": 139144
     },
     {
       "id": "6130",
@@ -4205,7 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 128088
+      "adds": 129060
     },
     {
       "id": "11256",
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 117468
+      "adds": 118674
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 106792
+      "adds": 108472
     },
     {
       "id": "MIN",
@@ -4238,7 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95675
+      "adds": 96970
     },
     {
       "id": "7562",
@@ -4247,9 +4247,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 5,
+      "depth": 4,
       "rank": 691,
-      "adds": 90909
+      "adds": 90944
     },
     {
       "id": "4017",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 58640
+      "adds": 60328
     },
     {
       "id": "8188",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 58037
+      "adds": 58562
     },
     {
       "id": "12487",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 55480
+      "adds": 56936
     },
     {
       "id": "4035",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 55224
+      "adds": 55728
     },
     {
       "id": "12493",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 49085
+      "adds": 50205
     },
     {
       "id": "11168",
@@ -4313,9 +4313,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 3,
       "rank": 551,
-      "adds": 46395
+      "adds": 46410
     },
     {
       "id": "6865",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 136,
-      "adds": 44502
+      "adds": 44904
     }
   ]
 }
