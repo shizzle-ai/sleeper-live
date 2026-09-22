@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T03:05:48.845Z",
+  "generated_at": "2026-09-22T03:21:14.720Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 125.06,
+      "points": 125.16,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         28.98,
-        15.6,
+        15.7,
         13,
         10.3,
         0,
@@ -385,7 +385,7 @@
         "4217": 18,
         "6770": 16.18,
         "8126": 1.9,
-        "8150": 15.6,
+        "8150": 15.7,
         "9493": 0,
         "10236": 22.5,
         "11581": 8.6,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 708273
+      "adds": 740727
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 288963
+      "adds": 289161
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 262980
+      "adds": 271629
     },
     {
       "id": "1339",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 249237
+      "adds": 255861
     },
     {
       "id": "9225",
@@ -4161,18 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 226800
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 161190
+      "adds": 232316
     },
     {
       "id": "6650",
@@ -4183,7 +4172,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 159360
+      "adds": 167040
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 165933
     },
     {
       "id": "7090",
@@ -4194,7 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 155754
+      "adds": 155952
     },
     {
       "id": "11256",
@@ -4205,18 +4205,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 112356
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 111393
+      "adds": 114948
     },
     {
       "id": "2307",
@@ -4227,18 +4216,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 108896
+      "adds": 111776
     },
     {
-      "id": "MIN",
-      "name": "Minnesota Vikings",
-      "pos": "DEF",
-      "team": "MIN",
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 104395
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 111627
     },
     {
       "id": "12487",
@@ -4249,7 +4238,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 100504
+      "adds": 109152
+    },
+    {
+      "id": "MIN",
+      "name": "Minnesota Vikings",
+      "pos": "DEF",
+      "team": "MIN",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 107900
     },
     {
       "id": "7562",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 89404
+      "adds": 89474
     },
     {
       "id": "4017",
@@ -4271,18 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 65696
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 61285
+      "adds": 68208
     },
     {
       "id": "12493",
@@ -4293,7 +4282,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 60975
+      "adds": 63015
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 62986
     },
     {
       "id": "4035",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 55832
+      "adds": 57064
     },
     {
       "id": "DET",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48240
+      "adds": 50643
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 45140
+      "adds": 45150
     }
   ]
 }
