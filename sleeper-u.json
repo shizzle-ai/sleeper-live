@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T21:24:57.977Z",
+  "generated_at": "2026-09-22T21:35:07.015Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2403558
+      "adds": 2380050
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 646,
-      "adds": 728829
+      "adds": 733203
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 588987
+      "adds": 579573
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 483246
+      "adds": 481473
     },
     {
       "id": "9225",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 402304
+      "adds": 396193
     },
     {
       "id": "MIN",
@@ -3792,7 +3792,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 382540
+      "adds": 381030
     },
     {
       "id": "6650",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 342096
+      "adds": 338224
     },
     {
       "id": "12487",
@@ -3814,7 +3814,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 325544
+      "adds": 326944
     },
     {
       "id": "2307",
@@ -3825,18 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 315456
-    },
-    {
-      "id": "12493",
-      "name": "Oronde Gadsden",
-      "pos": "TE",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 83,
-      "adds": 271165
+      "adds": 313044
     },
     {
       "id": "12718",
@@ -3847,7 +3836,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 270630
+      "adds": 266787
+    },
+    {
+      "id": "12493",
+      "name": "Oronde Gadsden",
+      "pos": "TE",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 83,
+      "adds": 263930
     },
     {
       "id": "11256",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 252114
+      "adds": 248880
     },
     {
       "id": "8188",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 162106
+      "adds": 161434
     },
     {
       "id": "4035",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 153368
+      "adds": 153216
     },
     {
       "id": "7090",
@@ -3891,7 +3891,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 145602
+      "adds": 143082
     },
     {
       "id": "DET",
@@ -3902,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 140121
+      "adds": 138654
     },
     {
       "id": "4017",
@@ -3913,7 +3913,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 139576
+      "adds": 137776
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120680
+      "adds": 120576
     },
     {
       "id": "7571",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 109604
+      "adds": 109250
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 105504
+      "adds": 105520
     }
   ]
 }
