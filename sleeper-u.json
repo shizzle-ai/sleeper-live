@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T10:00:13.441Z",
+  "generated_at": "2026-09-22T10:15:59.028Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3757,7 +3757,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1058868
+      "adds": 1076535
     },
     {
       "id": "1339",
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 348957
+      "adds": 352557
     },
     {
       "id": "2505",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 320868
+      "adds": 324972
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 279459
+      "adds": 279612
     },
     {
       "id": "9225",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 260022
+      "adds": 263025
     },
     {
       "id": "6650",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 204360
+      "adds": 206720
     },
     {
       "id": "11637",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 200934
+      "adds": 203940
     },
     {
       "id": "12487",
@@ -3834,18 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 154024
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 149670
+      "adds": 155800
     },
     {
       "id": "MIN",
@@ -3856,7 +3845,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 148155
+      "adds": 150995
+    },
+    {
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 149787
     },
     {
       "id": "2307",
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 139468
+      "adds": 141856
     },
     {
       "id": "11256",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 132996
+      "adds": 134994
     },
     {
       "id": "12493",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 101155
+      "adds": 102755
     },
     {
       "id": "6130",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 87444
+      "adds": 87516
     },
     {
       "id": "7562",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 86884
+      "adds": 86905
     },
     {
       "id": "4017",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 80088
+      "adds": 80872
     },
     {
       "id": "4035",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 69512
+      "adds": 70536
     },
     {
       "id": "8188",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 67256
+      "adds": 68271
     },
     {
       "id": "DET",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61695
+      "adds": 62586
     },
     {
       "id": "7571",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 44765
+      "adds": 45604
     }
   ]
 }
