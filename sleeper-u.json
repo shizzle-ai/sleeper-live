@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T03:21:14.720Z",
+  "generated_at": "2026-09-22T03:33:36.056Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 740727
+      "adds": 750753
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 289161
+      "adds": 284949
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 271629
+      "adds": 262890
     },
     {
       "id": "1339",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 255861
+      "adds": 262323
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 232316
+      "adds": 225078
     },
     {
       "id": "6650",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 167040
+      "adds": 163504
     },
     {
       "id": "11637",
@@ -4183,7 +4183,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 165933
+      "adds": 158193
     },
     {
       "id": "7090",
@@ -4194,40 +4194,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 155952
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 114948
-    },
-    {
-      "id": "2307",
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 111776
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 111627
+      "adds": 153243
     },
     {
       "id": "12487",
@@ -4238,7 +4205,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 109152
+      "adds": 112464
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 109752
+    },
+    {
+      "id": "2307",
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 108308
     },
     {
       "id": "MIN",
@@ -4249,7 +4238,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107900
+      "adds": 105175
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 102753
     },
     {
       "id": "7562",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 89474
+      "adds": 88361
     },
     {
       "id": "4017",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 68208
+      "adds": 66256
     },
     {
       "id": "12493",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 63015
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 62986
+      "adds": 64330
     },
     {
       "id": "4035",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 57064
+      "adds": 54560
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 54145
     },
     {
       "id": "DET",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50643
+      "adds": 49581
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 45150
+      "adds": 44475
     }
   ]
 }
