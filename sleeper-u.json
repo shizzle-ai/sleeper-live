@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T02:47:11.680Z",
+  "generated_at": "2026-09-22T02:55:43.312Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 124.16,
+      "points": 124.46,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         28.98,
-        14.7,
+        15,
         13,
         10.3,
         0,
@@ -385,7 +385,7 @@
         "4217": 18,
         "6770": 16.18,
         "8126": 1.9,
-        "8150": 14.7,
+        "8150": 15,
         "9493": 0,
         "10236": 22.5,
         "11581": 8.6,
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 161,
-      "adds": 680400
+      "adds": 694179
     },
     {
       "id": "12718",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 288630
+      "adds": 288792
     },
     {
       "id": "2505",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 255672
+      "adds": 259344
     },
     {
       "id": "1339",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 242442
+      "adds": 245853
     },
     {
       "id": "9225",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 222152
+      "adds": 224119
     },
     {
       "id": "11637",
@@ -4172,18 +4172,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 157410
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 155475
+      "adds": 159165
     },
     {
       "id": "6650",
@@ -4194,18 +4183,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 153096
+      "adds": 156096
     },
     {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
       "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 111114
+      "depth": 3,
+      "rank": 194,
+      "adds": 155637
     },
     {
       "id": "11256",
@@ -4216,7 +4205,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 110700
+      "adds": 111504
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 111213
     },
     {
       "id": "2307",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 106800
+      "adds": 107760
     },
     {
       "id": "MIN",
@@ -4238,18 +4238,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 101545
-    },
-    {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 691,
-      "adds": 89376
+      "adds": 103000
     },
     {
       "id": "12487",
@@ -4260,7 +4249,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 65248
+      "adds": 95368
+    },
+    {
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 691,
+      "adds": 89383
     },
     {
       "id": "4017",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 293,
-      "adds": 63704
+      "adds": 64672
     },
     {
       "id": "8188",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 59752
+      "adds": 60438
     },
     {
       "id": "12493",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 83,
-      "adds": 59110
+      "adds": 60055
     },
     {
       "id": "4035",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 54584
+      "adds": 55168
     },
     {
       "id": "DET",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46737
+      "adds": 47349
     },
     {
       "id": "11168",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 551,
-      "adds": 45120
+      "adds": 45135
     }
   ]
 }
