@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T22:13:30.473Z",
+  "generated_at": "2026-09-22T22:25:28.244Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2466216
+      "adds": 2493342
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 646,
-      "adds": 761049
+      "adds": 769707
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 597006
+      "adds": 602685
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 503442
+      "adds": 510462
     },
     {
       "id": "9225",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 410130
+      "adds": 414407
     },
     {
       "id": "MIN",
@@ -3792,7 +3792,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 397425
+      "adds": 402720
     },
     {
       "id": "6650",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 346808
+      "adds": 349440
     },
     {
       "id": "12487",
@@ -3814,7 +3814,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 340960
+      "adds": 345968
     },
     {
       "id": "2307",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 326860
+      "adds": 330972
     },
     {
       "id": "12493",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 276365
+      "adds": 280530
     },
     {
       "id": "12718",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 267534
+      "adds": 267813
     },
     {
       "id": "11256",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 255570
+      "adds": 257664
     },
     {
       "id": "8188",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 167538
+      "adds": 169435
     },
     {
       "id": "4035",
@@ -3880,18 +3880,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 160792
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 143802
+      "adds": 163328
     },
     {
       "id": "4017",
@@ -3902,7 +3891,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 142936
+      "adds": 144512
+    },
+    {
+      "id": "7090",
+      "name": "Darnell Mooney",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 144036
     },
     {
       "id": "DET",
@@ -3913,7 +3913,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 142182
+      "adds": 143307
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 124408
+      "adds": 125864
     },
     {
       "id": "7571",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 113095
+      "adds": 114321
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 108536
+      "adds": 109424
     }
   ]
 }
