@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T19:29:47.677Z",
+  "generated_at": "2026-09-22T19:40:26.657Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2230623
+      "adds": 2218815
     },
     {
       "id": "1339",
@@ -3746,9 +3746,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": null,
+      "depth": 4,
       "rank": 646,
-      "adds": 652689
+      "adds": 659979
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 555741
+      "adds": 550845
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 436878
+      "adds": 435762
     },
     {
       "id": "9225",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 380443
+      "adds": 374990
     },
     {
       "id": "MIN",
@@ -3792,7 +3792,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 345700
+      "adds": 345480
     },
     {
       "id": "6650",
@@ -3803,18 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 329112
-    },
-    {
-      "id": "2307",
-      "name": "Marcus Mariota",
-      "pos": "QB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 508,
-      "adds": 290164
+      "adds": 325680
     },
     {
       "id": "12487",
@@ -3825,7 +3814,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 289736
+      "adds": 292064
+    },
+    {
+      "id": "2307",
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 508,
+      "adds": 284844
     },
     {
       "id": "12718",
@@ -3836,18 +3836,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 274392
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 242130
+      "adds": 271593
     },
     {
       "id": "12493",
@@ -3858,7 +3847,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 238895
+      "adds": 241450
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 238728
     },
     {
       "id": "8188",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 150360
+      "adds": 149562
     },
     {
       "id": "7090",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 147690
+      "adds": 146043
     },
     {
       "id": "4035",
@@ -3891,7 +3891,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 139936
+      "adds": 138776
     },
     {
       "id": "DET",
@@ -3902,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 133623
+      "adds": 132390
     },
     {
       "id": "4017",
@@ -3913,7 +3913,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 130424
+      "adds": 129096
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 110692
+      "adds": 110960
     },
     {
       "id": "7571",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 100518
+      "adds": 100312
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 98484
+      "adds": 98592
     }
   ]
 }
