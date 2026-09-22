@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T23:22:38.928Z",
+  "generated_at": "2026-09-22T23:32:05.818Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2585556
+      "adds": 2553453
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 646,
-      "adds": 731682
+      "adds": 667035
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 616968
+      "adds": 606060
     },
     {
       "id": "11637",
@@ -3770,18 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 537930
-    },
-    {
-      "id": "9225",
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 147,
-      "adds": 427308
+      "adds": 535086
     },
     {
       "id": "MIN",
@@ -3792,18 +3781,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 424165
+      "adds": 423665
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 141,
-      "adds": 365672
+      "rank": 147,
+      "adds": 421666
     },
     {
       "id": "6650",
@@ -3814,7 +3803,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 356144
+      "adds": 351584
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 346944
     },
     {
       "id": "2307",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 348032
+      "adds": 346600
     },
     {
       "id": "12493",
@@ -3836,18 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 284740
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 678,
-      "adds": 265419
+      "adds": 279720
     },
     {
       "id": "11256",
@@ -3858,7 +3847,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 265302
+      "adds": 262890
     },
     {
       "id": "8188",
@@ -3869,7 +3858,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 177639
+      "adds": 176554
     },
     {
       "id": "4035",
@@ -3880,7 +3869,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 173392
+      "adds": 173384
     },
     {
       "id": "4017",
@@ -3891,7 +3880,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 149608
+      "adds": 148152
     },
     {
       "id": "DET",
@@ -3902,18 +3891,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 147357
-    },
-    {
-      "id": "7090",
-      "name": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 142416
+      "adds": 146340
     },
     {
       "id": "NYG",
@@ -3924,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 131276
+      "adds": 129964
     },
     {
       "id": "7571",
@@ -3935,7 +3913,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 119246
+      "adds": 118629
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 678,
+      "adds": 116172
     },
     {
       "id": "13545",
@@ -3947,6 +3936,17 @@
       "depth": 1,
       "rank": 194,
       "adds": 112536
+    },
+    {
+      "id": "2306",
+      "name": "Jameis Winston",
+      "pos": "QB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 496,
+      "adds": 93066
     }
   ]
 }
