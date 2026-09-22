@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T15:24:43.648Z",
+  "generated_at": "2026-09-22T15:35:24.471Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1718109
+      "adds": 1728783
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 496782
+      "adds": 503919
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 447318
+      "adds": 444078
     },
     {
       "id": "9225",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 336420
+      "adds": 328202
     },
     {
       "id": "11637",
@@ -3781,7 +3781,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 318474
+      "adds": 318735
     },
     {
       "id": "12718",
@@ -3792,7 +3792,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 278649
+      "adds": 276579
     },
     {
       "id": "6650",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 275408
+      "adds": 273696
     },
     {
       "id": "MIN",
@@ -3814,7 +3814,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 253685
+      "adds": 255165
     },
     {
       "id": "12487",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 220744
+      "adds": 223384
     },
     {
       "id": "2307",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 217984
+      "adds": 217408
     },
     {
       "id": "11256",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 196344
+      "adds": 193986
     },
     {
       "id": "12493",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 174450
+      "adds": 177170
     },
     {
       "id": "7090",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149985
+      "adds": 148680
     },
     {
       "id": "8188",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 112126
+      "adds": 112378
     },
     {
       "id": "4035",
@@ -3891,7 +3891,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 109912
+      "adds": 108520
     },
     {
       "id": "4017",
@@ -3902,7 +3902,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 107032
+      "adds": 105584
     },
     {
       "id": "DET",
@@ -3913,7 +3913,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99990
+      "adds": 100422
     },
     {
       "id": "7562",
@@ -3924,18 +3924,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 691,
-      "adds": 86492
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 80559
+      "adds": 85988
     },
     {
       "id": "NYG",
@@ -3946,7 +3935,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80404
+      "adds": 81600
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 77148
     }
   ]
 }
