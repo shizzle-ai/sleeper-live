@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T13:56:02.216Z",
+  "generated_at": "2026-09-22T14:06:39.947Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2733,6 +2733,16 @@
       },
       "starters": [
         {
+          "id": "13330",
+          "name": "Kenyon Sadiq",
+          "pos": "TE",
+          "team": "NYJ",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 109
+        },
+        {
           "id": "2133",
           "name": "Davante Adams",
           "pos": "WR",
@@ -2751,16 +2761,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 62
-        },
-        {
-          "id": "5022",
-          "name": "Dallas Goedert",
-          "pos": "TE",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 94
         },
         {
           "id": "6794",
@@ -2865,16 +2865,6 @@
           "rank": 56
         },
         {
-          "id": "13330",
-          "name": "Kenyon Sadiq",
-          "pos": "TE",
-          "team": "NYJ",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 109
-        },
-        {
           "id": "1373",
           "name": "Geno Smith",
           "pos": "QB",
@@ -2883,6 +2873,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 212
+        },
+        {
+          "id": "5022",
+          "name": "Dallas Goedert",
+          "pos": "TE",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 94
         },
         {
           "id": "6806",
@@ -3747,7 +3747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1513341
+      "adds": 1539585
     },
     {
       "id": "1339",
@@ -3758,7 +3758,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 450261
+      "adds": 455661
     },
     {
       "id": "2505",
@@ -3769,7 +3769,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 407259
+      "adds": 412920
     },
     {
       "id": "9225",
@@ -3780,18 +3780,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 312781
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 278622
+      "adds": 317170
     },
     {
       "id": "11637",
@@ -3802,7 +3791,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 277353
+      "adds": 282420
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 278910
     },
     {
       "id": "6650",
@@ -3813,7 +3813,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 252928
+      "adds": 256128
     },
     {
       "id": "MIN",
@@ -3824,7 +3824,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 219645
+      "adds": 224330
     },
     {
       "id": "12487",
@@ -3835,7 +3835,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 198976
+      "adds": 201496
     },
     {
       "id": "2307",
@@ -3846,7 +3846,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 193368
+      "adds": 196940
     },
     {
       "id": "11256",
@@ -3857,7 +3857,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 175746
+      "adds": 178854
     },
     {
       "id": "12493",
@@ -3868,7 +3868,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 149785
+      "adds": 152695
     },
     {
       "id": "7090",
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149715
+      "adds": 149886
     },
     {
       "id": "4017",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 98408
+      "adds": 99808
     },
     {
       "id": "8188",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 97020
+      "adds": 99218
     },
     {
       "id": "4035",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 96456
+      "adds": 98360
     },
     {
       "id": "DET",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 87516
+      "adds": 89334
     },
     {
       "id": "7562",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 86541
+      "adds": 86583
     },
     {
       "id": "6130",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 82467
+      "adds": 82701
     },
     {
       "id": "NYG",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67108
+      "adds": 68928
     }
   ]
 }
