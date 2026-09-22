@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T16:00:58.717Z",
+  "generated_at": "2026-09-22T16:16:38.860Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1819611
+      "adds": 1873107
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 522045
+      "adds": 533052
     },
     {
       "id": "2505",
@@ -3759,18 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 466389
-    },
-    {
-      "id": "9225",
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 147,
-      "adds": 343154
+      "adds": 480897
     },
     {
       "id": "11637",
@@ -3781,7 +3770,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 339894
+      "adds": 353484
+    },
+    {
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 147,
+      "adds": 352282
     },
     {
       "id": "6650",
@@ -3792,18 +3792,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 285768
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 678,
-      "adds": 277461
+      "adds": 293808
     },
     {
       "id": "MIN",
@@ -3814,7 +3803,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 271285
+      "adds": 280805
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 678,
+      "adds": 278010
     },
     {
       "id": "12487",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 231984
+      "adds": 237984
     },
     {
       "id": "2307",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 228396
+      "adds": 235112
     },
     {
       "id": "11256",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 203922
+      "adds": 209832
     },
     {
       "id": "12493",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 185835
+      "adds": 191010
     },
     {
       "id": "7090",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149274
+      "adds": 149634
     },
     {
       "id": "8188",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 119826
+      "adds": 124215
     },
     {
       "id": "4035",
@@ -3891,7 +3891,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 114944
+      "adds": 119032
     },
     {
       "id": "4017",
@@ -3902,7 +3902,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 110288
+      "adds": 112992
     },
     {
       "id": "DET",
@@ -3913,7 +3913,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106731
+      "adds": 110250
     },
     {
       "id": "NYG",
@@ -3924,7 +3924,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 87068
+      "adds": 90588
     },
     {
       "id": "7562",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 691,
-      "adds": 86128
+      "adds": 86268
     },
     {
       "id": "7571",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 79999
+      "adds": 82863
     }
   ]
 }
