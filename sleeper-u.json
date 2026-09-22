@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T13:04:40.334Z",
+  "generated_at": "2026-09-22T13:21:10.822Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1810,16 +1810,6 @@
       },
       "starters": [
         {
-          "id": "11560",
-          "name": "Caleb Williams",
-          "pos": "QB",
-          "team": "CHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 21
-        },
-        {
           "id": "12519",
           "name": "Luther Burden",
           "pos": "WR",
@@ -1880,16 +1870,6 @@
           "rank": 133
         },
         {
-          "id": "9486",
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 207
-        },
-        {
           "id": "9509",
           "name": "Bijan Robinson",
           "pos": "RB",
@@ -1898,6 +1878,26 @@
           "status": "Active",
           "depth": 1,
           "rank": 1
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 101
+        },
+        {
+          "id": "9997",
+          "name": "Zay Flowers",
+          "pos": "WR",
+          "team": "BAL",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 40
         },
         {
           "id": "SEA",
@@ -1952,27 +1952,27 @@
           "rank": 125
         },
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "pos": "QB",
-          "team": "HOU",
+          "id": "9486",
+          "name": "Dontayvion Wicks",
+          "pos": "WR",
+          "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 101
-        },
-        {
-          "id": "9997",
-          "name": "Zay Flowers",
-          "pos": "WR",
-          "team": "BAL",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 40
+          "depth": 3,
+          "rank": 207
         }
       ],
       "reserve": [
+        {
+          "id": "11560",
+          "name": "Caleb Williams",
+          "pos": "QB",
+          "team": "CHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 21
+        },
         {
           "id": "8408",
           "name": "Jordan Mason",
@@ -3747,7 +3747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 1392930
+      "adds": 1435338
     },
     {
       "id": "1339",
@@ -3758,7 +3758,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 423495
+      "adds": 431793
     },
     {
       "id": "2505",
@@ -3769,7 +3769,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 386694
+      "adds": 396054
     },
     {
       "id": "9225",
@@ -3780,7 +3780,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 300055
+      "adds": 307629
     },
     {
       "id": "12718",
@@ -3791,7 +3791,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 279315
+      "adds": 279621
     },
     {
       "id": "11637",
@@ -3802,7 +3802,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 257499
+      "adds": 265383
     },
     {
       "id": "6650",
@@ -3813,7 +3813,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 241544
+      "adds": 246840
     },
     {
       "id": "MIN",
@@ -3824,7 +3824,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 201345
+      "adds": 208455
     },
     {
       "id": "12487",
@@ -3835,7 +3835,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 186552
+      "adds": 190704
     },
     {
       "id": "2307",
@@ -3846,7 +3846,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 179756
+      "adds": 185272
     },
     {
       "id": "11256",
@@ -3857,7 +3857,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 165912
+      "adds": 170634
     },
     {
       "id": "7090",
@@ -3868,7 +3868,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 149967
+      "adds": 150282
     },
     {
       "id": "12493",
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 136100
+      "adds": 140845
     },
     {
       "id": "4017",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 94456
+      "adds": 96472
     },
     {
       "id": "4035",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 89248
+      "adds": 92296
     },
     {
       "id": "8188",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 88473
+      "adds": 91693
     },
     {
       "id": "7562",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 86751
+      "adds": 86863
     },
     {
       "id": "6130",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 660,
-      "adds": 84285
+      "adds": 84636
     },
     {
       "id": "DET",
@@ -3945,18 +3945,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80280
+      "adds": 83097
     },
     {
-      "id": "7571",
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "team": "BAL",
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 203,
-      "adds": 59823
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 61952
     }
   ]
 }
