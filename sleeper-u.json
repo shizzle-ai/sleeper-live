@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T17:43:33.129Z",
+  "generated_at": "2026-09-23T17:51:29.840Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -209,6 +209,16 @@
         "rank": 75
       },
       {
+        "id": "11637",
+        "name": "Keon Coleman",
+        "pos": "WR",
+        "team": "BUF",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 206
+      },
+      {
         "id": "1166",
         "name": "Kirk Cousins",
         "pos": "QB",
@@ -237,16 +247,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 80
-      },
-      {
-        "id": "8126",
-        "name": "Wan'Dale Robinson",
-        "pos": "WR",
-        "team": "TEN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 105
       }
     ],
     "reserve": [],
@@ -385,13 +385,13 @@
         "4199": 0,
         "4217": 0,
         "6770": 0,
-        "8126": 0,
         "8150": 0,
         "9493": 0,
         "10236": 0,
         "11584": 0,
         "11625": 0,
         "11631": 0,
+        "11637": 0,
         "12514": 0,
         "DET": 0
       }
@@ -2694,6 +2694,16 @@
           "rank": 75
         },
         {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 206
+        },
+        {
           "id": "1166",
           "name": "Kirk Cousins",
           "pos": "QB",
@@ -2722,16 +2732,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 80
-        },
-        {
-          "id": "8126",
-          "name": "Wan'Dale Robinson",
-          "pos": "WR",
-          "team": "TEN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 105
         }
       ],
       "reserve": [],
@@ -3289,6 +3289,16 @@
         "rank": 93
       },
       {
+        "id": "8126",
+        "name": "Wan'Dale Robinson",
+        "pos": "WR",
+        "team": "TEN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 2,
+        "rank": 105
+      },
+      {
         "id": "7049",
         "name": "Jauan Jennings",
         "pos": "WR",
@@ -3457,16 +3467,6 @@
         "status": "Active",
         "depth": 4,
         "rank": 190
-      },
-      {
-        "id": "9494",
-        "name": "Marvin Mims",
-        "pos": "WR",
-        "team": "DEN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 5,
-        "rank": 192
       }
     ],
     "TE": [
@@ -3766,18 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 892746
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 820593
+      "adds": 895599
     },
     {
       "id": "2505",
@@ -3788,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 682371
+      "adds": 684711
     },
     {
       "id": "12487",
@@ -3799,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 483024
+      "adds": 484376
     },
     {
       "id": "11256",
@@ -3810,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 258996
+      "adds": 259500
     },
     {
       "id": "8188",
@@ -3821,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 256004
+      "adds": 256970
     },
     {
       "id": "NYG",
@@ -3832,7 +3821,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 207492
+      "adds": 208376
     },
     {
       "id": "11608",
@@ -3843,7 +3832,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 165024
+      "adds": 165546
     },
     {
       "id": "NO",
@@ -3854,7 +3843,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150770
+      "adds": 151465
     },
     {
       "id": "11610",
@@ -3865,7 +3854,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 147272
+      "adds": 148184
     },
     {
       "id": "6828",
@@ -3876,7 +3865,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 143720
+      "adds": 145072
     },
     {
       "id": "13545",
@@ -3887,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 135900
+      "adds": 136540
     },
     {
       "id": "6149",
@@ -3898,7 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 123552
+      "adds": 123954
     },
     {
       "id": "CAR",
@@ -3909,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84171
+      "adds": 84503
     },
     {
       "id": "11581",
@@ -3920,7 +3909,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 79830
+      "adds": 80550
     },
     {
       "id": "LV",
@@ -3931,7 +3920,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77124
+      "adds": 77520
     },
     {
       "id": "11630",
@@ -3942,7 +3931,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 61731
+      "adds": 61947
     },
     {
       "id": "6083",
@@ -3953,7 +3942,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 60750
+      "adds": 61205
     },
     {
       "id": "GB",
@@ -3964,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59793
+      "adds": 60042
     },
     {
       "id": "8168",
@@ -3975,7 +3964,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 57440
+      "adds": 57776
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 683,
+      "adds": 47972
     }
   ]
 }
