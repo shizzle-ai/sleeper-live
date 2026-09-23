@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T14:34:28.077Z",
+  "generated_at": "2026-09-23T14:47:42.048Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1777,7 +1777,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 164
         }
       ],
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 915300
+      "adds": 921321
     },
     {
       "id": "11637",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 841725
+      "adds": 848592
     },
     {
       "id": "2505",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 726093
+      "adds": 732087
     },
     {
       "id": "12487",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 488064
+      "adds": 492056
     },
     {
       "id": "11256",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 294906
+      "adds": 296184
     },
     {
       "id": "8188",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 258300
+      "adds": 260715
     },
     {
       "id": "NYG",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 204444
+      "adds": 207012
     },
     {
       "id": "11608",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 169596
+      "adds": 170718
     },
     {
       "id": "NO",
@@ -3854,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150005
+      "adds": 151545
     },
     {
       "id": "13545",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 142372
+      "adds": 144068
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 137144
+      "adds": 139072
     },
     {
       "id": "6149",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 119868
+      "adds": 120738
     },
     {
       "id": "6828",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 106752
+      "adds": 111024
     },
     {
       "id": "CAR",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 83018
+      "adds": 83934
     },
     {
       "id": "LV",
@@ -3920,18 +3920,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77658
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 63207
+      "adds": 78636
     },
     {
       "id": "11581",
@@ -3942,7 +3931,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 62721
+      "adds": 64152
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 63594
     },
     {
       "id": "GB",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61298
+      "adds": 61931
     },
     {
       "id": "8168",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58296
+      "adds": 58736
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 52025
+      "adds": 52900
     }
   ]
 }
