@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T22:20:40.930Z",
+  "generated_at": "2026-09-23T22:31:19.205Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3826,7 +3826,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 821007
+      "adds": 780993
     },
     {
       "id": "2505",
@@ -3837,7 +3837,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 638658
+      "adds": 613710
     },
     {
       "id": "12487",
@@ -3848,7 +3848,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 456176
+      "adds": 435000
     },
     {
       "id": "8188",
@@ -3859,7 +3859,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 253918
+      "adds": 245399
     },
     {
       "id": "11256",
@@ -3870,7 +3870,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 224754
+      "adds": 214752
     },
     {
       "id": "NYG",
@@ -3881,7 +3881,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 207104
+      "adds": 201548
     },
     {
       "id": "6828",
@@ -3892,18 +3892,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 186208
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 650,
-      "adds": 156714
+      "adds": 186024
     },
     {
       "id": "11610",
@@ -3914,7 +3903,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 156496
+      "adds": 153080
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 150852
     },
     {
       "id": "NO",
@@ -3925,7 +3925,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 148570
+      "adds": 144245
     },
     {
       "id": "13545",
@@ -3936,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 132640
+      "adds": 128628
     },
     {
       "id": "6149",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 120396
+      "adds": 116328
     },
     {
       "id": "11581",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 98802
+      "adds": 98199
     },
     {
       "id": "CAR",
@@ -3969,7 +3969,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 83303
+      "adds": 81174
     },
     {
       "id": "LV",
@@ -3980,7 +3980,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77706
+      "adds": 75714
     },
     {
       "id": "6083",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 68450
+      "adds": 67585
     },
     {
       "id": "11630",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 59508
+      "adds": 57537
     },
     {
       "id": "8168",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 57544
+      "adds": 55280
     },
     {
       "id": "GB",
@@ -4024,18 +4024,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57068
+      "adds": 55090
     },
     {
-      "id": "2197",
-      "name": "Brandin Cooks",
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "SF",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": null,
-      "rank": 683,
-      "adds": 52560
+      "depth": 3,
+      "rank": 199,
+      "adds": 49504
     }
   ]
 }
