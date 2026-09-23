@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T22:31:19.205Z",
+  "generated_at": "2026-09-23T22:42:31.642Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3353,7 +3353,7 @@
         "name": "Jauan Jennings",
         "pos": "WR",
         "team": "MIN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 123
@@ -3555,7 +3555,7 @@
         "name": "Colby Parkinson",
         "pos": "TE",
         "team": "LAR",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 136
@@ -3826,7 +3826,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 780993
+      "adds": 783972
     },
     {
       "id": "2505",
@@ -3837,7 +3837,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 613710
+      "adds": 616149
     },
     {
       "id": "12487",
@@ -3848,7 +3848,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 435000
+      "adds": 436232
     },
     {
       "id": "8188",
@@ -3859,7 +3859,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 245399
+      "adds": 246463
     },
     {
       "id": "11256",
@@ -3870,7 +3870,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 214752
+      "adds": 215214
     },
     {
       "id": "NYG",
@@ -3881,7 +3881,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 201548
+      "adds": 202320
     },
     {
       "id": "6828",
@@ -3892,7 +3892,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 186024
+      "adds": 188200
     },
     {
       "id": "11610",
@@ -3903,7 +3903,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 153080
+      "adds": 153888
     },
     {
       "id": "11608",
@@ -3914,7 +3914,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 150852
+      "adds": 151416
     },
     {
       "id": "NO",
@@ -3925,7 +3925,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 144245
+      "adds": 144845
     },
     {
       "id": "13545",
@@ -3936,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 128628
+      "adds": 129228
     },
     {
       "id": "6149",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 116328
+      "adds": 116724
     },
     {
       "id": "11581",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 98199
+      "adds": 99099
     },
     {
       "id": "CAR",
@@ -3969,7 +3969,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81174
+      "adds": 81479
     },
     {
       "id": "LV",
@@ -3980,7 +3980,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75714
+      "adds": 76128
     },
     {
       "id": "6083",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 67585
+      "adds": 68005
     },
     {
       "id": "11630",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 57537
+      "adds": 57726
     },
     {
       "id": "8168",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 55280
+      "adds": 55632
     },
     {
       "id": "GB",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55090
+      "adds": 55291
     },
     {
       "id": "11783",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 49504
+      "adds": 49848
     }
   ]
 }
