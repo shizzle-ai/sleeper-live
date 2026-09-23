@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T00:28:54.186Z",
+  "generated_at": "2026-09-23T00:43:21.741Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -173,7 +173,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 1,
         "rank": 4
       },
       {
@@ -311,7 +311,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 1,
           "rank": 4
         },
         {
@@ -794,7 +794,7 @@
           "team": "CAR",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 88
         },
         {
@@ -1206,7 +1206,7 @@
           "team": "IND",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 93
         },
         {
@@ -1238,7 +1238,7 @@
           "team": "NYG",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 42
         }
       ],
@@ -1417,7 +1417,7 @@
           "team": "IND",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 111
         }
       ],
@@ -1960,7 +1960,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 21
         },
         {
@@ -2629,7 +2629,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 1,
           "rank": 4
         },
         {
@@ -2739,7 +2739,7 @@
           "team": "LAR",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 46
         },
         {
@@ -3032,7 +3032,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 387
       }
     ],
@@ -3184,7 +3184,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 176
       },
       {
@@ -3356,7 +3356,7 @@
         "team": "IND",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 183
       },
       {
@@ -3478,7 +3478,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 136
       },
       {
@@ -3508,7 +3508,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 141
       },
       {
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 2712042
+      "adds": 2701566
     },
     {
       "id": "1339",
@@ -3746,9 +3746,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 2,
       "rank": 646,
-      "adds": 714636
+      "adds": 695628
     },
     {
       "id": "2505",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 638361
+      "adds": 636660
     },
     {
       "id": "11637",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 574569
+      "adds": 580356
     },
     {
       "id": "MIN",
@@ -3781,7 +3781,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 451995
+      "adds": 456020
     },
     {
       "id": "9225",
@@ -3792,7 +3792,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 446964
+      "adds": 446355
     },
     {
       "id": "2307",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 372760
+      "adds": 375704
     },
     {
       "id": "12487",
@@ -3812,9 +3812,9 @@
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 141,
-      "adds": 370960
+      "adds": 368672
     },
     {
       "id": "6650",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 365456
+      "adds": 363040
     },
     {
       "id": "12493",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 301625
+      "adds": 302225
     },
     {
       "id": "11256",
@@ -3845,9 +3845,9 @@
       "team": "CHI",
       "injury": "Questionable",
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 546,
-      "adds": 276570
+      "adds": 276870
     },
     {
       "id": "8188",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 188118
+      "adds": 189861
     },
     {
       "id": "4035",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 186528
+      "adds": 188256
     },
     {
       "id": "4017",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 156280
+      "adds": 155464
     },
     {
       "id": "DET",
@@ -3891,7 +3891,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 153180
+      "adds": 153522
     },
     {
       "id": "NYG",
@@ -3902,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136912
+      "adds": 137124
     },
     {
       "id": "7571",
@@ -3913,18 +3913,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 125572
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 678,
-      "adds": 117468
+      "adds": 126262
     },
     {
       "id": "13545",
@@ -3935,7 +3924,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 116892
+      "adds": 117428
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 101946
     },
     {
       "id": "2306",
@@ -3944,9 +3944,9 @@
       "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 496,
-      "adds": 100418
+      "adds": 99762
     }
   ]
 }
