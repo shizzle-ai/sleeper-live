@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T21:18:14.291Z",
+  "generated_at": "2026-09-23T21:30:17.328Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2470,6 +2470,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 4
+        },
+        {
+          "id": "MIN",
+          "name": "Minnesota Vikings",
+          "pos": "DEF",
+          "team": "MIN",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "bench": [
@@ -2482,16 +2492,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 126
-        },
-        {
-          "id": "13285",
-          "name": "Malachi Fields",
-          "pos": "WR",
-          "team": "NYG",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 201
         },
         {
           "id": "13294",
@@ -2542,16 +2542,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 147
-        },
-        {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
-          "pos": "DEF",
-          "team": "MIN",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "reserve": [],
@@ -2942,6 +2932,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1408598466065633280",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790198554105,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "13285",
+            "name": "Malachi Fields",
+            "pos": "WR",
+            "team": "NYG",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 201
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1408545288616001537",
       "type": "free_agent",
@@ -3809,7 +3826,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 842886
+      "adds": 807111
     },
     {
       "id": "2505",
@@ -3820,7 +3837,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 651492
+      "adds": 627246
     },
     {
       "id": "12487",
@@ -3831,7 +3848,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 465808
+      "adds": 447752
     },
     {
       "id": "8188",
@@ -3842,7 +3859,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 256291
+      "adds": 248745
     },
     {
       "id": "11256",
@@ -3853,7 +3870,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 231720
+      "adds": 222216
     },
     {
       "id": "NYG",
@@ -3864,7 +3881,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 208012
+      "adds": 203256
     },
     {
       "id": "6828",
@@ -3875,7 +3892,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 176928
+      "adds": 177432
     },
     {
       "id": "11608",
@@ -3886,7 +3903,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 159504
+      "adds": 154452
     },
     {
       "id": "11610",
@@ -3897,7 +3914,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 155568
+      "adds": 152384
     },
     {
       "id": "NO",
@@ -3908,7 +3925,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 149730
+      "adds": 145750
     },
     {
       "id": "13545",
@@ -3919,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 133792
+      "adds": 130040
     },
     {
       "id": "6149",
@@ -3930,7 +3947,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 122304
+      "adds": 118800
     },
     {
       "id": "11581",
@@ -3941,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 95220
+      "adds": 94833
     },
     {
       "id": "CAR",
@@ -3952,7 +3969,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 83998
+      "adds": 81910
     },
     {
       "id": "LV",
@@ -3963,7 +3980,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78000
+      "adds": 75894
     },
     {
       "id": "6083",
@@ -3974,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 67090
+      "adds": 66475
     },
     {
       "id": "11630",
@@ -3985,18 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 60462
-    },
-    {
-      "id": "GB",
-      "name": "Green Bay Packers",
-      "pos": "DEF",
-      "team": "GB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 58021
+      "adds": 58599
     },
     {
       "id": "8168",
@@ -4007,7 +4013,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 57624
+      "adds": 56296
+    },
+    {
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "team": "GB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 56112
     },
     {
       "id": "2197",
@@ -4018,7 +4035,7 @@
       "status": "Active",
       "depth": null,
       "rank": 683,
-      "adds": 51636
+      "adds": 51844
     }
   ]
 }
