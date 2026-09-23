@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T11:32:23.360Z",
+  "generated_at": "2026-09-23T11:44:39.194Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2524,6 +2524,16 @@
           "rank": 88
         },
         {
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 50
+        },
+        {
           "id": "9225",
           "name": "Tank Bigsby",
           "pos": "RB",
@@ -2544,18 +2554,7 @@
           "rank": null
         }
       ],
-      "reserve": [
-        {
-          "id": "4983",
-          "name": "DJ Moore",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 50
-        }
-      ],
+      "reserve": [],
       "taxi": [],
       "waiver_position": 9,
       "faab_used": 0
@@ -3767,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 915336
+      "adds": 920745
     },
     {
       "id": "11637",
@@ -3778,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 821502
+      "adds": 828018
     },
     {
       "id": "2505",
@@ -3789,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 731529
+      "adds": 737118
     },
     {
       "id": "12487",
@@ -3800,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 473736
+      "adds": 477104
     },
     {
       "id": "11256",
@@ -3811,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 324138
+      "adds": 325572
     },
     {
       "id": "8188",
@@ -3822,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 254471
+      "adds": 256480
     },
     {
       "id": "NYG",
@@ -3833,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 189332
+      "adds": 192164
     },
     {
       "id": "11608",
@@ -3844,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 166140
+      "adds": 167004
     },
     {
       "id": "NO",
@@ -3855,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139515
+      "adds": 141505
     },
     {
       "id": "13545",
@@ -3866,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 138884
+      "adds": 140712
     },
     {
       "id": "11610",
@@ -3877,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 123968
+      "adds": 125648
     },
     {
       "id": "6149",
@@ -3888,7 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 110898
+      "adds": 111576
     },
     {
       "id": "CAR",
@@ -3899,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76466
+      "adds": 77545
     },
     {
       "id": "LV",
@@ -3910,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73596
+      "adds": 74472
     },
     {
       "id": "11630",
@@ -3921,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 64719
+      "adds": 65268
     },
     {
       "id": "GB",
@@ -3932,7 +3931,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59112
+      "adds": 59814
     },
     {
       "id": "8168",
@@ -3943,7 +3942,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58232
+      "adds": 58576
     },
     {
       "id": "6828",
@@ -3954,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 56192
+      "adds": 58376
     },
     {
       "id": "11581",
@@ -3965,18 +3964,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 44442
+      "adds": 45639
     },
     {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": null,
-      "rank": 683,
-      "adds": 40704
+      "depth": 1,
+      "rank": 239,
+      "adds": 40930
     }
   ]
 }
