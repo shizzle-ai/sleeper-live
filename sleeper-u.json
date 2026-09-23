@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T18:14:43.525Z",
+  "generated_at": "2026-09-23T18:31:24.920Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3322,16 +3322,6 @@
         "rank": 77
       },
       {
-        "id": "8142",
-        "name": "Alec Pierce",
-        "pos": "WR",
-        "team": "IND",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 3,
-        "rank": 93
-      },
-      {
         "id": "8126",
         "name": "Wan'Dale Robinson",
         "pos": "WR",
@@ -3510,6 +3500,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 190
+      },
+      {
+        "id": "9494",
+        "name": "Marvin Mims",
+        "pos": "WR",
+        "team": "DEN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 5,
+        "rank": 192
       }
     ],
     "TE": [
@@ -3809,7 +3809,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 903069
+      "adds": 875133
     },
     {
       "id": "2505",
@@ -3820,7 +3820,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 691065
+      "adds": 666324
     },
     {
       "id": "12487",
@@ -3831,18 +3831,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 488320
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 260862
+      "adds": 476488
     },
     {
       "id": "8188",
@@ -3853,7 +3842,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 259882
+      "adds": 253015
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 247404
     },
     {
       "id": "NYG",
@@ -3864,7 +3864,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 210808
+      "adds": 206384
     },
     {
       "id": "11608",
@@ -3875,29 +3875,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 166998
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 153150
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 178,
-      "adds": 150632
+      "adds": 162516
     },
     {
       "id": "6828",
@@ -3908,7 +3886,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 149112
+      "adds": 150088
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 149575
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 178,
+      "adds": 148336
     },
     {
       "id": "13545",
@@ -3919,7 +3919,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 138232
+      "adds": 133428
     },
     {
       "id": "6149",
@@ -3930,7 +3930,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 125016
+      "adds": 122790
     },
     {
       "id": "CAR",
@@ -3941,7 +3941,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 85371
+      "adds": 83522
     },
     {
       "id": "11581",
@@ -3952,7 +3952,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 82557
+      "adds": 82548
     },
     {
       "id": "LV",
@@ -3963,18 +3963,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78624
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 62433
+      "adds": 76686
     },
     {
       "id": "6083",
@@ -3985,7 +3974,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 62340
+      "adds": 62095
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 61002
     },
     {
       "id": "GB",
@@ -3996,7 +3996,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60603
+      "adds": 58836
     },
     {
       "id": "8168",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58384
+      "adds": 56664
     },
     {
       "id": "2197",
@@ -4018,7 +4018,7 @@
       "status": "Active",
       "depth": null,
       "rank": 683,
-      "adds": 48356
+      "adds": 48632
     }
   ]
 }
