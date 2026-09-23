@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T13:46:30.797Z",
+  "generated_at": "2026-09-23T13:55:03.825Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -802,7 +802,7 @@
           "name": "Jonathon Brooks",
           "pos": "RB",
           "team": "CAR",
-          "injury": "Out",
+          "injury": "IR",
           "status": "Active",
           "depth": 3,
           "rank": 87
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 916785
+      "adds": 924732
     },
     {
       "id": "11637",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 837972
+      "adds": 847764
     },
     {
       "id": "2505",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 731088
+      "adds": 738423
     },
     {
       "id": "12487",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 485256
+      "adds": 490016
     },
     {
       "id": "11256",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 306240
+      "adds": 308226
     },
     {
       "id": "8188",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 257698
+      "adds": 261380
     },
     {
       "id": "NYG",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 202628
+      "adds": 204992
     },
     {
       "id": "11608",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 168288
+      "adds": 169992
     },
     {
       "id": "NO",
@@ -3854,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 148260
+      "adds": 149905
     },
     {
       "id": "13545",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 143192
+      "adds": 144716
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 133200
+      "adds": 135528
     },
     {
       "id": "6149",
@@ -3887,29 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 116736
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 81995
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 77244
+      "adds": 118038
     },
     {
       "id": "6828",
@@ -3920,7 +3898,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 76864
+      "adds": 86520
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 82871
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 77970
     },
     {
       "id": "11630",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 63603
+      "adds": 64377
     },
     {
       "id": "GB",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61446
+      "adds": 62021
     },
     {
       "id": "8168",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58200
+      "adds": 58880
     },
     {
       "id": "11581",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 55386
+      "adds": 58113
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 48780
+      "adds": 49710
     }
   ]
 }
