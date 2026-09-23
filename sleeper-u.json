@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T13:19:41.314Z",
+  "generated_at": "2026-09-23T13:33:21.982Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -175,6 +175,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 4
+      },
+      {
+        "id": "DET",
+        "name": "Detroit Lions",
+        "pos": "DEF",
+        "team": "DET",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
       }
     ],
     "bench": [
@@ -237,16 +247,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 105
-      },
-      {
-        "id": "DET",
-        "name": "Detroit Lions",
-        "pos": "DEF",
-        "team": "DET",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
       }
     ],
     "reserve": [],
@@ -355,10 +355,10 @@
           "rank": 128
         },
         {
-          "id": "0",
-          "name": "0",
-          "pos": "",
-          "team": null,
+          "id": "DET",
+          "name": "Detroit Lions",
+          "pos": "DEF",
+          "team": "DET",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1279,6 +1279,16 @@
           "rank": 133
         },
         {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "pos": "QB",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 295
+        },
+        {
           "id": "6813",
           "name": "Jonathan Taylor",
           "pos": "RB",
@@ -1389,16 +1399,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 132
-        },
-        {
-          "id": "4017",
-          "name": "Deshaun Watson",
-          "pos": "QB",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 295
         },
         {
           "id": "4943",
@@ -2660,6 +2660,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 4
+        },
+        {
+          "id": "DET",
+          "name": "Detroit Lions",
+          "pos": "DEF",
+          "team": "DET",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "bench": [
@@ -2722,16 +2732,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 105
-        },
-        {
-          "id": "DET",
-          "name": "Detroit Lions",
-          "pos": "DEF",
-          "team": "DET",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "reserve": [],
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 934614
+      "adds": 910818
     },
     {
       "id": "11637",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 852444
+      "adds": 831276
     },
     {
       "id": "2505",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 751518
+      "adds": 724851
     },
     {
       "id": "12487",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 491952
+      "adds": 481520
     },
     {
       "id": "11256",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 320430
+      "adds": 304782
     },
     {
       "id": "8188",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 263872
+      "adds": 255367
     },
     {
       "id": "NYG",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 206120
+      "adds": 199868
     },
     {
       "id": "11608",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 170514
+      "adds": 167370
     },
     {
       "id": "NO",
@@ -3854,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150685
+      "adds": 146435
     },
     {
       "id": "13545",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 147340
+      "adds": 141156
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 134576
+      "adds": 131488
     },
     {
       "id": "6149",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 116370
+      "adds": 115956
     },
     {
       "id": "CAR",
@@ -3898,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82960
+      "adds": 80898
     },
     {
       "id": "LV",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78384
+      "adds": 76266
     },
     {
       "id": "6828",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 72352
+      "adds": 73584
     },
     {
       "id": "11630",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 65853
+      "adds": 63171
     },
     {
       "id": "GB",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62823
+      "adds": 60769
     },
     {
       "id": "8168",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 59528
+      "adds": 57648
     },
     {
       "id": "11581",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 53775
+      "adds": 53973
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 47710
+      "adds": 47615
     }
   ]
 }
