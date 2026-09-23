@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T11:44:39.194Z",
+  "generated_at": "2026-09-23T11:53:57.702Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2221,6 +2221,16 @@
           "rank": 39
         },
         {
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 645
+        },
+        {
           "id": "4881",
           "name": "Lamar Jackson",
           "pos": "QB",
@@ -2231,16 +2241,6 @@
           "rank": 8
         },
         {
-          "id": "5846",
-          "name": "DK Metcalf",
-          "pos": "WR",
-          "team": "PIT",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 73
-        },
-        {
           "id": "5892",
           "name": "David Montgomery",
           "pos": "RB",
@@ -2249,6 +2249,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 41
+        },
+        {
+          "id": "7571",
+          "name": "Rashod Bateman",
+          "pos": "WR",
+          "team": "BAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 203
         },
         {
           "id": "7839",
@@ -2293,16 +2303,6 @@
           "rank": 73
         },
         {
-          "id": "3634",
-          "name": "Kalif Raymond",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 645
-        },
-        {
           "id": "5012",
           "name": "Mark Andrews",
           "pos": "TE",
@@ -2313,6 +2313,16 @@
           "rank": 96
         },
         {
+          "id": "5846",
+          "name": "DK Metcalf",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 73
+        },
+        {
           "id": "7021",
           "name": "Rico Dowdle",
           "pos": "RB",
@@ -2321,16 +2331,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 65
-        },
-        {
-          "id": "7571",
-          "name": "Rashod Bateman",
-          "pos": "WR",
-          "team": "BAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 203
         },
         {
           "id": "8154",
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 920745
+      "adds": 924390
     },
     {
       "id": "11637",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 828018
+      "adds": 832914
     },
     {
       "id": "2505",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 737118
+      "adds": 741375
     },
     {
       "id": "12487",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 477104
+      "adds": 479648
     },
     {
       "id": "11256",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 325572
+      "adds": 326766
     },
     {
       "id": "8188",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 256480
+      "adds": 257992
     },
     {
       "id": "NYG",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 192164
+      "adds": 194216
     },
     {
       "id": "11608",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 167004
+      "adds": 167688
     },
     {
       "id": "NO",
@@ -3854,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 141505
+      "adds": 142925
     },
     {
       "id": "13545",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 140712
+      "adds": 142048
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 125648
+      "adds": 126792
     },
     {
       "id": "6149",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 111576
+      "adds": 112146
     },
     {
       "id": "CAR",
@@ -3898,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77545
+      "adds": 78295
     },
     {
       "id": "LV",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74472
+      "adds": 75060
     },
     {
       "id": "11630",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 65268
+      "adds": 65547
     },
     {
       "id": "GB",
@@ -3931,18 +3931,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59814
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 608,
-      "adds": 58576
+      "adds": 60364
     },
     {
       "id": "6828",
@@ -3953,7 +3942,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 58376
+      "adds": 59664
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 608,
+      "adds": 58808
     },
     {
       "id": "11581",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 45639
+      "adds": 46557
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40930
+      "adds": 41655
     }
   ]
 }
