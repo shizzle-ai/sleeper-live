@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T15:48:16.061Z",
+  "generated_at": "2026-09-23T15:56:34.668Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3283,7 +3283,7 @@
         "name": "Alec Pierce",
         "pos": "WR",
         "team": "IND",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 93
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 915291
+      "adds": 919755
     },
     {
       "id": "11637",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 843480
+      "adds": 848952
     },
     {
       "id": "2505",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 720135
+      "adds": 724356
     },
     {
       "id": "12487",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 491528
+      "adds": 493968
     },
     {
       "id": "11256",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 283542
+      "adds": 284628
     },
     {
       "id": "8188",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 260533
+      "adds": 262808
     },
     {
       "id": "NYG",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 207884
+      "adds": 209464
     },
     {
       "id": "11608",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 169494
+      "adds": 170292
     },
     {
       "id": "NO",
@@ -3854,7 +3854,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 152145
+      "adds": 153130
     },
     {
       "id": "13545",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 142620
+      "adds": 143604
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 141672
+      "adds": 143200
     },
     {
       "id": "6828",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 124584
+      "adds": 126544
     },
     {
       "id": "6149",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 121950
+      "adds": 123102
     },
     {
       "id": "CAR",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84436
+      "adds": 84960
     },
     {
       "id": "LV",
@@ -3920,7 +3920,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79050
+      "adds": 79614
     },
     {
       "id": "11581",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 68517
+      "adds": 69633
     },
     {
       "id": "11630",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 63090
+      "adds": 63450
     },
     {
       "id": "GB",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61500
+      "adds": 61904
     },
     {
       "id": "8168",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58520
+      "adds": 58824
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 56055
+      "adds": 56700
     }
   ]
 }
