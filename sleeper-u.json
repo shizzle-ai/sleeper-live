@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T08:02:09.337Z",
+  "generated_at": "2026-09-23T08:18:50.544Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3767,7 +3767,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 911178
+      "adds": 915192
     },
     {
       "id": "11637",
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 804510
+      "adds": 808155
     },
     {
       "id": "2505",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 733032
+      "adds": 736596
     },
     {
       "id": "12487",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 463568
+      "adds": 466024
     },
     {
       "id": "11256",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 337320
+      "adds": 338328
     },
     {
       "id": "8188",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 251748
+      "adds": 252826
     },
     {
       "id": "NYG",
@@ -3833,7 +3833,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 178724
+      "adds": 179932
     },
     {
       "id": "11608",
@@ -3844,7 +3844,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 163932
+      "adds": 164544
     },
     {
       "id": "13545",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 134060
+      "adds": 135228
     },
     {
       "id": "NO",
@@ -3866,7 +3866,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 130680
+      "adds": 131640
     },
     {
       "id": "11610",
@@ -3877,7 +3877,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 117344
+      "adds": 118312
     },
     {
       "id": "6149",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 105456
+      "adds": 106098
     },
     {
       "id": "LV",
@@ -3899,7 +3899,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71466
+      "adds": 72150
     },
     {
       "id": "CAR",
@@ -3910,7 +3910,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70964
+      "adds": 71615
     },
     {
       "id": "11630",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 65565
+      "adds": 65736
     },
     {
       "id": "8168",
@@ -3932,7 +3932,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 608,
-      "adds": 58936
+      "adds": 59104
     },
     {
       "id": "GB",
@@ -3943,7 +3943,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56541
+      "adds": 56924
     },
     {
       "id": "6828",
@@ -3954,18 +3954,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 53944
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 683,
-      "adds": 38168
+      "adds": 54128
     },
     {
       "id": "11581",
@@ -3976,7 +3965,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 37746
+      "adds": 38484
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 683,
+      "adds": 38340
     }
   ]
 }
