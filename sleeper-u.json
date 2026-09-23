@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-23T05:31:13.841Z",
+  "generated_at": "2026-09-23T05:43:09.306Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -795,7 +795,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 3,
-          "rank": 88
+          "rank": 87
         },
         {
           "id": "12509",
@@ -1636,7 +1636,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 37
+          "rank": 35
         },
         {
           "id": "13968",
@@ -1949,7 +1949,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 207
+          "rank": 206
         }
       ],
       "reserve": [
@@ -1971,7 +1971,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 6,
-          "rank": 91
+          "rank": 92
         }
       ],
       "taxi": [],
@@ -2481,7 +2481,7 @@
           "injury": null,
           "status": "Active",
           "depth": 3,
-          "rank": 91
+          "rank": 89
         },
         {
           "id": "13305",
@@ -2501,7 +2501,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 87
+          "rank": 88
         },
         {
           "id": "7528",
@@ -2842,7 +2842,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 63
+          "rank": 65
         },
         {
           "id": "12489",
@@ -2983,7 +2983,7 @@
         "injury": null,
         "status": "Active",
         "depth": null,
-        "rank": 271
+        "rank": 272
       },
       {
         "id": "13272",
@@ -3330,6 +3330,16 @@
         "rank": 178
       },
       {
+        "id": "13413",
+        "name": "Cyrus Allen",
+        "pos": "WR",
+        "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 5,
+        "rank": 179
+      },
+      {
         "id": "4981",
         "name": "Calvin Ridley",
         "pos": "WR",
@@ -3340,14 +3350,14 @@
         "rank": 180
       },
       {
-        "id": "13413",
-        "name": "Cyrus Allen",
+        "id": "12535",
+        "name": "Isaac TeSlaa",
         "pos": "WR",
-        "team": "KC",
+        "team": "DET",
         "injury": null,
         "status": "Active",
-        "depth": 5,
-        "rank": 181
+        "depth": 3,
+        "rank": 184
       },
       {
         "id": "1479",
@@ -3357,17 +3367,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 183
-      },
-      {
-        "id": "12535",
-        "name": "Isaac TeSlaa",
-        "pos": "WR",
-        "team": "DET",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 184
+        "rank": 185
       },
       {
         "id": "12499",
@@ -3737,7 +3737,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 3225150
+      "adds": 3248604
     },
     {
       "id": "1339",
@@ -3748,7 +3748,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 646,
-      "adds": 858834
+      "adds": 865476
     },
     {
       "id": "11637",
@@ -3759,7 +3759,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 751338
+      "adds": 757764
     },
     {
       "id": "2505",
@@ -3770,7 +3770,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 699615
+      "adds": 703863
     },
     {
       "id": "MIN",
@@ -3781,7 +3781,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 582455
+      "adds": 586890
     },
     {
       "id": "9225",
@@ -3792,7 +3792,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 147,
-      "adds": 530348
+      "adds": 534457
     },
     {
       "id": "2307",
@@ -3803,7 +3803,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 508,
-      "adds": 488940
+      "adds": 492428
     },
     {
       "id": "12487",
@@ -3814,7 +3814,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 429824
+      "adds": 433376
     },
     {
       "id": "12493",
@@ -3825,7 +3825,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 83,
-      "adds": 403565
+      "adds": 407140
     },
     {
       "id": "6650",
@@ -3836,7 +3836,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 354248
+      "adds": 356512
     },
     {
       "id": "11256",
@@ -3847,7 +3847,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 327090
+      "adds": 329064
     },
     {
       "id": "4035",
@@ -3858,7 +3858,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 119,
-      "adds": 239680
+      "adds": 241648
     },
     {
       "id": "8188",
@@ -3869,7 +3869,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 239260
+      "adds": 240793
     },
     {
       "id": "4017",
@@ -3880,7 +3880,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 295,
-      "adds": 172120
+      "adds": 173248
     },
     {
       "id": "NYG",
@@ -3891,7 +3891,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 166212
+      "adds": 167256
     },
     {
       "id": "DET",
@@ -3902,7 +3902,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 162666
+      "adds": 163323
     },
     {
       "id": "11608",
@@ -3913,7 +3913,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 153018
+      "adds": 154434
     },
     {
       "id": "7571",
@@ -3924,7 +3924,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 203,
-      "adds": 148695
+      "adds": 149567
     },
     {
       "id": "2306",
@@ -3935,7 +3935,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 496,
-      "adds": 131750
+      "adds": 132693
     },
     {
       "id": "13545",
@@ -3946,7 +3946,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 127404
+      "adds": 127936
     }
   ]
 }
