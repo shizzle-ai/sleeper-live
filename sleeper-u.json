@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T21:59:23.645Z",
+  "generated_at": "2026-09-24T22:13:12.377Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 246465
+      "adds": 250848
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 201560
+      "adds": 204472
     },
     {
       "id": "1339",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 183438
+      "adds": 184923
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 124776
+      "adds": 126648
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 100779
+      "adds": 102130
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 80864
+      "adds": 82144
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 79308
+      "adds": 80478
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73904
+      "adds": 74884
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 60816
+      "adds": 61896
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53485
+      "adds": 54360
     },
     {
       "id": "11608",
@@ -4057,18 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 48468
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 42300
+      "adds": 49092
     },
     {
       "id": "5995",
@@ -4079,7 +4068,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 42282
+      "adds": 43038
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 42822
     },
     {
       "id": "6083",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39605
+      "adds": 40275
     },
     {
       "id": "LV",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38460
+      "adds": 38976
     },
     {
       "id": "6149",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 33522
+      "adds": 33906
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29008
+      "adds": 29360
     },
     {
       "id": "8168",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 27368
+      "adds": 27768
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24787
+      "adds": 25135
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 22776
+      "adds": 23136
     }
   ]
 }
