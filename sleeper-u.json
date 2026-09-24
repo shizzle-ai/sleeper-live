@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T16:23:13.397Z",
+  "generated_at": "2026-09-24T16:35:36.813Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 284679
+      "adds": 254889
     },
     {
       "id": "2505",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 277830
+      "adds": 249885
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 216688
+      "adds": 204040
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 158672
+      "adds": 141848
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 128149
+      "adds": 115066
     },
     {
       "id": "11610",
@@ -4002,18 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 100816
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 97160
+      "adds": 90592
     },
     {
       "id": "11581",
@@ -4024,7 +4013,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 93942
+      "adds": 87102
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 86456
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 70532
+      "adds": 64104
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68770
+      "adds": 61585
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 60798
+      "adds": 54936
     },
     {
       "id": "11256",
@@ -4068,18 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 60324
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 541,
-      "adds": 47826
+      "adds": 52350
     },
     {
       "id": "6083",
@@ -4090,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 47300
+      "adds": 43160
     },
     {
       "id": "LV",
@@ -4101,7 +4090,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46218
+      "adds": 42558
+    },
+    {
+      "id": "6149",
+      "name": "Darius Slayton",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 541,
+      "adds": 41058
     },
     {
       "id": "5995",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 42372
+      "adds": 39501
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 35496
+      "adds": 32128
     },
     {
       "id": "CAR",
@@ -4134,7 +4134,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33943
+      "adds": 30026
     },
     {
       "id": "8168",
@@ -4145,18 +4145,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31424
+      "adds": 29304
     },
     {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "team": "LAC",
+      "id": "19",
+      "name": "Joe Flacco",
+      "pos": "QB",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 148,
-      "adds": 26883
+      "rank": 489,
+      "adds": 24939
     }
   ]
 }
