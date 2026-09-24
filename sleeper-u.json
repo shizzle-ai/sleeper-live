@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T20:28:56.124Z",
+  "generated_at": "2026-09-24T20:41:50.766Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1529,6 +1529,16 @@
           "rank": 35
         },
         {
+          "id": "7553",
+          "name": "Kyle Pitts",
+          "pos": "TE",
+          "team": "ATL",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 68
+        },
+        {
           "id": "7594",
           "name": "Chuba Hubbard",
           "pos": "RB",
@@ -1537,16 +1547,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 66
-        },
-        {
-          "id": "8110",
-          "name": "Jake Ferguson",
-          "pos": "TE",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 97
         },
         {
           "id": "KC",
@@ -1601,14 +1601,14 @@
           "rank": 34
         },
         {
-          "id": "7553",
-          "name": "Kyle Pitts",
+          "id": "8110",
+          "name": "Jake Ferguson",
           "pos": "TE",
-          "team": "ATL",
+          "team": "DAL",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 68
+          "rank": 97
         },
         {
           "id": "NE",
@@ -3947,18 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 247617
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 646,
-      "adds": 212994
+      "adds": 233442
     },
     {
       "id": "6828",
@@ -3969,7 +3958,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 205144
+      "adds": 194864
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 646,
+      "adds": 192006
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 132392
+      "adds": 123128
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 106421
+      "adds": 99148
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 84312
+      "adds": 78936
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 82323
+      "adds": 77823
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77720
+      "adds": 73068
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 59540
+      "adds": 56620
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55470
+      "adds": 52130
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 50196
+      "adds": 46926
     },
     {
       "id": "11256",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 44322
+      "adds": 41232
     },
     {
       "id": "5995",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 41688
+      "adds": 39969
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39960
+      "adds": 37914
     },
     {
       "id": "6083",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39935
+      "adds": 37460
     },
     {
       "id": "6149",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 35760
+      "adds": 33318
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 30296
+      "adds": 28384
     },
     {
       "id": "8168",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 28640
+      "adds": 26928
     },
     {
       "id": "CAR",
@@ -4145,18 +4145,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26429
+      "adds": 24728
     },
     {
-      "id": "19",
-      "name": "Joe Flacco",
-      "pos": "QB",
-      "team": "CIN",
+      "id": "9511",
+      "name": "Keaton Mitchell",
+      "pos": "RB",
+      "team": "LAC",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 489,
-      "adds": 24318
+      "rank": 148,
+      "adds": 22581
     }
   ]
 }
