@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T09:26:07.614Z",
+  "generated_at": "2026-09-24T09:38:48.141Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 11,
           "rank": 112
         },
         {
@@ -3472,7 +3472,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 8,
+        "depth": 9,
         "rank": 177
       },
       {
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 388530
+      "adds": 378099
     },
     {
       "id": "6828",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 238568
+      "adds": 238432
     },
     {
       "id": "12487",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 228736
+      "adds": 222056
     },
     {
       "id": "8188",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 167965
+      "adds": 164752
     },
     {
       "id": "NYG",
@@ -3907,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 151884
+      "adds": 147596
     },
     {
       "id": "11610",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 129576
+      "adds": 127008
     },
     {
       "id": "11581",
@@ -3929,18 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 109701
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 105836
+      "adds": 108126
     },
     {
       "id": "NO",
@@ -3951,7 +3940,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105825
+      "adds": 102810
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 102604
     },
     {
       "id": "11256",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 91884
+      "adds": 88986
     },
     {
       "id": "11608",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 79134
+      "adds": 77250
     },
     {
       "id": "6083",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 64700
+      "adds": 63225
     },
     {
       "id": "6149",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 62826
+      "adds": 61386
     },
     {
       "id": "LV",
@@ -4006,7 +4006,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62676
+      "adds": 60786
     },
     {
       "id": "CAR",
@@ -4017,7 +4017,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56865
+      "adds": 55003
     },
     {
       "id": "5995",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 46269
+      "adds": 45576
     },
     {
       "id": "11783",
@@ -4039,7 +4039,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 43320
+      "adds": 42504
     },
     {
       "id": "4663",
@@ -4050,7 +4050,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 40528
+      "adds": 40532
     },
     {
       "id": "GB",
@@ -4061,7 +4061,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38312
+      "adds": 37057
     },
     {
       "id": "8168",
@@ -4072,7 +4072,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 35368
+      "adds": 34912
     }
   ]
 }
