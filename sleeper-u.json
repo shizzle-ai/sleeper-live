@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T23:04:42.108Z",
+  "generated_at": "2026-09-24T23:18:46.415Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2888,7 +2888,7 @@
           "name": "RJ Harvey",
           "pos": "RB",
           "team": "DEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 56
@@ -2918,7 +2918,7 @@
           "name": "J.K. Dobbins",
           "pos": "RB",
           "team": "DEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 68
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 259362
+      "adds": 266355
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 208080
+      "adds": 212368
     },
     {
       "id": "1339",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 174663
+      "adds": 176787
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 129864
+      "adds": 133584
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 102396
+      "adds": 104454
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 83056
+      "adds": 84720
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 81234
+      "adds": 82827
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75608
+      "adds": 77208
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 63736
+      "adds": 65424
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55025
+      "adds": 56375
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 49314
+      "adds": 50112
     },
     {
       "id": "5995",
@@ -4068,18 +4068,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 44604
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 41196
+      "adds": 45711
     },
     {
       "id": "6083",
@@ -4090,7 +4079,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40695
+      "adds": 41430
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 41400
     },
     {
       "id": "LV",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39132
+      "adds": 39984
     },
     {
       "id": "6149",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 33648
+      "adds": 34158
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29648
+      "adds": 30304
     },
     {
       "id": "8168",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 28520
+      "adds": 29120
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25188
+      "adds": 25727
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 23840
+      "adds": 24240
     }
   ]
 }
