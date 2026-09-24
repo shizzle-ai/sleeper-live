@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T05:31:28.684Z",
+  "generated_at": "2026-09-24T05:43:46.947Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1326,7 +1326,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "8167",
@@ -1969,7 +1969,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 206
+          "rank": 207
         },
         {
           "id": "9508",
@@ -2501,7 +2501,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 126
+          "rank": 125
         },
         {
           "id": "13294",
@@ -2985,7 +2985,7 @@
             "injury": null,
             "status": "Active",
             "depth": 2,
-            "rank": 201
+            "rank": 202
           },
           "roster_id": 10,
           "team": "CHASEing Dubs"
@@ -3506,6 +3506,16 @@
         "rank": 180
       },
       {
+        "id": "1479",
+        "name": "Keenan Allen",
+        "pos": "WR",
+        "team": "IND",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 184
+      },
+      {
         "id": "12535",
         "name": "Isaac TeSlaa",
         "pos": "WR",
@@ -3514,16 +3524,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 184
-      },
-      {
-        "id": "1479",
-        "name": "Keenan Allen",
-        "pos": "WR",
-        "team": "IND",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 185
       },
       {
         "id": "12499",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 441225
+      "adds": 442107
     },
     {
       "id": "12487",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 270680
+      "adds": 271304
     },
     {
       "id": "6828",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 229720
+      "adds": 230640
     },
     {
       "id": "8188",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 183736
+      "adds": 184205
     },
     {
       "id": "NYG",
@@ -3907,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 169196
+      "adds": 169464
     },
     {
       "id": "11610",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 139640
+      "adds": 140072
     },
     {
       "id": "NO",
@@ -3929,7 +3929,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117750
+      "adds": 118045
     },
     {
       "id": "13545",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 116376
+      "adds": 116640
     },
     {
       "id": "11256",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 112824
+      "adds": 113058
     },
     {
       "id": "11581",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 112536
+      "adds": 112878
     },
     {
       "id": "11608",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 91842
+      "adds": 92046
     },
     {
       "id": "6149",
@@ -3984,18 +3984,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 72384
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 69285
+      "adds": 72510
     },
     {
       "id": "LV",
@@ -4006,7 +3995,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69246
+      "adds": 69438
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 69395
     },
     {
       "id": "CAR",
@@ -4017,7 +4017,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64963
+      "adds": 65073
     },
     {
       "id": "5995",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 47349
+      "adds": 47547
     },
     {
       "id": "11783",
@@ -4039,7 +4039,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 45880
+      "adds": 46024
     },
     {
       "id": "GB",
@@ -4050,7 +4050,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43352
+      "adds": 43420
     },
     {
       "id": "4663",
@@ -4061,7 +4061,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 39844
+      "adds": 39880
     },
     {
       "id": "8168",
@@ -4072,7 +4072,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 39016
+      "adds": 39120
     }
   ]
 }
