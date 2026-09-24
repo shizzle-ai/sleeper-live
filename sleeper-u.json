@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T01:57:42.226Z",
+  "generated_at": "2026-09-24T02:08:30.602Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3826,7 +3826,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 678546
+      "adds": 680913
     },
     {
       "id": "2505",
@@ -3837,7 +3837,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 555336
+      "adds": 557874
     },
     {
       "id": "12487",
@@ -3848,7 +3848,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 375664
+      "adds": 376656
     },
     {
       "id": "8188",
@@ -3859,7 +3859,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 228074
+      "adds": 229222
     },
     {
       "id": "6828",
@@ -3870,7 +3870,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 213416
+      "adds": 215272
     },
     {
       "id": "NYG",
@@ -3881,7 +3881,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 193356
+      "adds": 194004
     },
     {
       "id": "11256",
@@ -3892,7 +3892,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 178812
+      "adds": 179286
     },
     {
       "id": "11610",
@@ -3903,7 +3903,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 152488
+      "adds": 153264
     },
     {
       "id": "NO",
@@ -3914,7 +3914,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136855
+      "adds": 137500
     },
     {
       "id": "11608",
@@ -3925,7 +3925,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 133092
+      "adds": 133638
     },
     {
       "id": "13545",
@@ -3936,7 +3936,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 125724
+      "adds": 126272
     },
     {
       "id": "11581",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 108036
+      "adds": 108972
     },
     {
       "id": "6149",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 102804
+      "adds": 103170
     },
     {
       "id": "CAR",
@@ -3969,7 +3969,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76563
+      "adds": 76846
     },
     {
       "id": "LV",
@@ -3980,7 +3980,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74952
+      "adds": 75324
     },
     {
       "id": "6083",
@@ -3991,18 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 70225
-    },
-    {
-      "id": "GB",
-      "name": "Green Bay Packers",
-      "pos": "DEF",
-      "team": "GB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 51513
+      "adds": 70690
     },
     {
       "id": "8168",
@@ -4013,7 +4002,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 51464
+      "adds": 51736
+    },
+    {
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "team": "GB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 51731
     },
     {
       "id": "11630",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 50931
+      "adds": 51048
     },
     {
       "id": "11783",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 49832
+      "adds": 50144
     }
   ]
 }
