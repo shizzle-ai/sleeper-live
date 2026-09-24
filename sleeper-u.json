@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T22:46:28.632Z",
+  "generated_at": "2026-09-24T22:55:19.347Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2105,7 +2105,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 33
@@ -2548,7 +2548,7 @@
           "name": "Tank Bigsby",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 147
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 249192
+      "adds": 254142
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 201184
+      "adds": 204520
     },
     {
       "id": "1339",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 171900
+      "adds": 173124
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 121864
+      "adds": 126576
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 99365
+      "adds": 100772
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 80392
+      "adds": 81608
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 78858
+      "adds": 79749
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73276
+      "adds": 74400
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 61544
+      "adds": 62532
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53335
+      "adds": 54035
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 47862
+      "adds": 48540
     },
     {
       "id": "5995",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 43020
+      "adds": 43704
     },
     {
       "id": "11256",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 40932
+      "adds": 41046
     },
     {
       "id": "6083",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 39525
+      "adds": 40120
     },
     {
       "id": "LV",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38058
+      "adds": 38574
     },
     {
       "id": "6149",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 32916
+      "adds": 33228
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 28720
+      "adds": 29208
     },
     {
       "id": "8168",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 27568
+      "adds": 28024
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24444
+      "adds": 24816
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 22936
+      "adds": 23232
     }
   ]
 }
