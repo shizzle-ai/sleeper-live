@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T13:22:25.247Z",
+  "generated_at": "2026-09-24T13:35:43.314Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1088,16 +1088,6 @@
           "rank": 355
         },
         {
-          "id": "12517",
-          "name": "Colston Loveland",
-          "pos": "TE",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
           "id": "2216",
           "name": "Mike Evans",
           "pos": "WR",
@@ -1116,6 +1106,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 496
+        },
+        {
+          "id": "3214",
+          "name": "Hunter Henry",
+          "pos": "TE",
+          "team": "NE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 92
         },
         {
           "id": "4866",
@@ -1168,10 +1168,10 @@
           "rank": 29
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "GB",
+          "name": "Green Bay Packers",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "GB",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1179,6 +1179,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "pos": "TE",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
         {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
@@ -1208,16 +1218,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 200
-        },
-        {
-          "id": "1339",
-          "name": "Zach Ertz",
-          "pos": "TE",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 646
         },
         {
           "id": "2307",
@@ -2943,6 +2943,90 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1408843006974455808",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790256857201,
+      "adds": [
+        {
+          "player": {
+            "id": "3214",
+            "name": "Hunter Henry",
+            "pos": "TE",
+            "team": "NE",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 92
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "1339",
+            "name": "Zach Ertz",
+            "pos": "TE",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 646
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1408842545219358720",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790256747110,
+      "adds": [
+        {
+          "player": {
+            "id": "GB",
+            "name": "Green Bay Packers",
+            "pos": "DEF",
+            "team": "GB",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "BAL",
+            "name": "Baltimore Ravens",
+            "pos": "DEF",
+            "team": "BAL",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1408676792968966144",
       "type": "free_agent",
       "status": "complete",
@@ -3568,16 +3652,6 @@
     ],
     "TE": [
       {
-        "id": "3214",
-        "name": "Hunter Henry",
-        "pos": "TE",
-        "team": "NE",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 92
-      },
-      {
         "id": "11603",
         "name": "AJ Barner",
         "pos": "TE",
@@ -3686,6 +3760,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 230
+      },
+      {
+        "id": "8172",
+        "name": "Greg Dulcich",
+        "pos": "TE",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 230
       }
     ],
     "K": [
@@ -3772,6 +3856,16 @@
     ],
     "DEF": [
       {
+        "id": "BAL",
+        "name": "Baltimore Ravens",
+        "pos": "DEF",
+        "team": "BAL",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
+      },
+      {
         "id": "IND",
         "name": "Indianapolis Colts",
         "pos": "DEF",
@@ -3840,20 +3934,21 @@
         "status": null,
         "depth": null,
         "rank": null
-      },
-      {
-        "id": "TB",
-        "name": "Tampa Bay Buccaneers",
-        "pos": "DEF",
-        "team": "TB",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
       }
     ]
   },
   "trending_unrostered_adds": [
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 646,
+      "adds": 324738
+    },
     {
       "id": "2505",
       "name": "Darren Waller",
@@ -3863,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 332676
+      "adds": 306396
     },
     {
       "id": "6828",
@@ -3874,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 250152
+      "adds": 241568
     },
     {
       "id": "12487",
@@ -3885,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 194240
+      "adds": 177728
     },
     {
       "id": "8188",
@@ -3896,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 151074
+      "adds": 141260
     },
     {
       "id": "NYG",
@@ -3907,7 +4002,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123556
+      "adds": 110460
     },
     {
       "id": "11610",
@@ -3918,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 116520
+      "adds": 108264
     },
     {
       "id": "11581",
@@ -3929,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 103725
+      "adds": 98604
     },
     {
       "id": "13545",
@@ -3940,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 87508
+      "adds": 79316
     },
     {
       "id": "NO",
@@ -3951,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 86490
+      "adds": 77705
     },
     {
       "id": "11256",
@@ -3962,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 76128
+      "adds": 69690
     },
     {
       "id": "11608",
@@ -3973,18 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 71334
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 56180
+      "adds": 66948
     },
     {
       "id": "6149",
@@ -3995,7 +4079,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 56154
+      "adds": 52764
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 51550
     },
     {
       "id": "LV",
@@ -4006,18 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54366
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 45056
+      "adds": 50154
     },
     {
       "id": "5995",
@@ -4028,7 +4112,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 44883
+      "adds": 42615
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 40155
     },
     {
       "id": "11783",
@@ -4039,18 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 40072
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 317,
-      "adds": 35168
+      "adds": 37960
     },
     {
       "id": "8168",
@@ -4061,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 34160
+      "adds": 32648
     },
     {
       "id": "9511",
@@ -4072,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 31608
+      "adds": 29763
     }
   ]
 }
