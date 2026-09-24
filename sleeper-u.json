@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T23:40:36.669Z",
+  "generated_at": "2026-09-24T23:48:35.890Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3696,7 +3696,7 @@
         "name": "Terrance Ferguson",
         "pos": "TE",
         "team": "LAR",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 141
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 264222
+      "adds": 268407
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 208672
+      "adds": 212016
     },
     {
       "id": "1339",
@@ -3969,18 +3969,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 164457
+      "adds": 165762
     },
     {
       "id": "12487",
       "name": "Terrance Ferguson",
       "pos": "TE",
       "team": "LAR",
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 132288
+      "adds": 134784
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 101395
+      "adds": 102522
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 82976
+      "adds": 83792
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 81054
+      "adds": 82089
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75764
+      "adds": 76780
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 65400
+      "adds": 66552
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55260
+      "adds": 56115
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 48768
+      "adds": 49302
     },
     {
       "id": "5995",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 45900
+      "adds": 46710
     },
     {
       "id": "6083",
@@ -4079,18 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40595
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 39192
+      "adds": 41100
     },
     {
       "id": "LV",
@@ -4101,7 +4090,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38910
+      "adds": 39402
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 39276
     },
     {
       "id": "6149",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 32670
+      "adds": 32886
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29488
+      "adds": 29832
     },
     {
       "id": "8168",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 28488
+      "adds": 29144
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25023
+      "adds": 25376
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 23768
+      "adds": 24024
     }
   ]
 }
