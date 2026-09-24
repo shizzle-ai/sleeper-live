@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T06:22:48.473Z",
+  "generated_at": "2026-09-24T06:39:37.762Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 444762
+      "adds": 425709
     },
     {
       "id": "12487",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 273216
+      "adds": 256296
     },
     {
       "id": "6828",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 233480
+      "adds": 232512
     },
     {
       "id": "8188",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 185535
+      "adds": 178486
     },
     {
       "id": "NYG",
@@ -3907,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 170256
+      "adds": 166136
     },
     {
       "id": "11610",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 141024
+      "adds": 138080
     },
     {
       "id": "NO",
@@ -3929,7 +3929,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118670
+      "adds": 115585
     },
     {
       "id": "13545",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 117328
+      "adds": 115336
     },
     {
       "id": "11581",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 114021
+      "adds": 113661
     },
     {
       "id": "11256",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 113736
+      "adds": 104094
     },
     {
       "id": "11608",
@@ -3973,29 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 92676
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 541,
-      "adds": 73002
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 70050
+      "adds": 86100
     },
     {
       "id": "6083",
@@ -4006,7 +3984,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 69880
+      "adds": 69195
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 68448
+    },
+    {
+      "id": "6149",
+      "name": "Darius Slayton",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 541,
+      "adds": 68238
     },
     {
       "id": "CAR",
@@ -4017,7 +4017,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65398
+      "adds": 63349
     },
     {
       "id": "5995",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 48096
+      "adds": 47223
     },
     {
       "id": "11783",
@@ -4039,7 +4039,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 46240
+      "adds": 45384
     },
     {
       "id": "GB",
@@ -4050,7 +4050,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43623
+      "adds": 42341
     },
     {
       "id": "4663",
@@ -4061,7 +4061,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 40028
+      "adds": 40088
     },
     {
       "id": "8168",
@@ -4072,7 +4072,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 39416
+      "adds": 37488
     }
   ]
 }
