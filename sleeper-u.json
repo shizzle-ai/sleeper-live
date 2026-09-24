@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-24T02:22:29.170Z",
+  "generated_at": "2026-09-24T02:33:58.622Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1198,6 +1198,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 201
+        },
+        {
+          "id": "1339",
+          "name": "Zach Ertz",
+          "pos": "TE",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 646
         },
         {
           "id": "2306",
@@ -2933,6 +2943,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1408676792968966144",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790217228694,
+      "adds": [
+        {
+          "player": {
+            "id": "1339",
+            "name": "Zach Ertz",
+            "pos": "TE",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 646
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1408598466065633280",
       "type": "free_agent",
       "status": "complete",
@@ -3818,17 +3855,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 646,
-      "adds": 684351
-    },
-    {
       "id": "2505",
       "name": "Darren Waller",
       "pos": "TE",
@@ -3837,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 560988
+      "adds": 520911
     },
     {
       "id": "12487",
@@ -3848,18 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 378088
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 230636
+      "adds": 344728
     },
     {
       "id": "6828",
@@ -3870,7 +3885,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 218048
+      "adds": 215896
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 214242
     },
     {
       "id": "NYG",
@@ -3881,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 195056
+      "adds": 185992
     },
     {
       "id": "11256",
@@ -3892,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 179928
+      "adds": 159000
     },
     {
       "id": "11610",
@@ -3903,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 154376
+      "adds": 148016
     },
     {
       "id": "NO",
@@ -3914,18 +3940,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 138230
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 650,
-      "adds": 134406
+      "adds": 130905
     },
     {
       "id": "13545",
@@ -3936,7 +3951,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 127224
+      "adds": 122408
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 121662
     },
     {
       "id": "11581",
@@ -3947,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 110043
+      "adds": 108657
     },
     {
       "id": "6149",
@@ -3958,18 +3984,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 103836
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 77246
+      "adds": 94128
     },
     {
       "id": "LV",
@@ -3980,7 +3995,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75924
+      "adds": 73074
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 73045
     },
     {
       "id": "6083",
@@ -3991,18 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 71160
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 52040
+      "adds": 69355
     },
     {
       "id": "GB",
@@ -4013,18 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51985
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 51282
+      "adds": 49022
     },
     {
       "id": "11783",
@@ -4035,7 +4039,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 50512
+      "adds": 48256
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 225,
+      "adds": 48186
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 47112
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 45873
     }
   ]
 }
