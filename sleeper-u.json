@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T15:00:19.580Z",
+  "generated_at": "2026-09-25T15:16:49.815Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1214,7 +1214,7 @@
           "name": "Caleb Douglas",
           "pos": "WR",
           "team": "MIA",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 201
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 328536
+      "adds": 333801
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 212728
+      "adds": 217248
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 168584
+      "adds": 172448
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 99360
+      "adds": 100422
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 87346
+      "adds": 88669
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 78600
+      "adds": 81648
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70804
+      "adds": 71732
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 58590
+      "adds": 58869
     },
     {
       "id": "5995",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 53226
+      "adds": 54270
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49045
+      "adds": 49550
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42150
+      "adds": 43206
     },
     {
       "id": "13545",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 42032
+      "adds": 42072
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40170
+      "adds": 40565
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38262
+      "adds": 38670
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31744
+      "adds": 32208
     },
     {
       "id": "1737",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 27612
+      "adds": 28108
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25464
+      "adds": 25792
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24102
+      "adds": 24606
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22988
+      "adds": 23209
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 21352
+      "adds": 21656
     }
   ]
 }
