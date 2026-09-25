@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T22:29:35.913Z",
+  "generated_at": "2026-09-25T22:41:08.311Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 341217
+      "adds": 324630
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 240120
+      "adds": 235344
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 217256
+      "adds": 206256
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 99656
+      "adds": 95784
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 79240
+      "adds": 74053
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 75753
+      "adds": 70200
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61628
+      "adds": 57664
     },
     {
       "id": "5995",
@@ -4024,18 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 53955
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 650,
-      "adds": 43572
+      "adds": 51399
     },
     {
       "id": "10218",
@@ -4046,7 +4035,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 43505
+      "adds": 43400
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 41298
     },
     {
       "id": "NO",
@@ -4057,18 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39690
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 102,
-      "adds": 37314
+      "adds": 36300
     },
     {
       "id": "1737",
@@ -4079,18 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 34838
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 34720
+      "adds": 34512
     },
     {
       "id": "LV",
@@ -4101,7 +4079,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34554
+      "adds": 32484
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 32292
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 32155
     },
     {
       "id": "8168",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31680
+      "adds": 30184
     },
     {
       "id": "9511",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 27198
+      "adds": 26298
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24744
+      "adds": 23376
     },
     {
       "id": "12617",
@@ -4145,18 +4145,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 20528
+      "adds": 20536
     },
     {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 20232
+      "depth": 2,
+      "rank": 690,
+      "adds": 18328
     }
   ]
 }
