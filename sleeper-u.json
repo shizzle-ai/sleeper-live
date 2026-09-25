@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T21:21:11.707Z",
+  "generated_at": "2026-09-25T21:33:06.036Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2338,7 +2338,7 @@
           "pos": "RB",
           "team": "PIT",
           "injury": "Out",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 2,
           "rank": 65
         },
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 347427
+      "adds": 328527
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 226760
+      "adds": 222312
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 221728
+      "adds": 209384
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 98216
+      "adds": 93992
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 82222
+      "adds": 76454
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 79839
+      "adds": 73449
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63676
+      "adds": 59804
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 54351
+      "adds": 51471
     },
     {
       "id": "11608",
@@ -4035,29 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 44772
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41990
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 102,
-      "adds": 41697
+      "adds": 41478
     },
     {
       "id": "10218",
@@ -4068,7 +4046,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 39116
+      "adds": 39032
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38735
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 36603
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37015
+      "adds": 33725
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35874
+      "adds": 33684
     },
     {
       "id": "1737",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 33778
+      "adds": 33418
     },
     {
       "id": "8168",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32432
+      "adds": 30664
     },
     {
       "id": "9511",
@@ -4123,18 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 26658
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 25912
+      "adds": 25704
     },
     {
       "id": "11783",
@@ -4145,18 +4134,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25440
+      "adds": 23568
     },
     {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 20440
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 20216
+    },
+    {
+      "id": "12617",
+      "name": "Demetrius Knight",
+      "pos": "LB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 284,
+      "adds": 19184
     }
   ]
 }
