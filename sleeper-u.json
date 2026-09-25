@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T03:19:03.320Z",
+  "generated_at": "2026-09-25T03:31:58.150Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 313119
+      "adds": 308790
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 235128
+      "adds": 228192
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 156048
+      "adds": 154928
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 145431
+      "adds": 135027
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 103992
+      "adds": 100282
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 87400
+      "adds": 84392
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82296
+      "adds": 79616
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 79101
+      "adds": 75753
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 61156
+      "adds": 57992
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 58630
+      "adds": 56810
     },
     {
       "id": "5995",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 54252
+      "adds": 52983
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 49578
+      "adds": 47646
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 44430
+      "adds": 43105
     },
     {
       "id": "LV",
@@ -4090,18 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42444
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 32592
+      "adds": 41016
     },
     {
       "id": "8168",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32480
+      "adds": 31560
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 30144
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 30040
+      "adds": 28784
     },
     {
       "id": "6149",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 29394
+      "adds": 27606
     },
     {
       "id": "CAR",
@@ -4145,18 +4145,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26426
+      "adds": 25453
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
+      "id": "9511",
+      "name": "Keaton Mitchell",
       "pos": "RB",
-      "team": "CLE",
+      "team": "LAC",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 690,
-      "adds": 24872
+      "rank": 148,
+      "adds": 24237
     }
   ]
 }
