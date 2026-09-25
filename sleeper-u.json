@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T20:12:14.317Z",
+  "generated_at": "2026-09-25T20:25:16.472Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1033,7 +1033,7 @@
           "name": "Nico Collins",
           "pos": "WR",
           "team": "HOU",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 23
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 338760
+      "adds": 343215
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 215032
+      "adds": 217728
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 204696
+      "adds": 209208
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 89968
+      "adds": 92464
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 81319
+      "adds": 82369
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 80532
+      "adds": 81243
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63740
+      "adds": 64372
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52146
+      "adds": 52929
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 44127
+      "adds": 44415
     },
     {
       "id": "11608",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 43380
+      "adds": 44106
     },
     {
       "id": "NO",
@@ -4057,7 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42725
+      "adds": 43120
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37065
+      "adds": 37385
     },
     {
       "id": "LV",
@@ -4079,29 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35646
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 31944
-    },
-    {
-      "id": "1737",
-      "name": "Case Keenum",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 529,
-      "adds": 31874
+      "adds": 35982
     },
     {
       "id": "10218",
@@ -4112,7 +4090,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 30919
+      "adds": 32956
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 32304
+    },
+    {
+      "id": "1737",
+      "name": "Case Keenum",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 529,
+      "adds": 32282
     },
     {
       "id": "13545",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 28512
+      "adds": 28516
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24732
+      "adds": 25209
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24400
+      "adds": 24832
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20693
+      "adds": 20845
     }
   ]
 }
