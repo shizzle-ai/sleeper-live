@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T20:25:16.472Z",
+  "generated_at": "2026-09-25T20:37:15.710Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 343215
+      "adds": 331578
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 217728
+      "adds": 211888
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 209208
+      "adds": 206864
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 92464
+      "adds": 90440
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 82369
+      "adds": 79170
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 81243
+      "adds": 77094
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64372
+      "adds": 61652
     },
     {
       "id": "5995",
@@ -4024,18 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52929
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 102,
-      "adds": 44415
+      "adds": 51138
     },
     {
       "id": "11608",
@@ -4046,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 44106
+      "adds": 42792
     },
     {
       "id": "NO",
@@ -4057,7 +4046,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43120
+      "adds": 40985
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 40860
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37385
+      "adds": 35920
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35982
+      "adds": 34674
     },
     {
       "id": "10218",
@@ -4090,18 +4090,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 32956
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 32304
+      "adds": 33985
     },
     {
       "id": "1737",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 32282
+      "adds": 32312
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 31344
     },
     {
       "id": "13545",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 28516
+      "adds": 25884
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25209
+      "adds": 24480
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24832
+      "adds": 24024
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20845
+      "adds": 19888
     }
   ]
 }
