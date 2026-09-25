@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T11:15:45.731Z",
+  "generated_at": "2026-09-25T11:29:07.114Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 325755
+      "adds": 327249
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 225064
+      "adds": 225944
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 165688
+      "adds": 166568
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 115866
+      "adds": 116163
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 94836
+      "adds": 95095
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 82448
+      "adds": 82760
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77376
+      "adds": 77660
     },
     {
       "id": "11581",
@@ -4024,18 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 67554
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 54095
+      "adds": 67608
     },
     {
       "id": "5995",
@@ -4046,7 +4035,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 54090
+      "adds": 54369
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 54225
     },
     {
       "id": "13545",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 50092
+      "adds": 50100
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 45078
+      "adds": 45294
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42320
+      "adds": 42495
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40188
+      "adds": 40350
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32560
+      "adds": 32768
     },
     {
       "id": "11783",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 28064
+      "adds": 28168
     },
     {
       "id": "1737",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 529,
-      "adds": 26512
+      "adds": 26622
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24741
+      "adds": 24903
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24555
+      "adds": 24641
     },
     {
       "id": "11256",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 23760
+      "adds": 23772
     }
   ]
 }
