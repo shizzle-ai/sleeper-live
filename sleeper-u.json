@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T19:21:04.686Z",
+  "generated_at": "2026-09-25T19:31:06.818Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 339336
+      "adds": 327159
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 214136
+      "adds": 207040
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 196512
+      "adds": 192304
     },
     {
       "id": "11610",
@@ -3980,18 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 87944
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 646,
-      "adds": 82737
+      "adds": 85128
     },
     {
       "id": "8188",
@@ -4002,7 +3991,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 82712
+      "adds": 78869
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 646,
+      "adds": 78651
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64672
+      "adds": 62092
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52461
+      "adds": 50481
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 46566
+      "adds": 43416
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43710
+      "adds": 41795
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 43032
+      "adds": 41646
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37425
+      "adds": 36135
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36210
+      "adds": 34788
     },
     {
       "id": "8168",
@@ -4090,18 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32048
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 31060
+      "adds": 31056
     },
     {
       "id": "1737",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 30768
+      "adds": 30504
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 28496
     },
     {
       "id": "10218",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 26383
+      "adds": 26117
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24606
+      "adds": 23715
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24496
+      "adds": 23496
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21253
+      "adds": 20309
     }
   ]
 }
