@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T06:26:33.104Z",
+  "generated_at": "2026-09-25T06:43:41.722Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 322209
+      "adds": 319428
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 230800
+      "adds": 227424
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 164624
+      "adds": 162688
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 125802
+      "adds": 121734
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 98637
+      "adds": 96887
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 84664
+      "adds": 83464
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79136
+      "adds": 78152
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 72342
+      "adds": 70731
     },
     {
       "id": "NO",
@@ -4035,18 +4035,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55915
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 54148
+      "adds": 55040
     },
     {
       "id": "5995",
@@ -4057,7 +4046,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 54135
+      "adds": 53649
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 53012
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 46986
+      "adds": 46212
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42880
+      "adds": 42365
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41292
+      "adds": 40554
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32216
+      "adds": 31864
     },
     {
       "id": "11783",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 28632
+      "adds": 28328
     },
     {
       "id": "11256",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 27300
+      "adds": 26310
     },
     {
       "id": "1737",
@@ -4134,18 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 529,
-      "adds": 25768
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 541,
-      "adds": 25362
+      "adds": 25692
     },
     {
       "id": "CAR",
@@ -4156,7 +4145,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25233
+      "adds": 24833
+    },
+    {
+      "id": "6149",
+      "name": "Darius Slayton",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 541,
+      "adds": 24690
     }
   ]
 }
