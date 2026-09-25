@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T17:33:01.947Z",
+  "generated_at": "2026-09-25T17:45:40.022Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 329751
+      "adds": 332172
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 208456
+      "adds": 209816
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 172688
+      "adds": 174472
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 83799
+      "adds": 84087
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 81459
+      "adds": 81970
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 80920
+      "adds": 81672
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64156
+      "adds": 64520
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 51543
+      "adds": 51876
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 48384
+      "adds": 48555
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44160
+      "adds": 44315
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 41550
+      "adds": 41754
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37190
+      "adds": 37375
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35718
+      "adds": 35898
     },
     {
       "id": "13545",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 33660
+      "adds": 33664
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 30864
+      "adds": 31080
     },
     {
       "id": "1737",
@@ -4112,18 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 29046
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 23864
+      "adds": 29280
     },
     {
       "id": "9511",
@@ -4134,18 +4123,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 23841
+      "adds": 24030
     },
     {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 21416
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 24008
     },
     {
       "id": "10218",
@@ -4156,7 +4145,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 21378
+      "adds": 21875
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 21507
     }
   ]
 }
