@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T18:48:18.961Z",
+  "generated_at": "2026-09-25T18:58:11.476Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -233,7 +233,7 @@
         "name": "Aaron Jones",
         "pos": "RB",
         "team": "MIN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 85
@@ -2718,7 +2718,7 @@
           "name": "Aaron Jones",
           "pos": "RB",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 85
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 331695
+      "adds": 334638
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 210192
+      "adds": 211688
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 188048
+      "adds": 191008
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 85152
+      "adds": 86104
     },
     {
       "id": "1339",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 81567
+      "adds": 82035
     },
     {
       "id": "8188",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 81151
+      "adds": 81788
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63488
+      "adds": 63912
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 51525
+      "adds": 51885
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 46206
+      "adds": 46359
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43135
+      "adds": 43350
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 41850
+      "adds": 42270
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 36815
+      "adds": 37040
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35514
+      "adds": 35808
     },
     {
       "id": "8168",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31408
+      "adds": 31632
     },
     {
       "id": "13545",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 31032
+      "adds": 31048
     },
     {
       "id": "1737",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 30130
+      "adds": 30358
     },
     {
       "id": "10218",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 24780
+      "adds": 25417
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24012
+      "adds": 24210
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 23984
+      "adds": 24120
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20984
+      "adds": 21083
     }
   ]
 }
