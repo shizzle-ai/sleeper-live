@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T14:51:20.566Z",
+  "generated_at": "2026-09-25T15:00:19.580Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3686,7 +3686,7 @@
         "name": "Mason Taylor",
         "pos": "TE",
         "team": "NYJ",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 138
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 326781
+      "adds": 328536
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 211752
+      "adds": 212728
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 167504
+      "adds": 168584
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 99072
+      "adds": 99360
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 86996
+      "adds": 87346
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 77928
+      "adds": 78600
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70520
+      "adds": 70804
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 58446
+      "adds": 58590
     },
     {
       "id": "5995",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 53001
+      "adds": 53226
     },
     {
       "id": "NO",
@@ -4046,18 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48940
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 42024
+      "adds": 49045
     },
     {
       "id": "11608",
@@ -4068,7 +4057,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 41826
+      "adds": 42150
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 42032
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40020
+      "adds": 40170
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38124
+      "adds": 38262
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31616
+      "adds": 31744
     },
     {
       "id": "1737",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 27458
+      "adds": 27612
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25376
+      "adds": 25464
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24012
+      "adds": 24102
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22917
+      "adds": 22988
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 21248
+      "adds": 21352
     }
   ]
 }
