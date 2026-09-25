@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T05:21:21.884Z",
+  "generated_at": "2026-09-25T05:33:20.220Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -431,7 +431,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 15
+          "rank": 13
         },
         {
           "id": "8137",
@@ -461,7 +461,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 106
+          "rank": 104
         },
         {
           "id": "13346",
@@ -733,7 +733,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 106
+          "rank": 104
         },
         {
           "id": "8137",
@@ -773,7 +773,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 15
+          "rank": 13
         },
         {
           "id": "SF",
@@ -1217,7 +1217,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 200
+          "rank": 201
         },
         {
           "id": "2307",
@@ -1526,7 +1526,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 35
+          "rank": 36
         },
         {
           "id": "7553",
@@ -2028,7 +2028,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 29
+          "rank": 30
         },
         {
           "id": "11533",
@@ -2038,7 +2038,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 91
         },
         {
           "id": "12518",
@@ -2048,7 +2048,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 47
+          "rank": 49
         },
         {
           "id": "12522",
@@ -2399,7 +2399,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 148
+          "rank": 147
         },
         {
           "id": "11635",
@@ -2789,7 +2789,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "6904",
@@ -3550,6 +3550,16 @@
         "rank": 175
       },
       {
+        "id": "11610",
+        "name": "Malik Washington",
+        "pos": "WR",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 177
+      },
+      {
         "id": "6803",
         "name": "Brandon Aiyuk",
         "pos": "WR",
@@ -3558,16 +3568,6 @@
         "status": "Active",
         "depth": 9,
         "rank": 177
-      },
-      {
-        "id": "11610",
-        "name": "Malik Washington",
-        "pos": "WR",
-        "team": "MIA",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 178
       },
       {
         "id": "13413",
@@ -3781,7 +3781,7 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 119
+        "rank": 118
       },
       {
         "id": "2747",
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 321507
+      "adds": 316953
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 232112
+      "adds": 227488
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 163720
+      "adds": 160944
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 130644
+      "adds": 124560
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 100149
+      "adds": 97531
     },
     {
       "id": "11610",
@@ -4001,8 +4001,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 178,
-      "adds": 85384
+      "rank": 177,
+      "adds": 83472
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79844
+      "adds": 78384
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 74007
+      "adds": 72054
     },
     {
       "id": "NO",
@@ -4035,7 +4035,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56740
+      "adds": 55450
     },
     {
       "id": "13545",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 55844
+      "adds": 54112
     },
     {
       "id": "5995",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 54225
+      "adds": 53361
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 47676
+      "adds": 46338
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43375
+      "adds": 42390
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41742
+      "adds": 40662
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32488
+      "adds": 31688
     },
     {
       "id": "11783",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 28976
+      "adds": 28288
     },
     {
       "id": "11256",
@@ -4123,18 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 28548
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 541,
-      "adds": 26430
+      "adds": 27264
     },
     {
       "id": "1737",
@@ -4145,7 +4134,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 528,
-      "adds": 25566
+      "adds": 25350
+    },
+    {
+      "id": "6149",
+      "name": "Darius Slayton",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 541,
+      "adds": 25296
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25549
+      "adds": 24954
     }
   ]
 }
