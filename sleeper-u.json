@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T13:33:51.809Z",
+  "generated_at": "2026-09-25T13:47:09.810Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -107,6 +107,16 @@
         "rank": 32
       },
       {
+        "id": "11631",
+        "name": "Brian Thomas",
+        "pos": "WR",
+        "team": "JAX",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 75
+      },
+      {
         "id": "12514",
         "name": "Emeka Egbuka",
         "pos": "WR",
@@ -137,14 +147,14 @@
         "rank": 39
       },
       {
-        "id": "4199",
-        "name": "Aaron Jones",
-        "pos": "RB",
-        "team": "MIN",
+        "id": "4217",
+        "name": "George Kittle",
+        "pos": "TE",
+        "team": "SF",
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 85
+        "rank": 80
       },
       {
         "id": "6770",
@@ -167,16 +177,6 @@
         "rank": 13
       },
       {
-        "id": "9493",
-        "name": "Puka Nacua",
-        "pos": "WR",
-        "team": "LAR",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 4
-      },
-      {
         "id": "DET",
         "name": "Detroit Lions",
         "pos": "DEF",
@@ -197,16 +197,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 162
-      },
-      {
-        "id": "11631",
-        "name": "Brian Thomas",
-        "pos": "WR",
-        "team": "JAX",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 75
       },
       {
         "id": "11637",
@@ -239,14 +229,24 @@
         "rank": 119
       },
       {
-        "id": "4217",
-        "name": "George Kittle",
-        "pos": "TE",
-        "team": "SF",
+        "id": "4199",
+        "name": "Aaron Jones",
+        "pos": "RB",
+        "team": "MIN",
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 80
+        "rank": 85
+      },
+      {
+        "id": "9493",
+        "name": "Puka Nacua",
+        "pos": "WR",
+        "team": "LAR",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 4
       }
     ],
     "reserve": [],
@@ -305,14 +305,14 @@
           "rank": 38
         },
         {
-          "id": "9493",
-          "name": "Puka Nacua",
+          "id": "11631",
+          "name": "Brian Thomas",
           "pos": "WR",
-          "team": "LAR",
-          "injury": "Questionable",
+          "team": "JAX",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 4
+          "depth": 2,
+          "rank": 75
         },
         {
           "id": "10236",
@@ -325,14 +325,14 @@
           "rank": 81
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
-          "pos": "RB",
-          "team": "MIN",
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "team": "SF",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 80
         },
         {
           "id": "6770",
@@ -2592,6 +2592,16 @@
           "rank": 32
         },
         {
+          "id": "11631",
+          "name": "Brian Thomas",
+          "pos": "WR",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 75
+        },
+        {
           "id": "12514",
           "name": "Emeka Egbuka",
           "pos": "WR",
@@ -2622,14 +2632,14 @@
           "rank": 39
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
-          "pos": "RB",
-          "team": "MIN",
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "team": "SF",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 80
         },
         {
           "id": "6770",
@@ -2652,16 +2662,6 @@
           "rank": 13
         },
         {
-          "id": "9493",
-          "name": "Puka Nacua",
-          "pos": "WR",
-          "team": "LAR",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 4
-        },
-        {
           "id": "DET",
           "name": "Detroit Lions",
           "pos": "DEF",
@@ -2682,16 +2682,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 162
-        },
-        {
-          "id": "11631",
-          "name": "Brian Thomas",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 75
         },
         {
           "id": "11637",
@@ -2724,14 +2714,24 @@
           "rank": 119
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 80
+          "rank": 85
+        },
+        {
+          "id": "9493",
+          "name": "Puka Nacua",
+          "pos": "WR",
+          "team": "LAR",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 4
         }
       ],
       "reserve": [],
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 324837
+      "adds": 327033
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 213440
+      "adds": 214896
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 166040
+      "adds": 167416
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 104238
+      "adds": 104679
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 88767
+      "adds": 89208
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 78352
+      "adds": 78960
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72648
+      "adds": 73008
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 61452
+      "adds": 61650
     },
     {
       "id": "5995",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52974
+      "adds": 53379
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50300
+      "adds": 50585
     },
     {
       "id": "13545",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 44592
+      "adds": 44616
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42330
+      "adds": 42570
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 40585
+      "adds": 40830
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38496
+      "adds": 38736
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31568
+      "adds": 31880
     },
     {
       "id": "1737",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 529,
-      "adds": 26820
+      "adds": 27032
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 26232
+      "adds": 26384
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24111
+      "adds": 24336
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23113
+      "adds": 23256
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 21592
+      "adds": 21680
     }
   ]
 }
