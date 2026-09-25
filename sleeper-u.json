@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T23:22:03.248Z",
+  "generated_at": "2026-09-25T23:31:47.391Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 332154
+      "adds": 303966
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 245496
+      "adds": 230776
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 209728
+      "adds": 191520
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 99264
+      "adds": 92752
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 75488
+      "adds": 67256
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 71658
+      "adds": 63675
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 58796
+      "adds": 52116
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52920
+      "adds": 48537
     },
     {
       "id": "10218",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 46144
+      "adds": 45626
     },
     {
       "id": "11608",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42618
+      "adds": 39066
     },
     {
       "id": "NO",
@@ -4057,7 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36880
+      "adds": 31640
     },
     {
       "id": "1737",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 35322
+      "adds": 30626
     },
     {
       "id": "LV",
@@ -4079,18 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33036
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 102,
-      "adds": 32841
+      "adds": 29934
     },
     {
       "id": "6083",
@@ -4101,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 32770
+      "adds": 29435
     },
     {
       "id": "8168",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31000
+      "adds": 28520
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 25875
     },
     {
       "id": "9511",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 26928
+      "adds": 25254
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24008
+      "adds": 21592
     },
     {
       "id": "12617",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 21216
+      "adds": 21064
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 18864
+      "adds": 16896
     }
   ]
 }
