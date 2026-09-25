@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T20:47:56.924Z",
+  "generated_at": "2026-09-25T20:56:23.027Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2147,7 +2147,7 @@
           "name": "Jonah Coleman",
           "pos": "RB",
           "team": "DEN",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 3,
           "rank": 118
@@ -3947,18 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 336231
-    },
-    {
-      "id": "6828",
-      "name": "AJ Dillon",
-      "pos": "RB",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 688,
-      "adds": 215056
+      "adds": 339687
     },
     {
       "id": "12487",
@@ -3969,7 +3958,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 213152
+      "adds": 217800
+    },
+    {
+      "id": "6828",
+      "name": "AJ Dillon",
+      "pos": "RB",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 688,
+      "adds": 217520
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 92952
+      "adds": 94800
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 80213
+      "adds": 80906
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 77967
+      "adds": 78534
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62324
+      "adds": 62704
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52191
+      "adds": 52830
     },
     {
       "id": "11608",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 43446
+      "adds": 43830
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41265
+      "adds": 41515
     },
     {
       "id": "11581",
@@ -4057,18 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 41076
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 36255
+      "adds": 41211
     },
     {
       "id": "10218",
@@ -4079,7 +4068,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 35469
+      "adds": 36561
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 36475
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35070
+      "adds": 35310
     },
     {
       "id": "1737",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 32730
+      "adds": 33042
     },
     {
       "id": "8168",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31656
+      "adds": 31896
     },
     {
       "id": "13545",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 25884
+      "adds": 25892
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25290
+      "adds": 25668
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24536
+      "adds": 24832
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20059
+      "adds": 20192
     }
   ]
 }
