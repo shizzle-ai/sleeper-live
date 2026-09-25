@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T21:33:06.036Z",
+  "generated_at": "2026-09-25T21:45:01.440Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3676,7 +3676,7 @@
         "name": "Chig Okonkwo",
         "pos": "TE",
         "team": "WAS",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 1,
         "rank": 137
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 328527
+      "adds": 331308
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 222312
+      "adds": 226288
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 209384
+      "adds": 211552
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 93992
+      "adds": 95200
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 76454
+      "adds": 77119
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 73449
+      "adds": 74016
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59804
+      "adds": 60208
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 51471
+      "adds": 52119
     },
     {
       "id": "11608",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 41478
+      "adds": 41952
     },
     {
       "id": "10218",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 39032
+      "adds": 40054
     },
     {
       "id": "NO",
@@ -4057,7 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38735
+      "adds": 38970
     },
     {
       "id": "11581",
@@ -4068,18 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 36603
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 33725
+      "adds": 36783
     },
     {
       "id": "LV",
@@ -4090,7 +4079,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33684
+      "adds": 33924
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 33920
     },
     {
       "id": "1737",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 33418
+      "adds": 33762
     },
     {
       "id": "8168",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 30664
+      "adds": 30920
     },
     {
       "id": "9511",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25704
+      "adds": 26145
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 23568
+      "adds": 23888
     },
     {
       "id": "13545",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 19184
+      "adds": 19480
     }
   ]
 }
