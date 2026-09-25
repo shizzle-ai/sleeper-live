@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T04:20:19.306Z",
+  "generated_at": "2026-09-25T04:33:47.160Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 321192
+      "adds": 315306
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 235448
+      "adds": 228296
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 162352
+      "adds": 159440
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 137556
+      "adds": 129492
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 102767
+      "adds": 98987
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 86872
+      "adds": 84272
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81288
+      "adds": 78992
     },
     {
       "id": "11581",
@@ -4024,18 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 76365
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 58056
+      "adds": 73620
     },
     {
       "id": "NO",
@@ -4046,7 +4035,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57885
+      "adds": 56210
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 55812
     },
     {
       "id": "5995",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 54531
+      "adds": 53379
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 48954
+      "adds": 47046
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 44260
+      "adds": 42840
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42360
+      "adds": 40920
     },
     {
       "id": "8168",
@@ -4101,18 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32512
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 30258
+      "adds": 31800
     },
     {
       "id": "11783",
@@ -4123,7 +4112,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29544
+      "adds": 28624
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 28530
     },
     {
       "id": "6149",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 27828
+      "adds": 26334
     },
     {
       "id": "CAR",
@@ -4145,18 +4145,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26114
+      "adds": 25237
     },
     {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "team": "LAC",
+      "id": "1737",
+      "name": "Case Keenum",
+      "pos": "QB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 148,
-      "adds": 25236
+      "rank": 528,
+      "adds": 25038
     }
   ]
 }
