@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T02:23:06.052Z",
+  "generated_at": "2026-09-25T02:34:43.446Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 298746
+      "adds": 289818
     },
     {
       "id": "6828",
@@ -3958,18 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 231104
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 646,
-      "adds": 153558
+      "adds": 222760
     },
     {
       "id": "12487",
@@ -3980,7 +3969,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 149456
+      "adds": 145320
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 646,
+      "adds": 140688
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 104902
+      "adds": 99561
     },
     {
       "id": "11610",
@@ -4002,18 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 86952
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 102,
-      "adds": 82467
+      "adds": 83472
     },
     {
       "id": "NYG",
@@ -4024,7 +4013,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82064
+      "adds": 78628
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 78129
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 64648
+      "adds": 61044
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59145
+      "adds": 56325
     },
     {
       "id": "5995",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 52866
+      "adds": 51309
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 50562
+      "adds": 47952
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 44020
+      "adds": 42140
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41934
+      "adds": 40176
     },
     {
       "id": "11256",
@@ -4101,18 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 35046
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 541,
-      "adds": 31302
+      "adds": 32298
     },
     {
       "id": "8168",
@@ -4123,7 +4112,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31264
+      "adds": 29896
+    },
+    {
+      "id": "6149",
+      "name": "Darius Slayton",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 541,
+      "adds": 29088
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 30192
+      "adds": 28808
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26532
+      "adds": 25123
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 25008
+      "adds": 24000
     }
   ]
 }
