@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T19:31:06.818Z",
+  "generated_at": "2026-09-25T19:42:35.264Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1216,7 +1216,7 @@
           "team": "MIA",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 9,
           "rank": 201
         },
         {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 327159
+      "adds": 329211
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 207040
+      "adds": 208824
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 192304
+      "adds": 194592
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 85128
+      "adds": 85920
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 78869
+      "adds": 79380
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 78651
+      "adds": 78993
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62092
+      "adds": 62428
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 50481
+      "adds": 50706
     },
     {
       "id": "11581",
@@ -4035,18 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 43416
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41795
+      "adds": 43551
     },
     {
       "id": "11608",
@@ -4057,7 +4046,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 41646
+      "adds": 42048
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 42010
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 36135
+      "adds": 36320
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34788
+      "adds": 35022
     },
     {
       "id": "8168",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31056
+      "adds": 31256
     },
     {
       "id": "1737",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 30504
+      "adds": 30786
     },
     {
       "id": "13545",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 26117
+      "adds": 26558
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 23715
+      "adds": 23913
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 23496
+      "adds": 23656
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20309
+      "adds": 20381
     }
   ]
 }
