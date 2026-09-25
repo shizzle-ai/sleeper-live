@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T18:05:07.207Z",
+  "generated_at": "2026-09-25T18:22:20.553Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -243,7 +243,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "team": "LAR",
-        "injury": "Questionable",
+        "injury": "Doubtful",
         "status": "Active",
         "depth": 2,
         "rank": 4
@@ -2728,7 +2728,7 @@
           "name": "Puka Nacua",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Questionable",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 2,
           "rank": 4
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 335817
+      "adds": 341487
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 211592
+      "adds": 214216
     },
     {
       "id": "12487",
@@ -3969,18 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 178072
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 646,
-      "adds": 84726
+      "adds": 186280
     },
     {
       "id": "11610",
@@ -3991,7 +3980,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 83080
+      "adds": 85856
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 646,
+      "adds": 85626
     },
     {
       "id": "8188",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 82600
+      "adds": 83818
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65040
+      "adds": 65760
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52326
+      "adds": 53028
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 48789
+      "adds": 49023
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44595
+      "adds": 44980
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42252
+      "adds": 42846
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 37675
+      "adds": 38045
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36210
+      "adds": 36660
     },
     {
       "id": "13545",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 33684
+      "adds": 33700
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31368
+      "adds": 31784
     },
     {
       "id": "1737",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 29586
+      "adds": 29980
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24304
+      "adds": 24672
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24228
+      "adds": 24507
     },
     {
       "id": "10218",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 22589
+      "adds": 24031
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21626
+      "adds": 21795
     }
   ]
 }
