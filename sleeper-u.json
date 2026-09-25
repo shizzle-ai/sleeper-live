@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T00:31:13.481Z",
+  "generated_at": "2026-09-25T00:47:06.078Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1057,7 +1057,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 5,
           "rank": 187
         }
       ],
@@ -1587,7 +1587,7 @@
           "team": "GB",
           "injury": "NA",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 20
         },
         {
@@ -1799,7 +1799,7 @@
           "team": "CLE",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 4,
           "rank": 129
         }
       ],
@@ -2000,7 +2000,7 @@
           "team": "MIN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 4,
           "rank": 92
         }
       ],
@@ -2932,7 +2932,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 11,
+          "depth": 9,
           "rank": 62
         }
       ],
@@ -3242,7 +3242,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 388
       }
     ],
@@ -3312,7 +3312,7 @@
         "name": "Kaytron Allen",
         "pos": "RB",
         "team": "WAS",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 157
@@ -3374,7 +3374,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 176
       },
       {
@@ -3636,7 +3636,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 277677
+      "adds": 282978
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 218384
+      "adds": 222200
     },
     {
       "id": "1339",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 158166
+      "adds": 159705
     },
     {
       "id": "12487",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 139736
+      "adds": 142136
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 101990
+      "adds": 103516
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 178,
-      "adds": 84496
+      "adds": 85688
     },
     {
       "id": "11581",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 82647
+      "adds": 84672
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78968
+      "adds": 80524
     },
     {
       "id": "13545",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 67880
+      "adds": 67980
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57270
+      "adds": 58255
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 49440
+      "adds": 50076
     },
     {
       "id": "5995",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 48852
+      "adds": 49914
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 41740
+      "adds": 42525
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39936
+      "adds": 40584
     },
     {
       "id": "11256",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 37194
+      "adds": 37344
     },
     {
       "id": "6149",
@@ -4112,18 +4112,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 541,
-      "adds": 31872
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 29760
+      "adds": 32166
     },
     {
       "id": "8168",
@@ -4134,7 +4123,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 29600
+      "adds": 30496
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 30184
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25760
+      "adds": 26185
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 24152
+      "adds": 24624
     }
   ]
 }
