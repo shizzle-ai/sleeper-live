@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T18:22:20.553Z",
+  "generated_at": "2026-09-25T18:35:53.071Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 341487
+      "adds": 328743
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 214216
+      "adds": 208528
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 186280
+      "adds": 184856
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 85856
+      "adds": 83760
     },
     {
       "id": "1339",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 85626
+      "adds": 81009
     },
     {
       "id": "8188",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 83818
+      "adds": 80605
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65760
+      "adds": 62984
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 53028
+      "adds": 51102
     },
     {
       "id": "11581",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 49023
+      "adds": 46035
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44980
+      "adds": 42950
     },
     {
       "id": "11608",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42846
+      "adds": 41418
     },
     {
       "id": "6083",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 38045
+      "adds": 36550
     },
     {
       "id": "LV",
@@ -4079,18 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36660
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 33700
+      "adds": 35208
     },
     {
       "id": "8168",
@@ -4101,7 +4090,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31784
+      "adds": 31088
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 31024
     },
     {
       "id": "1737",
@@ -4112,29 +4112,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 29980
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 24672
-    },
-    {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 148,
-      "adds": 24507
+      "adds": 29848
     },
     {
       "id": "10218",
@@ -4145,7 +4123,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 24031
+      "adds": 24101
+    },
+    {
+      "id": "9511",
+      "name": "Keaton Mitchell",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 148,
+      "adds": 23814
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 23736
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21795
+      "adds": 20870
     }
   ]
 }
