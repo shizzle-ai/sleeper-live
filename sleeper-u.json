@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T20:56:23.027Z",
+  "generated_at": "2026-09-25T21:06:58.461Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1204,7 +1204,7 @@
           "name": "Jadarian Price",
           "pos": "RB",
           "team": "SEA",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 52
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 339687
+      "adds": 342963
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 217800
+      "adds": 221560
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 217520
+      "adds": 219480
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 94800
+      "adds": 96288
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 80906
+      "adds": 81557
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 78534
+      "adds": 79146
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62704
+      "adds": 63184
     },
     {
       "id": "5995",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 52830
+      "adds": 53586
     },
     {
       "id": "11608",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 43830
+      "adds": 44274
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41515
+      "adds": 41720
     },
     {
       "id": "11581",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 41211
+      "adds": 41436
     },
     {
       "id": "10218",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 36561
+      "adds": 37779
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 36475
+      "adds": 36720
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35310
+      "adds": 35574
     },
     {
       "id": "1737",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 33042
+      "adds": 33412
     },
     {
       "id": "8168",
@@ -4112,18 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 31896
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 195,
-      "adds": 25892
+      "adds": 32136
     },
     {
       "id": "9511",
@@ -4134,7 +4123,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25668
+      "adds": 26100
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 195,
+      "adds": 25908
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 24832
+      "adds": 25080
     },
     {
       "id": "CAR",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20192
+      "adds": 20313
     }
   ]
 }
