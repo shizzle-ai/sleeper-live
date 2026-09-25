@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-25T14:24:59.043Z",
+  "generated_at": "2026-09-25T14:38:47.916Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -245,7 +245,7 @@
         "team": "LAR",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 4
       }
     ],
@@ -2730,7 +2730,7 @@
           "team": "LAR",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 4
         }
       ],
@@ -2768,7 +2768,7 @@
           "team": "LAR",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 46
         },
         {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 333279
+      "adds": 324711
     },
     {
       "id": "6828",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 218664
+      "adds": 210504
     },
     {
       "id": "12487",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 171312
+      "adds": 166184
     },
     {
       "id": "1339",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 106038
+      "adds": 98712
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 90496
+      "adds": 86534
     },
     {
       "id": "11610",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 80216
+      "adds": 77400
     },
     {
       "id": "NYG",
@@ -4013,7 +4013,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73800
+      "adds": 70272
     },
     {
       "id": "11581",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 61902
+      "adds": 58293
     },
     {
       "id": "5995",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 54396
+      "adds": 52659
     },
     {
       "id": "NO",
@@ -4046,7 +4046,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51270
+      "adds": 48825
     },
     {
       "id": "13545",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 195,
-      "adds": 44640
+      "adds": 41992
     },
     {
       "id": "11608",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 43152
+      "adds": 41460
     },
     {
       "id": "6083",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 41500
+      "adds": 39805
     },
     {
       "id": "LV",
@@ -4090,7 +4090,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39204
+      "adds": 37872
     },
     {
       "id": "8168",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 32512
+      "adds": 31392
     },
     {
       "id": "1737",
@@ -4110,9 +4110,9 @@
       "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 529,
-      "adds": 27648
+      "adds": 27254
     },
     {
       "id": "11783",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 26800
+      "adds": 25272
     },
     {
       "id": "9511",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24759
+      "adds": 23886
     },
     {
       "id": "CAR",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23580
+      "adds": 22812
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 22080
+      "adds": 21096
     }
   ]
 }
