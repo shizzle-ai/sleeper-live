@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T01:43:25.496Z",
+  "generated_at": "2026-09-26T01:52:39.591Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2051,16 +2051,6 @@
           "rank": 49
         },
         {
-          "id": "12522",
-          "name": "Cam Ward",
-          "pos": "QB",
-          "team": "TEN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 115
-        },
-        {
           "id": "12527",
           "name": "Ashton Jeanty",
           "pos": "RB",
@@ -2079,6 +2069,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 15
+        },
+        {
+          "id": "3257",
+          "name": "Jacoby Brissett",
+          "pos": "QB",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 203
         },
         {
           "id": "4984",
@@ -2133,6 +2133,16 @@
           "rank": 119
         },
         {
+          "id": "12522",
+          "name": "Cam Ward",
+          "pos": "QB",
+          "team": "TEN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 115
+        },
+        {
           "id": "13337",
           "name": "Emmett Johnson",
           "pos": "RB",
@@ -2141,26 +2151,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 113
-        },
-        {
-          "id": "13345",
-          "name": "Jonah Coleman",
-          "pos": "RB",
-          "team": "DEN",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 118
-        },
-        {
-          "id": "5854",
-          "name": "Drew Lock",
-          "pos": "QB",
-          "team": "SEA",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 691
         },
         {
           "id": "5967",
@@ -2173,6 +2163,16 @@
           "rank": 63
         },
         {
+          "id": "8126",
+          "name": "Wan'Dale Robinson",
+          "pos": "WR",
+          "team": "TEN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 105
+        },
+        {
           "id": "8148",
           "name": "Jameson Williams",
           "pos": "WR",
@@ -2183,7 +2183,18 @@
           "rank": 53
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "13345",
+          "name": "Jonah Coleman",
+          "pos": "RB",
+          "team": "DEN",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 6,
+          "rank": 118
+        }
+      ],
       "taxi": [],
       "waiver_position": 4,
       "faab_used": 0
@@ -2943,6 +2954,75 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1409390138131304448",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790387303434,
+      "adds": [
+        {
+          "player": {
+            "id": "8126",
+            "name": "Wan'Dale Robinson",
+            "pos": "WR",
+            "team": "TEN",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 105
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1409389636052156416",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790387183729,
+      "adds": [
+        {
+          "player": {
+            "id": "3257",
+            "name": "Jacoby Brissett",
+            "pos": "QB",
+            "team": "ARI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 203
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "5854",
+            "name": "Drew Lock",
+            "pos": "QB",
+            "team": "SEA",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 691
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1408843006974455808",
       "type": "free_agent",
       "status": "complete",
@@ -3146,16 +3226,6 @@
         "rank": 176
       },
       {
-        "id": "3257",
-        "name": "Jacoby Brissett",
-        "pos": "QB",
-        "team": "ARI",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 203
-      },
-      {
         "id": "11565",
         "name": "J.J. McCarthy",
         "pos": "QB",
@@ -3244,6 +3314,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 388
+      },
+      {
+        "id": "12477",
+        "name": "Kurtis Rourke",
+        "pos": "QB",
+        "team": "SF",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 393
       }
     ],
     "RB": [
@@ -3460,16 +3540,6 @@
         "rank": 77
       },
       {
-        "id": "8126",
-        "name": "Wan'Dale Robinson",
-        "pos": "WR",
-        "team": "TEN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 105
-      },
-      {
         "id": "7049",
         "name": "Jauan Jennings",
         "pos": "WR",
@@ -3648,6 +3718,16 @@
         "status": "Active",
         "depth": 5,
         "rank": 192
+      },
+      {
+        "id": "7090",
+        "name": "Darnell Mooney",
+        "pos": "WR",
+        "team": "NYG",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 194
       }
     ],
     "TE": [
@@ -3947,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 273177
+      "adds": 274482
     },
     {
       "id": "12487",
@@ -3958,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 238320
+      "adds": 240448
     },
     {
       "id": "6828",
@@ -3969,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 162888
+      "adds": 163448
     },
     {
       "id": "11610",
@@ -3980,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 90616
+      "adds": 91280
     },
     {
       "id": "8188",
@@ -3991,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 57897
+      "adds": 58233
     },
     {
       "id": "1339",
@@ -4002,7 +4082,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 53793
+      "adds": 54045
     },
     {
       "id": "10218",
@@ -4013,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 51254
+      "adds": 51730
     },
     {
       "id": "5995",
@@ -4024,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 43407
+      "adds": 43605
     },
     {
       "id": "NYG",
@@ -4035,7 +4115,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42276
+      "adds": 42508
     },
     {
       "id": "11608",
@@ -4046,7 +4126,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 37134
+      "adds": 37344
     },
     {
       "id": "8168",
@@ -4057,7 +4137,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 26040
+      "adds": 26224
     },
     {
       "id": "1737",
@@ -4068,7 +4148,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 26040
+      "adds": 26200
     },
     {
       "id": "LV",
@@ -4079,18 +4159,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26016
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 24520
+      "adds": 26166
     },
     {
       "id": "9511",
@@ -4101,7 +4170,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24498
+      "adds": 24624
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 24590
     },
     {
       "id": "NO",
@@ -4112,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24235
+      "adds": 24370
     },
     {
       "id": "12617",
@@ -4123,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 22280
+      "adds": 22432
     },
     {
       "id": "11783",
@@ -4134,7 +4214,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 19256
+      "adds": 19336
     },
     {
       "id": "11581",
@@ -4145,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 16020
+      "adds": 16128
     },
     {
       "id": "13423",
@@ -4156,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 15256
+      "adds": 15540
     }
   ]
 }
