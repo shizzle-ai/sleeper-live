@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T00:12:15.249Z",
+  "generated_at": "2026-09-26T00:31:45.244Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 310716
+      "adds": 282537
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 240912
+      "adds": 230192
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 193928
+      "adds": 172088
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 95920
+      "adds": 89976
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 68586
+      "adds": 60683
     },
     {
       "id": "1339",
@@ -4002,29 +4002,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 646,
-      "adds": 65097
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 53236
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 223,
-      "adds": 49950
+      "adds": 56754
     },
     {
       "id": "10218",
@@ -4035,7 +4013,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 48146
+      "adds": 47978
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 45128
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 223,
+      "adds": 45018
     },
     {
       "id": "11608",
@@ -4046,29 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 40446
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 32170
-    },
-    {
-      "id": "1737",
-      "name": "Case Keenum",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 529,
-      "adds": 31324
+      "adds": 36960
     },
     {
       "id": "LV",
@@ -4079,18 +4057,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30540
+      "adds": 27192
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
+      "id": "1737",
+      "name": "Case Keenum",
+      "pos": "QB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 239,
-      "adds": 30040
+      "rank": 529,
+      "adds": 26866
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 26435
     },
     {
       "id": "8168",
@@ -4101,18 +4090,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 29080
+      "adds": 26328
     },
     {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 102,
-      "adds": 26406
+      "rank": 239,
+      "adds": 26265
     },
     {
       "id": "9511",
@@ -4123,18 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25884
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 22136
+      "adds": 24390
     },
     {
       "id": "12617",
@@ -4145,7 +4123,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 21760
+      "adds": 21608
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 19856
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 102,
+      "adds": 18855
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 17248
+      "adds": 15648
     }
   ]
 }
