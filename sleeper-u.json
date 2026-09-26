@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T00:31:45.244Z",
+  "generated_at": "2026-09-26T00:48:39.976Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1035,7 +1035,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 5,
           "rank": 23
         },
         {
@@ -1787,7 +1787,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 164
         }
       ],
@@ -2149,7 +2149,7 @@
           "team": "DEN",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 6,
           "rank": 118
         },
         {
@@ -2339,7 +2339,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Inactive",
-          "depth": 2,
+          "depth": 5,
           "rank": 65
         },
         {
@@ -2972,7 +2972,7 @@
             "team": "PHI",
             "injury": null,
             "status": "Active",
-            "depth": 1,
+            "depth": null,
             "rank": 646
           },
           "roster_id": 3,
@@ -3040,7 +3040,7 @@
             "team": "PHI",
             "injury": null,
             "status": "Active",
-            "depth": 1,
+            "depth": null,
             "rank": 646
           },
           "roster_id": 3,
@@ -3364,7 +3364,7 @@
         "team": "MIA",
         "injury": "Doubtful",
         "status": "Active",
-        "depth": 2,
+        "depth": 4,
         "rank": 174
       },
       {
@@ -3636,7 +3636,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -3678,7 +3678,7 @@
         "team": "WAS",
         "injury": "Out",
         "status": "Active",
-        "depth": 1,
+        "depth": 4,
         "rank": 137
       },
       {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 282537
+      "adds": 284976
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 230192
+      "adds": 233992
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 172088
+      "adds": 173072
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 89976
+      "adds": 91200
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 60683
+      "adds": 61201
     },
     {
       "id": "1339",
@@ -4000,9 +4000,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 1,
+      "depth": null,
       "rank": 646,
-      "adds": 56754
+      "adds": 57123
     },
     {
       "id": "10218",
@@ -4011,9 +4011,9 @@
       "team": "HOU",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 679,
-      "adds": 47978
+      "adds": 48846
     },
     {
       "id": "NYG",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45128
+      "adds": 45484
     },
     {
       "id": "5995",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 45018
+      "adds": 45396
     },
     {
       "id": "11608",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 36960
+      "adds": 37446
     },
     {
       "id": "LV",
@@ -4057,7 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27192
+      "adds": 27474
     },
     {
       "id": "1737",
@@ -4068,7 +4068,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 26866
+      "adds": 27132
     },
     {
       "id": "NO",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26435
+      "adds": 26635
     },
     {
       "id": "8168",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 26328
+      "adds": 26552
     },
     {
       "id": "6083",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 26265
+      "adds": 26485
     },
     {
       "id": "9511",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24390
+      "adds": 24606
     },
     {
       "id": "12617",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 21608
+      "adds": 21792
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 19856
+      "adds": 20112
     },
     {
       "id": "11581",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 18855
+      "adds": 19053
     },
     {
       "id": "12472",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 15648
+      "adds": 15824
     }
   ]
 }
