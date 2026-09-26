@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T21:50:07.956Z",
+  "generated_at": "2026-09-26T21:57:19.121Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1820,16 +1820,6 @@
       },
       "starters": [
         {
-          "id": "12519",
-          "name": "Luther Burden",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 40
-        },
-        {
           "id": "12529",
           "name": "TreVeyon Henderson",
           "pos": "RB",
@@ -1878,6 +1868,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 134
+        },
+        {
+          "id": "9486",
+          "name": "Dontayvion Wicks",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 207
         },
         {
           "id": "9509",
@@ -1932,6 +1932,16 @@
           "rank": 83
         },
         {
+          "id": "12519",
+          "name": "Luther Burden",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 40
+        },
+        {
           "id": "12534",
           "name": "Kyle Monangai",
           "pos": "RB",
@@ -1960,16 +1970,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 125
-        },
-        {
-          "id": "9486",
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 207
         },
         {
           "id": "9508",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 366888
+      "adds": 369304
     },
     {
       "id": "2505",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 142443
+      "adds": 143154
     },
     {
       "id": "11610",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 122248
+      "adds": 123416
     },
     {
       "id": "10218",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 100093
+      "adds": 100912
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 88472
+      "adds": 88856
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 45996
+      "adds": 46386
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 44076
+      "adds": 44396
     },
     {
       "id": "8188",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 40012
+      "adds": 40208
     },
     {
       "id": "5995",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 39744
+      "adds": 40167
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35188
+      "adds": 35436
     },
     {
       "id": "1339",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 34677
+      "adds": 34839
     },
     {
       "id": "6012",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": null,
       "rank": 362,
-      "adds": 27728
+      "adds": 28040
     },
     {
       "id": "11256",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 27162
+      "adds": 27522
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25119
+      "adds": 25344
     },
     {
       "id": "8168",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 22888
+      "adds": 23000
     },
     {
       "id": "LV",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18084
+      "adds": 18240
     },
     {
       "id": "6083",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17050
+      "adds": 17135
     },
     {
       "id": "1737",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 16768
+      "adds": 16772
     },
     {
       "id": "11783",
@@ -4225,18 +4225,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 15680
+      "adds": 15776
     },
     {
-      "id": "12617",
-      "name": "Demetrius Knight",
-      "pos": "LB",
-      "team": "CIN",
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 283,
-      "adds": 15344
+      "depth": 2,
+      "rank": 196,
+      "adds": 15491
     }
   ]
 }
