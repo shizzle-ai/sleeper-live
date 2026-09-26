@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T05:22:31.301Z",
+  "generated_at": "2026-09-26T05:33:18.044Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -134,7 +134,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 129
+        "rank": 127
       },
       {
         "id": "4046",
@@ -352,7 +352,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 129
+          "rank": 127
         },
         {
           "id": "DET",
@@ -431,7 +431,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 13
+          "rank": 15
         },
         {
           "id": "8137",
@@ -461,7 +461,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 104
+          "rank": 106
         },
         {
           "id": "13346",
@@ -733,7 +733,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 104
+          "rank": 106
         },
         {
           "id": "8137",
@@ -773,7 +773,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 13
+          "rank": 15
         },
         {
           "id": "SF",
@@ -964,7 +964,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "96",
@@ -1217,7 +1217,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 9,
-          "rank": 201
+          "rank": 199
         },
         {
           "id": "2307",
@@ -1516,7 +1516,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 130
+          "rank": 131
         },
         {
           "id": "6801",
@@ -2048,7 +2048,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 47
         },
         {
           "id": "12527",
@@ -2630,7 +2630,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 129
+          "rank": 127
         },
         {
           "id": "4046",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 249920
+      "adds": 246432
     },
     {
       "id": "2505",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 230625
+      "adds": 223659
     },
     {
       "id": "6828",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 136376
+      "adds": 131704
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 89672
+      "adds": 88696
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 58716
+      "adds": 58800
     },
     {
       "id": "8188",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 49413
+      "adds": 48027
     },
     {
       "id": "1339",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 44082
+      "adds": 42642
     },
     {
       "id": "5995",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 39069
+      "adds": 38169
     },
     {
       "id": "11608",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 36678
+      "adds": 36072
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35952
+      "adds": 35028
     },
     {
       "id": "1737",
@@ -4137,18 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 23810
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 23184
+      "adds": 23228
     },
     {
       "id": "12617",
@@ -4159,7 +4148,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 23160
+      "adds": 22968
     },
     {
       "id": "9511",
@@ -4170,18 +4159,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 23094
+      "adds": 22545
     },
     {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 21480
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 22384
     },
     {
       "id": "13423",
@@ -4192,7 +4181,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 20734
+      "adds": 20866
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 20532
     },
     {
       "id": "6083",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 20250
+      "adds": 19640
     },
     {
       "id": "NO",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 19565
+      "adds": 18965
     },
     {
       "id": "11783",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 17336
+      "adds": 16880
     },
     {
       "id": "13311",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 14658
+      "adds": 14595
     }
   ]
 }
