@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T01:21:02.017Z",
+  "generated_at": "2026-09-26T01:31:53.948Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3947,7 +3947,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 289512
+      "adds": 271476
     },
     {
       "id": "12487",
@@ -3958,7 +3958,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 241560
+      "adds": 235680
     },
     {
       "id": "6828",
@@ -3969,7 +3969,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 175000
+      "adds": 162224
     },
     {
       "id": "11610",
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 93328
+      "adds": 89896
     },
     {
       "id": "8188",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 62300
+      "adds": 57512
     },
     {
       "id": "1339",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 58023
+      "adds": 53451
     },
     {
       "id": "10218",
@@ -4013,18 +4013,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 50666
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 46336
+      "adds": 50617
     },
     {
       "id": "5995",
@@ -4035,7 +4024,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 46323
+      "adds": 43065
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 41968
     },
     {
       "id": "11608",
@@ -4046,29 +4046,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 38562
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 27984
-    },
-    {
-      "id": "1737",
-      "name": "Case Keenum",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 529,
-      "adds": 27684
+      "adds": 36720
     },
     {
       "id": "8168",
@@ -4079,18 +4057,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 27072
+      "adds": 25864
     },
     {
-      "id": "NO",
-      "name": "New Orleans Saints",
+      "id": "1737",
+      "name": "Case Keenum",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 529,
+      "adds": 25818
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
       "pos": "DEF",
-      "team": "NO",
+      "team": "LV",
       "injury": null,
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27055
+      "adds": 25788
     },
     {
       "id": "6083",
@@ -4101,7 +4090,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 26925
+      "adds": 24355
     },
     {
       "id": "9511",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25200
+      "adds": 24282
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 24125
     },
     {
       "id": "12617",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 22152
+      "adds": 22096
     },
     {
       "id": "11783",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20496
+      "adds": 19160
     },
     {
       "id": "11581",
@@ -4145,18 +4145,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 19287
+      "adds": 15921
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
+      "id": "13423",
+      "name": "Eli Heidenreich",
       "pos": "RB",
-      "team": "CLE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 690,
-      "adds": 16112
+      "rank": 486,
+      "adds": 14982
     }
   ]
 }
