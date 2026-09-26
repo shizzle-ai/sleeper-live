@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T03:33:15.852Z",
+  "generated_at": "2026-09-26T03:44:31.202Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4019,17 +4019,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 353,
-      "adds": 238536
-    },
-    {
       "id": "12487",
       "name": "Terrance Ferguson",
       "pos": "TE",
@@ -4038,7 +4027,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 237712
+      "adds": 239912
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 353,
+      "adds": 239724
     },
     {
       "id": "6828",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 140848
+      "adds": 141400
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 88312
+      "adds": 88928
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 55090
+      "adds": 55552
     },
     {
       "id": "8188",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 50561
+      "adds": 50806
     },
     {
       "id": "1339",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 45297
+      "adds": 45450
     },
     {
       "id": "5995",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 39006
+      "adds": 39186
     },
     {
       "id": "NYG",
@@ -4115,7 +4115,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36272
+      "adds": 36508
     },
     {
       "id": "11608",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 35982
+      "adds": 36252
     },
     {
       "id": "1737",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 23784
+      "adds": 23938
     },
     {
       "id": "9511",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 23103
+      "adds": 23310
     },
     {
       "id": "8168",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 22888
+      "adds": 23048
     },
     {
       "id": "12617",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 284,
-      "adds": 22464
+      "adds": 22656
     },
     {
       "id": "LV",
@@ -4181,7 +4181,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22002
+      "adds": 22164
     },
     {
       "id": "6083",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 20660
+      "adds": 20795
     },
     {
       "id": "NO",
@@ -4203,7 +4203,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20025
+      "adds": 20135
     },
     {
       "id": "13423",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 17846
+      "adds": 18188
     },
     {
       "id": "11783",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 17552
+      "adds": 17608
     },
     {
       "id": "11581",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 102,
-      "adds": 14724
+      "adds": 14796
     }
   ]
 }
