@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T19:53:57.234Z",
+  "generated_at": "2026-09-26T20:02:02.618Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2919,7 +2919,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 4,
           "rank": 94
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 336400
+      "adds": 343720
     },
     {
       "id": "2505",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 157950
+      "adds": 160893
     },
     {
       "id": "11610",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 112568
+      "adds": 114448
     },
     {
       "id": "6828",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 98768
+      "adds": 99728
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 93926
+      "adds": 95319
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 42378
+      "adds": 42984
     },
     {
       "id": "8188",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 41888
+      "adds": 42385
     },
     {
       "id": "13423",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 41474
+      "adds": 41962
     },
     {
       "id": "5995",
@@ -4115,18 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 37143
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 34548
+      "adds": 37638
     },
     {
       "id": "1339",
@@ -4137,7 +4126,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 33777
+      "adds": 35064
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 35048
     },
     {
       "id": "6012",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": null,
       "rank": 362,
-      "adds": 23208
+      "adds": 23520
     },
     {
       "id": "9511",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 22320
+      "adds": 22725
     },
     {
       "id": "8168",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 21632
+      "adds": 21856
     },
     {
       "id": "1737",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 20394
+      "adds": 20452
     },
     {
       "id": "11256",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 18912
+      "adds": 19602
     },
     {
       "id": "LV",
@@ -4203,7 +4203,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18300
+      "adds": 18450
     },
     {
       "id": "6083",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17675
+      "adds": 17880
     },
     {
       "id": "12617",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 283,
-      "adds": 17152
+      "adds": 17256
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 16224
+      "adds": 16368
     }
   ]
 }
