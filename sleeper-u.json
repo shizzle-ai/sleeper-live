@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-26T15:26:21.819Z",
+  "generated_at": "2026-09-26T15:38:38.815Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 298360
+      "adds": 292608
     },
     {
       "id": "2505",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 198009
+      "adds": 185724
     },
     {
       "id": "6828",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 119784
+      "adds": 110480
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 100848
+      "adds": 96216
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 77441
+      "adds": 75873
     },
     {
       "id": "8188",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 45794
+      "adds": 42903
     },
     {
       "id": "11608",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 40206
+      "adds": 38082
     },
     {
       "id": "1339",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 38790
+      "adds": 36369
     },
     {
       "id": "5995",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 37737
+      "adds": 35613
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34824
+      "adds": 33032
     },
     {
       "id": "13423",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 31394
+      "adds": 31598
     },
     {
       "id": "12617",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 283,
-      "adds": 25472
+      "adds": 25216
     },
     {
       "id": "1737",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 529,
-      "adds": 23730
+      "adds": 22648
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 22626
+      "adds": 21717
     },
     {
       "id": "8168",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 21584
+      "adds": 20496
     },
     {
       "id": "LV",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 19944
+      "adds": 18798
     },
     {
       "id": "6083",
@@ -4203,18 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 18555
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 17340
+      "adds": 17620
     },
     {
       "id": "6012",
@@ -4225,18 +4214,29 @@
       "status": "Active",
       "depth": null,
       "rank": 362,
-      "adds": 17232
+      "adds": 17384
     },
     {
-      "id": "13311",
-      "name": "Chris Bell",
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 16410
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "MIA",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 196,
-      "adds": 16940
+      "depth": 3,
+      "rank": 199,
+      "adds": 15968
     }
   ]
 }
