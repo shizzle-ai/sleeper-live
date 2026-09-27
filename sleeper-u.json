@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T23:12:28.725Z",
+  "generated_at": "2026-09-27T23:24:14.118Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -243,7 +243,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "team": "LAR",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 4
@@ -378,11 +378,11 @@
         8
       ],
       "players_points": {
-        "1166": 18.26,
+        "1166": 22.42,
         "3451": 5,
-        "4035": 3.1,
+        "4035": 4.5,
         "4046": 16.94,
-        "4199": 11.8,
+        "4199": 14.2,
         "4217": 26.2,
         "6770": 22.58,
         "8150": 0,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 124.88,
+      "points": 122.88,
       "starters": [
         {
           "id": "11563",
@@ -512,12 +512,12 @@
         26.7,
         3.3,
         8.1,
-        13.28,
+        12.28,
         6,
-        2
+        1
       ],
       "players_points": {
-        "4892": 13.28,
+        "4892": 12.28,
         "8131": 3.3,
         "8132": 4.9,
         "8137": 15.2,
@@ -534,7 +534,7 @@
         "13298": 2.9,
         "13346": 8.1,
         "13417": 0,
-        "SF": 2
+        "SF": 1
       }
     }
   },
@@ -2739,7 +2739,7 @@
           "name": "Puka Nacua",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 4
@@ -3260,7 +3260,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -3746,7 +3746,7 @@
         "name": "Colby Parkinson",
         "pos": "TE",
         "team": "LAR",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 136
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 909776
+      "adds": 948794
     },
     {
       "id": "12487",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 599176
+      "adds": 603928
     },
     {
       "id": "3321",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 544088
+      "adds": 553152
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 276352
+      "adds": 277984
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 198373
+      "adds": 198730
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 186420
+      "adds": 186864
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 134964
+      "adds": 136233
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116376
+      "adds": 116720
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 91880
+      "adds": 92000
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 88830
+      "adds": 89091
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 80682
+      "adds": 81492
     },
     {
       "id": "11576",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 74488
+      "adds": 76528
     },
     {
       "id": "11630",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 73179
+      "adds": 74421
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 69939
+      "adds": 70938
     },
     {
       "id": "NO",
@@ -4181,7 +4181,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64540
+      "adds": 64665
     },
     {
       "id": "6828",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 59224
+      "adds": 59272
     },
     {
       "id": "1339",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47736
+      "adds": 48636
     },
     {
       "id": "8188",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 45640
+      "adds": 45675
     },
     {
       "id": "LV",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42726
+      "adds": 43542
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 40656
+      "adds": 40688
     }
   ]
 }
