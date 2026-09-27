@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T04:25:49.682Z",
+  "generated_at": "2026-09-27T04:38:59.716Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 391632
+      "adds": 382232
     },
     {
       "id": "11610",
@@ -4038,18 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 146608
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 116739
+      "adds": 145272
     },
     {
       "id": "10218",
@@ -4060,7 +4049,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 116011
+      "adds": 114772
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 113319
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 76600
+      "adds": 74296
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 52704
+      "adds": 51726
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 46142
+      "adds": 44716
     },
     {
       "id": "11256",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 41904
+      "adds": 42264
     },
     {
       "id": "5995",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 41814
+      "adds": 41022
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40412
+      "adds": 39864
     },
     {
       "id": "6012",
@@ -4137,18 +4137,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 39824
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 37856
+      "adds": 39400
     },
     {
       "id": "3321",
@@ -4159,7 +4148,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 37648
+      "adds": 38376
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 36988
     },
     {
       "id": "1339",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 32139
+      "adds": 31347
     },
     {
       "id": "9511",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25767
+      "adds": 25173
     },
     {
       "id": "8168",
@@ -4192,18 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 24144
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 18858
+      "adds": 23488
     },
     {
       "id": "6130",
@@ -4214,7 +4203,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 18828
+      "adds": 18675
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 18336
     },
     {
       "id": "6083",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17140
+      "adds": 16690
     },
     {
       "id": "NO",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16070
+      "adds": 15780
     }
   ]
 }
