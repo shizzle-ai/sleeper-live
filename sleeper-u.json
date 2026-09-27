@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T22:18:19.685Z",
+  "generated_at": "2026-09-27T22:31:02.413Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 78.42,
+      "points": 79.12,
       "starters": [
         {
           "id": "4046",
@@ -368,7 +368,7 @@
       "starters_points": [
         16.94,
         0,
-        7.1,
+        7.8,
         6.1,
         1.8,
         3.8,
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 11.46,
         "3451": 5,
-        "4035": 2.2,
+        "4035": 2.5,
         "4046": 16.94,
         "4199": 4.9,
         "4217": 7.1,
@@ -388,7 +388,7 @@
         "8150": 0,
         "9493": 0,
         "10236": 3.8,
-        "11584": 7.1,
+        "11584": 7.8,
         "11625": 0,
         "11631": 1.8,
         "11637": 4.7,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 116.7,
+      "points": 119.2,
       "starters": [
         {
           "id": "11563",
@@ -508,7 +508,7 @@
         0,
         41.4,
         8.9,
-        7.3,
+        9.8,
         26.7,
         3.3,
         8.1,
@@ -520,7 +520,7 @@
         "4892": 11,
         "8131": 3.3,
         "8132": 4.9,
-        "8137": 7.3,
+        "8137": 9.8,
         "8146": 26.7,
         "9221": 41.4,
         "9224": 8.9,
@@ -2797,7 +2797,7 @@
           "name": "Justin Jefferson",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 13
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 743015
+      "adds": 781473
     },
     {
       "id": "12487",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 603624
+      "adds": 585984
     },
     {
       "id": "3321",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 511128
+      "adds": 517376
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 278504
+      "adds": 271048
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 203378
+      "adds": 197358
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 188142
+      "adds": 185232
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 135396
+      "adds": 130644
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117524
+      "adds": 115724
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 94584
+      "adds": 91552
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 88992
+      "adds": 87264
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 82560
+      "adds": 79686
     },
     {
       "id": "11630",
@@ -4148,18 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 68517
-    },
-    {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 148,
-      "adds": 67221
+      "adds": 69093
     },
     {
       "id": "11576",
@@ -4170,7 +4159,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 66212
+      "adds": 67280
+    },
+    {
+      "id": "9511",
+      "name": "Keaton Mitchell",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 148,
+      "adds": 66465
     },
     {
       "id": "NO",
@@ -4181,7 +4181,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64625
+      "adds": 63960
     },
     {
       "id": "6828",
@@ -4192,18 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 62312
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 47271
+      "adds": 59112
     },
     {
       "id": "1339",
@@ -4214,7 +4203,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 46899
+      "adds": 45657
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 45507
     },
     {
       "id": "LV",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42936
+      "adds": 42156
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 41400
+      "adds": 40560
     }
   ]
 }
