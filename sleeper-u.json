@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T03:11:50.465Z",
+  "generated_at": "2026-09-27T03:25:58.279Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 383368
+      "adds": 387256
     },
     {
       "id": "11610",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 140608
+      "adds": 142504
     },
     {
       "id": "2505",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 118611
+      "adds": 119520
     },
     {
       "id": "10218",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 111958
+      "adds": 113295
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 77192
+      "adds": 77776
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 50958
+      "adds": 51678
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 45842
+      "adds": 46216
     },
     {
       "id": "5995",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 40707
+      "adds": 41184
     },
     {
       "id": "11256",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 39234
+      "adds": 39876
     },
     {
       "id": "NYG",
@@ -4126,18 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38836
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 37681
+      "adds": 39280
     },
     {
       "id": "6012",
@@ -4148,18 +4137,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 37680
+      "adds": 38384
     },
     {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
       "injury": null,
       "status": "Active",
-      "depth": null,
-      "rank": 646,
-      "adds": 31914
+      "depth": 3,
+      "rank": 522,
+      "adds": 38066
     },
     {
       "id": "3321",
@@ -4170,7 +4159,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 31424
+      "adds": 32792
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 646,
+      "adds": 32175
     },
     {
       "id": "9511",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25641
+      "adds": 25857
     },
     {
       "id": "8168",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 23696
+      "adds": 23928
     },
     {
       "id": "LV",
@@ -4203,7 +4203,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18432
+      "adds": 18720
     },
     {
       "id": "6130",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 17928
+      "adds": 18189
     },
     {
       "id": "6083",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17035
+      "adds": 17200
     },
     {
       "id": "NO",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15725
+      "adds": 15970
     }
   ]
 }
