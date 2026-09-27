@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T20:44:20.627Z",
+  "generated_at": "2026-09-27T20:53:11.072Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 62.38,
+      "points": 63.68,
       "starters": [
         {
           "id": "4046",
@@ -368,8 +368,8 @@
       "starters_points": [
         16.94,
         0,
-        2.1,
-        0,
+        2,
+        1.4,
         1.8,
         3.8,
         2.2,
@@ -382,17 +382,17 @@
         "3451": 5,
         "4035": 0,
         "4046": 16.94,
-        "4199": 1.8,
+        "4199": 1.9,
         "4217": 2.2,
         "6770": 22.54,
         "8150": 0,
         "9493": 0,
         "10236": 3.8,
-        "11584": 2.1,
+        "11584": 2,
         "11625": 0,
         "11631": 1.8,
         "11637": 4.7,
-        "12514": 0,
+        "12514": 1.4,
         "DET": 8
       }
     },
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 106.86,
+      "points": 107.02,
       "starters": [
         {
           "id": "11563",
@@ -512,14 +512,14 @@
         26.7,
         3.3,
         8.1,
-        6.16,
+        6.32,
         0,
         10
       ],
       "players_points": {
-        "4892": 6.16,
+        "4892": 6.32,
         "8131": 3.3,
-        "8132": 3,
+        "8132": 4.4,
         "8137": 2.3,
         "8146": 26.7,
         "9221": 41.4,
@@ -4027,18 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 622184
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 145,
-      "adds": 453160
+      "adds": 625248
     },
     {
       "id": "12495",
@@ -4049,7 +4038,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 392070
+      "adds": 483056
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 145,
+      "adds": 461752
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 285016
+      "adds": 285960
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 213885
+      "adds": 214144
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 191376
+      "adds": 191574
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 138456
+      "adds": 139428
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 119548
+      "adds": 119668
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 98720
+      "adds": 98784
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 93024
+      "adds": 93132
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 84576
+      "adds": 84810
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 71656
+      "adds": 71688
     },
     {
       "id": "9511",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 64764
+      "adds": 65745
     },
     {
       "id": "NO",
@@ -4170,7 +4170,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64600
+      "adds": 64730
     },
     {
       "id": "11630",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 61956
+      "adds": 62748
     },
     {
       "id": "11576",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 51160
+      "adds": 53400
     },
     {
       "id": "8188",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 50708
+      "adds": 50771
     },
     {
       "id": "1339",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 46638
+      "adds": 47061
     },
     {
       "id": "11783",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 42776
+      "adds": 42792
     },
     {
       "id": "LV",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41820
+      "adds": 42150
     }
   ]
 }
