@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T18:39:30.455Z",
+  "generated_at": "2026-09-27T18:51:34.633Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 32.64,
+      "points": 34.64,
       "starters": [
         {
           "id": "4046",
@@ -375,7 +375,7 @@
         0,
         14.08,
         1,
-        5
+        7
       ],
       "players_points": {
         "1166": 0,
@@ -393,7 +393,7 @@
         "11631": 1.8,
         "11637": 4.7,
         "12514": 0,
-        "DET": 5
+        "DET": 7
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 34.5,
+      "points": 38.7,
       "starters": [
         {
           "id": "11563",
@@ -509,7 +509,7 @@
         21.8,
         4.7,
         0,
-        6,
+        10.2,
         2,
         0,
         0,
@@ -521,14 +521,14 @@
         "8131": 2,
         "8132": 0,
         "8137": 0,
-        "8146": 6,
+        "8146": 10.2,
         "9221": 21.8,
         "9224": 4.7,
         "9753": 0,
         "11435": 1.2,
         "11563": 0,
         "11583": 0,
-        "12509": 2.3,
+        "12509": 6.2,
         "12711": 0,
         "13279": 1.6,
         "13298": 1.4,
@@ -3280,7 +3280,7 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 285
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 632816
+      "adds": 636456
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 345968
+      "adds": 356392
     },
     {
       "id": "11610",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 286752
+      "adds": 288544
     },
     {
       "id": "10218",
@@ -4060,18 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 225176
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 650,
-      "adds": 194412
+      "adds": 225330
     },
     {
       "id": "12495",
@@ -4082,7 +4071,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 180887
+      "adds": 216594
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 194604
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 148725
+      "adds": 148815
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123600
+      "adds": 123680
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 101000
+      "adds": 101064
     },
     {
       "id": "11256",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 90966
+      "adds": 91272
     },
     {
       "id": "5995",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 84600
+      "adds": 85140
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 80184
+      "adds": 80208
     },
     {
       "id": "NO",
@@ -4159,18 +4159,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56370
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 54894
+      "adds": 57250
     },
     {
       "id": "9511",
@@ -4181,7 +4170,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 52623
+      "adds": 55899
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 54964
     },
     {
       "id": "11630",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 51480
+      "adds": 52929
     },
     {
       "id": "1339",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47133
+      "adds": 47556
     },
     {
       "id": "LV",
@@ -4214,18 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37404
-    },
-    {
-      "id": "13423",
-      "name": "Eli Heidenreich",
-      "pos": "RB",
-      "team": "PIT",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 2,
-      "rank": 484,
-      "adds": 37132
+      "adds": 37872
     },
     {
       "id": "11783",
@@ -4236,7 +4225,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 36696
+      "adds": 37464
+    },
+    {
+      "id": "13423",
+      "name": "Eli Heidenreich",
+      "pos": "RB",
+      "team": "PIT",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 2,
+      "rank": 484,
+      "adds": 37136
     }
   ]
 }
