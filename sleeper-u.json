@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T05:33:25.377Z",
+  "generated_at": "2026-09-27T05:44:57.670Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1656,7 +1656,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 37
+          "rank": 35
         },
         {
           "id": "13968",
@@ -2512,7 +2512,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 127
+          "rank": 125
         },
         {
           "id": "13294",
@@ -2522,7 +2522,7 @@
           "injury": null,
           "status": "Active",
           "depth": 3,
-          "rank": 91
+          "rank": 89
         },
         {
           "id": "13305",
@@ -2542,7 +2542,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 87
+          "rank": 88
         },
         {
           "id": "4983",
@@ -2892,7 +2892,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 63
+          "rank": 65
         },
         {
           "id": "12489",
@@ -3515,7 +3515,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 223
+        "rank": 225
       },
       {
         "id": "11273",
@@ -3525,7 +3525,7 @@
         "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 233
+        "rank": 234
       }
     ],
     "WR": [
@@ -3640,6 +3640,16 @@
         "rank": 177
       },
       {
+        "id": "13413",
+        "name": "Cyrus Allen",
+        "pos": "WR",
+        "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 5,
+        "rank": 179
+      },
+      {
         "id": "4981",
         "name": "Calvin Ridley",
         "pos": "WR",
@@ -3648,16 +3658,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 180
-      },
-      {
-        "id": "13413",
-        "name": "Cyrus Allen",
-        "pos": "WR",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 5,
-        "rank": 181
       },
       {
         "id": "1479",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 383584
+      "adds": 385736
     },
     {
       "id": "11610",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 148352
+      "adds": 149288
     },
     {
       "id": "10218",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 116816
+      "adds": 117705
     },
     {
       "id": "2505",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 113121
+      "adds": 113724
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 74104
+      "adds": 74480
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 53010
+      "adds": 53502
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 44168
+      "adds": 44348
     },
     {
       "id": "11256",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 43782
+      "adds": 44058
     },
     {
       "id": "3321",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 42904
+      "adds": 43816
     },
     {
       "id": "5995",
@@ -4125,8 +4125,8 @@
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 223,
-      "adds": 41274
+      "rank": 225,
+      "adds": 41571
     },
     {
       "id": "NYG",
@@ -4137,7 +4137,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40864
+      "adds": 41164
     },
     {
       "id": "6012",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 40768
+      "adds": 41040
     },
     {
       "id": "8188",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 37191
+      "adds": 37408
     },
     {
       "id": "1339",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 31365
+      "adds": 31509
     },
     {
       "id": "9511",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25425
+      "adds": 25560
     },
     {
       "id": "8168",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 23888
+      "adds": 24072
     },
     {
       "id": "6130",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 19098
+      "adds": 19206
     },
     {
       "id": "LV",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18726
+      "adds": 18912
     },
     {
       "id": "6083",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 16790
+      "adds": 16905
     },
     {
       "id": "NO",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16050
+      "adds": 16190
     }
   ]
 }
