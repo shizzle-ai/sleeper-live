@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T13:59:47.216Z",
+  "generated_at": "2026-09-27T14:12:50.008Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 443392
+      "adds": 453920
     },
     {
       "id": "11610",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 192256
+      "adds": 197544
     },
     {
       "id": "10218",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 150885
+      "adds": 155064
     },
     {
       "id": "2505",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 124740
+      "adds": 127161
     },
     {
       "id": "3321",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 108416
+      "adds": 114768
     },
     {
       "id": "6828",
@@ -4082,18 +4082,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 75552
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 650,
-      "adds": 65736
+      "adds": 76648
     },
     {
       "id": "11256",
@@ -4104,7 +4093,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 65328
+      "adds": 67590
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 650,
+      "adds": 67224
     },
     {
       "id": "NYG",
@@ -4115,7 +4115,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61272
+      "adds": 64124
     },
     {
       "id": "6012",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 54440
+      "adds": 55832
     },
     {
       "id": "5995",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 50976
+      "adds": 52164
     },
     {
       "id": "13423",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 484,
-      "adds": 43178
+      "adds": 43626
     },
     {
       "id": "8188",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 42420
+      "adds": 43337
     },
     {
       "id": "1339",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 35199
+      "adds": 35793
     },
     {
       "id": "9511",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 29718
+      "adds": 30213
     },
     {
       "id": "8168",
@@ -4192,18 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 29096
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 660,
-      "adds": 24885
+      "adds": 30008
     },
     {
       "id": "NO",
@@ -4214,7 +4203,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24460
+      "adds": 25640
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 660,
+      "adds": 25542
     },
     {
       "id": "LV",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23478
+      "adds": 24108
     },
     {
       "id": "6083",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 20285
+      "adds": 20830
     }
   ]
 }
