@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T18:59:45.630Z",
+  "generated_at": "2026-09-27T19:11:47.738Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 37.78,
+      "points": 39.28,
       "starters": [
         {
           "id": "4046",
@@ -371,7 +371,7 @@
         0,
         0,
         1.8,
-        2.4,
+        3.9,
         0,
         16.74,
         1,
@@ -387,7 +387,7 @@
         "6770": 16.74,
         "8150": 0,
         "9493": 0,
-        "10236": 2.4,
+        "10236": 3.9,
         "11584": 0,
         "11625": 0,
         "11631": 1.8,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 42.9,
+      "points": 51.5,
       "starters": [
         {
           "id": "11563",
@@ -506,8 +506,8 @@
       ],
       "starters_points": [
         0,
-        23.8,
-        6.9,
+        31.8,
+        7.5,
         0,
         10.2,
         2,
@@ -522,15 +522,15 @@
         "8132": 0,
         "8137": 0,
         "8146": 10.2,
-        "9221": 23.8,
-        "9224": 6.9,
+        "9221": 31.8,
+        "9224": 7.5,
         "9753": 0,
         "11435": 1.2,
         "11563": 0,
         "11583": 0,
         "12509": 9,
         "12711": 0,
-        "13279": 1.6,
+        "13279": 6.2,
         "13298": 1.4,
         "13346": 0,
         "13417": 0,
@@ -2296,7 +2296,7 @@
           "name": "De'Von Achane",
           "pos": "RB",
           "team": "MIA",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 8
@@ -3320,7 +3320,7 @@
         "name": "Kurtis Rourke",
         "pos": "QB",
         "team": "SF",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 393
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 638928
+      "adds": 643808
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 362776
+      "adds": 374408
     },
     {
       "id": "11610",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 289464
+      "adds": 291712
     },
     {
       "id": "12495",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 231483
+      "adds": 254989
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 225407
+      "adds": 225568
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 194712
+      "adds": 194898
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 148905
+      "adds": 149058
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123760
+      "adds": 123844
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 101144
+      "adds": 101208
     },
     {
       "id": "11256",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 91398
+      "adds": 91692
     },
     {
       "id": "5995",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 85527
+      "adds": 86643
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 80248
+      "adds": 80304
     },
     {
       "id": "NO",
@@ -4159,7 +4159,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57770
+      "adds": 58945
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 57006
+      "adds": 58680
     },
     {
       "id": "8188",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 55006
+      "adds": 55062
     },
     {
       "id": "11630",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 53712
+      "adds": 54963
     },
     {
       "id": "1339",
@@ -4203,18 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47799
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38130
+      "adds": 48276
     },
     {
       "id": "11783",
@@ -4225,7 +4214,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 37936
+      "adds": 38824
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38712
     },
     {
       "id": "13423",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 484,
-      "adds": 37140
+      "adds": 37146
     }
   ]
 }
