@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T19:57:35.189Z",
+  "generated_at": "2026-09-27T20:09:05.226Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 58.8,
+      "points": 59.56,
       "starters": [
         {
           "id": "4046",
@@ -373,7 +373,7 @@
         1.8,
         3.8,
         0,
-        23.26,
+        24.02,
         5,
         8
       ],
@@ -382,9 +382,9 @@
         "3451": 5,
         "4035": 0,
         "4046": 16.94,
-        "4199": 0,
+        "4199": 1.8,
         "4217": 0,
-        "6770": 23.26,
+        "6770": 24.02,
         "8150": 0,
         "9493": 0,
         "10236": 3.8,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 83.5,
+      "points": 96.4,
       "starters": [
         {
           "id": "11563",
@@ -507,34 +507,34 @@
       "starters_points": [
         0,
         41.4,
-        8.3,
+        8.9,
         0,
         26.7,
         3.3,
-        3.8,
+        6.1,
         0,
         0,
-        0
+        10
       ],
       "players_points": {
         "4892": 0,
         "8131": 3.3,
-        "8132": 0,
+        "8132": 1.5,
         "8137": 0,
         "8146": 26.7,
         "9221": 41.4,
-        "9224": 8.3,
+        "9224": 8.9,
         "9753": 0,
         "11435": 1.4,
         "11563": 0,
         "11583": 0,
-        "12509": 9,
+        "12509": 13.6,
         "12711": 0,
-        "13279": 11.7,
+        "13279": 11.8,
         "13298": 2.9,
-        "13346": 3.8,
+        "13346": 6.1,
         "13417": 0,
-        "SF": 0
+        "SF": 10
       }
     }
   },
@@ -1279,6 +1279,16 @@
       },
       "starters": [
         {
+          "id": "11604",
+          "name": "Brock Bowers",
+          "pos": "TE",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 22
+        },
+        {
           "id": "11786",
           "name": "Cam Little",
           "pos": "K",
@@ -1307,16 +1317,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 4
-        },
-        {
-          "id": "7002",
-          "name": "Juwan Johnson",
-          "pos": "TE",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 103
         },
         {
           "id": "7588",
@@ -1391,16 +1391,6 @@
           "rank": 68
         },
         {
-          "id": "11604",
-          "name": "Brock Bowers",
-          "pos": "TE",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 22
-        },
-        {
           "id": "11646",
           "name": "Jalen Coker",
           "pos": "WR",
@@ -1419,6 +1409,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 93
+        },
+        {
+          "id": "7002",
+          "name": "Juwan Johnson",
+          "pos": "TE",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 103
         },
         {
           "id": "7567",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 637768
+      "adds": 641928
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 415616
+      "adds": 425784
     },
     {
       "id": "12495",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 311815
+      "adds": 324415
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 289872
+      "adds": 291304
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 220500
+      "adds": 220724
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 193620
+      "adds": 194034
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 144963
+      "adds": 145296
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121728
+      "adds": 121864
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 100416
+      "adds": 100464
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 90315
+      "adds": 92394
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 87606
+      "adds": 87846
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 76632
+      "adds": 76672
     },
     {
       "id": "9511",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 62577
+      "adds": 63747
     },
     {
       "id": "NO",
@@ -4170,7 +4170,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62090
+      "adds": 63420
     },
     {
       "id": "11630",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 58878
+      "adds": 59967
     },
     {
       "id": "8188",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 53011
+      "adds": 53025
     },
     {
       "id": "1339",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 48231
+      "adds": 48780
     },
     {
       "id": "11576",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 43808
+      "adds": 46028
     },
     {
       "id": "11783",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 40928
+      "adds": 42024
     },
     {
       "id": "LV",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40236
+      "adds": 41070
     }
   ]
 }
