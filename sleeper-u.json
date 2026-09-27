@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T19:42:16.015Z",
+  "generated_at": "2026-09-27T19:49:54.549Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 48.48,
+      "points": 53.8,
       "starters": [
         {
           "id": "4046",
@@ -366,14 +366,14 @@
         }
       ],
       "starters_points": [
-        11.9,
+        16.94,
         0,
         0,
         0,
         1.8,
         3.8,
         0,
-        22.98,
+        23.26,
         4,
         4
       ],
@@ -381,10 +381,10 @@
         "1166": 0,
         "3451": 4,
         "4035": 0,
-        "4046": 11.9,
+        "4046": 16.94,
         "4199": 0,
         "4217": 0,
-        "6770": 22.98,
+        "6770": 23.26,
         "8150": 0,
         "9493": 0,
         "10236": 3.8,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 68.4,
+      "points": 81.8,
       "starters": [
         {
           "id": "11563",
@@ -506,12 +506,12 @@
       ],
       "starters_points": [
         0,
-        31.8,
+        41.4,
         8.3,
         0,
         25,
         3.3,
-        0,
+        3.8,
         0,
         0,
         0
@@ -522,7 +522,7 @@
         "8132": 0,
         "8137": 0,
         "8146": 25,
-        "9221": 31.8,
+        "9221": 41.4,
         "9224": 8.3,
         "9753": 0,
         "11435": 1.4,
@@ -531,8 +531,8 @@
         "12509": 9,
         "12711": 0,
         "13279": 10.2,
-        "13298": 1.4,
-        "13346": 0,
+        "13298": 2.9,
+        "13346": 3.8,
         "13417": 0,
         "SF": 0
       }
@@ -1976,7 +1976,7 @@
           "name": "Tyjae Spears",
           "pos": "RB",
           "team": "TEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 122
@@ -2837,7 +2837,7 @@
           "name": "Breece Hall",
           "pos": "RB",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 27
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 631408
+      "adds": 634616
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 399696
+      "adds": 407216
     },
     {
       "id": "12495",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 290710
+      "adds": 300993
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 287592
+      "adds": 288824
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 219457
+      "adds": 220101
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 192984
+      "adds": 193182
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 144072
+      "adds": 144459
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121540
+      "adds": 121624
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 100184
+      "adds": 100296
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 88101
+      "adds": 89235
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 87246
+      "adds": 87438
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 76584
+      "adds": 76616
     },
     {
       "id": "9511",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 60867
+      "adds": 61776
     },
     {
       "id": "NO",
@@ -4170,7 +4170,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60400
+      "adds": 61280
     },
     {
       "id": "11630",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 57240
+      "adds": 58068
     },
     {
       "id": "8188",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 52976
+      "adds": 52990
     },
     {
       "id": "1339",
@@ -4203,29 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47637
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 39752
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39042
+      "adds": 47970
     },
     {
       "id": "11576",
@@ -4236,7 +4214,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 38024
+      "adds": 40588
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 40320
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39600
     }
   ]
 }
