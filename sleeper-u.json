@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T18:09:27.086Z",
+  "generated_at": "2026-09-27T18:25:08.099Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 26.24,
+      "points": 26.52,
       "starters": [
         {
           "id": "4046",
@@ -366,32 +366,32 @@
         }
       ],
       "starters_points": [
-        9.24,
+        8.24,
         0,
         0,
         0,
         1.8,
         2.4,
         0,
-        7.8,
-        0,
+        8.08,
+        1,
         5
       ],
       "players_points": {
         "1166": 0,
-        "3451": 0,
+        "3451": 1,
         "4035": 0,
-        "4046": 9.24,
+        "4046": 8.24,
         "4199": 0,
         "4217": 0,
-        "6770": 7.8,
+        "6770": 8.08,
         "8150": 0,
         "9493": 0,
         "10236": 2.4,
         "11584": 0,
         "11625": 0,
         "11631": 1.8,
-        "11637": 0,
+        "11637": 4.7,
         "12514": 0,
         "DET": 5
       }
@@ -525,12 +525,12 @@
         "9221": 11,
         "9224": 2.1,
         "9753": 0,
-        "11435": 0.6,
+        "11435": 0.8,
         "11563": 0,
         "11583": 0,
         "12509": 2.3,
         "12711": 0,
-        "13279": 0,
+        "13279": 1.6,
         "13298": 1.4,
         "13346": 0,
         "13417": 0,
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 642800
+      "adds": 646984
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 322208
+      "adds": 334312
     },
     {
       "id": "11610",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 291880
+      "adds": 293016
     },
     {
       "id": "10218",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 230797
+      "adds": 230986
     },
     {
       "id": "11608",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 196278
+      "adds": 196524
     },
     {
       "id": "12495",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 154105
+      "adds": 169624
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 153747
+      "adds": 153891
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 125468
+      "adds": 125548
     },
     {
       "id": "6012",
@@ -4115,18 +4115,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 102224
+      "adds": 102280
     },
     {
       "id": "11256",
       "name": "Tyson Bagent",
       "pos": "QB",
       "team": "CHI",
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 94494
+      "adds": 94878
     },
     {
       "id": "5995",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 84618
+      "adds": 85401
     },
     {
       "id": "6828",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 83632
+      "adds": 83656
     },
     {
       "id": "8188",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 56504
+      "adds": 56658
     },
     {
       "id": "NO",
@@ -4170,7 +4170,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55030
+      "adds": 56160
     },
     {
       "id": "9511",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 50454
+      "adds": 51345
     },
     {
       "id": "11630",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 47889
+      "adds": 50094
     },
     {
       "id": "1339",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47601
+      "adds": 48114
     },
     {
       "id": "13423",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 484,
-      "adds": 39884
+      "adds": 39894
     },
     {
       "id": "LV",
@@ -4225,18 +4225,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37224
+      "adds": 37740
     },
     {
-      "id": "8168",
-      "name": "Skyy Moore",
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "GB",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 608,
-      "adds": 36392
+      "rank": 199,
+      "adds": 36632
     }
   ]
 }
