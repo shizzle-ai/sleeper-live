@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T00:41:28.395Z",
+  "generated_at": "2026-09-27T00:54:46.842Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 367648
+      "adds": 371336
     },
     {
       "id": "11610",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 127832
+      "adds": 129712
     },
     {
       "id": "2505",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 123957
+      "adds": 124911
     },
     {
       "id": "10218",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 103488
+      "adds": 104783
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 78016
+      "adds": 78648
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 47142
+      "adds": 47754
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 44616
+      "adds": 45020
     },
     {
       "id": "5995",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 38844
+      "adds": 39303
     },
     {
       "id": "8188",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 37324
+      "adds": 37653
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35640
+      "adds": 36220
     },
     {
       "id": "11256",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 33666
+      "adds": 34152
     },
     {
       "id": "6012",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 32320
+      "adds": 32968
     },
     {
       "id": "1339",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 31887
+      "adds": 32256
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 24858
+      "adds": 25011
     },
     {
       "id": "8168",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 22656
+      "adds": 22912
     },
     {
       "id": "LV",
@@ -4192,18 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 17916
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 16725
+      "adds": 18120
     },
     {
       "id": "3321",
@@ -4214,7 +4203,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 16584
+      "adds": 17336
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 16870
     },
     {
       "id": "6130",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 16263
+      "adds": 16425
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 14976
+      "adds": 15120
     }
   ]
 }
