@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T00:22:03.632Z",
+  "generated_at": "2026-09-27T00:41:28.395Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,18 +4027,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 377248
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 132003
+      "adds": 367648
     },
     {
       "id": "11610",
@@ -4049,7 +4038,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 130032
+      "adds": 127832
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 123957
     },
     {
       "id": "10218",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 105224
+      "adds": 103488
     },
     {
       "id": "6828",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 81096
+      "adds": 78016
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 48294
+      "adds": 47142
     },
     {
       "id": "13423",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 486,
-      "adds": 45784
+      "adds": 44616
     },
     {
       "id": "5995",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 40131
+      "adds": 38844
     },
     {
       "id": "8188",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 38808
+      "adds": 37324
     },
     {
       "id": "NYG",
@@ -4126,7 +4126,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36528
+      "adds": 35640
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 33666
+    },
+    {
+      "id": "6012",
+      "name": "Travis Homer",
+      "pos": "RB",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 362,
+      "adds": 32320
     },
     {
       "id": "1339",
@@ -4137,29 +4159,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 33516
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 33126
-    },
-    {
-      "id": "6012",
-      "name": "Travis Homer",
-      "pos": "RB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 362,
-      "adds": 32704
+      "adds": 31887
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 25533
+      "adds": 24858
     },
     {
       "id": "8168",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 23200
+      "adds": 22656
     },
     {
       "id": "LV",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18558
+      "adds": 17916
     },
     {
       "id": "6083",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 17245
+      "adds": 16725
     },
     {
       "id": "3321",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 16624
+      "adds": 16584
     },
     {
       "id": "6130",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 16254
+      "adds": 16263
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 15440
+      "adds": 14976
     }
   ]
 }
