@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-27T21:27:37.445Z",
+  "generated_at": "2026-09-27T21:38:50.527Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 68.62,
+      "points": 71.02,
       "starters": [
         {
           "id": "4046",
@@ -369,7 +369,7 @@
         16.94,
         0,
         4.6,
-        3.7,
+        6.1,
         1.8,
         3.8,
         2.2,
@@ -382,7 +382,7 @@
         "3451": 5,
         "4035": 1.2,
         "4046": 16.94,
-        "4199": 2.7,
+        "4199": 3.3,
         "4217": 2.2,
         "6770": 22.58,
         "8150": 0,
@@ -392,7 +392,7 @@
         "11625": 0,
         "11631": 1.8,
         "11637": 4.7,
-        "12514": 3.7,
+        "12514": 6.1,
         "DET": 8
       }
     },
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 112.2,
+      "points": 116.08,
       "starters": [
         {
           "id": "11563",
@@ -512,14 +512,14 @@
         26.7,
         3.3,
         8.1,
-        9.6,
-        2,
+        10.48,
+        5,
         7
       ],
       "players_points": {
-        "4892": 9.6,
+        "4892": 10.48,
         "8131": 3.3,
-        "8132": 4.1,
+        "8132": 4.7,
         "8137": 5.2,
         "8146": 26.7,
         "9221": 41.4,
@@ -529,7 +529,7 @@
         "11563": 0,
         "11583": 0,
         "12509": 13.6,
-        "12711": 2,
+        "12711": 5,
         "13279": 11.8,
         "13298": 2.9,
         "13346": 8.1,
@@ -4019,17 +4019,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 635192
-    },
-    {
       "id": "12495",
       "name": "Ollie Gordon",
       "pos": "RB",
@@ -4038,7 +4027,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 592613
+      "adds": 622293
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 141,
+      "adds": 594544
     },
     {
       "id": "3321",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 482896
+      "adds": 488544
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 290136
+      "adds": 274088
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 215096
+      "adds": 202370
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 192360
+      "adds": 187152
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 142929
+      "adds": 131580
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120204
+      "adds": 117060
     },
     {
       "id": "6012",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 99000
+      "adds": 94320
     },
     {
       "id": "5995",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 94284
+      "adds": 88470
     },
     {
       "id": "11256",
@@ -4137,29 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 85680
-    },
-    {
-      "id": "6828",
-      "name": "AJ Dillon",
-      "pos": "RB",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 688,
-      "adds": 71760
-    },
-    {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 148,
-      "adds": 68553
+      "adds": 81498
     },
     {
       "id": "11630",
@@ -4170,7 +4148,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 65718
+      "adds": 65259
+    },
+    {
+      "id": "9511",
+      "name": "Keaton Mitchell",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 148,
+      "adds": 64233
     },
     {
       "id": "NO",
@@ -4181,7 +4170,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65205
+      "adds": 64225
+    },
+    {
+      "id": "6828",
+      "name": "AJ Dillon",
+      "pos": "RB",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 688,
+      "adds": 62248
     },
     {
       "id": "11576",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 59624
+      "adds": 58808
     },
     {
       "id": "8188",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 50897
+      "adds": 47159
     },
     {
       "id": "1339",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 48411
+      "adds": 45387
     },
     {
       "id": "LV",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43284
+      "adds": 42240
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 42904
+      "adds": 41256
     }
   ]
 }
