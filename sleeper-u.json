@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T20:13:50.492Z",
+  "generated_at": "2026-09-28T20:27:53.101Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2296,8 +2296,8 @@
           "name": "De'Von Achane",
           "pos": "RB",
           "team": "MIA",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 1,
           "rank": 8
         },
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4057431
+      "adds": 4136622
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 528864
+      "adds": 533520
     },
     {
       "id": "11576",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 440232
+      "adds": 451152
     },
     {
       "id": "9511",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 160992
+      "adds": 165798
     },
     {
       "id": "12718",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 147627
+      "adds": 150426
     },
     {
       "id": "11630",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 140895
+      "adds": 142713
     },
     {
       "id": "LV",
@@ -4093,7 +4093,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137190
+      "adds": 138804
     },
     {
       "id": "2505",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 115236
+      "adds": 116559
     },
     {
       "id": "11610",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 105112
+      "adds": 106576
     },
     {
       "id": "1479",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 104616
+      "adds": 106304
     },
     {
       "id": "12487",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 103752
+      "adds": 103848
     },
     {
       "id": "5947",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 74634
+      "adds": 75696
     },
     {
       "id": "11565",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 66825
+      "adds": 67812
     },
     {
       "id": "4663",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 64836
+      "adds": 66300
     },
     {
       "id": "11643",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 61590
+      "adds": 63398
     },
     {
       "id": "12492",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 57816
+      "adds": 58288
     },
     {
       "id": "3271",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 52758
+      "adds": 53604
     },
     {
       "id": "BAL",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49548
+      "adds": 50265
     },
     {
       "id": "1339",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 46089
+      "adds": 46746
     },
     {
       "id": "13425",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 44490
+      "adds": 45460
     }
   ]
 }
