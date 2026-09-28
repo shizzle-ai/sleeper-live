@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T17:17:37.615Z",
+  "generated_at": "2026-09-28T17:31:41.061Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 3655603
+      "adds": 3637886
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 642016
+      "adds": 576728
     },
     {
       "id": "11576",
@@ -4049,18 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 330836
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 207792
+      "adds": 337172
     },
     {
       "id": "11630",
@@ -4071,7 +4060,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 161091
+      "adds": 147348
     },
     {
       "id": "9511",
@@ -4082,18 +4071,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 145287
+      "adds": 141228
     },
     {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
-      "rank": 176,
-      "adds": 135256
+      "rank": 141,
+      "adds": 139736
     },
     {
       "id": "LV",
@@ -4104,7 +4093,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 126906
+      "adds": 123528
     },
     {
       "id": "12718",
@@ -4115,7 +4104,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 120726
+      "adds": 122760
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 176,
+      "adds": 107032
     },
     {
       "id": "2505",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 113778
+      "adds": 102591
     },
     {
       "id": "1479",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 93356
+      "adds": 94040
     },
     {
       "id": "5947",
@@ -4148,18 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 71580
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 60042
+      "adds": 71718
     },
     {
       "id": "12492",
@@ -4170,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 57904
+      "adds": 55824
     },
     {
       "id": "4663",
@@ -4181,18 +4170,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 49416
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 646,
-      "adds": 49329
+      "adds": 50580
     },
     {
       "id": "11565",
@@ -4203,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 47994
+      "adds": 50328
     },
     {
       "id": "11643",
@@ -4214,7 +4192,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 45130
+      "adds": 46184
+    },
+    {
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 646,
+      "adds": 44712
     },
     {
       "id": "BAL",
@@ -4225,18 +4214,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43761
+      "adds": 43488
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 224,
-      "adds": 41994
+      "depth": 3,
+      "rank": 652,
+      "adds": 42561
+    },
+    {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 647,
+      "adds": 33352
     }
   ]
 }
