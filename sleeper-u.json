@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T11:28:38.259Z",
+  "generated_at": "2026-09-28T11:44:06.527Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 1937796
+      "adds": 1952944
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 694192
+      "adds": 691096
     },
     {
       "id": "12487",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 482520
+      "adds": 473800
     },
     {
       "id": "11610",
@@ -4060,18 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 245016
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 169290
+      "adds": 241496
     },
     {
       "id": "11576",
@@ -4082,7 +4071,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 167060
+      "adds": 168904
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 167832
     },
     {
       "id": "10218",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 151683
+      "adds": 147945
     },
     {
       "id": "2505",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 140193
+      "adds": 138672
     },
     {
       "id": "11630",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 122418
+      "adds": 122976
     },
     {
       "id": "LV",
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102468
+      "adds": 102948
     },
     {
       "id": "NYG",
@@ -4137,7 +4137,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 101416
+      "adds": 99816
     },
     {
       "id": "9511",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 99243
+      "adds": 99405
     },
     {
       "id": "12718",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 79263
+      "adds": 80343
     },
     {
       "id": "5995",
@@ -4170,29 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 76239
-    },
-    {
-      "id": "6012",
-      "name": "Travis Homer",
-      "pos": "RB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 410,
-      "adds": 69464
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 69000
+      "adds": 75204
     },
     {
       "id": "1479",
@@ -4203,7 +4181,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 68796
+      "adds": 69196
+    },
+    {
+      "id": "6012",
+      "name": "Travis Homer",
+      "pos": "RB",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 410,
+      "adds": 67752
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 67674
     },
     {
       "id": "NO",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59730
+      "adds": 59110
     },
     {
       "id": "1339",
@@ -4225,18 +4225,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 57339
+      "adds": 56772
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
+      "id": "5947",
+      "name": "Jakobi Meyers",
       "pos": "WR",
-      "team": "DEN",
-      "injury": null,
+      "team": "JAX",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 3,
-      "rank": 172,
-      "adds": 56136
+      "rank": 77,
+      "adds": 56430
     }
   ]
 }
