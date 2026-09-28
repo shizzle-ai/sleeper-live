@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T21:20:44.245Z",
+  "generated_at": "2026-09-28T21:33:11.673Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,18 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4232627
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 145,
-      "adds": 494720
+      "adds": 4019029
     },
     {
       "id": "11576",
@@ -4049,7 +4038,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 463500
+      "adds": 458988
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 145,
+      "adds": 455512
     },
     {
       "id": "9511",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 171441
+      "adds": 168633
     },
     {
       "id": "12718",
@@ -4071,18 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 159129
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 142884
+      "adds": 160938
     },
     {
       "id": "LV",
@@ -4093,7 +4082,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 140196
+      "adds": 139392
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 139086
     },
     {
       "id": "2505",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 117648
+      "adds": 112536
     },
     {
       "id": "1479",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 107184
+      "adds": 104244
     },
     {
       "id": "11610",
@@ -4126,29 +4126,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 102968
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 83016
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 77,
-      "adds": 73542
+      "adds": 97200
     },
     {
       "id": "11565",
@@ -4159,7 +4137,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 70791
+      "adds": 71466
     },
     {
       "id": "4663",
@@ -4170,7 +4148,18 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 70180
+      "adds": 71052
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 77,
+      "adds": 70134
     },
     {
       "id": "11643",
@@ -4181,18 +4170,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 68412
+      "adds": 67282
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 57584
+      "depth": 1,
+      "rank": 141,
+      "adds": 65560
     },
     {
       "id": "3271",
@@ -4203,7 +4192,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 56790
+      "adds": 57510
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 54080
     },
     {
       "id": "BAL",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51066
+      "adds": 50085
     },
     {
       "id": "13425",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 48136
+      "adds": 48726
     },
     {
       "id": "1339",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 46800
+      "adds": 44631
     }
   ]
 }
