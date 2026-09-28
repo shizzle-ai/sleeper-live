@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T02:58:26.261Z",
+  "generated_at": "2026-09-28T03:12:32.518Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 118.92,
+      "points": 119.22,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         16.94,
-        15.6,
+        15.9,
         7.8,
         11.2,
         1.8,
@@ -385,7 +385,7 @@
         "4199": 14.2,
         "4217": 26.2,
         "6770": 22.58,
-        "8150": 15.6,
+        "8150": 15.9,
         "9493": 0,
         "10236": 3.8,
         "11584": 7.8,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 145.26,
+      "points": 145.34,
       "starters": [
         {
           "id": "11563",
@@ -505,7 +505,7 @@
         }
       ],
       "starters_points": [
-        16.38,
+        16.46,
         41.4,
         8.9,
         15.2,
@@ -526,7 +526,7 @@
         "9224": 8.9,
         "9753": 0,
         "11435": 1.4,
-        "11563": 16.38,
+        "11563": 16.46,
         "11583": 0,
         "12509": 13.6,
         "12711": 12,
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 1491217
+      "adds": 1519714
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 652512
+      "adds": 658160
     },
     {
       "id": "12487",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 560872
+      "adds": 561072
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 266488
+      "adds": 267520
     },
     {
       "id": "11608",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 180486
+      "adds": 180732
     },
     {
       "id": "10218",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 179760
+      "adds": 179935
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 138456
+      "adds": 140022
     },
     {
       "id": "11576",
@@ -4104,7 +4104,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 118624
+      "adds": 121280
     },
     {
       "id": "NYG",
@@ -4115,7 +4115,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 111264
+      "adds": 111432
     },
     {
       "id": "11630",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 97173
+      "adds": 98658
     },
     {
       "id": "9511",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 84348
+      "adds": 85230
     },
     {
       "id": "5995",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 83673
+      "adds": 83808
     },
     {
       "id": "6012",
@@ -4159,18 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 362,
-      "adds": 81664
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 546,
-      "adds": 77502
+      "adds": 81752
     },
     {
       "id": "LV",
@@ -4181,7 +4170,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77436
+      "adds": 79632
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 77682
     },
     {
       "id": "NO",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63140
+      "adds": 63255
     },
     {
       "id": "1339",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 53262
+      "adds": 53919
     },
     {
       "id": "1479",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 184,
-      "adds": 50932
+      "adds": 52152
     },
     {
       "id": "6828",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 50008
+      "adds": 50016
     },
     {
       "id": "5947",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 43836
+      "adds": 44772
     }
   ]
 }
