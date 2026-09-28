@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T15:25:02.651Z",
+  "generated_at": "2026-09-28T15:39:33.835Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 2996742
+      "adds": 3096723
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 699544
+      "adds": 670624
     },
     {
       "id": "12487",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 381568
+      "adds": 314528
     },
     {
       "id": "11576",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 262492
+      "adds": 270072
     },
     {
       "id": "11610",
@@ -4071,18 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 210800
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 156624
+      "adds": 184904
     },
     {
       "id": "11630",
@@ -4093,18 +4082,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 145413
+      "adds": 146286
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 136530
+      "depth": 2,
+      "rank": 650,
+      "adds": 145626
     },
     {
       "id": "9511",
@@ -4115,7 +4104,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 128160
+      "adds": 128790
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 125946
     },
     {
       "id": "LV",
@@ -4126,18 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121416
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 679,
-      "adds": 111538
+      "adds": 120192
     },
     {
       "id": "12718",
@@ -4148,7 +4137,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 104373
+      "adds": 105750
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 679,
+      "adds": 89838
     },
     {
       "id": "1479",
@@ -4159,18 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 84140
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 78728
+      "adds": 84740
     },
     {
       "id": "5947",
@@ -4181,7 +4170,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 66006
+      "adds": 66192
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 63860
     },
     {
       "id": "5995",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 65862
+      "adds": 58509
     },
     {
       "id": "12492",
@@ -4203,18 +4203,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 58880
-    },
-    {
-      "id": "6012",
-      "name": "Travis Homer",
-      "pos": "RB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 410,
-      "adds": 56624
+      "adds": 57864
     },
     {
       "id": "1339",
@@ -4225,7 +4214,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 56160
+      "adds": 53199
+    },
+    {
+      "id": "6012",
+      "name": "Travis Homer",
+      "pos": "RB",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 410,
+      "adds": 50880
     },
     {
       "id": "NO",
@@ -4236,7 +4236,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50620
+      "adds": 43965
     }
   ]
 }
