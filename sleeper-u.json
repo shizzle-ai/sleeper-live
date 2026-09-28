@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T16:23:35.298Z",
+  "generated_at": "2026-09-28T16:37:25.264Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 3367000
+      "adds": 3441396
     },
     {
       "id": "3321",
@@ -4038,18 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 688968
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 315000
+      "adds": 624960
     },
     {
       "id": "11576",
@@ -4060,18 +4049,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 299488
+      "adds": 304400
     },
     {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
-      "rank": 176,
-      "adds": 189080
+      "rank": 141,
+      "adds": 207352
     },
     {
       "id": "11630",
@@ -4082,18 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 152964
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 146412
+      "adds": 153783
     },
     {
       "id": "9511",
@@ -4104,18 +4082,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 140472
+      "adds": 135702
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 354,
-      "adds": 130608
+      "rank": 176,
+      "adds": 131832
     },
     {
       "id": "LV",
@@ -4126,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 125586
+      "adds": 121446
     },
     {
       "id": "12718",
@@ -4137,18 +4115,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 111879
+      "adds": 113958
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 679,
-      "adds": 90272
+      "rank": 354,
+      "adds": 109611
     },
     {
       "id": "1479",
@@ -4159,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 89248
+      "adds": 88688
     },
     {
       "id": "5947",
@@ -4170,29 +4148,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 69126
+      "adds": 68904
     },
     {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 64388
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 224,
-      "adds": 59076
+      "rank": 650,
+      "adds": 59490
     },
     {
       "id": "12492",
@@ -4203,7 +4170,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 59072
+      "adds": 56720
     },
     {
       "id": "1339",
@@ -4214,29 +4181,62 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 54819
+      "adds": 47880
     },
     {
-      "id": "6012",
-      "name": "Travis Homer",
+      "id": "4663",
+      "name": "Austin Ekeler",
       "pos": "RB",
-      "team": "PIT",
+      "team": null,
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 410,
-      "adds": 51360
+      "depth": null,
+      "rank": 317,
+      "adds": 45088
     },
     {
-      "id": "NO",
-      "name": "New Orleans Saints",
+      "id": "BAL",
+      "name": "Baltimore Ravens",
       "pos": "DEF",
-      "team": "NO",
+      "team": "BAL",
       "injury": null,
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44455
+      "adds": 41712
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 224,
+      "adds": 41400
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 5,
+      "rank": 174,
+      "adds": 40560
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 679,
+      "adds": 40425
     }
   ]
 }
