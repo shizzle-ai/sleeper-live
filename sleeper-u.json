@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T16:51:57.507Z",
+  "generated_at": "2026-09-28T17:01:11.640Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -478,7 +478,7 @@
           "name": "Baker Mayfield",
           "pos": "QB",
           "team": "TB",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 75
@@ -720,7 +720,7 @@
           "name": "Baker Mayfield",
           "pos": "QB",
           "team": "TB",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 75
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 3514434
+      "adds": 3557687
     },
     {
       "id": "3321",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 631184
+      "adds": 635152
     },
     {
       "id": "11576",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 314188
+      "adds": 320088
     },
     {
       "id": "12487",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 207552
+      "adds": 207640
     },
     {
       "id": "11630",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 156609
+      "adds": 158328
     },
     {
       "id": "9511",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 139338
+      "adds": 141552
     },
     {
       "id": "11610",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 133056
+      "adds": 133880
     },
     {
       "id": "LV",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123498
+      "adds": 124740
     },
     {
       "id": "12718",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 116667
+      "adds": 118197
     },
     {
       "id": "2505",
@@ -4126,7 +4126,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 111339
+      "adds": 112239
     },
     {
       "id": "1479",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 90308
+      "adds": 91388
     },
     {
       "id": "5947",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 69870
+      "adds": 70500
     },
     {
       "id": "11608",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 59694
+      "adds": 59832
     },
     {
       "id": "12492",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 57216
+      "adds": 57496
     },
     {
       "id": "1339",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 48519
+      "adds": 48852
     },
     {
       "id": "4663",
@@ -4192,40 +4192,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 46956
-    },
-    {
-      "id": "BAL",
-      "name": "Baltimore Ravens",
-      "pos": "DEF",
-      "team": "BAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 42462
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 5,
-      "rank": 174,
-      "adds": 42144
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 224,
-      "adds": 41589
+      "adds": 47872
     },
     {
       "id": "11565",
@@ -4236,7 +4203,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 41355
+      "adds": 44172
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 5,
+      "rank": 174,
+      "adds": 43136
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Ravens",
+      "pos": "DEF",
+      "team": "BAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 42936
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 224,
+      "adds": 41796
     }
   ]
 }
