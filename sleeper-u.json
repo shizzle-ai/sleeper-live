@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T23:51:02.778Z",
+  "generated_at": "2026-09-28T23:58:32.073Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4069,7 +4069,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4018896
+      "adds": 4037635
     },
     {
       "id": "11576",
@@ -4080,7 +4080,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 518816
+      "adds": 523500
     },
     {
       "id": "9511",
@@ -4091,7 +4091,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 184140
+      "adds": 185499
     },
     {
       "id": "12718",
@@ -4102,7 +4102,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 182340
+      "adds": 183393
     },
     {
       "id": "LV",
@@ -4113,7 +4113,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150072
+      "adds": 150900
     },
     {
       "id": "11630",
@@ -4124,7 +4124,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 139473
+      "adds": 140130
     },
     {
       "id": "2505",
@@ -4135,7 +4135,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 112311
+      "adds": 113139
     },
     {
       "id": "1479",
@@ -4146,7 +4146,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 110332
+      "adds": 111152
     },
     {
       "id": "11610",
@@ -4157,7 +4157,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 92296
+      "adds": 92784
     },
     {
       "id": "4663",
@@ -4168,18 +4168,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 79848
-    },
-    {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "team": "NYG",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 224,
-      "adds": 78087
+      "adds": 80272
     },
     {
       "id": "11643",
@@ -4190,7 +4179,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 77874
+      "adds": 78566
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "team": "NYG",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 3,
+      "rank": 224,
+      "adds": 78405
     },
     {
       "id": "3271",
@@ -4201,7 +4201,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 70011
+      "adds": 70785
     },
     {
       "id": "5947",
@@ -4212,7 +4212,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 69444
+      "adds": 69798
     },
     {
       "id": "BAL",
@@ -4223,7 +4223,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50790
+      "adds": 51048
     },
     {
       "id": "13425",
@@ -4234,7 +4234,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 48266
+      "adds": 48598
     },
     {
       "id": "1339",
@@ -4245,7 +4245,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 46782
+      "adds": 47403
     },
     {
       "id": "12492",
@@ -4256,7 +4256,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 45568
+      "adds": 45752
     },
     {
       "id": "12472",
@@ -4267,7 +4267,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 34728
+      "adds": 35008
     },
     {
       "id": "12487",
@@ -4278,7 +4278,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 31536
+      "adds": 31544
     }
   ]
 }
