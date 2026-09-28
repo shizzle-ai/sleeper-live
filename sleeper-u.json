@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T23:00:45.784Z",
+  "generated_at": "2026-09-28T23:15:23.536Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1922,16 +1922,6 @@
       ],
       "bench": [
         {
-          "id": "12493",
-          "name": "Oronde Gadsden",
-          "pos": "TE",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 83
-        },
-        {
           "id": "12519",
           "name": "Luther Burden",
           "pos": "WR",
@@ -1950,6 +1940,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 61
+        },
+        {
+          "id": "3321",
+          "name": "Tyreek Hill",
+          "pos": "WR",
+          "team": null,
+          "injury": null,
+          "status": "Active",
+          "depth": null,
+          "rank": 145
         },
         {
           "id": "6819",
@@ -2954,6 +2954,48 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1410435416267517952",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790636517162,
+      "adds": [
+        {
+          "player": {
+            "id": "3321",
+            "name": "Tyreek Hill",
+            "pos": "WR",
+            "team": null,
+            "injury": null,
+            "status": "Active",
+            "depth": null,
+            "rank": 145
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "12493",
+            "name": "Oronde Gadsden",
+            "pos": "TE",
+            "team": "LAC",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 83
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1409390138131304448",
       "type": "free_agent",
       "status": "complete",
@@ -3732,6 +3774,16 @@
     ],
     "TE": [
       {
+        "id": "12493",
+        "name": "Oronde Gadsden",
+        "pos": "TE",
+        "team": "LAC",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 83
+      },
+      {
         "id": "11603",
         "name": "AJ Barner",
         "pos": "TE",
@@ -3836,16 +3888,6 @@
         "name": "Pat Freiermuth",
         "pos": "TE",
         "team": "PIT",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 230
-      },
-      {
-        "id": "8172",
-        "name": "Greg Dulcich",
-        "pos": "TE",
-        "team": "MIA",
         "injury": null,
         "status": "Active",
         "depth": 1,
@@ -4027,7 +4069,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4075106
+      "adds": 4112038
     },
     {
       "id": "11576",
@@ -4038,18 +4080,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 499028
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 145,
-      "adds": 441224
+      "adds": 507676
     },
     {
       "id": "9511",
@@ -4060,7 +4091,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 179802
+      "adds": 182673
     },
     {
       "id": "12718",
@@ -4071,7 +4102,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 174861
+      "adds": 177399
     },
     {
       "id": "LV",
@@ -4082,7 +4113,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 146664
+      "adds": 148080
     },
     {
       "id": "11630",
@@ -4093,7 +4124,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 141120
+      "adds": 142434
     },
     {
       "id": "2505",
@@ -4104,7 +4135,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 114363
+      "adds": 115632
     },
     {
       "id": "1479",
@@ -4115,7 +4146,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 109420
+      "adds": 111004
     },
     {
       "id": "11610",
@@ -4126,7 +4157,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 96432
+      "adds": 97640
     },
     {
       "id": "4663",
@@ -4137,7 +4168,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 76688
+      "adds": 77496
     },
     {
       "id": "11565",
@@ -4148,7 +4179,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 75969
+      "adds": 76656
     },
     {
       "id": "11643",
@@ -4159,7 +4190,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 73908
+      "adds": 75348
     },
     {
       "id": "5947",
@@ -4170,7 +4201,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 70596
+      "adds": 71460
     },
     {
       "id": "3271",
@@ -4181,7 +4212,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 64431
+      "adds": 66267
     },
     {
       "id": "12492",
@@ -4192,7 +4223,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 52840
+      "adds": 53128
     },
     {
       "id": "13425",
@@ -4203,18 +4234,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 52420
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 51344
+      "adds": 53124
     },
     {
       "id": "BAL",
@@ -4225,7 +4245,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51207
+      "adds": 51765
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 141,
+      "adds": 51400
     },
     {
       "id": "1339",
@@ -4236,7 +4267,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 45792
+      "adds": 46476
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 35088
     }
   ]
 }
