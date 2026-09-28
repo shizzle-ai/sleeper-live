@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T00:21:46.217Z",
+  "generated_at": "2026-09-28T00:42:58.475Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 103.32,
+      "points": 106.02,
       "starters": [
         {
           "id": "4046",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         16.94,
-        0,
+        2.7,
         7.8,
         11.2,
         1.8,
@@ -385,7 +385,7 @@
         "4199": 14.2,
         "4217": 26.2,
         "6770": 22.58,
-        "8150": 0,
+        "8150": 2.7,
         "9493": 0,
         "10236": 3.8,
         "11584": 7.8,
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 128.88,
+      "points": 129.12,
       "starters": [
         {
           "id": "11563",
@@ -505,7 +505,7 @@
         }
       ],
       "starters_points": [
-        0,
+        0.24,
         41.4,
         8.9,
         15.2,
@@ -526,7 +526,7 @@
         "9224": 8.9,
         "9753": 0,
         "11435": 1.4,
-        "11563": 0,
+        "11563": 0.24,
         "11583": 0,
         "12509": 13.6,
         "12711": 12,
@@ -4027,18 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 1122527
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 141,
-      "adds": 605752
+      "adds": 1171814
     },
     {
       "id": "3321",
@@ -4049,7 +4038,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 586472
+      "adds": 593488
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 141,
+      "adds": 591416
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 277344
+      "adds": 271880
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 194404
+      "adds": 189490
     },
     {
       "id": "11608",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 650,
-      "adds": 185808
+      "adds": 183864
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 136566
+      "adds": 133308
     },
     {
       "id": "NYG",
@@ -4104,29 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 115852
-    },
-    {
-      "id": "6012",
-      "name": "Travis Homer",
-      "pos": "RB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 362,
-      "adds": 89744
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 225,
-      "adds": 87948
+      "adds": 114108
     },
     {
       "id": "11576",
@@ -4137,18 +4115,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 87560
+      "adds": 90704
     },
     {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
+      "id": "6012",
+      "name": "Travis Homer",
+      "pos": "RB",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 546,
-      "adds": 81624
+      "depth": 3,
+      "rank": 362,
+      "adds": 86848
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 225,
+      "adds": 86202
     },
     {
       "id": "11630",
@@ -4159,7 +4148,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 80802
+      "adds": 82728
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 546,
+      "adds": 79764
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 75141
+      "adds": 75627
     },
     {
       "id": "NO",
@@ -4181,7 +4181,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64595
+      "adds": 63995
     },
     {
       "id": "LV",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57192
+      "adds": 59220
     },
     {
       "id": "6828",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 57024
+      "adds": 54664
     },
     {
       "id": "1339",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 50553
+      "adds": 50085
     },
     {
       "id": "8188",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 44212
+      "adds": 42847
     },
     {
       "id": "11783",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 40688
+      "adds": 40032
     }
   ]
 }
