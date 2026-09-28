@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T00:42:58.475Z",
+  "generated_at": "2026-09-28T00:57:14.133Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -195,7 +195,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 8,
         "rank": 162
       },
       {
@@ -245,7 +245,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 7,
         "rank": 4
       }
     ],
@@ -401,7 +401,7 @@
       "team": "Wades World",
       "is_me": false,
       "matchup_id": 5,
-      "points": 129.12,
+      "points": 129.72,
       "starters": [
         {
           "id": "11563",
@@ -505,7 +505,7 @@
         }
       ],
       "starters_points": [
-        0.24,
+        0.84,
         41.4,
         8.9,
         15.2,
@@ -526,7 +526,7 @@
         "9224": 8.9,
         "9753": 0,
         "11435": 1.4,
-        "11563": 0.24,
+        "11563": 0.84,
         "11583": 0,
         "12509": 13.6,
         "12711": 12,
@@ -1035,7 +1035,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 23
         },
         {
@@ -1057,7 +1057,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 7,
           "rank": 187
         }
       ],
@@ -2350,7 +2350,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 5,
           "rank": 65
         },
         {
@@ -2691,7 +2691,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 8,
           "rank": 162
         },
         {
@@ -2741,7 +2741,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 7,
           "rank": 4
         }
       ],
@@ -3344,7 +3344,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 110
       },
       {
@@ -3424,7 +3424,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 170
       },
       {
@@ -3444,7 +3444,7 @@
         "team": "MIA",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 174
       },
       {
@@ -3716,7 +3716,7 @@
         "team": "DEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 7,
         "rank": 192
       },
       {
@@ -3776,7 +3776,7 @@
         "name": "Terrance Ferguson",
         "pos": "TE",
         "team": "LAR",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 141
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 1171814
+      "adds": 1207500
     },
     {
       "id": "3321",
@@ -4038,18 +4038,18 @@
       "status": "Active",
       "depth": null,
       "rank": 145,
-      "adds": 593488
+      "adds": 602008
     },
     {
       "id": "12487",
       "name": "Terrance Ferguson",
       "pos": "TE",
       "team": "LAR",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 591416
+      "adds": 592032
     },
     {
       "id": "11610",
@@ -4060,7 +4060,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 271880
+      "adds": 272976
     },
     {
       "id": "10218",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 189490
+      "adds": 189791
     },
     {
       "id": "11608",
@@ -4080,9 +4080,9 @@
       "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 650,
-      "adds": 183864
+      "adds": 184122
     },
     {
       "id": "2505",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 133308
+      "adds": 135126
     },
     {
       "id": "NYG",
@@ -4104,7 +4104,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 114108
+      "adds": 114348
     },
     {
       "id": "11576",
@@ -4115,7 +4115,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 90704
+      "adds": 93744
     },
     {
       "id": "6012",
@@ -4124,9 +4124,9 @@
       "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 362,
-      "adds": 86848
+      "adds": 86952
     },
     {
       "id": "5995",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 225,
-      "adds": 86202
+      "adds": 86382
     },
     {
       "id": "11630",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 82728
+      "adds": 84150
     },
     {
       "id": "11256",
@@ -4157,9 +4157,9 @@
       "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 1,
+      "depth": 2,
       "rank": 546,
-      "adds": 79764
+      "adds": 80088
     },
     {
       "id": "9511",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 75627
+      "adds": 76797
     },
     {
       "id": "NO",
@@ -4181,7 +4181,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 63995
+      "adds": 64110
     },
     {
       "id": "LV",
@@ -4192,7 +4192,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59220
+      "adds": 61092
     },
     {
       "id": "6828",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 54664
+      "adds": 54712
     },
     {
       "id": "1339",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 50085
+      "adds": 51021
     },
     {
       "id": "8188",
@@ -4225,18 +4225,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 42847
+      "adds": 42882
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
+      "id": "1479",
+      "name": "Keenan Allen",
       "pos": "WR",
-      "team": "DAL",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 40032
+      "depth": 2,
+      "rank": 184,
+      "adds": 40632
     }
   ]
 }
