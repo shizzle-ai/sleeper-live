@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-28T23:58:32.073Z",
+  "generated_at": "2026-09-29T00:16:51.058Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3616,7 +3616,7 @@
         "name": "Jalen McMillan",
         "pos": "WR",
         "team": "TB",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 165
@@ -4069,7 +4069,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4037635
+      "adds": 4083961
     },
     {
       "id": "11576",
@@ -4080,7 +4080,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 523500
+      "adds": 534656
     },
     {
       "id": "9511",
@@ -4091,7 +4091,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 185499
+      "adds": 188532
     },
     {
       "id": "12718",
@@ -4102,7 +4102,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 183393
+      "adds": 186570
     },
     {
       "id": "LV",
@@ -4113,7 +4113,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150900
+      "adds": 152874
     },
     {
       "id": "11630",
@@ -4124,7 +4124,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 140130
+      "adds": 141939
     },
     {
       "id": "2505",
@@ -4135,7 +4135,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 113139
+      "adds": 114606
     },
     {
       "id": "1479",
@@ -4146,7 +4146,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 111152
+      "adds": 113152
     },
     {
       "id": "11610",
@@ -4157,7 +4157,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 92784
+      "adds": 94104
     },
     {
       "id": "4663",
@@ -4168,7 +4168,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 80272
+      "adds": 81536
     },
     {
       "id": "11643",
@@ -4179,7 +4179,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 78566
+      "adds": 80274
     },
     {
       "id": "11565",
@@ -4190,7 +4190,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 224,
-      "adds": 78405
+      "adds": 79209
     },
     {
       "id": "3271",
@@ -4201,7 +4201,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 70785
+      "adds": 72810
     },
     {
       "id": "5947",
@@ -4212,7 +4212,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 69798
+      "adds": 70866
     },
     {
       "id": "BAL",
@@ -4223,18 +4223,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51048
-    },
-    {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 647,
-      "adds": 48598
+      "adds": 51732
     },
     {
       "id": "1339",
@@ -4245,7 +4234,18 @@
       "status": "Active",
       "depth": null,
       "rank": 646,
-      "adds": 47403
+      "adds": 49923
+    },
+    {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 647,
+      "adds": 49494
     },
     {
       "id": "12492",
@@ -4256,7 +4256,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 45752
+      "adds": 46160
     },
     {
       "id": "12472",
@@ -4267,7 +4267,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 35008
+      "adds": 35680
     },
     {
       "id": "12487",
@@ -4278,7 +4278,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 141,
-      "adds": 31544
+      "adds": 31608
     }
   ]
 }
