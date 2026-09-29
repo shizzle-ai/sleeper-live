@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T16:02:50.268Z",
+  "generated_at": "2026-09-29T16:22:44.375Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5219298
+      "adds": 5365871
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1530600
+      "adds": 1594176
     },
     {
       "id": "9511",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 396747
+      "adds": 408141
     },
     {
       "id": "12718",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 391653
+      "adds": 405801
     },
     {
       "id": "3271",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 335421
+      "adds": 350991
     },
     {
       "id": "1479",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 309548
+      "adds": 321856
     },
     {
       "id": "LV",
@@ -3844,7 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 255114
+      "adds": 263106
     },
     {
       "id": "2505",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 229941
+      "adds": 238356
     },
     {
       "id": "11630",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 223497
+      "adds": 229401
     },
     {
       "id": "11571",
@@ -3877,18 +3877,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 212697
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 197624
+      "adds": 219600
     },
     {
       "id": "BAL",
@@ -3899,7 +3888,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 193965
+      "adds": 203142
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 202982
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 149144
+      "adds": 153120
     },
     {
       "id": "5947",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 131838
+      "adds": 136008
     },
     {
       "id": "13425",
@@ -3932,18 +3932,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 117380
-    },
-    {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "team": "NYG",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 2,
-      "rank": 224,
-      "adds": 106668
+      "adds": 121004
     },
     {
       "id": "CLE",
@@ -3954,7 +3943,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105700
+      "adds": 111398
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "team": "NYG",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 2,
+      "rank": 224,
+      "adds": 107544
     },
     {
       "id": "4663",
@@ -3965,7 +3965,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 102464
+      "adds": 104644
     },
     {
       "id": "9757",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 86476
+      "adds": 90628
     },
     {
       "id": "13311",
@@ -3987,7 +3987,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 75278
+      "adds": 77826
     }
   ]
 }
