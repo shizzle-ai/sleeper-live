@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T15:23:25.406Z",
+  "generated_at": "2026-09-29T15:38:20.763Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1459,6 +1459,16 @@
       },
       "starters": [
         {
+          "id": "10232",
+          "name": "Michael Wilson",
+          "pos": "WR",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 75
+        },
+        {
           "id": "11564",
           "name": "Drake Maye",
           "pos": "QB",
@@ -1467,16 +1477,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 10
-        },
-        {
-          "id": "11632",
-          "name": "Malik Nabers",
-          "pos": "WR",
-          "team": "NYG",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 27
         },
         {
           "id": "12490",
@@ -1561,14 +1561,14 @@
       ],
       "bench": [
         {
-          "id": "10232",
-          "name": "Michael Wilson",
+          "id": "11632",
+          "name": "Malik Nabers",
           "pos": "WR",
-          "team": "ARI",
-          "injury": null,
+          "team": "NYG",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 75
+          "rank": 27
         },
         {
           "id": "5850",
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5750745
+      "adds": 5026294
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1457248
+      "adds": 1448472
     },
     {
       "id": "9511",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 393948
+      "adds": 382734
     },
     {
       "id": "12718",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 373824
+      "adds": 373509
     },
     {
       "id": "3271",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 306522
+      "adds": 313956
     },
     {
       "id": "1479",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 293872
+      "adds": 294204
     },
     {
       "id": "LV",
@@ -3844,18 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 249882
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 222822
+      "adds": 245562
     },
     {
       "id": "2505",
@@ -3866,18 +3855,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 221652
+      "adds": 219213
     },
     {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Out",
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 200986
+      "depth": 3,
+      "rank": 688,
+      "adds": 215901
     },
     {
       "id": "11571",
@@ -3888,7 +3877,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 196128
+      "adds": 202158
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 190392
     },
     {
       "id": "BAL",
@@ -3899,7 +3899,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 179232
+      "adds": 181713
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 150432
+      "adds": 144264
     },
     {
       "id": "5947",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 128472
+      "adds": 126438
     },
     {
       "id": "13425",
@@ -3932,18 +3932,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 111414
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 317,
-      "adds": 108636
+      "adds": 112618
     },
     {
       "id": "11565",
@@ -3954,7 +3943,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 104910
+      "adds": 105543
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 317,
+      "adds": 100172
     },
     {
       "id": "CLE",
@@ -3965,7 +3965,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95557
+      "adds": 98665
     },
     {
       "id": "9757",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 79720
+      "adds": 81844
     },
     {
       "id": "13311",
@@ -3987,7 +3987,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 71449
+      "adds": 71785
     }
   ]
 }
