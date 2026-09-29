@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T13:24:07.325Z",
+  "generated_at": "2026-09-29T13:39:51.315Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5322457
+      "adds": 5314778
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1231328
+      "adds": 1251152
     },
     {
       "id": "9511",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 353745
+      "adds": 354330
     },
     {
       "id": "12718",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 322524
+      "adds": 325206
     },
     {
       "id": "1479",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 247920
+      "adds": 252052
     },
     {
       "id": "3271",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 241281
+      "adds": 248814
     },
     {
       "id": "LV",
@@ -3844,7 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 231486
+      "adds": 230190
     },
     {
       "id": "11630",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 203040
+      "adds": 201726
     },
     {
       "id": "2505",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 194418
+      "adds": 195255
     },
     {
       "id": "11643",
@@ -3877,18 +3877,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 173212
-    },
-    {
-      "id": "BAL",
-      "name": "Baltimore Ravens",
-      "pos": "DEF",
-      "team": "BAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 143880
+      "adds": 176162
     },
     {
       "id": "11571",
@@ -3899,7 +3888,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 140490
+      "adds": 147582
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Ravens",
+      "pos": "DEF",
+      "team": "BAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 147258
     },
     {
       "id": "11610",
@@ -3910,18 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 137536
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 317,
-      "adds": 117760
+      "adds": 137216
     },
     {
       "id": "5947",
@@ -3932,7 +3921,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 114282
+      "adds": 114468
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 317,
+      "adds": 113728
     },
     {
       "id": "11565",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 100683
+      "adds": 101211
     },
     {
       "id": "13425",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 95222
+      "adds": 96742
     },
     {
       "id": "CLE",
@@ -3965,18 +3965,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71099
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 63136
+      "adds": 74354
     },
     {
       "id": "9757",
@@ -3987,7 +3976,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 62264
+      "adds": 64532
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 63240
     }
   ]
 }
