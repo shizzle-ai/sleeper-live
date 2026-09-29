@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T12:29:39.383Z",
+  "generated_at": "2026-09-29T12:49:30.934Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1088,34 +1088,34 @@
           "rank": 355
         },
         {
-          "id": "2216",
-          "name": "Mike Evans",
-          "pos": "WR",
-          "team": "SF",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 60
-        },
-        {
-          "id": "2306",
-          "name": "Jameis Winston",
-          "pos": "QB",
-          "team": "NYG",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 493
-        },
-        {
-          "id": "3214",
-          "name": "Hunter Henry",
+          "id": "12517",
+          "name": "Colston Loveland",
           "pos": "TE",
-          "team": "NE",
+          "team": "CHI",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 36
+        },
+        {
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "pos": "RB",
+          "team": "WAS",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 95
+        },
+        {
+          "id": "2307",
+          "name": "Marcus Mariota",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 508
         },
         {
           "id": "4866",
@@ -1148,16 +1148,6 @@
           "rank": 55
         },
         {
-          "id": "7611",
-          "name": "Rhamondre Stevenson",
-          "pos": "RB",
-          "team": "NE",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 58
-        },
-        {
           "id": "8144",
           "name": "Chris Olave",
           "pos": "WR",
@@ -1166,6 +1156,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 29
+        },
+        {
+          "id": "9756",
+          "name": "Jordan Addison",
+          "pos": "WR",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 99
         },
         {
           "id": "GB",
@@ -1179,26 +1179,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "12517",
-          "name": "Colston Loveland",
-          "pos": "TE",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "pos": "RB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 95
-        },
         {
           "id": "13286",
           "name": "Jadarian Price",
@@ -1220,24 +1200,44 @@
           "rank": 199
         },
         {
-          "id": "2307",
-          "name": "Marcus Mariota",
+          "id": "2216",
+          "name": "Mike Evans",
+          "pos": "WR",
+          "team": "SF",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 60
+        },
+        {
+          "id": "2306",
+          "name": "Jameis Winston",
           "pos": "QB",
-          "team": "WAS",
+          "team": "NYG",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 508
+          "rank": 493
         },
         {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "pos": "WR",
-          "team": "MIN",
+          "id": "3214",
+          "name": "Hunter Henry",
+          "pos": "TE",
+          "team": "NE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 92
+        },
+        {
+          "id": "7611",
+          "name": "Rhamondre Stevenson",
+          "pos": "RB",
+          "team": "NE",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 99
+          "rank": 58
         }
       ],
       "reserve": [
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5117959
+      "adds": 5145616
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1124512
+      "adds": 1155960
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 334323
+      "adds": 338256
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 299961
+      "adds": 304983
     },
     {
       "id": "1479",
@@ -3821,18 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 227664
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 222750
+      "adds": 233236
     },
     {
       "id": "3271",
@@ -3843,7 +3832,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 213138
+      "adds": 222606
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 222582
     },
     {
       "id": "11630",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 192897
+      "adds": 194310
     },
     {
       "id": "2505",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 181647
+      "adds": 183987
     },
     {
       "id": "11643",
@@ -3876,18 +3876,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 160370
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 130904
+      "adds": 164556
     },
     {
       "id": "BAL",
@@ -3898,18 +3887,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 127323
+      "adds": 132288
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": null,
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": null,
-      "rank": 317,
-      "adds": 116432
+      "depth": 1,
+      "rank": 177,
+      "adds": 131560
     },
     {
       "id": "11571",
@@ -3920,7 +3909,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 114534
+      "adds": 123786
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 317,
+      "adds": 114836
     },
     {
       "id": "5947",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 107790
+      "adds": 108864
     },
     {
       "id": "11565",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 98589
+      "adds": 99234
     },
     {
       "id": "13425",
@@ -3953,18 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 87926
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 59672
+      "adds": 90004
     },
     {
       "id": "CLE",
@@ -3975,18 +3964,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59633
+      "adds": 63602
     },
     {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 198,
-      "adds": 54565
+      "rank": 690,
+      "adds": 60344
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 56948
     }
   ]
 }
