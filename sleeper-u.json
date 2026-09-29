@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T11:55:17.751Z",
+  "generated_at": "2026-09-29T12:07:01.659Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 4956847
+      "adds": 5010691
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1056908
+      "adds": 1079332
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 320823
+      "adds": 325197
     },
     {
       "id": "12718",
@@ -3810,18 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 285399
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 214710
+      "adds": 289836
     },
     {
       "id": "1479",
@@ -3832,7 +3821,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 214340
+      "adds": 218500
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 217452
     },
     {
       "id": "3271",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 197469
+      "adds": 202527
     },
     {
       "id": "11630",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 184923
+      "adds": 187524
     },
     {
       "id": "2505",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 172845
+      "adds": 175518
     },
     {
       "id": "11643",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 152632
+      "adds": 155080
     },
     {
       "id": "11610",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 125880
+      "adds": 127496
     },
     {
       "id": "BAL",
@@ -3898,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116442
+      "adds": 119913
     },
     {
       "id": "4663",
@@ -3909,18 +3909,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 113380
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 77,
-      "adds": 103206
+      "adds": 114300
     },
     {
       "id": "11571",
@@ -3931,7 +3920,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 99936
+      "adds": 104868
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 77,
+      "adds": 104676
     },
     {
       "id": "11565",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 97347
+      "adds": 97770
     },
     {
       "id": "13425",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 83562
+      "adds": 84924
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 57080
+      "adds": 58000
     },
     {
       "id": "CLE",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53333
+      "adds": 55405
     },
     {
       "id": "13311",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 51632
+      "adds": 52647
     }
   ]
 }
