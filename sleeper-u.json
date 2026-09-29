@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T21:46:45.205Z",
+  "generated_at": "2026-09-29T21:56:11.822Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5106164
+      "adds": 5143908
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1959968
+      "adds": 1977656
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 518742
+      "adds": 525492
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 502911
+      "adds": 508275
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 441891
+      "adds": 445554
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 401076
+      "adds": 404600
     },
     {
       "id": "2505",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 301014
+      "adds": 303921
     },
     {
       "id": "11571",
@@ -3845,7 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 289008
+      "adds": 291249
     },
     {
       "id": "LV",
@@ -3856,7 +3856,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 287268
+      "adds": 289092
     },
     {
       "id": "BAL",
@@ -3867,18 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 265635
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 243990
+      "adds": 267801
     },
     {
       "id": "11643",
@@ -3889,18 +3878,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 243340
+      "adds": 245956
     },
     {
-      "id": "11610",
-      "name": "Malik Washington",
+      "id": "11630",
+      "name": "Roman Wilson",
       "pos": "WR",
-      "team": "MIA",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 165168
+      "depth": 3,
+      "rank": 688,
+      "adds": 245628
     },
     {
       "id": "CLE",
@@ -3911,7 +3900,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 164738
+      "adds": 166537
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 177,
+      "adds": 166192
     },
     {
       "id": "5947",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 161748
+      "adds": 163218
     },
     {
       "id": "9757",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 141306
+      "adds": 143176
     },
     {
       "id": "13425",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 130118
+      "adds": 131242
     },
     {
       "id": "13311",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 125370
+      "adds": 127792
     },
     {
       "id": "4663",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": null,
       "rank": 632,
-      "adds": 92672
+      "adds": 93460
     },
     {
       "id": "CHI",
@@ -3977,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84521
+      "adds": 85236
     }
   ]
 }
