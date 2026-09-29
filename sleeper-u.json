@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T12:07:01.659Z",
+  "generated_at": "2026-09-29T12:29:39.383Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1029,16 +1029,6 @@
           "rank": 128
         },
         {
-          "id": "7569",
-          "name": "Nico Collins",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 21
-        },
-        {
           "id": "8676",
           "name": "Rashid Shaheed",
           "pos": "WR",
@@ -1050,6 +1040,16 @@
         }
       ],
       "reserve": [
+        {
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 6,
+          "rank": 21
+        },
         {
           "id": "9502",
           "name": "Tank Dell",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5010691
+      "adds": 5117959
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1079332
+      "adds": 1124512
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 325197
+      "adds": 334323
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 289836
+      "adds": 299961
     },
     {
       "id": "1479",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 218500
+      "adds": 227664
     },
     {
       "id": "LV",
@@ -3832,7 +3832,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 217452
+      "adds": 222750
     },
     {
       "id": "3271",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 202527
+      "adds": 213138
     },
     {
       "id": "11630",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 187524
+      "adds": 192897
     },
     {
       "id": "2505",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 175518
+      "adds": 181647
     },
     {
       "id": "11643",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 155080
+      "adds": 160370
     },
     {
       "id": "11610",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 127496
+      "adds": 130904
     },
     {
       "id": "BAL",
@@ -3898,7 +3898,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 119913
+      "adds": 127323
     },
     {
       "id": "4663",
@@ -3909,7 +3909,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 114300
+      "adds": 116432
     },
     {
       "id": "11571",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 104868
+      "adds": 114534
     },
     {
       "id": "5947",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 104676
+      "adds": 107790
     },
     {
       "id": "11565",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 97770
+      "adds": 98589
     },
     {
       "id": "13425",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 84924
+      "adds": 87926
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 58000
+      "adds": 59672
     },
     {
       "id": "CLE",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55405
+      "adds": 59633
     },
     {
       "id": "13311",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 52647
+      "adds": 54565
     }
   ]
 }
