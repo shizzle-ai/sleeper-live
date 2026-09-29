@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T19:58:32.772Z",
+  "generated_at": "2026-09-29T20:13:01.013Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1479,14 +1479,14 @@
           "rank": 10
         },
         {
-          "id": "12490",
-          "name": "Bhayshul Tuten",
-          "pos": "RB",
-          "team": "JAX",
+          "id": "11632",
+          "name": "Malik Nabers",
+          "pos": "WR",
+          "team": "NYG",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 27
         },
         {
           "id": "12545",
@@ -1529,16 +1529,6 @@
           "rank": 36
         },
         {
-          "id": "7553",
-          "name": "Kyle Pitts",
-          "pos": "TE",
-          "team": "ATL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 67
-        },
-        {
           "id": "7594",
           "name": "Chuba Hubbard",
           "pos": "RB",
@@ -1547,6 +1537,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 66
+        },
+        {
+          "id": "8110",
+          "name": "Jake Ferguson",
+          "pos": "TE",
+          "team": "DAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 97
         },
         {
           "id": "KC",
@@ -1561,14 +1561,14 @@
       ],
       "bench": [
         {
-          "id": "11632",
-          "name": "Malik Nabers",
-          "pos": "WR",
-          "team": "NYG",
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "team": "JAX",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 27
+          "rank": 44
         },
         {
           "id": "5850",
@@ -1591,14 +1591,14 @@
           "rank": 131
         },
         {
-          "id": "8110",
-          "name": "Jake Ferguson",
+          "id": "7553",
+          "name": "Kyle Pitts",
           "pos": "TE",
-          "team": "DAL",
+          "team": "ATL",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 97
+          "rank": 67
         },
         {
           "id": "NE",
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5130475
+      "adds": 5181078
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1846384
+      "adds": 1869464
     },
     {
       "id": "12718",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 479304
+      "adds": 486045
     },
     {
       "id": "3271",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 450792
+      "adds": 457713
     },
     {
       "id": "9511",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 431055
+      "adds": 436032
     },
     {
       "id": "1479",
@@ -3833,18 +3833,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 376708
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 279828
+      "adds": 381204
     },
     {
       "id": "2505",
@@ -3855,7 +3844,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 279288
+      "adds": 283617
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 282378
     },
     {
       "id": "11571",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 265203
+      "adds": 267930
     },
     {
       "id": "BAL",
@@ -3877,7 +3877,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 246969
+      "adds": 249975
     },
     {
       "id": "11630",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 235746
+      "adds": 238104
     },
     {
       "id": "11643",
@@ -3899,7 +3899,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 226102
+      "adds": 229354
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 161592
+      "adds": 162976
     },
     {
       "id": "5947",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 153768
+      "adds": 155820
     },
     {
       "id": "CLE",
@@ -3932,7 +3932,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 147203
+      "adds": 149583
     },
     {
       "id": "9757",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 123792
+      "adds": 126270
     },
     {
       "id": "13425",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 123772
+      "adds": 125206
     },
     {
       "id": "13311",
@@ -3965,7 +3965,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 105014
+      "adds": 107667
     },
     {
       "id": "4663",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 94888
+      "adds": 95888
     },
     {
       "id": "12472",
@@ -3987,7 +3987,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 79296
+      "adds": 80304
     }
   ]
 }
