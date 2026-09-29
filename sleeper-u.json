@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T04:31:00.832Z",
+  "generated_at": "2026-09-29T04:46:19.296Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -80,10 +80,10 @@
     "team": "PimpShizzle",
     "record": {
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "fpts": 263.68,
-      "fpts_against": 239.02
+      "fpts": 388.8,
+      "fpts_against": 393.04
     },
     "starters": [
       {
@@ -544,110 +544,110 @@
       "roster_id": 4,
       "team": "4th and beer",
       "is_me": false,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "fpts": 344.52,
-      "fpts_against": 272.32
+      "fpts": 539.12,
+      "fpts_against": 395.34
     },
     {
       "rank": 2,
-      "roster_id": 10,
-      "team": "CHASEing Dubs",
-      "is_me": false,
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "fpts": 300.8,
-      "fpts_against": 233.1
-    },
-    {
-      "rank": 3,
-      "roster_id": 8,
-      "team": "Kingz of Paulys",
-      "is_me": false,
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "fpts": 300.78,
-      "fpts_against": 270.62
-    },
-    {
-      "rank": 4,
       "roster_id": 6,
       "team": "BlackLightning1",
       "is_me": false,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
       "ties": 0,
-      "fpts": 291.14,
-      "fpts_against": 189.66
+      "fpts": 469.3,
+      "fpts_against": 298.98
+    },
+    {
+      "rank": 3,
+      "roster_id": 10,
+      "team": "CHASEing Dubs",
+      "is_me": false,
+      "wins": 3,
+      "losses": 0,
+      "ties": 0,
+      "fpts": 447.12,
+      "fpts_against": 357.38
+    },
+    {
+      "rank": 4,
+      "roster_id": 8,
+      "team": "Kingz of Paulys",
+      "is_me": false,
+      "wins": 3,
+      "losses": 0,
+      "ties": 0,
+      "fpts": 445.94,
+      "fpts_against": 380.1
     },
     {
       "rank": 5,
+      "roster_id": 5,
+      "team": "Grass-fed Beef",
+      "is_me": false,
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "fpts": 389.28,
+      "fpts_against": 384.9
+    },
+    {
+      "rank": 6,
       "roster_id": 11,
       "team": "PimpShizzle",
       "is_me": true,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "fpts": 263.68,
-      "fpts_against": 239.02
+      "fpts": 388.8,
+      "fpts_against": 393.04
     },
     {
-      "rank": 6,
+      "rank": 7,
       "roster_id": 7,
       "team": "Bijan Mustard",
       "is_me": false,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 309.12,
-      "fpts_against": 279.86
-    },
-    {
-      "rank": 7,
-      "roster_id": 5,
-      "team": "Grass-fed Beef",
-      "is_me": false,
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "fpts": 261.02,
-      "fpts_against": 285.78
+      "fpts": 432.14,
+      "fpts_against": 474.46
     },
     {
       "rank": 8,
+      "roster_id": 1,
+      "team": "Wades World",
+      "is_me": false,
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "fpts": 399.3,
+      "fpts_against": 415.06
+    },
+    {
+      "rank": 9,
       "roster_id": 12,
       "team": "Hakuna Mailata",
       "is_me": false,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "fpts": 294.9,
-      "fpts_against": 343.24
+      "fpts": 419.18,
+      "fpts_against": 489.56
     },
     {
-      "rank": 9,
+      "rank": 10,
       "roster_id": 9,
       "team": "Achane in the Membrane",
       "is_me": false,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "fpts": 250.32,
-      "fpts_against": 347.12
-    },
-    {
-      "rank": 10,
-      "roster_id": 1,
-      "team": "Wades World",
-      "is_me": false,
-      "wins": 0,
-      "losses": 2,
-      "ties": 0,
-      "fpts": 245.28,
-      "fpts_against": 289.94
+      "fpts": 359.8,
+      "fpts_against": 492.28
     },
     {
       "rank": 11,
@@ -655,10 +655,10 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "fpts": 225.36,
-      "fpts_against": 269.08
+      "fpts": 334.68,
+      "fpts_against": 447.24
     },
     {
       "rank": 12,
@@ -666,10 +666,10 @@
       "team": "D’s Nuts",
       "is_me": false,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "fpts": 207.7,
-      "fpts_against": 274.88
+      "fpts": 306.82,
+      "fpts_against": 403.14
     }
   ],
   "rosters": [
@@ -678,11 +678,11 @@
       "owner_id": "693642983404314624",
       "team": "Wades World",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 2,
         "ties": 0,
-        "fpts": 245.28,
-        "fpts_against": 289.94
+        "fpts": 399.3,
+        "fpts_against": 415.06
       },
       "starters": [
         {
@@ -880,10 +880,10 @@
       "team": "Herby Fully Loaded! ",
       "record": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "fpts": 225.36,
-        "fpts_against": 269.08
+        "fpts": 334.68,
+        "fpts_against": 447.24
       },
       "starters": [
         {
@@ -1071,10 +1071,10 @@
       "team": "D’s Nuts",
       "record": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "fpts": 207.7,
-        "fpts_against": 274.88
+        "fpts": 306.82,
+        "fpts_against": 403.14
       },
       "starters": [
         {
@@ -1271,11 +1271,11 @@
       "owner_id": "1122225852273643520",
       "team": "4th and beer",
       "record": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "ties": 0,
-        "fpts": 344.52,
-        "fpts_against": 272.32
+        "fpts": 539.12,
+        "fpts_against": 395.34
       },
       "starters": [
         {
@@ -1451,11 +1451,11 @@
       "owner_id": "1000846060765409280",
       "team": "Grass-fed Beef",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "ties": 0,
-        "fpts": 261.02,
-        "fpts_against": 285.78
+        "fpts": 389.28,
+        "fpts_against": 384.9
       },
       "starters": [
         {
@@ -1631,11 +1631,11 @@
       "owner_id": "474023265774333952",
       "team": "BlackLightning1",
       "record": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "ties": 0,
-        "fpts": 291.14,
-        "fpts_against": 189.66
+        "fpts": 469.3,
+        "fpts_against": 298.98
       },
       "starters": [
         {
@@ -1813,10 +1813,10 @@
       "team": "Bijan Mustard",
       "record": {
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 309.12,
-        "fpts_against": 279.86
+        "fpts": 432.14,
+        "fpts_against": 474.46
       },
       "starters": [
         {
@@ -2013,11 +2013,11 @@
       "owner_id": "1123815069701304320",
       "team": "Kingz of Paulys",
       "record": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "ties": 0,
-        "fpts": 300.78,
-        "fpts_against": 270.62
+        "fpts": 445.94,
+        "fpts_against": 380.1
       },
       "starters": [
         {
@@ -2205,10 +2205,10 @@
       "team": "Achane in the Membrane",
       "record": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "fpts": 250.32,
-        "fpts_against": 347.12
+        "fpts": 359.8,
+        "fpts_against": 492.28
       },
       "starters": [
         {
@@ -2395,11 +2395,11 @@
       "owner_id": "472115469403287552",
       "team": "CHASEing Dubs",
       "record": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "ties": 0,
-        "fpts": 300.8,
-        "fpts_against": 233.1
+        "fpts": 447.12,
+        "fpts_against": 357.38
       },
       "starters": [
         {
@@ -2576,10 +2576,10 @@
       "team": "PimpShizzle",
       "record": {
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "fpts": 263.68,
-        "fpts_against": 239.02
+        "fpts": 388.8,
+        "fpts_against": 393.04
       },
       "starters": [
         {
@@ -2756,10 +2756,10 @@
       "team": "Hakuna Mailata",
       "record": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "fpts": 294.9,
-        "fpts_against": 343.24
+        "fpts": 419.18,
+        "fpts_against": 489.56
       },
       "starters": [
         {
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4228777
+      "adds": 4275838
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 691724
+      "adds": 709060
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 239400
+      "adds": 243684
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 207216
+      "adds": 211851
     },
     {
       "id": "LV",
@@ -3821,7 +3821,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 169860
+      "adds": 172968
     },
     {
       "id": "11630",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 148032
+      "adds": 150516
     },
     {
       "id": "1479",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 140244
+      "adds": 144008
     },
     {
       "id": "2505",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 122787
+      "adds": 125748
     },
     {
       "id": "11643",
@@ -3865,18 +3865,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 106532
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 176,
-      "adds": 99856
+      "adds": 108752
     },
     {
       "id": "3271",
@@ -3887,7 +3876,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 97785
+      "adds": 102528
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 176,
+      "adds": 101648
     },
     {
       "id": "4663",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 97092
+      "adds": 97940
     },
     {
       "id": "11565",
@@ -3909,7 +3909,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 88872
+      "adds": 89373
     },
     {
       "id": "5947",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 76800
+      "adds": 78360
     },
     {
       "id": "BAL",
@@ -3931,7 +3931,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61563
+      "adds": 64011
     },
     {
       "id": "13425",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 56888
+      "adds": 58236
     },
     {
       "id": "12472",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 43384
+      "adds": 44248
     },
     {
       "id": "1339",
@@ -3964,7 +3964,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 646,
-      "adds": 41697
+      "adds": 41742
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 33614
     },
     {
       "id": "11581",
@@ -3975,18 +3986,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 33057
-    },
-    {
-      "id": "1737",
-      "name": "Case Keenum",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 550,
-      "adds": 32796
+      "adds": 33534
     }
   ]
 }
