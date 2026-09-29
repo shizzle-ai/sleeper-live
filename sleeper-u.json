@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T14:05:02.062Z",
+  "generated_at": "2026-09-29T14:22:35.570Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2293,16 +2293,6 @@
           "rank": 155
         },
         {
-          "id": "9226",
-          "name": "De'Von Achane",
-          "pos": "RB",
-          "team": "MIA",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 3,
-          "rank": 8
-        },
-        {
           "id": "PIT",
           "name": "Pittsburgh Steelers",
           "pos": "DEF",
@@ -2385,6 +2375,16 @@
           "status": "Inactive",
           "depth": 6,
           "rank": 18
+        },
+        {
+          "id": "9226",
+          "name": "De'Von Achane",
+          "pos": "RB",
+          "team": "MIA",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 3,
+          "rank": 8
         }
       ],
       "taxi": [],
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5442402
+      "adds": 5531841
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1307620
+      "adds": 1346028
     },
     {
       "id": "9511",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 365256
+      "adds": 373428
     },
     {
       "id": "12718",
@@ -3811,18 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 339192
-    },
-    {
-      "id": "1479",
-      "name": "Keenan Allen",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 263428
+      "adds": 348615
     },
     {
       "id": "3271",
@@ -3833,7 +3822,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 263061
+      "adds": 273177
+    },
+    {
+      "id": "1479",
+      "name": "Keenan Allen",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 185,
+      "adds": 271404
     },
     {
       "id": "LV",
@@ -3844,7 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 236178
+      "adds": 240546
     },
     {
       "id": "11630",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 207855
+      "adds": 212463
     },
     {
       "id": "2505",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 203454
+      "adds": 208935
     },
     {
       "id": "11643",
@@ -3877,7 +3877,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 182666
+      "adds": 187340
     },
     {
       "id": "11571",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 159399
+      "adds": 168165
     },
     {
       "id": "BAL",
@@ -3899,7 +3899,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 155685
+      "adds": 161526
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 141512
+      "adds": 144232
     },
     {
       "id": "5947",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 118302
+      "adds": 120990
     },
     {
       "id": "4663",
@@ -3932,18 +3932,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 115832
-    },
-    {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "team": "NYG",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 2,
-      "rank": 224,
-      "adds": 102126
+      "adds": 117412
     },
     {
       "id": "13425",
@@ -3954,7 +3943,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 100518
+      "adds": 103296
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "team": "NYG",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 2,
+      "rank": 224,
+      "adds": 102795
     },
     {
       "id": "CLE",
@@ -3965,7 +3965,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79499
+      "adds": 83482
     },
     {
       "id": "9757",
@@ -3976,7 +3976,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 68316
+      "adds": 71146
     },
     {
       "id": "12472",
@@ -3987,7 +3987,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 65048
+      "adds": 66560
     }
   ]
 }
