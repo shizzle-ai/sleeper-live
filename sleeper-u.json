@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T20:29:55.660Z",
+  "generated_at": "2026-09-29T20:44:21.463Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3169,6 +3169,16 @@
         "rank": 167
       },
       {
+        "id": "12476",
+        "name": "Devin Neal",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": null,
+        "rank": 169
+      },
+      {
         "id": "7528",
         "name": "Najee Harris",
         "pos": "RB",
@@ -3267,16 +3277,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 224
-      },
-      {
-        "id": "11273",
-        "name": "Ben VanSumeren",
-        "pos": "RB",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 248
       }
     ],
     "WR": [
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5244708
+      "adds": 5055148
     },
     {
       "id": "11576",
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1899832
+      "adds": 1884724
     },
     {
       "id": "12718",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 494919
+      "adds": 492993
     },
     {
       "id": "3271",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 466470
+      "adds": 471834
     },
     {
       "id": "9511",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 442179
+      "adds": 432297
     },
     {
       "id": "1479",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 387200
+      "adds": 385364
     },
     {
       "id": "2505",
@@ -3844,7 +3844,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 288513
+      "adds": 287298
     },
     {
       "id": "LV",
@@ -3855,7 +3855,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 285522
+      "adds": 281958
     },
     {
       "id": "11571",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 271512
+      "adds": 274716
     },
     {
       "id": "BAL",
@@ -3877,7 +3877,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 253863
+      "adds": 254139
     },
     {
       "id": "11630",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 241173
+      "adds": 237348
     },
     {
       "id": "11643",
@@ -3899,7 +3899,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 234026
+      "adds": 231690
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 165008
+      "adds": 162240
     },
     {
       "id": "5947",
@@ -3921,7 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 158100
+      "adds": 156432
     },
     {
       "id": "CLE",
@@ -3932,7 +3932,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 152663
+      "adds": 154672
     },
     {
       "id": "9757",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 129506
+      "adds": 130558
     },
     {
       "id": "13425",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 127104
+      "adds": 125414
     },
     {
       "id": "13311",
@@ -3965,7 +3965,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 111475
+      "adds": 113190
     },
     {
       "id": "4663",
@@ -3976,18 +3976,18 @@
       "status": "Active",
       "depth": null,
       "rank": 632,
-      "adds": 96888
+      "adds": 92356
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 81520
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 80521
     }
   ]
 }
