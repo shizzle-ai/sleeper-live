@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T21:20:55.257Z",
+  "generated_at": "2026-09-29T21:33:55.352Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5196338
+      "adds": 5056464
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 1950500
+      "adds": 1936852
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 513063
+      "adds": 510246
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 492039
+      "adds": 495324
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 445194
+      "adds": 437418
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 398196
+      "adds": 396312
     },
     {
       "id": "2505",
@@ -3834,18 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 297891
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 288864
+      "adds": 297045
     },
     {
       "id": "11571",
@@ -3856,7 +3845,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 283410
+      "adds": 285822
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 284922
     },
     {
       "id": "BAL",
@@ -3867,7 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 262218
+      "adds": 262725
     },
     {
       "id": "11630",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 245142
+      "adds": 241263
     },
     {
       "id": "11643",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 241942
+      "adds": 239902
     },
     {
       "id": "11610",
@@ -3900,18 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 166456
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 77,
-      "adds": 161610
+      "adds": 163896
     },
     {
       "id": "CLE",
@@ -3922,7 +3911,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 161154
+      "adds": 162680
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 77,
+      "adds": 159924
     },
     {
       "id": "9757",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 137592
+      "adds": 138836
     },
     {
       "id": "13425",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 129938
+      "adds": 128530
     },
     {
       "id": "13311",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 121205
+      "adds": 121912
     },
     {
       "id": "4663",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": null,
       "rank": 632,
-      "adds": 95040
+      "adds": 91628
     },
     {
       "id": "CHI",
@@ -3977,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82916
+      "adds": 83689
     }
   ]
 }
