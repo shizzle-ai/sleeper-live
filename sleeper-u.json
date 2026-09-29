@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T04:15:33.639Z",
+  "generated_at": "2026-09-29T04:31:00.832Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 467,
-      "adds": 4288004
+      "adds": 4228777
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 684360
+      "adds": 691724
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 238959
+      "adds": 239400
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 217125
+      "adds": 207216
     },
     {
       "id": "LV",
@@ -3821,7 +3821,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 174564
+      "adds": 169860
     },
     {
       "id": "11630",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 151371
+      "adds": 148032
     },
     {
       "id": "1479",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 141236
+      "adds": 140244
     },
     {
       "id": "2505",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 126045
+      "adds": 122787
     },
     {
       "id": "11643",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 104984
+      "adds": 106532
     },
     {
       "id": "11610",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 176,
-      "adds": 102776
+      "adds": 99856
     },
     {
       "id": "3271",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 101115
+      "adds": 97785
     },
     {
       "id": "4663",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 96188
+      "adds": 97092
     },
     {
       "id": "11565",
@@ -3909,7 +3909,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 88401
+      "adds": 88872
     },
     {
       "id": "5947",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 78276
+      "adds": 76800
     },
     {
       "id": "BAL",
@@ -3931,7 +3931,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61854
+      "adds": 61563
     },
     {
       "id": "13425",
@@ -3942,18 +3942,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 647,
-      "adds": 56240
-    },
-    {
-      "id": "1339",
-      "name": "Zach Ertz",
-      "pos": "TE",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 646,
-      "adds": 44559
+      "adds": 56888
     },
     {
       "id": "12472",
@@ -3964,18 +3953,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 43376
+      "adds": 43384
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
+      "id": "1339",
+      "name": "Zach Ertz",
+      "pos": "TE",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 172,
-      "adds": 36064
+      "rank": 646,
+      "adds": 41697
     },
     {
       "id": "11581",
@@ -3986,7 +3975,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 33840
+      "adds": 33057
+    },
+    {
+      "id": "1737",
+      "name": "Case Keenum",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 550,
+      "adds": 32796
     }
   ]
 }
