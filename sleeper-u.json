@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T10:49:47.435Z",
+  "generated_at": "2026-09-29T10:59:33.577Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 4752286
+      "adds": 4785046
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 956416
+      "adds": 969968
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 300006
+      "adds": 302868
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 266481
+      "adds": 269154
     },
     {
       "id": "LV",
@@ -3821,7 +3821,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 204738
+      "adds": 206460
     },
     {
       "id": "1479",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 196264
+      "adds": 198652
     },
     {
       "id": "11630",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 175275
+      "adds": 177273
     },
     {
       "id": "3271",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 173322
+      "adds": 176472
     },
     {
       "id": "2505",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 160263
+      "adds": 162216
     },
     {
       "id": "11643",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 140636
+      "adds": 142232
     },
     {
       "id": "11610",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 119968
+      "adds": 120880
     },
     {
       "id": "4663",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 111528
+      "adds": 112148
     },
     {
       "id": "BAL",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 100341
+      "adds": 102570
     },
     {
       "id": "5947",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 97632
+      "adds": 98496
     },
     {
       "id": "11565",
@@ -3931,18 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 95367
-    },
-    {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 647,
-      "adds": 76804
+      "adds": 95661
     },
     {
       "id": "11571",
@@ -3953,7 +3942,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 76230
+      "adds": 79281
+    },
+    {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 647,
+      "adds": 77812
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 53880
+      "adds": 54392
     },
     {
       "id": "13311",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 47229
+      "adds": 47929
     },
     {
       "id": "CLE",
@@ -3986,7 +3986,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42567
+      "adds": 44044
     }
   ]
 }
