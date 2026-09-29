@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T13:03:32.478Z",
+  "generated_at": "2026-09-29T13:24:07.325Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1591,16 +1591,6 @@
           "rank": 131
         },
         {
-          "id": "7543",
-          "name": "Travis Etienne",
-          "pos": "RB",
-          "team": "NO",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 34
-        },
-        {
           "id": "8110",
           "name": "Jake Ferguson",
           "pos": "TE",
@@ -1621,7 +1611,18 @@
           "rank": null
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "7543",
+          "name": "Travis Etienne",
+          "pos": "RB",
+          "team": "NO",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
+        }
+      ],
       "taxi": [],
       "waiver_position": 5,
       "faab_used": 0
@@ -3777,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5216764
+      "adds": 5322457
     },
     {
       "id": "11576",
@@ -3788,7 +3789,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 1185664
+      "adds": 1231328
     },
     {
       "id": "9511",
@@ -3799,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 344475
+      "adds": 353745
     },
     {
       "id": "12718",
@@ -3810,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 311940
+      "adds": 322524
     },
     {
       "id": "1479",
@@ -3821,7 +3822,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 238900
+      "adds": 247920
     },
     {
       "id": "3271",
@@ -3832,7 +3833,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 229941
+      "adds": 241281
     },
     {
       "id": "LV",
@@ -3843,7 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 226062
+      "adds": 231486
     },
     {
       "id": "11630",
@@ -3854,7 +3855,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 197856
+      "adds": 203040
     },
     {
       "id": "2505",
@@ -3865,7 +3866,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 188145
+      "adds": 194418
     },
     {
       "id": "11643",
@@ -3876,7 +3877,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 167852
+      "adds": 173212
     },
     {
       "id": "BAL",
@@ -3887,18 +3888,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136923
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 133944
+      "adds": 143880
     },
     {
       "id": "11571",
@@ -3909,7 +3899,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 130644
+      "adds": 140490
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 177,
+      "adds": 137536
     },
     {
       "id": "4663",
@@ -3920,7 +3921,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 115980
+      "adds": 117760
     },
     {
       "id": "5947",
@@ -3931,7 +3932,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 77,
-      "adds": 110964
+      "adds": 114282
     },
     {
       "id": "11565",
@@ -3942,7 +3943,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 99801
+      "adds": 100683
     },
     {
       "id": "13425",
@@ -3953,7 +3954,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 92032
+      "adds": 95222
     },
     {
       "id": "CLE",
@@ -3964,7 +3965,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66654
+      "adds": 71099
     },
     {
       "id": "12472",
@@ -3975,7 +3976,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 61384
+      "adds": 63136
     },
     {
       "id": "9757",
@@ -3986,7 +3987,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 180,
-      "adds": 59076
+      "adds": 62264
     }
   ]
 }
