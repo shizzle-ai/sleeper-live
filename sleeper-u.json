@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T14:37:43.460Z",
+  "generated_at": "2026-09-29T15:04:14.352Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -113,7 +113,7 @@
         "team": "JAX",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 75
       },
       {
@@ -195,7 +195,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 8,
+        "depth": 2,
         "rank": 162
       },
       {
@@ -225,7 +225,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 119
       },
       {
@@ -245,7 +245,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 7,
+        "depth": 1,
         "rank": 4
       }
     ],
@@ -311,7 +311,7 @@
           "team": "JAX",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 75
         },
         {
@@ -430,7 +430,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 27
         },
         {
@@ -450,7 +450,7 @@
           "team": "LAR",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 46
         },
         {
@@ -722,7 +722,7 @@
           "team": "TB",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 75
         },
         {
@@ -866,7 +866,7 @@
           "team": "SEA",
           "injury": "PUP",
           "status": "Active",
-          "depth": 4,
+          "depth": 5,
           "rank": 101
         }
       ],
@@ -1047,7 +1047,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 1,
           "rank": 21
         },
         {
@@ -1057,7 +1057,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 6,
           "rank": 187
         }
       ],
@@ -1196,7 +1196,7 @@
           "team": "MIA",
           "injury": "Out",
           "status": "Active",
-          "depth": 9,
+          "depth": 2,
           "rank": 199
         },
         {
@@ -1258,7 +1258,7 @@
           "team": "NYG",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 2,
+          "depth": 3,
           "rank": 41
         }
       ],
@@ -1619,7 +1619,7 @@
           "team": "NO",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 34
         }
       ],
@@ -1748,7 +1748,7 @@
           "team": "GB",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 4,
           "rank": 97
         },
         {
@@ -1788,7 +1788,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 164
         }
       ],
@@ -2341,7 +2341,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 2,
           "rank": 65
         },
         {
@@ -2383,7 +2383,7 @@
           "team": "MIA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 3,
+          "depth": 4,
           "rank": 8
         }
       ],
@@ -2610,7 +2610,7 @@
           "team": "JAX",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 75
         },
         {
@@ -2692,7 +2692,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 8,
+          "depth": 2,
           "rank": 162
         },
         {
@@ -2722,7 +2722,7 @@
           "team": "NO",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 119
         },
         {
@@ -2742,7 +2742,7 @@
           "team": "LAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 1,
           "rank": 4
         }
       ],
@@ -2780,7 +2780,7 @@
           "team": "LAR",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 46
         },
         {
@@ -2840,7 +2840,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 27
         },
         {
@@ -3095,7 +3095,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 110
       },
       {
@@ -3105,7 +3105,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 135
       },
       {
@@ -3195,7 +3195,7 @@
         "team": "MIA",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 2,
         "rank": 174
       },
       {
@@ -3205,7 +3205,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 176
       },
       {
@@ -3215,7 +3215,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 180
       },
       {
@@ -3287,7 +3287,7 @@
         "team": "JAX",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 77
       },
       {
@@ -3407,7 +3407,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 180
       },
       {
@@ -3437,7 +3437,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 185
       },
       {
@@ -3457,7 +3457,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -3467,7 +3467,7 @@
         "team": "DEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 7,
+        "depth": 5,
         "rank": 192
       },
       {
@@ -3519,7 +3519,7 @@
         "team": "WAS",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 1,
         "rank": 137
       },
       {
@@ -3529,7 +3529,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 2,
         "rank": 138
       },
       {
@@ -3778,7 +3778,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5506641
+      "adds": 5636883
     },
     {
       "id": "11576",
@@ -3787,9 +3787,9 @@
       "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 135,
-      "adds": 1356156
+      "adds": 1411156
     },
     {
       "id": "9511",
@@ -3800,7 +3800,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 372528
+      "adds": 384453
     },
     {
       "id": "12718",
@@ -3811,7 +3811,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 350325
+      "adds": 363573
     },
     {
       "id": "3271",
@@ -3822,7 +3822,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 279972
+      "adds": 294624
     },
     {
       "id": "1479",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 273880
+      "adds": 284984
     },
     {
       "id": "LV",
@@ -3844,7 +3844,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 238200
+      "adds": 244668
     },
     {
       "id": "11630",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 210168
+      "adds": 217206
     },
     {
       "id": "2505",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 207837
+      "adds": 215604
     },
     {
       "id": "11643",
@@ -3875,9 +3875,9 @@
       "team": "MIA",
       "injury": "Out",
       "status": "Active",
-      "depth": 5,
+      "depth": 2,
       "rank": 174,
-      "adds": 189638
+      "adds": 196334
     },
     {
       "id": "11571",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 174321
+      "adds": 186687
     },
     {
       "id": "BAL",
@@ -3899,7 +3899,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 164013
+      "adds": 172161
     },
     {
       "id": "11610",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 143112
+      "adds": 147096
     },
     {
       "id": "5947",
@@ -3919,9 +3919,20 @@
       "team": "JAX",
       "injury": "Questionable",
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 77,
-      "adds": 120930
+      "adds": 125124
+    },
+    {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 647,
+      "adds": 108420
     },
     {
       "id": "4663",
@@ -3932,18 +3943,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 104928
-    },
-    {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 647,
-      "adds": 104656
+      "adds": 106984
     },
     {
       "id": "11565",
@@ -3954,7 +3954,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 103323
+      "adds": 104193
     },
     {
       "id": "CLE",
@@ -3965,7 +3965,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 86177
+      "adds": 91385
     },
     {
       "id": "9757",
@@ -3974,9 +3974,9 @@
       "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 180,
-      "adds": 73032
+      "adds": 76788
     },
     {
       "id": "13311",
@@ -3985,9 +3985,9 @@
       "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 3,
       "rank": 198,
-      "adds": 66598
+      "adds": 69440
     }
   ]
 }
