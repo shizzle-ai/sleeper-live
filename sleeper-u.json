@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-29T10:17:53.726Z",
+  "generated_at": "2026-09-29T10:34:46.957Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 4694522
+      "adds": 4706562
     },
     {
       "id": "11576",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 135,
-      "adds": 922780
+      "adds": 937416
     },
     {
       "id": "9511",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 293184
+      "adds": 295785
     },
     {
       "id": "12718",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 259884
+      "adds": 262143
     },
     {
       "id": "LV",
@@ -3821,7 +3821,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 201462
+      "adds": 202266
     },
     {
       "id": "1479",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 190356
+      "adds": 192620
     },
     {
       "id": "11630",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 173115
+      "adds": 172719
     },
     {
       "id": "3271",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 165699
+      "adds": 169200
     },
     {
       "id": "2505",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 155745
+      "adds": 157149
     },
     {
       "id": "11643",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 174,
-      "adds": 136616
+      "adds": 138420
     },
     {
       "id": "11610",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 118296
+      "adds": 118432
     },
     {
       "id": "4663",
@@ -3898,18 +3898,7 @@
       "status": "Active",
       "depth": null,
       "rank": 317,
-      "adds": 110896
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 77,
-      "adds": 95994
+      "adds": 110576
     },
     {
       "id": "BAL",
@@ -3920,7 +3909,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95220
+      "adds": 97428
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 77,
+      "adds": 96372
     },
     {
       "id": "11565",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 94656
+      "adds": 95058
     },
     {
       "id": "13425",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 647,
-      "adds": 74372
+      "adds": 75440
     },
     {
       "id": "11571",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 67716
+      "adds": 71982
     },
     {
       "id": "12472",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 53120
+      "adds": 53384
     },
     {
       "id": "13311",
@@ -3975,18 +3975,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 45962
+      "adds": 46480
     },
     {
-      "id": "1737",
-      "name": "Case Keenum",
-      "pos": "QB",
-      "team": "CHI",
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 550,
-      "adds": 39946
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 40831
     }
   ]
 }
