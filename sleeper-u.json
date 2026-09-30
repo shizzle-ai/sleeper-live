@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T21:30:13.485Z",
+  "generated_at": "2026-09-30T21:45:33.838Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -223,7 +223,7 @@
         "name": "Keon Coleman",
         "pos": "WR",
         "team": "BUF",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 206
@@ -1756,7 +1756,7 @@
           "name": "Jayden Reed",
           "pos": "WR",
           "team": "GB",
-          "injury": "Out",
+          "injury": "IR",
           "status": "Inactive",
           "depth": 6,
           "rank": 99
@@ -2477,7 +2477,7 @@
           "name": "DJ Moore",
           "pos": "WR",
           "team": "BUF",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 49
@@ -2739,7 +2739,7 @@
           "name": "Keon Coleman",
           "pos": "WR",
           "team": "BUF",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 206
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1052154
+      "adds": 1059723
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 782496
+      "adds": 787095
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 544248
+      "adds": 548307
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 464359
+      "adds": 467831
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 394920
+      "adds": 397341
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 355908
+      "adds": 357150
     },
     {
       "id": "9757",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 276800
+      "adds": 278138
     },
     {
       "id": "LV",
@@ -3944,18 +3944,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 274302
+      "adds": 276120
     },
     {
       "id": "13311",
       "name": "Chris Bell",
       "pos": "WR",
       "team": "MIA",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 274113
+      "adds": 275261
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 258876
+      "adds": 260847
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 176304
+      "adds": 178624
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 148848
+      "adds": 149842
     },
     {
       "id": "12472",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 142088
+      "adds": 143440
     },
     {
       "id": "13425",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 133494
+      "adds": 134112
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116336
+      "adds": 117168
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 108405
+      "adds": 109540
     },
     {
       "id": "4663",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 97592
+      "adds": 98208
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 97134
+      "adds": 97902
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 94980
+      "adds": 95886
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 92568
+      "adds": 93456
     }
   ]
 }
