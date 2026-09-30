@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T12:15:45.743Z",
+  "generated_at": "2026-09-30T12:41:22.817Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -107,16 +107,6 @@
         "rank": 32
       },
       {
-        "id": "11631",
-        "name": "Brian Thomas",
-        "pos": "WR",
-        "team": "JAX",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 75
-      },
-      {
         "id": "12514",
         "name": "Emeka Egbuka",
         "pos": "WR",
@@ -147,14 +137,14 @@
         "rank": 40
       },
       {
-        "id": "4217",
-        "name": "George Kittle",
-        "pos": "TE",
-        "team": "SF",
-        "injury": "Questionable",
+        "id": "4199",
+        "name": "Aaron Jones",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 79
+        "rank": 85
       },
       {
         "id": "6770",
@@ -177,6 +167,16 @@
         "rank": 13
       },
       {
+        "id": "9493",
+        "name": "Puka Nacua",
+        "pos": "WR",
+        "team": "LAR",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 4
+      },
+      {
         "id": "DET",
         "name": "Detroit Lions",
         "pos": "DEF",
@@ -188,6 +188,16 @@
       }
     ],
     "bench": [
+      {
+        "id": "11610",
+        "name": "Malik Washington",
+        "pos": "WR",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 175
+      },
       {
         "id": "11625",
         "name": "Adonai Mitchell",
@@ -229,24 +239,14 @@
         "rank": 119
       },
       {
-        "id": "4199",
-        "name": "Aaron Jones",
-        "pos": "RB",
-        "team": "MIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 85
-      },
-      {
-        "id": "9493",
-        "name": "Puka Nacua",
-        "pos": "WR",
-        "team": "LAR",
+        "id": "4217",
+        "name": "George Kittle",
+        "pos": "TE",
+        "team": "SF",
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 4
+        "rank": 79
       }
     ],
     "reserve": [],
@@ -295,6 +295,16 @@
           "rank": 32
         },
         {
+          "id": "9493",
+          "name": "Puka Nacua",
+          "pos": "WR",
+          "team": "LAR",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 4
+        },
+        {
           "id": "12514",
           "name": "Emeka Egbuka",
           "pos": "WR",
@@ -303,16 +313,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 39
-        },
-        {
-          "id": "11631",
-          "name": "Brian Thomas",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 75
         },
         {
           "id": "10236",
@@ -325,14 +325,14 @@
           "rank": 81
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 79
+          "rank": 85
         },
         {
           "id": "6770",
@@ -389,8 +389,8 @@
         "9493": 0,
         "10236": 0,
         "11584": 0,
+        "11610": 0,
         "11625": 0,
-        "11631": 0,
         "11637": 0,
         "12514": 0,
         "DET": 0
@@ -2613,16 +2613,6 @@
           "rank": 32
         },
         {
-          "id": "11631",
-          "name": "Brian Thomas",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 75
-        },
-        {
           "id": "12514",
           "name": "Emeka Egbuka",
           "pos": "WR",
@@ -2653,14 +2643,14 @@
           "rank": 40
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 79
+          "rank": 85
         },
         {
           "id": "6770",
@@ -2683,6 +2673,16 @@
           "rank": 13
         },
         {
+          "id": "9493",
+          "name": "Puka Nacua",
+          "pos": "WR",
+          "team": "LAR",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 4
+        },
+        {
           "id": "DET",
           "name": "Detroit Lions",
           "pos": "DEF",
@@ -2694,6 +2694,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "11610",
+          "name": "Malik Washington",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 175
+        },
         {
           "id": "11625",
           "name": "Adonai Mitchell",
@@ -2735,24 +2745,14 @@
           "rank": 119
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
-          "pos": "RB",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 85
-        },
-        {
-          "id": "9493",
-          "name": "Puka Nacua",
-          "pos": "WR",
-          "team": "LAR",
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "team": "SF",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 4
+          "rank": 79
         }
       ],
       "reserve": [],
@@ -2962,7 +2962,50 @@
       "faab_used": 0
     }
   ],
-  "recent_transactions": [],
+  "recent_transactions": [
+    {
+      "transaction_id": "1411003474165936128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790771952719,
+      "adds": [
+        {
+          "player": {
+            "id": "11610",
+            "name": "Malik Washington",
+            "pos": "WR",
+            "team": "MIA",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 175
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "11631",
+            "name": "Brian Thomas",
+            "pos": "WR",
+            "team": "JAX",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 75
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "roster_ids": [
+        11
+      ],
+      "waiver_bid": null
+    }
+  ],
   "free_agents": {
     "QB": [
       {
@@ -3290,6 +3333,16 @@
     ],
     "WR": [
       {
+        "id": "11631",
+        "name": "Brian Thomas",
+        "pos": "WR",
+        "team": "JAX",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 75
+      },
+      {
         "id": "9754",
         "name": "Quentin Johnston",
         "pos": "WR",
@@ -3368,16 +3421,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 172
-      },
-      {
-        "id": "11610",
-        "name": "Malik Washington",
-        "pos": "WR",
-        "team": "MIA",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 175
       },
       {
         "id": "12540",
@@ -3787,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1054386
+      "adds": 1046556
     },
     {
       "id": "3271",
@@ -3798,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 916992
+      "adds": 902655
     },
     {
       "id": "2505",
@@ -3809,7 +3852,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 546777
+      "adds": 543375
     },
     {
       "id": "11571",
@@ -3820,7 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 481185
+      "adds": 463608
     },
     {
       "id": "11643",
@@ -3831,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 432918
+      "adds": 425086
     },
     {
       "id": "CLE",
@@ -3842,18 +3885,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 375935
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 325278
+      "adds": 379050
     },
     {
       "id": "LV",
@@ -3864,7 +3896,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 323736
+      "adds": 316098
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 315855
     },
     {
       "id": "9757",
@@ -3875,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 309682
+      "adds": 305980
     },
     {
       "id": "13311",
@@ -3886,18 +3929,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 298459
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 175,
-      "adds": 218840
+      "adds": 296758
     },
     {
       "id": "13425",
@@ -3908,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 188510
+      "adds": 182472
     },
     {
       "id": "8168",
@@ -3919,7 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 162776
+      "adds": 160040
     },
     {
       "id": "CHI",
@@ -3930,7 +3962,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 149903
+      "adds": 149124
     },
     {
       "id": "12472",
@@ -3941,7 +3973,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 134728
+      "adds": 133736
     },
     {
       "id": "4663",
@@ -3952,18 +3984,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 119928
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 97768
+      "adds": 116196
     },
     {
       "id": "ARI",
@@ -3974,7 +3995,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97680
+      "adds": 98184
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 95728
     },
     {
       "id": "11603",
@@ -3985,7 +4017,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 96480
+      "adds": 95448
+    },
+    {
+      "id": "11792",
+      "name": "Will Reichard",
+      "pos": "K",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 173,
+      "adds": 91746
     },
     {
       "id": "7049",
@@ -3996,7 +4039,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 92666
+      "adds": 90272
     }
   ]
 }
