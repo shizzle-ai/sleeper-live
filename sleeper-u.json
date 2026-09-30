@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T19:20:14.092Z",
+  "generated_at": "2026-09-30T19:33:54.988Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2358,7 +2358,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1086084
+      "adds": 1063728
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 841230
+      "adds": 814932
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 566343
+      "adds": 553032
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 465206
+      "adds": 458598
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 413523
+      "adds": 404100
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 390594
+      "adds": 378296
     },
     {
       "id": "13311",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 300377
+      "adds": 290542
     },
     {
       "id": "9757",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 298842
+      "adds": 290076
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 292200
+      "adds": 283032
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 279486
+      "adds": 270216
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 175256
+      "adds": 172648
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 153356
+      "adds": 149879
     },
     {
       "id": "13425",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 148830
+      "adds": 143134
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 143800
+      "adds": 141024
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117656
+      "adds": 115680
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 107345
+      "adds": 105380
     },
     {
       "id": "4663",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 104940
+      "adds": 101780
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 99348
+      "adds": 97371
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 97956
+      "adds": 95442
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 93608
+      "adds": 91688
     }
   ]
 }
