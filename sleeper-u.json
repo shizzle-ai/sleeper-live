@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T15:33:13.126Z",
+  "generated_at": "2026-09-30T15:51:42.472Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3328,6 +3328,16 @@
         "rank": 189
       },
       {
+        "id": "11579",
+        "name": "Audric Estime",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 190
+      },
+      {
         "id": "11569",
         "name": "Jarquez Hunter",
         "pos": "RB",
@@ -3356,16 +3366,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 224
-      },
-      {
-        "id": "11273",
-        "name": "Ben VanSumeren",
-        "pos": "RB",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 248
       }
     ],
     "WR": [
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1064781
+      "adds": 1073880
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 879075
+      "adds": 886059
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 560682
+      "adds": 566487
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 429219
+      "adds": 436023
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 421020
+      "adds": 424512
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 410440
+      "adds": 413036
     },
     {
       "id": "LV",
@@ -3933,7 +3933,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 308100
+      "adds": 311448
     },
     {
       "id": "9757",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 306916
+      "adds": 309210
     },
     {
       "id": "13311",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 297927
+      "adds": 300125
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 296064
+      "adds": 298359
     },
     {
       "id": "13425",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 165344
+      "adds": 166182
     },
     {
       "id": "8168",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 158448
+      "adds": 159712
     },
     {
       "id": "CHI",
@@ -3999,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 154234
+      "adds": 156101
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 139960
+      "adds": 141600
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 110312
+      "adds": 112072
     },
     {
       "id": "4663",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 109792
+      "adds": 110620
     },
     {
       "id": "6083",
@@ -4043,18 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 99920
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 97590
+      "adds": 101540
     },
     {
       "id": "11792",
@@ -4065,7 +4054,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 97587
+      "adds": 98799
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 98658
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 93032
+      "adds": 94040
     }
   ]
 }
