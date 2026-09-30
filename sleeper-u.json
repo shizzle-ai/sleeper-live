@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T04:39:46.721Z",
+  "generated_at": "2026-09-30T04:53:43.531Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 6125945
+      "adds": 6190919
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2657552
+      "adds": 2685136
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 865593
+      "adds": 879399
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 807849
+      "adds": 818370
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 564075
+      "adds": 570816
     },
     {
       "id": "1479",
@@ -3823,18 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 548056
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 518,
-      "adds": 439164
+      "adds": 555052
     },
     {
       "id": "2505",
@@ -3845,7 +3834,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 438021
+      "adds": 444096
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 518,
+      "adds": 443646
     },
     {
       "id": "11643",
@@ -3856,7 +3856,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 371470
+      "adds": 376878
     },
     {
       "id": "BAL",
@@ -3867,7 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 367548
+      "adds": 371271
     },
     {
       "id": "11630",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 307962
+      "adds": 311373
     },
     {
       "id": "LV",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 301068
+      "adds": 303630
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 266140
+      "adds": 269584
     },
     {
       "id": "9757",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 255262
+      "adds": 259036
     },
     {
       "id": "13311",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 245007
+      "adds": 248983
     },
     {
       "id": "5947",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 221706
+      "adds": 224760
     },
     {
       "id": "11610",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 192320
+      "adds": 194704
     },
     {
       "id": "13425",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 183438
+      "adds": 185712
     },
     {
       "id": "8168",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 139160
+      "adds": 141880
     },
     {
       "id": "CHI",
@@ -3977,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116187
+      "adds": 117304
     }
   ]
 }
