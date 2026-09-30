@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T00:59:32.570Z",
+  "generated_at": "2026-09-30T01:14:43.981Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5547360
+      "adds": 5643421
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2264356
+      "adds": 2306516
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 645849
+      "adds": 661626
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 623691
+      "adds": 639054
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 498240
+      "adds": 507465
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 465960
+      "adds": 474576
     },
     {
       "id": "2505",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 359001
+      "adds": 366201
     },
     {
       "id": "11571",
@@ -3845,18 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 347796
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 311046
+      "adds": 354906
     },
     {
       "id": "BAL",
@@ -3867,7 +3856,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 310914
+      "adds": 316401
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 315402
     },
     {
       "id": "11643",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 291190
+      "adds": 298128
     },
     {
       "id": "11630",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 273267
+      "adds": 278217
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 206703
+      "adds": 211484
     },
     {
       "id": "5947",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 188946
+      "adds": 192438
     },
     {
       "id": "9757",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 185556
+      "adds": 190880
     },
     {
       "id": "11610",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 178632
+      "adds": 181096
     },
     {
       "id": "13311",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 171808
+      "adds": 177856
     },
     {
       "id": "13425",
@@ -3955,18 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 149516
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 100365
+      "adds": 152760
     },
     {
       "id": "4663",
@@ -3977,7 +3966,18 @@
       "status": "Active",
       "depth": null,
       "rank": 632,
-      "adds": 100240
+      "adds": 102436
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 102020
     }
   ]
 }
