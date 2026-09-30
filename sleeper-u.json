@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T20:59:22.696Z",
+  "generated_at": "2026-09-30T21:13:58.486Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1864,7 +1864,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1069758
+      "adds": 1075014
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 806985
+      "adds": 810567
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 554265
+      "adds": 557271
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 467502
+      "adds": 470792
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 404172
+      "adds": 406278
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 370488
+      "adds": 371544
     },
     {
       "id": "9757",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 285728
+      "adds": 286900
     },
     {
       "id": "13311",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 284515
+      "adds": 285488
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 281790
+      "adds": 283488
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 267921
+      "adds": 269046
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 176104
+      "adds": 177296
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150915
+      "adds": 151803
     },
     {
       "id": "12472",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 143496
+      "adds": 144640
     },
     {
       "id": "13425",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 140098
+      "adds": 140566
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117344
+      "adds": 118144
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 108950
+      "adds": 109890
     },
     {
       "id": "4663",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 100880
+      "adds": 101296
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 98310
+      "adds": 98985
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 96396
+      "adds": 97062
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 93024
+      "adds": 93656
     }
   ]
 }
