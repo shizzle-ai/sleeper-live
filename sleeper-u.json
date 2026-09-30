@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T04:08:18.412Z",
+  "generated_at": "2026-09-30T04:25:51.165Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 6178977
+      "adds": 6273715
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2652988
+      "adds": 2693544
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 847764
+      "adds": 870237
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 794736
+      "adds": 811674
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 570420
+      "adds": 580032
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 547760
+      "adds": 557224
     },
     {
       "id": "2505",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 435393
+      "adds": 443565
     },
     {
       "id": "11571",
@@ -3845,7 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 434016
+      "adds": 440478
     },
     {
       "id": "11643",
@@ -3856,7 +3856,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 367300
+      "adds": 375210
     },
     {
       "id": "BAL",
@@ -3867,18 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 366345
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 311028
+      "adds": 371718
     },
     {
       "id": "11630",
@@ -3889,7 +3878,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 310743
+      "adds": 315783
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 314748
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 261828
+      "adds": 266658
     },
     {
       "id": "9757",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 249694
+      "adds": 255110
     },
     {
       "id": "13311",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 239295
+      "adds": 245238
     },
     {
       "id": "5947",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 222306
+      "adds": 226248
     },
     {
       "id": "11610",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 195336
+      "adds": 198568
     },
     {
       "id": "13425",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 181998
+      "adds": 185354
     },
     {
       "id": "8168",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 135816
+      "adds": 139312
     },
     {
       "id": "4663",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": null,
       "rank": 632,
-      "adds": 116000
+      "adds": 117992
     }
   ]
 }
