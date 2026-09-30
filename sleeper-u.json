@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T14:40:25.894Z",
+  "generated_at": "2026-09-30T14:57:24.078Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 11,
+          "depth": 12,
           "rank": 111
         },
         {
@@ -1067,7 +1067,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 187
         }
       ],
@@ -1587,7 +1587,7 @@
           "team": "GB",
           "injury": "NA",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 20
         },
         {
@@ -2010,7 +2010,7 @@
           "team": "MIN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 4,
+          "depth": 5,
           "rank": 92
         }
       ],
@@ -2953,7 +2953,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 11,
           "rank": 62
         },
         {
@@ -3152,7 +3152,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 392
       },
       {
@@ -3424,7 +3424,7 @@
         "name": "Jalen McMillan",
         "pos": "WR",
         "team": "TB",
-        "injury": "Out",
+        "injury": "IR",
         "status": "Active",
         "depth": 7,
         "rank": 165
@@ -3486,7 +3486,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 9,
+        "depth": 10,
         "rank": 177
       },
       {
@@ -3536,7 +3536,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1062009
+      "adds": 1074609
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 891549
+      "adds": 900405
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 558729
+      "adds": 565920
     },
     {
       "id": "11571",
@@ -3900,18 +3900,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 437391
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 417492
+      "adds": 441810
     },
     {
       "id": "CLE",
@@ -3922,7 +3911,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 417270
+      "adds": 425943
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 420282
     },
     {
       "id": "LV",
@@ -3933,7 +3933,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 313446
+      "adds": 317202
     },
     {
       "id": "9757",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 308266
+      "adds": 310934
     },
     {
       "id": "11630",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 304236
+      "adds": 307494
     },
     {
       "id": "13311",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 299068
+      "adds": 300867
     },
     {
       "id": "13425",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 171246
+      "adds": 172420
     },
     {
       "id": "8168",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 158504
+      "adds": 160592
     },
     {
       "id": "CHI",
@@ -3999,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 154611
+      "adds": 156992
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 138912
+      "adds": 141224
     },
     {
       "id": "4663",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 111780
+      "adds": 112948
     },
     {
       "id": "ARI",
@@ -4032,18 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107688
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 98088
+      "adds": 109776
     },
     {
       "id": "6083",
@@ -4054,7 +4043,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 97625
+      "adds": 99755
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 99378
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 96705
+      "adds": 98211
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 94216
+      "adds": 95304
     }
   ]
 }
