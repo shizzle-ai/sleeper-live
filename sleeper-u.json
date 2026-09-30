@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T12:41:22.817Z",
+  "generated_at": "2026-09-30T13:00:45.111Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -87,16 +87,6 @@
     },
     "starters": [
       {
-        "id": "10236",
-        "name": "Dalton Kincaid",
-        "pos": "TE",
-        "team": "BUF",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 81
-      },
-      {
         "id": "11584",
         "name": "Bucky Irving",
         "pos": "RB",
@@ -147,6 +137,16 @@
         "rank": 85
       },
       {
+        "id": "4217",
+        "name": "George Kittle",
+        "pos": "TE",
+        "team": "SF",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 79
+      },
+      {
         "id": "6770",
         "name": "Joe Burrow",
         "pos": "QB",
@@ -188,6 +188,16 @@
       }
     ],
     "bench": [
+      {
+        "id": "10236",
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "team": "BUF",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 81
+      },
       {
         "id": "11610",
         "name": "Malik Washington",
@@ -237,16 +247,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 119
-      },
-      {
-        "id": "4217",
-        "name": "George Kittle",
-        "pos": "TE",
-        "team": "SF",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 79
       }
     ],
     "reserve": [],
@@ -315,14 +315,14 @@
           "rank": 39
         },
         {
-          "id": "10236",
-          "name": "Dalton Kincaid",
+          "id": "4217",
+          "name": "George Kittle",
           "pos": "TE",
-          "team": "BUF",
-          "injury": null,
+          "team": "SF",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 81
+          "rank": 79
         },
         {
           "id": "4199",
@@ -2593,16 +2593,6 @@
       },
       "starters": [
         {
-          "id": "10236",
-          "name": "Dalton Kincaid",
-          "pos": "TE",
-          "team": "BUF",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 81
-        },
-        {
           "id": "11584",
           "name": "Bucky Irving",
           "pos": "RB",
@@ -2653,6 +2643,16 @@
           "rank": 85
         },
         {
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "team": "SF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 79
+        },
+        {
           "id": "6770",
           "name": "Joe Burrow",
           "pos": "QB",
@@ -2694,6 +2694,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid",
+          "pos": "TE",
+          "team": "BUF",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 81
+        },
         {
           "id": "11610",
           "name": "Malik Washington",
@@ -2743,16 +2753,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 119
-        },
-        {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 79
         }
       ],
       "reserve": [],
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1046556
+      "adds": 1058967
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 902655
+      "adds": 911898
     },
     {
       "id": "2505",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 543375
+      "adds": 551925
     },
     {
       "id": "11571",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 463608
+      "adds": 468819
     },
     {
       "id": "11643",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 425086
+      "adds": 429090
     },
     {
       "id": "CLE",
@@ -3885,7 +3885,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 379050
+      "adds": 389354
     },
     {
       "id": "LV",
@@ -3896,7 +3896,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 316098
+      "adds": 320568
     },
     {
       "id": "11630",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 315855
+      "adds": 318924
     },
     {
       "id": "9757",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 305980
+      "adds": 309456
     },
     {
       "id": "13311",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 296758
+      "adds": 299656
     },
     {
       "id": "13425",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 182472
+      "adds": 183610
     },
     {
       "id": "8168",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 160040
+      "adds": 161632
     },
     {
       "id": "CHI",
@@ -3962,7 +3962,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 149124
+      "adds": 152425
     },
     {
       "id": "12472",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 133736
+      "adds": 136048
     },
     {
       "id": "4663",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 116196
+      "adds": 117256
     },
     {
       "id": "ARI",
@@ -3995,18 +3995,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 98184
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 95728
+      "adds": 101024
     },
     {
       "id": "11603",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 95448
+      "adds": 97128
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 97008
     },
     {
       "id": "11792",
@@ -4028,18 +4028,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 91746
+      "adds": 93582
     },
     {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 90272
+      "depth": 1,
+      "rank": 239,
+      "adds": 92285
     }
   ]
 }
