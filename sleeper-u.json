@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T14:23:46.462Z",
+  "generated_at": "2026-09-30T14:40:25.894Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1082709
+      "adds": 1062009
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 917550
+      "adds": 891549
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 570942
+      "adds": 558729
     },
     {
       "id": "11571",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 461601
+      "adds": 437391
     },
     {
       "id": "11643",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 430298
+      "adds": 417492
     },
     {
       "id": "CLE",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 421687
+      "adds": 417270
     },
     {
       "id": "LV",
@@ -3933,18 +3933,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 324516
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 316449
+      "adds": 313446
     },
     {
       "id": "9757",
@@ -3955,7 +3944,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 314886
+      "adds": 308266
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 304236
     },
     {
       "id": "13311",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 303933
+      "adds": 299068
     },
     {
       "id": "13425",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 179350
+      "adds": 171246
     },
     {
       "id": "8168",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 162360
+      "adds": 158504
     },
     {
       "id": "CHI",
@@ -3999,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 159180
+      "adds": 154611
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 141112
+      "adds": 138912
     },
     {
       "id": "4663",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 116072
+      "adds": 111780
     },
     {
       "id": "ARI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 108776
+      "adds": 107688
     },
     {
       "id": "11603",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 100614
+      "adds": 98088
     },
     {
       "id": "6083",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 99000
+      "adds": 97625
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 98349
+      "adds": 96705
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 97736
+      "adds": 94216
     }
   ]
 }
