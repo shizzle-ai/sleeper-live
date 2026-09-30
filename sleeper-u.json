@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T23:13:22.944Z",
+  "generated_at": "2026-09-30T23:26:44.116Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1806,7 +1806,7 @@
           "name": "Keaton Mitchell",
           "pos": "RB",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 148
@@ -2105,7 +2105,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 33
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1048491
+      "adds": 1053099
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 770598
+      "adds": 773460
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 547380
+      "adds": 550341
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 474320
+      "adds": 477316
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 394299
+      "adds": 396432
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 346002
+      "adds": 346938
     },
     {
       "id": "LV",
@@ -3933,7 +3933,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 274044
+      "adds": 275934
     },
     {
       "id": "9757",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 271458
+      "adds": 272476
     },
     {
       "id": "13311",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 265391
+      "adds": 266070
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 257400
+      "adds": 258570
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 181624
+      "adds": 182840
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150191
+      "adds": 150983
     },
     {
       "id": "12472",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 144928
+      "adds": 145744
     },
     {
       "id": "13425",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 129662
+      "adds": 130108
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117944
+      "adds": 118640
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 111885
+      "adds": 112865
     },
     {
       "id": "11792",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 98691
+      "adds": 99366
     },
     {
       "id": "11603",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 96150
+      "adds": 96612
     },
     {
       "id": "4663",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 96060
+      "adds": 96468
     },
     {
       "id": "7049",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 95333
+      "adds": 96355
     }
   ]
 }
