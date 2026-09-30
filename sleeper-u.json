@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T04:25:51.165Z",
+  "generated_at": "2026-09-30T04:39:46.721Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 6273715
+      "adds": 6125945
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2693544
+      "adds": 2657552
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 870237
+      "adds": 865593
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 811674
+      "adds": 807849
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 580032
+      "adds": 564075
     },
     {
       "id": "1479",
@@ -3823,18 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 557224
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 354,
-      "adds": 443565
+      "adds": 548056
     },
     {
       "id": "11571",
@@ -3845,7 +3834,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 440478
+      "adds": 439164
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 354,
+      "adds": 438021
     },
     {
       "id": "11643",
@@ -3856,7 +3856,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 375210
+      "adds": 371470
     },
     {
       "id": "BAL",
@@ -3867,7 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 371718
+      "adds": 367548
     },
     {
       "id": "11630",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 315783
+      "adds": 307962
     },
     {
       "id": "LV",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 314748
+      "adds": 301068
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 266658
+      "adds": 266140
     },
     {
       "id": "9757",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 255110
+      "adds": 255262
     },
     {
       "id": "13311",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 245238
+      "adds": 245007
     },
     {
       "id": "5947",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 226248
+      "adds": 221706
     },
     {
       "id": "11610",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 198568
+      "adds": 192320
     },
     {
       "id": "13425",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 185354
+      "adds": 183438
     },
     {
       "id": "8168",
@@ -3966,18 +3966,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 139312
+      "adds": 139160
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
       "injury": null,
-      "status": "Active",
+      "status": null,
       "depth": null,
-      "rank": 632,
-      "adds": 117992
+      "rank": null,
+      "adds": 116187
     }
   ]
 }
