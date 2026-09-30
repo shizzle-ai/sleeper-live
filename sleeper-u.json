@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T16:38:00.834Z",
+  "generated_at": "2026-09-30T16:51:38.714Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3192,7 +3192,7 @@
         "name": "Tyjae Spears",
         "pos": "RB",
         "team": "TEN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 122
@@ -3616,7 +3616,7 @@
         "name": "Mason Taylor",
         "pos": "TE",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": "Doubtful",
         "status": "Active",
         "depth": 2,
         "rank": 138
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1063782
+      "adds": 1073016
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 857151
+      "adds": 862839
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 559602
+      "adds": 564705
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 439705
+      "adds": 444962
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 414144
+      "adds": 417240
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 402686
+      "adds": 404488
     },
     {
       "id": "9757",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 304194
+      "adds": 306040
     },
     {
       "id": "13311",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 298613
+      "adds": 300559
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 297336
+      "adds": 299922
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 287118
+      "adds": 289521
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 164224
+      "adds": 167240
     },
     {
       "id": "13425",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 157260
+      "adds": 157962
     },
     {
       "id": "CHI",
@@ -3999,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 151700
+      "adds": 153163
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 140520
+      "adds": 141944
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 112576
+      "adds": 113928
     },
     {
       "id": "4663",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 107020
+      "adds": 107672
     },
     {
       "id": "6083",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 101510
+      "adds": 102925
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 97653
+      "adds": 98625
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 96552
+      "adds": 97524
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 91728
+      "adds": 92840
     }
   ]
 }
