@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T19:46:34.419Z",
+  "generated_at": "2026-09-30T19:56:31.585Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2276,7 +2276,7 @@
           "name": "Lamar Jackson",
           "pos": "QB",
           "team": "BAL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1068840
+      "adds": 1073511
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 818190
+      "adds": 820944
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 555912
+      "adds": 558108
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 461391
+      "adds": 463631
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 405864
+      "adds": 407601
     },
     {
       "id": "11643",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 379308
+      "adds": 380132
     },
     {
       "id": "13311",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 291508
+      "adds": 292271
     },
     {
       "id": "9757",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 291022
+      "adds": 291824
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 284544
+      "adds": 285720
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 271332
+      "adds": 272439
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 173704
+      "adds": 174664
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150632
+      "adds": 151276
     },
     {
       "id": "13425",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 143620
+      "adds": 144106
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 141952
+      "adds": 142704
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116288
+      "adds": 116920
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 106180
+      "adds": 107050
     },
     {
       "id": "4663",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 102192
+      "adds": 102552
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 97875
+      "adds": 98289
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 95916
+      "adds": 96528
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 92408
+      "adds": 92848
     }
   ]
 }
