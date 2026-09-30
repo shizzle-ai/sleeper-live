@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T20:24:49.790Z",
+  "generated_at": "2026-09-30T20:37:58.886Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3182,7 +3182,7 @@
         "name": "Tyrone Tracy",
         "pos": "RB",
         "team": "NYG",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 110
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1086399
+      "adds": 1061055
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 827775
+      "adds": 800892
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 564210
+      "adds": 549909
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 469581
+      "adds": 461986
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 411498
+      "adds": 400833
     },
     {
       "id": "11643",
@@ -3922,18 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 382396
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 198,
-      "adds": 294371
+      "adds": 368812
     },
     {
       "id": "9757",
@@ -3944,7 +3933,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 293882
+      "adds": 284016
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 198,
+      "adds": 282807
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 288834
+      "adds": 279042
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 274986
+      "adds": 266166
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 177176
+      "adds": 174216
     },
     {
       "id": "CHI",
@@ -3988,18 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 152940
-    },
-    {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 647,
-      "adds": 145124
+      "adds": 149501
     },
     {
       "id": "12472",
@@ -4010,7 +3999,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 144808
+      "adds": 141504
+    },
+    {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 647,
+      "adds": 139378
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118472
+      "adds": 116240
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 109150
+      "adds": 107355
     },
     {
       "id": "4663",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 103404
+      "adds": 100148
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 99579
+      "adds": 97329
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 97752
+      "adds": 95274
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 94128
+      "adds": 91992
     }
   ]
 }
