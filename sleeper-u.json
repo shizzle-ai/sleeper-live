@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T00:19:21.168Z",
+  "generated_at": "2026-09-30T00:42:59.786Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 5470787
+      "adds": 5449906
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2199600
+      "adds": 2221492
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 614691
+      "adds": 628479
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 595710
+      "adds": 608634
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 486063
+      "adds": 488619
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 451732
+      "adds": 456620
     },
     {
       "id": "2505",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 345258
+      "adds": 350820
     },
     {
       "id": "11571",
@@ -3845,7 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 332406
+      "adds": 340596
     },
     {
       "id": "LV",
@@ -3856,7 +3856,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 307440
+      "adds": 306306
     },
     {
       "id": "BAL",
@@ -3867,7 +3867,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 300495
+      "adds": 305496
     },
     {
       "id": "11643",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 279712
+      "adds": 283950
     },
     {
       "id": "11630",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 267255
+      "adds": 268353
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 196399
+      "adds": 201852
     },
     {
       "id": "5947",
@@ -3911,18 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 182568
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 177,
-      "adds": 176384
+      "adds": 184734
     },
     {
       "id": "9757",
@@ -3933,7 +3922,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 174658
+      "adds": 180430
+    },
+    {
+      "id": "11610",
+      "name": "Malik Washington",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 177,
+      "adds": 175840
     },
     {
       "id": "13311",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 160286
+      "adds": 165991
     },
     {
       "id": "13425",
@@ -3955,18 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 145292
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 632,
-      "adds": 99016
+      "adds": 146556
     },
     {
       "id": "CHI",
@@ -3977,7 +3966,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 96535
+      "adds": 98652
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 632,
+      "adds": 98176
     }
   ]
 }
