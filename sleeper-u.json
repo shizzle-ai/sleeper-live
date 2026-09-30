@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T18:12:08.741Z",
+  "generated_at": "2026-09-30T18:30:34.326Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1083060
+      "adds": 1062333
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 853029
+      "adds": 827658
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 566640
+      "adds": 554661
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 458185
+      "adds": 452431
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 416151
+      "adds": 405810
     },
     {
       "id": "11643",
@@ -3922,18 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 398624
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 302838
+      "adds": 386376
     },
     {
       "id": "13311",
@@ -3944,7 +3933,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 301532
+      "adds": 295918
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 294708
     },
     {
       "id": "LV",
@@ -3955,7 +3955,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 296730
+      "adds": 286116
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 285012
+      "adds": 275004
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 173040
+      "adds": 170448
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 153709
+      "adds": 150104
     },
     {
       "id": "13425",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 152762
+      "adds": 146830
     },
     {
       "id": "12472",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 142872
+      "adds": 140072
     },
     {
       "id": "ARI",
@@ -4021,18 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116088
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 632,
-      "adds": 106172
+      "adds": 114576
     },
     {
       "id": "6083",
@@ -4043,7 +4032,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 105740
+      "adds": 103710
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 632,
+      "adds": 103176
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 99381
+      "adds": 97095
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 98184
+      "adds": 95640
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 93336
+      "adds": 91104
     }
   ]
 }
