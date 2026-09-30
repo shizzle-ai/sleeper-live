@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T13:36:02.878Z",
+  "generated_at": "2026-09-30T13:51:03.081Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1549,10 +1549,10 @@
           "rank": 97
         },
         {
-          "id": "KC",
-          "name": "Kansas City Chiefs",
+          "id": "BAL",
+          "name": "Baltimore Ravens",
           "pos": "DEF",
-          "team": "KC",
+          "team": "BAL",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1569,6 +1569,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 44
+        },
+        {
+          "id": "4177",
+          "name": "Mack Hollins",
+          "pos": "WR",
+          "team": "NE",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 697
         },
         {
           "id": "5850",
@@ -1601,10 +1611,10 @@
           "rank": 67
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "KC",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2964,6 +2974,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1411017884934721536",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790775388514,
+      "adds": [
+        {
+          "player": {
+            "id": "4177",
+            "name": "Mack Hollins",
+            "pos": "WR",
+            "team": "NE",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 697
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1411003474165936128",
       "type": "free_agent",
       "status": "complete",
@@ -3830,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1051884
+      "adds": 1061586
     },
     {
       "id": "3271",
@@ -3841,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 895923
+      "adds": 902691
     },
     {
       "id": "2505",
@@ -3852,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 549972
+      "adds": 556380
     },
     {
       "id": "11571",
@@ -3863,7 +3900,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 449181
+      "adds": 452781
     },
     {
       "id": "11643",
@@ -3874,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 421232
+      "adds": 424092
     },
     {
       "id": "CLE",
@@ -3885,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 395766
+      "adds": 403788
     },
     {
       "id": "LV",
@@ -3896,7 +3933,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 313644
+      "adds": 316938
     },
     {
       "id": "11630",
@@ -3907,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 309114
+      "adds": 311418
     },
     {
       "id": "9757",
@@ -3918,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 306672
+      "adds": 309208
     },
     {
       "id": "13311",
@@ -3929,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 297969
+      "adds": 299698
     },
     {
       "id": "13425",
@@ -3940,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 176666
+      "adds": 177484
     },
     {
       "id": "8168",
@@ -3951,7 +3988,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 158944
+      "adds": 160064
     },
     {
       "id": "CHI",
@@ -3962,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 151698
+      "adds": 154077
     },
     {
       "id": "12472",
@@ -3973,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 135568
+      "adds": 137448
     },
     {
       "id": "4663",
@@ -3984,7 +4021,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 113592
+      "adds": 114288
     },
     {
       "id": "ARI",
@@ -3995,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102384
+      "adds": 104376
     },
     {
       "id": "11603",
@@ -4006,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 96336
+      "adds": 97734
     },
     {
       "id": "12492",
@@ -4017,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 94664
+      "adds": 95552
     },
     {
       "id": "11792",
@@ -4028,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 94026
+      "adds": 95394
     },
     {
       "id": "6083",
@@ -4039,7 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 93520
+      "adds": 95170
     }
   ]
 }
