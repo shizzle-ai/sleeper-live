@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T22:25:30.425Z",
+  "generated_at": "2026-09-30T22:39:13.574Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2437,7 +2437,7 @@
           "name": "Ladd McConkey",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 1073592
+      "adds": 1038024
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 796626
+      "adds": 763632
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 556821
+      "adds": 540909
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 476084
+      "adds": 467411
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 402822
+      "adds": 389907
     },
     {
       "id": "11643",
@@ -3922,18 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 359766
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 281024
+      "adds": 343850
     },
     {
       "id": "LV",
@@ -3944,7 +3933,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 280146
+      "adds": 270420
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 269414
     },
     {
       "id": "13311",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 277515
+      "adds": 263669
     },
     {
       "id": "11630",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 264807
+      "adds": 254331
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 182448
+      "adds": 178824
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 152028
+      "adds": 148508
     },
     {
       "id": "12472",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 146272
+      "adds": 142920
     },
     {
       "id": "13425",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 135470
+      "adds": 128622
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118824
+      "adds": 116416
     },
     {
       "id": "6083",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 111975
+      "adds": 109835
     },
     {
       "id": "11792",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 99564
+      "adds": 97320
     },
     {
       "id": "4663",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 632,
-      "adds": 99364
+      "adds": 95056
     },
     {
       "id": "11603",
@@ -4065,18 +4065,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 97734
+      "adds": 94956
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
+      "id": "7049",
+      "name": "Jauan Jennings",
       "pos": "WR",
-      "team": "DEN",
+      "team": "MIN",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 172,
-      "adds": 95352
+      "rank": 123,
+      "adds": 93331
     }
   ]
 }
