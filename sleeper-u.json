@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-09-30T03:56:37.186Z",
+  "generated_at": "2026-09-30T04:08:18.412Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3768,7 +3768,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 466,
-      "adds": 6111161
+      "adds": 6178977
     },
     {
       "id": "11576",
@@ -3779,7 +3779,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 135,
-      "adds": 2624472
+      "adds": 2652988
     },
     {
       "id": "12718",
@@ -3790,7 +3790,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 832644
+      "adds": 847764
     },
     {
       "id": "3271",
@@ -3801,7 +3801,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 783819
+      "adds": 794736
     },
     {
       "id": "9511",
@@ -3812,7 +3812,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 148,
-      "adds": 563742
+      "adds": 570420
     },
     {
       "id": "1479",
@@ -3823,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 540652
+      "adds": 547760
     },
     {
       "id": "2505",
@@ -3834,7 +3834,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 429336
+      "adds": 435393
     },
     {
       "id": "11571",
@@ -3845,18 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 518,
-      "adds": 428625
-    },
-    {
-      "id": "BAL",
-      "name": "Baltimore Ravens",
-      "pos": "DEF",
-      "team": "BAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 362574
+      "adds": 434016
     },
     {
       "id": "11643",
@@ -3867,7 +3856,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 361618
+      "adds": 367300
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Ravens",
+      "pos": "DEF",
+      "team": "BAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 366345
     },
     {
       "id": "LV",
@@ -3878,7 +3878,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 308562
+      "adds": 311028
     },
     {
       "id": "11630",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 307413
+      "adds": 310743
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 258496
+      "adds": 261828
     },
     {
       "id": "9757",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 245838
+      "adds": 249694
     },
     {
       "id": "13311",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 235151
+      "adds": 239295
     },
     {
       "id": "5947",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 219480
+      "adds": 222306
     },
     {
       "id": "11610",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 177,
-      "adds": 193024
+      "adds": 195336
     },
     {
       "id": "13425",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 647,
-      "adds": 179688
+      "adds": 181998
     },
     {
       "id": "8168",
@@ -3966,18 +3966,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 133592
+      "adds": 135816
     },
     {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
       "injury": null,
-      "status": null,
+      "status": "Active",
       "depth": null,
-      "rank": null,
-      "adds": 114826
+      "rank": 632,
+      "adds": 116000
     }
   ]
 }
