@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T20:55:44.942Z",
+  "generated_at": "2026-10-01T21:05:38.601Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1627,7 +1627,7 @@
           "pos": "RB",
           "team": "NO",
           "injury": "IR",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 4,
           "rank": 34
         }
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 379431
+      "adds": 384129
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 226098
+      "adds": 229374
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 220913
+      "adds": 223818
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 206217
+      "adds": 209466
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 175725
+      "adds": 182799
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 104736
+      "adds": 106002
     },
     {
       "id": "11630",
@@ -3933,18 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 99702
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 92720
+      "adds": 101439
     },
     {
       "id": "9757",
@@ -3955,7 +3944,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 89526
+      "adds": 95470
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 93848
     },
     {
       "id": "12472",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 83400
+      "adds": 85024
     },
     {
       "id": "11581",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 66501
+      "adds": 68067
     },
     {
       "id": "6083",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 64665
+      "adds": 65455
     },
     {
       "id": "7049",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 61348
+      "adds": 62293
     },
     {
       "id": "11643",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 59220
+      "adds": 61054
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52336
+      "adds": 53056
     },
     {
       "id": "CHI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50361
+      "adds": 50849
     },
     {
       "id": "11603",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 48678
+      "adds": 49350
     },
     {
       "id": "13311",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 44751
+      "adds": 45136
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 39390
+      "adds": 39804
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 37528
+      "adds": 38024
     }
   ]
 }
