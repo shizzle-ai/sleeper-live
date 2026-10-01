@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T19:57:55.374Z",
+  "generated_at": "2026-10-01T20:11:13.867Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1946,7 +1946,7 @@
           "name": "Keenan Allen",
           "pos": "WR",
           "team": "IND",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 185
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 382644
+      "adds": 386046
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224262
+      "adds": 226548
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 217868
+      "adds": 220836
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 204192
+      "adds": 206253
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 146709
+      "adds": 151074
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105192
+      "adds": 106044
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 96867
+      "adds": 98100
     },
     {
       "id": "8168",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 92072
+      "adds": 93016
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 79920
+      "adds": 80712
     },
     {
       "id": "6083",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 64395
+      "adds": 65175
     },
     {
       "id": "11581",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 63162
+      "adds": 63900
     },
     {
       "id": "9757",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 62996
+      "adds": 63408
     },
     {
       "id": "7049",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 59759
+      "adds": 60669
     },
     {
       "id": "11643",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 54416
+      "adds": 55332
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51472
+      "adds": 52184
     },
     {
       "id": "CHI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51248
+      "adds": 51724
     },
     {
       "id": "11603",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 47868
+      "adds": 48324
     },
     {
       "id": "13311",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 47159
+      "adds": 47467
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 39762
+      "adds": 40185
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 38200
+      "adds": 38552
     }
   ]
 }
