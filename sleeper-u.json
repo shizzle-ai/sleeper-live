@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T04:19:08.514Z",
+  "generated_at": "2026-10-01T04:36:19.245Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 815004
+      "adds": 739098
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 560781
+      "adds": 504828
     },
     {
       "id": "2505",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 463347
+      "adds": 434133
     },
     {
       "id": "CLE",
@@ -3900,7 +3900,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 446201
+      "adds": 430241
     },
     {
       "id": "11571",
@@ -3911,18 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 307908
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 233980
+      "adds": 283572
     },
     {
       "id": "LV",
@@ -3933,18 +3922,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 232746
+      "adds": 220428
     },
     {
-      "id": "9757",
-      "name": "Kendre Miller",
+      "id": "11643",
+      "name": "Jaylen Wright",
       "pos": "RB",
-      "team": "NO",
-      "injury": null,
+      "team": "MIA",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 2,
-      "rank": 180,
-      "adds": 196018
+      "rank": 174,
+      "adds": 205700
     },
     {
       "id": "11630",
@@ -3955,7 +3944,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 195093
+      "adds": 178056
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 176820
     },
     {
       "id": "13311",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 176414
+      "adds": 155015
     },
     {
       "id": "8168",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 153552
+      "adds": 141656
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134775
+      "adds": 129602
     },
     {
       "id": "12472",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 130440
+      "adds": 123968
     },
     {
       "id": "6083",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 112110
+      "adds": 109380
     },
     {
       "id": "ARI",
@@ -4021,18 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 110336
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 93555
+      "adds": 106720
     },
     {
       "id": "11581",
@@ -4043,7 +4032,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 93429
+      "adds": 91917
+    },
+    {
+      "id": "7049",
+      "name": "Jauan Jennings",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 123,
+      "adds": 90461
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 90108
+      "adds": 86331
     },
     {
       "id": "11603",
@@ -4065,18 +4065,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 86190
+      "adds": 82440
     },
     {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "team": "TB",
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 647,
-      "adds": 82368
+      "depth": 3,
+      "rank": 172,
+      "adds": 73448
     }
   ]
 }
