@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T22:59:18.783Z",
+  "generated_at": "2026-10-01T23:11:16.051Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2051,6 +2051,16 @@
           "rank": 90
         },
         {
+          "id": "12501",
+          "name": "Matthew Golden",
+          "pos": "WR",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 118
+        },
+        {
           "id": "12518",
           "name": "Tyler Warren",
           "pos": "TE",
@@ -2101,16 +2111,6 @@
           "rank": 3
         },
         {
-          "id": "7525",
-          "name": "DeVonta Smith",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 33
-        },
-        {
           "id": "8148",
           "name": "Jameson Williams",
           "pos": "WR",
@@ -2132,16 +2132,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "12501",
-          "name": "Matthew Golden",
-          "pos": "WR",
-          "team": "GB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 118
-        },
         {
           "id": "12522",
           "name": "Cam Ward",
@@ -2171,6 +2161,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 63
+        },
+        {
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 33
         },
         {
           "id": "8126",
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 373104
+      "adds": 379035
     },
     {
       "id": "CLE",
@@ -3878,7 +3878,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 228543
+      "adds": 234003
     },
     {
       "id": "11571",
@@ -3889,7 +3889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 224730
+      "adds": 232587
     },
     {
       "id": "3271",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224568
+      "adds": 228195
     },
     {
       "id": "2505",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 212139
+      "adds": 216135
     },
     {
       "id": "9757",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 114508
+      "adds": 117544
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 104832
+      "adds": 107730
     },
     {
       "id": "LV",
@@ -3944,7 +3944,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 103290
+      "adds": 104844
     },
     {
       "id": "8168",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 89768
+      "adds": 91560
     },
     {
       "id": "12472",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 87048
+      "adds": 89000
     },
     {
       "id": "11643",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 75122
+      "adds": 77766
     },
     {
       "id": "11581",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 70578
+      "adds": 71838
     },
     {
       "id": "6083",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66025
+      "adds": 67235
     },
     {
       "id": "7049",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 61726
+      "adds": 63126
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55816
+      "adds": 57136
     },
     {
       "id": "11603",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 49704
+      "adds": 50550
     },
     {
       "id": "CHI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49041
+      "adds": 49823
     },
     {
       "id": "13311",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 39991
+      "adds": 40418
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 39009
+      "adds": 39666
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35208
+      "adds": 35760
     }
   ]
 }
