@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T14:25:07.902Z",
+  "generated_at": "2026-10-01T14:41:29.646Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": "Doubtful",
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 162
       },
       {
@@ -2731,7 +2731,7 @@
           "team": "NYJ",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 162
         },
         {
@@ -3152,7 +3152,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 392
       },
       {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 512046
+      "adds": 479502
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 303228
+      "adds": 278523
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 296170
+      "adds": 266854
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 275013
+      "adds": 251487
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 181494
+      "adds": 167517
     },
     {
       "id": "LV",
@@ -3922,18 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 144066
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 119583
+      "adds": 131718
     },
     {
       "id": "8168",
@@ -3944,29 +3933,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 116480
+      "adds": 113120
     },
     {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 95144
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 92234
+      "depth": 3,
+      "rank": 688,
+      "adds": 111636
     },
     {
       "id": "12472",
@@ -3977,7 +3955,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 91960
+      "adds": 85840
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 85624
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 81458
     },
     {
       "id": "6083",
@@ -3988,29 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 82975
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 198,
-      "adds": 79128
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 77519
+      "adds": 76900
     },
     {
       "id": "11581",
@@ -4021,7 +3999,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 77157
+      "adds": 72333
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 198,
+      "adds": 72016
     },
     {
       "id": "7049",
@@ -4032,7 +4021,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 72898
+      "adds": 68733
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 68634
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69728
+      "adds": 62616
     },
     {
       "id": "11603",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 58476
+      "adds": 53784
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 54171
+      "adds": 49224
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 52240
+      "adds": 48752
     }
   ]
 }
