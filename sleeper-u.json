@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T18:21:00.274Z",
+  "generated_at": "2026-10-01T18:41:03.095Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 419193
+      "adds": 395514
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 241443
+      "adds": 227808
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 233037
+      "adds": 220080
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 218034
+      "adds": 206091
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 149526
+      "adds": 143253
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 113682
+      "adds": 107490
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 100845
+      "adds": 96156
     },
     {
       "id": "8168",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 99080
+      "adds": 93680
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 82552
+      "adds": 79824
     },
     {
       "id": "9757",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 69922
+      "adds": 65620
     },
     {
       "id": "6083",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 68665
+      "adds": 64980
     },
     {
       "id": "11581",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 66924
+      "adds": 63918
     },
     {
       "id": "7049",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 63259
+      "adds": 60480
     },
     {
       "id": "11643",
@@ -4010,18 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 62576
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 198,
-      "adds": 56476
+      "adds": 57668
     },
     {
       "id": "CHI",
@@ -4032,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56374
+      "adds": 52656
     },
     {
       "id": "ARI",
@@ -4043,7 +4032,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54424
+      "adds": 51872
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 198,
+      "adds": 51275
     },
     {
       "id": "11603",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 49962
+      "adds": 47976
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 42816
+      "adds": 40488
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 42144
+      "adds": 39464
     }
   ]
 }
