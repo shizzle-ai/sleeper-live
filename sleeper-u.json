@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T10:21:59.133Z",
+  "generated_at": "2026-10-01T10:36:58.106Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 576828
+      "adds": 556074
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 375849
+      "adds": 359361
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 375235
+      "adds": 359037
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 346383
+      "adds": 330075
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 222282
+      "adds": 212562
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 180522
+      "adds": 172314
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 139599
+      "adds": 134163
     },
     {
       "id": "11643",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 133416
+      "adds": 124892
     },
     {
       "id": "9757",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 128342
+      "adds": 120850
     },
     {
       "id": "8168",
@@ -3966,18 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 121784
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 107471
+      "adds": 119088
     },
     {
       "id": "12472",
@@ -3988,7 +3977,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 105696
+      "adds": 101920
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 101397
     },
     {
       "id": "13311",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 103908
+      "adds": 98574
     },
     {
       "id": "6083",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 98760
+      "adds": 95345
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90120
+      "adds": 85760
     },
     {
       "id": "11581",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 85644
+      "adds": 83070
     },
     {
       "id": "7049",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 81991
+      "adds": 79625
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 70443
+      "adds": 66876
     },
     {
       "id": "11603",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 69222
+      "adds": 66168
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 61144
+      "adds": 59120
     }
   ]
 }
