@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T22:26:40.945Z",
+  "generated_at": "2026-10-01T22:40:15.464Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,18 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 383391
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 231759
+      "adds": 365148
     },
     {
       "id": "CLE",
@@ -3889,18 +3878,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 230104
+      "adds": 221886
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
+      "id": "3271",
+      "name": "Tyler Higbee",
       "pos": "TE",
-      "team": "CAR",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 353,
-      "adds": 216675
+      "rank": 652,
+      "adds": 219501
     },
     {
       "id": "11571",
@@ -3911,7 +3900,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 213957
+      "adds": 212958
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 353,
+      "adds": 206766
     },
     {
       "id": "9757",
@@ -3922,18 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 111792
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 106302
+      "adds": 109682
     },
     {
       "id": "11630",
@@ -3944,7 +3933,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 106272
+      "adds": 101664
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 101190
     },
     {
       "id": "8168",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 93120
+      "adds": 87712
     },
     {
       "id": "12472",
@@ -3966,18 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 87864
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 71469
+      "adds": 84904
     },
     {
       "id": "11643",
@@ -3988,7 +3977,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 70788
+      "adds": 70300
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 68814
     },
     {
       "id": "6083",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 67005
+      "adds": 64275
     },
     {
       "id": "7049",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 63329
+      "adds": 60039
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55672
+      "adds": 54008
     },
     {
       "id": "11603",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 50832
+      "adds": 48606
     },
     {
       "id": "CHI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50772
+      "adds": 48019
     },
     {
       "id": "13311",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 42924
+      "adds": 39473
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 40218
+      "adds": 38094
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 37064
+      "adds": 34536
     }
   ]
 }
