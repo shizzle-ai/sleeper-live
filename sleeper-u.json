@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T11:18:51.599Z",
+  "generated_at": "2026-10-01T11:33:58.762Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,18 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 564174
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 362537
+      "adds": 534717
     },
     {
       "id": "3271",
@@ -3889,7 +3878,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 362448
+      "adds": 339291
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 336966
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 333369
+      "adds": 309663
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 214785
+      "adds": 200061
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 173826
+      "adds": 161952
     },
     {
       "id": "11630",
@@ -3933,29 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 135810
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 125572
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 121938
+      "adds": 128097
     },
     {
       "id": "8168",
@@ -3966,7 +3944,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 120576
+      "adds": 116680
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 113786
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 111462
     },
     {
       "id": "12472",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 103248
+      "adds": 97664
     },
     {
       "id": "CHI",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102139
+      "adds": 93200
     },
     {
       "id": "13311",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 99057
+      "adds": 91392
     },
     {
       "id": "6083",
@@ -4010,18 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 96275
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 86560
+      "adds": 91200
     },
     {
       "id": "11581",
@@ -4032,7 +4021,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 84186
+      "adds": 80658
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 79928
     },
     {
       "id": "7049",
@@ -4043,18 +4043,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 80563
-    },
-    {
-      "id": "11792",
-      "name": "Will Reichard",
-      "pos": "K",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 173,
-      "adds": 67398
+      "adds": 77098
     },
     {
       "id": "11603",
@@ -4065,7 +4054,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 66924
+      "adds": 62652
+    },
+    {
+      "id": "11792",
+      "name": "Will Reichard",
+      "pos": "K",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 173,
+      "adds": 62223
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 59672
+      "adds": 56520
     }
   ]
 }
