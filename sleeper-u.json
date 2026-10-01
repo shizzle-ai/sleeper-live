@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T12:45:13.795Z",
+  "generated_at": "2026-10-01T13:01:35.283Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1190,6 +1190,16 @@
       ],
       "bench": [
         {
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 20
+        },
+        {
           "id": "13286",
           "name": "Jadarian Price",
           "pos": "RB",
@@ -1208,6 +1218,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 200
+        },
+        {
+          "id": "2216",
+          "name": "Mike Evans",
+          "pos": "WR",
+          "team": "SF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 60
         },
         {
           "id": "2306",
@@ -1240,28 +1260,7 @@
           "rank": 58
         }
       ],
-      "reserve": [
-        {
-          "id": "11566",
-          "name": "Jayden Daniels",
-          "pos": "QB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 20
-        },
-        {
-          "id": "2216",
-          "name": "Mike Evans",
-          "pos": "WR",
-          "team": "SF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 60
-        }
-      ],
+      "reserve": [],
       "taxi": [],
       "waiver_position": 4,
       "faab_used": 0
@@ -3867,7 +3866,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 515349
+      "adds": 520272
     },
     {
       "id": "3271",
@@ -3878,7 +3877,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 318816
+      "adds": 320706
     },
     {
       "id": "CLE",
@@ -3889,7 +3888,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 313600
+      "adds": 315791
     },
     {
       "id": "2505",
@@ -3900,7 +3899,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 288747
+      "adds": 290565
     },
     {
       "id": "11571",
@@ -3911,7 +3910,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 188199
+      "adds": 189666
     },
     {
       "id": "LV",
@@ -3922,7 +3921,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 151704
+      "adds": 152706
     },
     {
       "id": "11630",
@@ -3933,7 +3932,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 122040
+      "adds": 122931
     },
     {
       "id": "8168",
@@ -3944,18 +3943,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 115312
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 102148
+      "adds": 116208
     },
     {
       "id": "9757",
@@ -3966,7 +3954,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 102118
+      "adds": 102618
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 102556
     },
     {
       "id": "12472",
@@ -3977,7 +3976,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 93712
+      "adds": 94592
     },
     {
       "id": "6083",
@@ -3988,7 +3987,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 86550
+      "adds": 87115
     },
     {
       "id": "13311",
@@ -3999,7 +3998,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 84910
+      "adds": 85246
     },
     {
       "id": "CHI",
@@ -4010,7 +4009,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84491
+      "adds": 84991
     },
     {
       "id": "11581",
@@ -4021,7 +4020,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 78102
+      "adds": 78831
     },
     {
       "id": "7049",
@@ -4032,7 +4031,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 74585
+      "adds": 75110
     },
     {
       "id": "ARI",
@@ -4043,7 +4042,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73880
+      "adds": 74488
     },
     {
       "id": "11603",
@@ -4054,7 +4053,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 59556
+      "adds": 60096
     },
     {
       "id": "11792",
@@ -4065,7 +4064,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 57660
+      "adds": 57993
     },
     {
       "id": "12492",
@@ -4076,7 +4075,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 53952
+      "adds": 54184
     }
   ]
 }
