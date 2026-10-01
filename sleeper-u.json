@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T17:34:24.580Z",
+  "generated_at": "2026-10-01T17:49:17.936Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -865,7 +865,7 @@
           "pos": "RB",
           "team": "SEA",
           "injury": "PUP",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 5,
           "rank": 101
         }
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 409860
+      "adds": 413055
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 233370
+      "adds": 236133
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 225169
+      "adds": 227794
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 211869
+      "adds": 213993
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 144423
+      "adds": 146115
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 110454
+      "adds": 111558
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 97470
+      "adds": 98415
     },
     {
       "id": "8168",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 96464
+      "adds": 97360
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 79536
+      "adds": 80512
     },
     {
       "id": "9757",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 68318
+      "adds": 68850
     },
     {
       "id": "6083",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66775
+      "adds": 67445
     },
     {
       "id": "11581",
@@ -3988,18 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 64728
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 61400
+      "adds": 65502
     },
     {
       "id": "7049",
@@ -4010,7 +3999,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 61334
+      "adds": 61943
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 61808
     },
     {
       "id": "13311",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 55468
+      "adds": 55818
     },
     {
       "id": "CHI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54783
+      "adds": 55260
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52552
+      "adds": 53080
     },
     {
       "id": "11603",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 48330
+      "adds": 48900
     },
     {
       "id": "11792",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 41607
+      "adds": 42054
     },
     {
       "id": "12492",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 41192
+      "adds": 41512
     }
   ]
 }
