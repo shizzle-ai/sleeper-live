@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T15:25:56.322Z",
+  "generated_at": "2026-10-01T15:41:09.281Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 491319
+      "adds": 454905
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 285381
+      "adds": 260073
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 275135
+      "adds": 249256
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 258381
+      "adds": 237474
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 172143
+      "adds": 159066
     },
     {
       "id": "LV",
@@ -3922,7 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134952
+      "adds": 123648
     },
     {
       "id": "8168",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 116168
+      "adds": 110912
     },
     {
       "id": "11630",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 114687
+      "adds": 106119
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 89288
+      "adds": 83400
     },
     {
       "id": "9757",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 87464
+      "adds": 79370
     },
     {
       "id": "11643",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 82548
+      "adds": 73558
     },
     {
       "id": "6083",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 79110
+      "adds": 73070
     },
     {
       "id": "11581",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 74556
+      "adds": 69894
     },
     {
       "id": "13311",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 73178
+      "adds": 67333
     },
     {
       "id": "7049",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 70749
+      "adds": 66367
     },
     {
       "id": "CHI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70339
+      "adds": 63102
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64608
+      "adds": 58416
     },
     {
       "id": "11603",
@@ -4054,18 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 55560
-    },
-    {
-      "id": "11792",
-      "name": "Will Reichard",
-      "pos": "K",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 173,
-      "adds": 50505
+      "adds": 51558
     },
     {
       "id": "12492",
@@ -4076,7 +4065,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 49736
+      "adds": 46504
+    },
+    {
+      "id": "11792",
+      "name": "Will Reichard",
+      "pos": "K",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 173,
+      "adds": 46110
     }
   ]
 }
