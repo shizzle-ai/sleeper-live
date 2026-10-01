@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-01T17:18:38.191Z",
+  "generated_at": "2026-10-01T17:34:24.580Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 443628
+      "adds": 409860
     },
     {
       "id": "3271",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 253755
+      "adds": 233370
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 244209
+      "adds": 225169
     },
     {
       "id": "2505",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 230904
+      "adds": 211869
     },
     {
       "id": "11571",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 156438
+      "adds": 144423
     },
     {
       "id": "LV",
@@ -3922,18 +3922,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 119814
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 106824
+      "adds": 110454
     },
     {
       "id": "11630",
@@ -3944,7 +3933,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 105147
+      "adds": 97470
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 96464
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 84288
+      "adds": 79536
     },
     {
       "id": "9757",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 75178
+      "adds": 68318
     },
     {
       "id": "6083",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 72015
+      "adds": 66775
     },
     {
       "id": "11581",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 69579
+      "adds": 64728
     },
     {
       "id": "11643",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 68384
+      "adds": 61400
     },
     {
       "id": "7049",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 65870
+      "adds": 61334
     },
     {
       "id": "13311",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 62461
+      "adds": 55468
     },
     {
       "id": "CHI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60325
+      "adds": 54783
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57040
+      "adds": 52552
     },
     {
       "id": "11603",
@@ -4054,18 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 51630
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 45104
+      "adds": 48330
     },
     {
       "id": "11792",
@@ -4076,7 +4065,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 44892
+      "adds": 41607
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 41192
     }
   ]
 }
