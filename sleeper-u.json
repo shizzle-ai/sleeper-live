@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T21:35:22.172Z",
+  "generated_at": "2026-10-02T21:48:41.107Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3237,7 +3237,7 @@
         "name": "Tyrone Tracy",
         "pos": "RB",
         "team": "NYG",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 110
@@ -3677,16 +3677,6 @@
         "rank": 138
       },
       {
-        "id": "12487",
-        "name": "Terrance Ferguson",
-        "pos": "TE",
-        "team": "LAR",
-        "injury": "IR",
-        "status": "Active",
-        "depth": 3,
-        "rank": 141
-      },
-      {
         "id": "11597",
         "name": "Theo Johnson",
         "pos": "TE",
@@ -3741,6 +3731,16 @@
         "name": "Pat Freiermuth",
         "pos": "TE",
         "team": "PIT",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 230
+      },
+      {
+        "id": "8172",
+        "name": "Greg Dulcich",
+        "pos": "TE",
+        "team": "MIA",
         "injury": null,
         "status": "Active",
         "depth": 1,
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 636975
+      "adds": 644202
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 430956
+      "adds": 435960
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 231750
+      "adds": 232956
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 205479
+      "adds": 207756
     },
     {
       "id": "7049",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 183960
+      "adds": 188979
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 181962
+      "adds": 185715
     },
     {
       "id": "11643",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 96654
+      "adds": 97240
     },
     {
       "id": "9757",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 88024
+      "adds": 88520
     },
     {
       "id": "LV",
@@ -4010,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 86862
+      "adds": 87726
     },
     {
       "id": "CLE",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80633
+      "adds": 80773
     },
     {
       "id": "ARI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69808
+      "adds": 70344
     },
     {
       "id": "11581",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 69471
+      "adds": 70074
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 63856
+      "adds": 64528
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 53525
+      "adds": 54015
     },
     {
       "id": "11603",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 42216
+      "adds": 42636
     },
     {
       "id": "BUF",
@@ -4087,7 +4087,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37701
+      "adds": 37931
     },
     {
       "id": "11256",
@@ -4098,29 +4098,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 35562
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 34240
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 34015
+      "adds": 36828
     },
     {
       "id": "5995",
@@ -4131,7 +4109,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 33975
+      "adds": 34371
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 34320
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 34274
     }
   ]
 }
