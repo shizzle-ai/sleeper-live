@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T01:48:02.693Z",
+  "generated_at": "2026-10-02T01:59:02.681Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 384444
+      "adds": 388134
     },
     {
       "id": "11571",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 298422
+      "adds": 302715
     },
     {
       "id": "CLE",
@@ -3906,7 +3906,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 233135
+      "adds": 233681
     },
     {
       "id": "3271",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224757
+      "adds": 226692
     },
     {
       "id": "2505",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 219789
+      "adds": 221625
     },
     {
       "id": "11630",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 177678
+      "adds": 216684
     },
     {
       "id": "9757",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 125464
+      "adds": 126348
     },
     {
       "id": "LV",
@@ -3961,7 +3961,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 103878
+      "adds": 105036
     },
     {
       "id": "8168",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 89800
+      "adds": 90488
     },
     {
       "id": "12472",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 89576
+      "adds": 89736
     },
     {
       "id": "11643",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 86798
+      "adds": 87738
     },
     {
       "id": "11581",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 74664
+      "adds": 75294
     },
     {
       "id": "6083",
@@ -4016,18 +4016,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 68435
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 123,
-      "adds": 67529
+      "adds": 68925
     },
     {
       "id": "ARI",
@@ -4038,7 +4027,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67416
+      "adds": 68392
+    },
+    {
+      "id": "7049",
+      "name": "Jauan Jennings",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 123,
+      "adds": 68222
     },
     {
       "id": "11603",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 52692
+      "adds": 53082
     },
     {
       "id": "CHI",
@@ -4060,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49537
+      "adds": 49943
     },
     {
       "id": "11792",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 38382
+      "adds": 38691
     },
     {
       "id": "BUF",
@@ -4082,7 +4082,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36552
+      "adds": 36976
     },
     {
       "id": "13311",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 35049
+      "adds": 35168
     }
   ]
 }
