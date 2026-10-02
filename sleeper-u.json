@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T20:42:09.898Z",
+  "generated_at": "2026-10-02T20:55:11.787Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1194,7 +1194,7 @@
           "name": "Jadarian Price",
           "pos": "RB",
           "team": "SEA",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 52
@@ -1796,7 +1796,7 @@
           "name": "Keaton Mitchell",
           "pos": "RB",
           "team": "LAC",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 148
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 603198
+      "adds": 615915
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 445815
+      "adds": 458775
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 252027
+      "adds": 254520
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 209124
+      "adds": 213021
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 168849
+      "adds": 171027
     },
     {
       "id": "7049",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 158564
+      "adds": 167657
     },
     {
       "id": "9757",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 129048
+      "adds": 130522
     },
     {
       "id": "11643",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 105554
+      "adds": 106808
     },
     {
       "id": "CLE",
@@ -4010,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97846
+      "adds": 98028
     },
     {
       "id": "LV",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90330
+      "adds": 91404
     },
     {
       "id": "11581",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 73323
+      "adds": 75573
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71600
+      "adds": 72568
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 67048
+      "adds": 68144
     },
     {
       "id": "6083",
@@ -4065,18 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 56695
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 43928
+      "adds": 57325
     },
     {
       "id": "11603",
@@ -4087,7 +4076,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 43776
+      "adds": 44418
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 44096
     },
     {
       "id": "BUF",
@@ -4098,18 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40043
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 35809
+      "adds": 40445
     },
     {
       "id": "5995",
@@ -4120,7 +4109,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 35091
+      "adds": 36405
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 36222
     },
     {
       "id": "13311",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 30142
+      "adds": 31409
     }
   ]
 }
