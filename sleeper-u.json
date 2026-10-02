@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T02:27:34.413Z",
+  "generated_at": "2026-10-02T02:41:13.728Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 395811
+      "adds": 379917
     },
     {
       "id": "11571",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 311580
+      "adds": 307728
     },
     {
       "id": "11630",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 235530
+      "adds": 237555
     },
     {
       "id": "CLE",
@@ -3917,7 +3917,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 234871
+      "adds": 224098
     },
     {
       "id": "3271",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 229986
+      "adds": 218214
     },
     {
       "id": "2505",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 225684
+      "adds": 215217
     },
     {
       "id": "9757",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 128132
+      "adds": 125042
     },
     {
       "id": "LV",
@@ -3961,18 +3961,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107562
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 92072
+      "adds": 102342
     },
     {
       "id": "12472",
@@ -3983,7 +3972,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 90600
+      "adds": 88296
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 87808
     },
     {
       "id": "11643",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 89968
+      "adds": 87318
     },
     {
       "id": "11581",
@@ -4005,18 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 76518
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 70195
+      "adds": 73494
     },
     {
       "id": "ARI",
@@ -4027,7 +4016,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70112
+      "adds": 68328
     },
     {
       "id": "7049",
@@ -4038,7 +4027,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 70000
+      "adds": 67249
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 67085
     },
     {
       "id": "11603",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 54114
+      "adds": 52182
     },
     {
       "id": "CHI",
@@ -4060,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50879
+      "adds": 48344
     },
     {
       "id": "11792",
@@ -4071,7 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 39348
+      "adds": 37164
     },
     {
       "id": "BUF",
@@ -4082,7 +4082,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37899
+      "adds": 36970
     },
     {
       "id": "13311",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 35539
+      "adds": 32949
     }
   ]
 }
