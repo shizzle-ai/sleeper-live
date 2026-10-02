@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T20:27:40.565Z",
+  "generated_at": "2026-10-02T20:42:09.898Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 599049
+      "adds": 603198
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 455760
+      "adds": 445815
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 263925
+      "adds": 252027
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 216369
+      "adds": 209124
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 177768
+      "adds": 168849
     },
     {
       "id": "7049",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 154812
+      "adds": 158564
     },
     {
       "id": "9757",
@@ -3988,18 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 130238
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 109298
+      "adds": 129048
     },
     {
       "id": "11643",
@@ -4010,7 +3999,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 108626
+      "adds": 105554
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 97846
     },
     {
       "id": "LV",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 93858
+      "adds": 90330
     },
     {
       "id": "11581",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 75429
+      "adds": 73323
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73960
+      "adds": 71600
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 70008
+      "adds": 67048
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 59565
+      "adds": 56695
     },
     {
       "id": "12472",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 47472
+      "adds": 43928
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 45528
+      "adds": 43776
     },
     {
       "id": "BUF",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42064
+      "adds": 40043
     },
     {
       "id": "CHI",
@@ -4109,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37521
+      "adds": 35809
     },
     {
       "id": "5995",
@@ -4120,18 +4120,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 35811
+      "adds": 35091
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
+      "id": "13311",
+      "name": "Chris Bell",
       "pos": "WR",
-      "team": "DEN",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 30928
+      "depth": 2,
+      "rank": 198,
+      "adds": 30142
     }
   ]
 }
