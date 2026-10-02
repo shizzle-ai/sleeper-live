@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T17:33:38.463Z",
+  "generated_at": "2026-10-02T17:46:59.113Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 479034
+      "adds": 484947
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 402795
+      "adds": 407097
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 262665
+      "adds": 263826
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 196236
+      "adds": 198018
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 171990
+      "adds": 173061
     },
     {
       "id": "CLE",
@@ -3977,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 127183
+      "adds": 127267
     },
     {
       "id": "9757",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 125052
+      "adds": 125614
     },
     {
       "id": "11643",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 101032
+      "adds": 101786
     },
     {
       "id": "LV",
@@ -4010,18 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 88776
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 69736
+      "adds": 89460
     },
     {
       "id": "11581",
@@ -4032,7 +4021,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 69606
+      "adds": 70362
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 70248
     },
     {
       "id": "8168",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 67368
+      "adds": 67824
     },
     {
       "id": "7049",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64211
+      "adds": 65184
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 57245
+      "adds": 57590
     },
     {
       "id": "12472",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 53672
+      "adds": 53784
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 44352
+      "adds": 44682
     },
     {
       "id": "BUF",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40056
+      "adds": 40281
     },
     {
       "id": "CHI",
@@ -4109,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36900
+      "adds": 37133
     },
     {
       "id": "5995",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 31455
+      "adds": 31734
     },
     {
       "id": "11792",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 29481
+      "adds": 29739
     }
   ]
 }
