@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T03:50:16.132Z",
+  "generated_at": "2026-10-02T04:00:19.971Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 378774
+      "adds": 381231
     },
     {
       "id": "11571",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 319698
+      "adds": 322659
     },
     {
       "id": "11630",
@@ -3906,18 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 285786
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 215915
+      "adds": 290952
     },
     {
       "id": "3271",
@@ -3928,7 +3917,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 215505
+      "adds": 216963
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 216076
     },
     {
       "id": "2505",
@@ -3939,7 +3939,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 212841
+      "adds": 214389
     },
     {
       "id": "9757",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 125338
+      "adds": 126042
     },
     {
       "id": "LV",
@@ -3961,7 +3961,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102432
+      "adds": 103500
     },
     {
       "id": "11643",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 87988
+      "adds": 88708
     },
     {
       "id": "8168",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 85976
+      "adds": 86544
     },
     {
       "id": "12472",
@@ -3994,7 +3994,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 85208
+      "adds": 85328
     },
     {
       "id": "11581",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 73737
+      "adds": 74214
     },
     {
       "id": "ARI",
@@ -4016,7 +4016,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70536
+      "adds": 71088
     },
     {
       "id": "7049",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 67802
+      "adds": 68327
     },
     {
       "id": "6083",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66685
+      "adds": 67250
     },
     {
       "id": "11603",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 52086
+      "adds": 52542
     },
     {
       "id": "CHI",
@@ -4060,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 47843
+      "adds": 48121
     },
     {
       "id": "BUF",
@@ -4071,7 +4071,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37934
+      "adds": 38330
     },
     {
       "id": "11792",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 36420
+      "adds": 36687
     },
     {
       "id": "12492",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 31984
+      "adds": 32176
     }
   ]
 }
