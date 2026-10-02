@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T19:59:19.940Z",
+  "generated_at": "2026-10-02T20:12:51.704Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -424,24 +424,24 @@
           "rank": 5
         },
         {
-          "id": "8155",
-          "name": "Breece Hall",
+          "id": "11576",
+          "name": "Braelon Allen",
           "pos": "RB",
           "team": "NYJ",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 5,
-          "rank": 27
-        },
-        {
-          "id": "6794",
-          "name": "Justin Jefferson",
-          "pos": "WR",
-          "team": "MIN",
-          "injury": "Out",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 135
+        },
+        {
+          "id": "11620",
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 64
         },
         {
           "id": "2133",
@@ -464,14 +464,14 @@
           "rank": 109
         },
         {
-          "id": "0",
-          "name": "0",
-          "pos": "",
-          "team": null,
+          "id": "12489",
+          "name": "RJ Harvey",
+          "pos": "RB",
+          "team": "DEN",
           "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
+          "status": "Active",
+          "depth": 2,
+          "rank": 56
         },
         {
           "id": "3163",
@@ -2168,7 +2168,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 33
@@ -2784,6 +2784,36 @@
       },
       "starters": [
         {
+          "id": "11576",
+          "name": "Braelon Allen",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 135
+        },
+        {
+          "id": "11620",
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 64
+        },
+        {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "pos": "RB",
+          "team": "DEN",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 56
+        },
+        {
           "id": "13330",
           "name": "Kenyon Sadiq",
           "pos": "TE",
@@ -2814,16 +2844,6 @@
           "rank": 61
         },
         {
-          "id": "6794",
-          "name": "Justin Jefferson",
-          "pos": "WR",
-          "team": "MIN",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 12
-        },
-        {
           "id": "6904",
           "name": "Jalen Hurts",
           "pos": "QB",
@@ -2852,16 +2872,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 5
-        },
-        {
-          "id": "8155",
-          "name": "Breece Hall",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 5,
-          "rank": 27
         },
         {
           "id": "PHI",
@@ -2896,36 +2906,6 @@
           "rank": 228
         },
         {
-          "id": "11576",
-          "name": "Braelon Allen",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 135
-        },
-        {
-          "id": "11620",
-          "name": "Rome Odunze",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 64
-        },
-        {
-          "id": "12489",
-          "name": "RJ Harvey",
-          "pos": "RB",
-          "team": "DEN",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 56
-        },
-        {
           "id": "1373",
           "name": "Geno Smith",
           "pos": "QB",
@@ -2936,6 +2916,16 @@
           "rank": 210
         },
         {
+          "id": "6794",
+          "name": "Justin Jefferson",
+          "pos": "WR",
+          "team": "MIN",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 12
+        },
+        {
           "id": "6806",
           "name": "J.K. Dobbins",
           "pos": "RB",
@@ -2944,6 +2934,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 68
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 5,
+          "rank": 27
         }
       ],
       "reserve": [
@@ -2962,7 +2962,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 94
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 570654
+      "adds": 586161
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 440703
+      "adds": 449451
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 257661
+      "adds": 261801
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 207504
+      "adds": 212715
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 171630
+      "adds": 175212
     },
     {
       "id": "7049",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 129934
+      "adds": 145621
     },
     {
       "id": "9757",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 128316
+      "adds": 129446
     },
     {
       "id": "CLE",
@@ -3999,7 +3999,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 108640
+      "adds": 108948
     },
     {
       "id": "11643",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 106646
+      "adds": 107748
     },
     {
       "id": "LV",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90600
+      "adds": 92346
     },
     {
       "id": "11581",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 72666
+      "adds": 74259
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71888
+      "adds": 72928
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 67696
+      "adds": 69056
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 57800
+      "adds": 58760
     },
     {
       "id": "12472",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 47256
+      "adds": 47416
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 44022
+      "adds": 44940
     },
     {
       "id": "BUF",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41160
+      "adds": 41640
     },
     {
       "id": "CHI",
@@ -4109,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36523
+      "adds": 37079
     },
     {
       "id": "5995",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 34209
+      "adds": 35190
     },
     {
       "id": "12492",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 29328
+      "adds": 30328
     }
   ]
 }
