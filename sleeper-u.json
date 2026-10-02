@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T19:01:55.956Z",
+  "generated_at": "2026-10-02T19:18:49.527Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2498,7 +2498,7 @@
           "name": "D'Andre Swift",
           "pos": "RB",
           "team": "CHI",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 45
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 533979
+      "adds": 546777
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 430461
+      "adds": 436932
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 263988
+      "adds": 266058
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 205443
+      "adds": 209007
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 174906
+      "adds": 176922
     },
     {
       "id": "9757",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 127562
+      "adds": 128378
     },
     {
       "id": "CLE",
@@ -3988,18 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118181
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 104954
+      "adds": 118489
     },
     {
       "id": "7049",
@@ -4010,7 +3999,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 96663
+      "adds": 109529
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 174,
+      "adds": 105978
     },
     {
       "id": "LV",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90708
+      "adds": 92010
     },
     {
       "id": "11581",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 72288
+      "adds": 73224
     },
     {
       "id": "ARI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71968
+      "adds": 72920
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 68384
+      "adds": 69120
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 58020
+      "adds": 58790
     },
     {
       "id": "12472",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 50624
+      "adds": 50792
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 44964
+      "adds": 45378
     },
     {
       "id": "BUF",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41106
+      "adds": 41529
     },
     {
       "id": "CHI",
@@ -4109,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37116
+      "adds": 37574
     },
     {
       "id": "5995",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 33138
+      "adds": 33741
     },
     {
       "id": "11792",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 29691
+      "adds": 30069
     }
   ]
 }
