@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T00:09:12.955Z",
+  "generated_at": "2026-10-02T00:32:23.723Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 388611
+      "adds": 377487
     },
     {
       "id": "11571",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 268110
+      "adds": 273519
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 250299
+      "adds": 243663
     },
     {
       "id": "3271",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 233262
+      "adds": 224694
     },
     {
       "id": "2505",
@@ -3911,7 +3911,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 223956
+      "adds": 217494
     },
     {
       "id": "9757",
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 124084
+      "adds": 122684
     },
     {
       "id": "11630",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 117513
+      "adds": 115263
     },
     {
       "id": "LV",
@@ -3944,7 +3944,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106380
+      "adds": 102048
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 95176
+      "adds": 92848
     },
     {
       "id": "8168",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 93320
+      "adds": 90216
     },
     {
       "id": "11643",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 84036
+      "adds": 82876
     },
     {
       "id": "11581",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 74601
+      "adds": 73467
     },
     {
       "id": "6083",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 69780
+      "adds": 67880
     },
     {
       "id": "7049",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 66080
+      "adds": 64750
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61288
+      "adds": 61720
     },
     {
       "id": "11603",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 53088
+      "adds": 52056
     },
     {
       "id": "CHI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50779
+      "adds": 49075
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 40245
+      "adds": 38700
     },
     {
       "id": "13311",
@@ -4065,18 +4065,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 39361
+      "adds": 36876
     },
     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
+      "id": "BUF",
+      "name": "Buffalo Bills",
+      "pos": "DEF",
+      "team": "BUF",
       "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 35512
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 34428
     }
   ]
 }
