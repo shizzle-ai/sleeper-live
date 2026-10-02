@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T21:57:29.686Z",
+  "generated_at": "2026-10-02T22:08:54.333Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 648729
+      "adds": 654480
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 438381
+      "adds": 441783
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 233766
+      "adds": 234765
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 209313
+      "adds": 211113
     },
     {
       "id": "7049",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 192080
+      "adds": 195930
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 189225
+      "adds": 192726
     },
     {
       "id": "11643",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 97570
+      "adds": 98058
     },
     {
       "id": "9757",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 88794
+      "adds": 89174
     },
     {
       "id": "LV",
@@ -4010,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 88260
+      "adds": 88848
     },
     {
       "id": "CLE",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80843
+      "adds": 80906
     },
     {
       "id": "ARI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70544
+      "adds": 71040
     },
     {
       "id": "11581",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 70371
+      "adds": 70785
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 64976
+      "adds": 65536
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 54315
+      "adds": 54680
     },
     {
       "id": "11603",
@@ -4076,18 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 42888
-    },
-    {
-      "id": "BUF",
-      "name": "Buffalo Bills",
-      "pos": "DEF",
-      "team": "BUF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38073
+      "adds": 43188
     },
     {
       "id": "11256",
@@ -4098,7 +4087,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 37608
+      "adds": 38556
+    },
+    {
+      "id": "BUF",
+      "name": "Buffalo Bills",
+      "pos": "DEF",
+      "team": "BUF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38253
     },
     {
       "id": "5995",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 34515
+      "adds": 34695
     },
     {
       "id": "CHI",
@@ -4120,7 +4120,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34429
+      "adds": 34612
     },
     {
       "id": "12472",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 34352
+      "adds": 34376
     }
   ]
 }
