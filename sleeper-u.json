@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T21:48:41.107Z",
+  "generated_at": "2026-10-02T21:57:29.686Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 644202
+      "adds": 648729
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 435960
+      "adds": 438381
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 232956
+      "adds": 233766
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 207756
+      "adds": 209313
     },
     {
       "id": "7049",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 188979
+      "adds": 192080
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 185715
+      "adds": 189225
     },
     {
       "id": "11643",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 97240
+      "adds": 97570
     },
     {
       "id": "9757",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 88520
+      "adds": 88794
     },
     {
       "id": "LV",
@@ -4010,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 87726
+      "adds": 88260
     },
     {
       "id": "CLE",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80773
+      "adds": 80843
     },
     {
       "id": "ARI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70344
+      "adds": 70544
     },
     {
       "id": "11581",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 70074
+      "adds": 70371
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 64528
+      "adds": 64976
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 54015
+      "adds": 54315
     },
     {
       "id": "11603",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 42636
+      "adds": 42888
     },
     {
       "id": "BUF",
@@ -4087,7 +4087,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37931
+      "adds": 38073
     },
     {
       "id": "11256",
@@ -4098,7 +4098,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 36828
+      "adds": 37608
     },
     {
       "id": "5995",
@@ -4109,18 +4109,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 34371
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 34320
+      "adds": 34515
     },
     {
       "id": "CHI",
@@ -4131,7 +4120,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34274
+      "adds": 34429
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 34352
     }
   ]
 }
