@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T00:32:23.723Z",
+  "generated_at": "2026-10-02T00:51:35.622Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2360,7 +2360,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 65
         },
         {
@@ -3867,7 +3867,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 377487
+      "adds": 383508
     },
     {
       "id": "11571",
@@ -3878,7 +3878,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 273519
+      "adds": 281160
     },
     {
       "id": "CLE",
@@ -3889,7 +3889,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 243663
+      "adds": 243915
     },
     {
       "id": "3271",
@@ -3900,7 +3900,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224694
+      "adds": 227763
     },
     {
       "id": "2505",
@@ -3911,18 +3911,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 217494
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 122684
+      "adds": 220878
     },
     {
       "id": "11630",
@@ -3933,7 +3922,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 115263
+      "adds": 147987
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 124360
     },
     {
       "id": "LV",
@@ -3944,7 +3944,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102048
+      "adds": 103818
     },
     {
       "id": "12472",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 92848
+      "adds": 93176
     },
     {
       "id": "8168",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 90216
+      "adds": 91184
     },
     {
       "id": "11643",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 82876
+      "adds": 84832
     },
     {
       "id": "11581",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 73467
+      "adds": 74880
     },
     {
       "id": "6083",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 67880
+      "adds": 69050
     },
     {
       "id": "7049",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64750
+      "adds": 66213
     },
     {
       "id": "ARI",
@@ -4021,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61720
+      "adds": 63568
     },
     {
       "id": "11603",
@@ -4032,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 52056
+      "adds": 52812
     },
     {
       "id": "CHI",
@@ -4043,7 +4043,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49075
+      "adds": 49878
     },
     {
       "id": "11792",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 38700
+      "adds": 39195
     },
     {
       "id": "13311",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 198,
-      "adds": 36876
+      "adds": 37156
     },
     {
       "id": "BUF",
@@ -4076,7 +4076,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34428
+      "adds": 35231
     }
   ]
 }
