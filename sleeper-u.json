@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T12:18:54.643Z",
+  "generated_at": "2026-10-02T12:41:28.547Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3884,18 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 357867
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 342513
+      "adds": 362961
     },
     {
       "id": "11571",
@@ -3906,7 +3895,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 342018
+      "adds": 340002
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 327906
     },
     {
       "id": "2505",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 205308
+      "adds": 200493
     },
     {
       "id": "3271",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 200133
+      "adds": 195291
     },
     {
       "id": "CLE",
@@ -3939,7 +3939,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 184835
+      "adds": 177611
     },
     {
       "id": "9757",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 124932
+      "adds": 123574
     },
     {
       "id": "LV",
@@ -3961,7 +3961,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97596
+      "adds": 95406
     },
     {
       "id": "11643",
@@ -3972,7 +3972,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 92012
+      "adds": 91526
     },
     {
       "id": "8168",
@@ -3983,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 78640
+      "adds": 76048
     },
     {
       "id": "12472",
@@ -3994,18 +3994,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 73800
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 72162
+      "adds": 71448
     },
     {
       "id": "ARI",
@@ -4016,7 +4005,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71744
+      "adds": 70744
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 70317
     },
     {
       "id": "7049",
@@ -4027,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 66451
+      "adds": 65030
     },
     {
       "id": "6083",
@@ -4038,7 +4038,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 63430
+      "adds": 61925
     },
     {
       "id": "11603",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 50040
+      "adds": 48552
     },
     {
       "id": "CHI",
@@ -4060,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44265
+      "adds": 42983
     },
     {
       "id": "BUF",
@@ -4071,7 +4071,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39408
+      "adds": 39004
     },
     {
       "id": "11792",
@@ -4082,7 +4082,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 33630
+      "adds": 32742
     },
     {
       "id": "5995",
@@ -4093,7 +4093,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 30555
+      "adds": 29844
     }
   ]
 }
