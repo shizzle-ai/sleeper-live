@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T16:20:11.589Z",
+  "generated_at": "2026-10-02T16:37:23.468Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3884,7 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 450999
+      "adds": 453645
     },
     {
       "id": "11571",
@@ -3895,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 387504
+      "adds": 384858
     },
     {
       "id": "12718",
@@ -3906,7 +3906,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 287289
+      "adds": 272070
     },
     {
       "id": "2505",
@@ -3917,7 +3917,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 203688
+      "adds": 195831
     },
     {
       "id": "3271",
@@ -3928,7 +3928,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 186966
+      "adds": 177066
     },
     {
       "id": "CLE",
@@ -3939,7 +3939,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 150038
+      "adds": 138117
     },
     {
       "id": "9757",
@@ -3950,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 125938
+      "adds": 124052
     },
     {
       "id": "11643",
@@ -3961,7 +3961,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 100554
+      "adds": 99544
     },
     {
       "id": "LV",
@@ -3972,18 +3972,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 93882
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 73112
+      "adds": 89748
     },
     {
       "id": "ARI",
@@ -3994,7 +3983,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72144
+      "adds": 69872
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 69184
     },
     {
       "id": "11581",
@@ -4005,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 71208
+      "adds": 68544
     },
     {
       "id": "7049",
@@ -4016,18 +4016,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 66094
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 62128
+      "adds": 63714
     },
     {
       "id": "6083",
@@ -4038,7 +4027,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 60725
+      "adds": 57970
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 57944
     },
     {
       "id": "11603",
@@ -4049,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 47418
+      "adds": 45366
     },
     {
       "id": "BUF",
@@ -4060,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40898
+      "adds": 39960
     },
     {
       "id": "CHI",
@@ -4071,18 +4071,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40208
-    },
-    {
-      "id": "11792",
-      "name": "Will Reichard",
-      "pos": "K",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 173,
-      "adds": 31719
+      "adds": 38002
     },
     {
       "id": "5995",
@@ -4093,7 +4082,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 31446
+      "adds": 30762
+    },
+    {
+      "id": "11792",
+      "name": "Will Reichard",
+      "pos": "K",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 173,
+      "adds": 30195
     }
   ]
 }
