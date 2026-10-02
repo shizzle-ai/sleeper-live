@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T01:19:58.172Z",
+  "generated_at": "2026-10-02T01:34:33.516Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -887,16 +887,6 @@
       },
       "starters": [
         {
-          "id": "11624",
-          "name": "Xavier Worthy",
-          "pos": "WR",
-          "team": "KC",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 122
-        },
-        {
           "id": "11834",
           "name": "Devaughn Vele",
           "pos": "WR",
@@ -957,6 +947,16 @@
           "rank": 6
         },
         {
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 21
+        },
+        {
           "id": "9484",
           "name": "Tucker Kraft",
           "pos": "TE",
@@ -999,6 +999,16 @@
           "rank": 224
         },
         {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "pos": "WR",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 122
+        },
+        {
           "id": "12474",
           "name": "Woody Marks",
           "pos": "RB",
@@ -1007,16 +1017,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 105
-        },
-        {
-          "id": "13414",
-          "name": "Kaelon Black",
-          "pos": "RB",
-          "team": "SF",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 161
         },
         {
           "id": "5045",
@@ -1050,16 +1050,6 @@
         }
       ],
       "reserve": [
-        {
-          "id": "7569",
-          "name": "Nico Collins",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 21
-        },
         {
           "id": "9502",
           "name": "Tank Dell",
@@ -2974,6 +2964,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1411560406647898112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790904735770,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "13414",
+            "name": "Kaelon Black",
+            "pos": "RB",
+            "team": "SF",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 161
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "roster_ids": [
+        2
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1411017884934721536",
       "type": "free_agent",
       "status": "complete",
@@ -3228,6 +3245,16 @@
         "rank": 157
       },
       {
+        "id": "13414",
+        "name": "Kaelon Black",
+        "pos": "RB",
+        "team": "SF",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 161
+      },
+      {
         "id": "11575",
         "name": "Ray Davis",
         "pos": "RB",
@@ -3356,16 +3383,6 @@
         "status": "Active",
         "depth": 4,
         "rank": 222
-      },
-      {
-        "id": "5995",
-        "name": "Justice Hill",
-        "pos": "RB",
-        "team": "BAL",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 224
       }
     ],
     "WR": [
@@ -3867,7 +3884,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 393255
+      "adds": 379098
     },
     {
       "id": "11571",
@@ -3878,7 +3895,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 294192
+      "adds": 292104
     },
     {
       "id": "CLE",
@@ -3889,7 +3906,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 244594
+      "adds": 232743
     },
     {
       "id": "3271",
@@ -3900,7 +3917,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 232722
+      "adds": 221832
     },
     {
       "id": "2505",
@@ -3911,7 +3928,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 353,
-      "adds": 226656
+      "adds": 217071
     },
     {
       "id": "11630",
@@ -3922,7 +3939,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 157761
+      "adds": 155187
     },
     {
       "id": "9757",
@@ -3933,7 +3950,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 127058
+      "adds": 124200
     },
     {
       "id": "LV",
@@ -3944,7 +3961,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107298
+      "adds": 101964
     },
     {
       "id": "12472",
@@ -3955,7 +3972,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 93664
+      "adds": 89432
     },
     {
       "id": "8168",
@@ -3966,7 +3983,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 92808
+      "adds": 88832
     },
     {
       "id": "11643",
@@ -3977,7 +3994,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 87760
+      "adds": 85490
     },
     {
       "id": "11581",
@@ -3988,7 +4005,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 76716
+      "adds": 73719
     },
     {
       "id": "6083",
@@ -3999,7 +4016,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 70625
+      "adds": 67575
     },
     {
       "id": "7049",
@@ -4010,7 +4027,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 68600
+      "adds": 66339
     },
     {
       "id": "ARI",
@@ -4021,7 +4038,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66824
+      "adds": 65920
     },
     {
       "id": "11603",
@@ -4032,7 +4049,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 54054
+      "adds": 52062
     },
     {
       "id": "CHI",
@@ -4043,7 +4060,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51260
+      "adds": 48817
     },
     {
       "id": "11792",
@@ -4054,18 +4071,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 39984
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 198,
-      "adds": 37492
+      "adds": 38010
     },
     {
       "id": "BUF",
@@ -4076,7 +4082,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36608
+      "adds": 35898
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 198,
+      "adds": 34888
     }
   ]
 }
