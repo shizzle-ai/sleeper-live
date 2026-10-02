@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T16:51:54.820Z",
+  "generated_at": "2026-10-02T17:01:15.157Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1098,16 +1098,6 @@
           "rank": 37
         },
         {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "pos": "RB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 95
-        },
-        {
           "id": "2307",
           "name": "Marcus Mariota",
           "pos": "QB",
@@ -1148,6 +1138,16 @@
           "rank": 55
         },
         {
+          "id": "7611",
+          "name": "Rhamondre Stevenson",
+          "pos": "RB",
+          "team": "NE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 58
+        },
+        {
           "id": "8144",
           "name": "Chris Olave",
           "pos": "WR",
@@ -1180,14 +1180,14 @@
       ],
       "bench": [
         {
-          "id": "11566",
-          "name": "Jayden Daniels",
-          "pos": "QB",
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "pos": "RB",
           "team": "WAS",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
-          "rank": 20
+          "depth": 1,
+          "rank": 95
         },
         {
           "id": "13286",
@@ -1200,14 +1200,14 @@
           "rank": 52
         },
         {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "pos": "WR",
-          "team": "MIA",
-          "injury": "Out",
+          "id": "13425",
+          "name": "Jalon Daniels",
+          "pos": "QB",
+          "team": "TB",
+          "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 199
+          "depth": 1,
+          "rank": 647
         },
         {
           "id": "2216",
@@ -1238,19 +1238,30 @@
           "status": "Active",
           "depth": 1,
           "rank": 92
-        },
-        {
-          "id": "7611",
-          "name": "Rhamondre Stevenson",
-          "pos": "RB",
-          "team": "NE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 58
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 20
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 199
+        }
+      ],
       "taxi": [],
       "waiver_position": 4,
       "faab_used": 0
@@ -2964,6 +2975,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1411792906209034240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790960167985,
+      "adds": [
+        {
+          "player": {
+            "id": "13425",
+            "name": "Jalon Daniels",
+            "pos": "QB",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 647
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1411560406647898112",
       "type": "free_agent",
       "status": "complete",
@@ -3884,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 460071
+      "adds": 463869
     },
     {
       "id": "11571",
@@ -3895,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 388395
+      "adds": 390258
     },
     {
       "id": "12718",
@@ -3906,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 273141
+      "adds": 273744
     },
     {
       "id": "2505",
@@ -3917,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 197577
+      "adds": 198369
     },
     {
       "id": "3271",
@@ -3928,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 178218
+      "adds": 178767
     },
     {
       "id": "CLE",
@@ -3939,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 138271
+      "adds": 138397
     },
     {
       "id": "9757",
@@ -3950,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 124554
+      "adds": 124838
     },
     {
       "id": "11643",
@@ -3961,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 100204
+      "adds": 100680
     },
     {
       "id": "LV",
@@ -3972,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90276
+      "adds": 90624
     },
     {
       "id": "ARI",
@@ -3983,7 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70456
+      "adds": 70760
     },
     {
       "id": "8168",
@@ -3994,7 +4032,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 69624
+      "adds": 69912
     },
     {
       "id": "11581",
@@ -4005,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 69039
+      "adds": 69282
     },
     {
       "id": "7049",
@@ -4016,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64148
+      "adds": 64414
     },
     {
       "id": "6083",
@@ -4027,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 58415
+      "adds": 58645
     },
     {
       "id": "12472",
@@ -4038,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 58056
+      "adds": 58120
     },
     {
       "id": "11603",
@@ -4049,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 45720
+      "adds": 45936
     },
     {
       "id": "BUF",
@@ -4060,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40262
+      "adds": 40452
     },
     {
       "id": "CHI",
@@ -4071,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38216
+      "adds": 38338
     },
     {
       "id": "5995",
@@ -4082,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 30951
+      "adds": 31131
     },
     {
       "id": "11792",
@@ -4093,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 30381
+      "adds": 30498
     }
   ]
 }
