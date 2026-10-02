@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T21:21:43.276Z",
+  "generated_at": "2026-10-02T21:35:22.172Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 639405
+      "adds": 636975
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 473832
+      "adds": 430956
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 259794
+      "adds": 231750
     },
     {
       "id": "2505",
@@ -3955,18 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 221922
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 197550
+      "adds": 205479
     },
     {
       "id": "7049",
@@ -3977,18 +3966,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 183869
+      "adds": 183960
     },
     {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 132326
+      "depth": 1,
+      "rank": 652,
+      "adds": 181962
     },
     {
       "id": "11643",
@@ -3999,18 +3988,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 108646
+      "adds": 96654
     },
     {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 98441
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 88024
     },
     {
       "id": "LV",
@@ -4021,18 +4010,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 93516
+      "adds": 86862
     },
     {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 78093
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 80633
     },
     {
       "id": "ARI",
@@ -4043,7 +4032,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73952
+      "adds": 69808
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 69471
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 70448
+      "adds": 63856
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 58445
+      "adds": 53525
     },
     {
       "id": "11603",
@@ -4076,18 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 46116
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 44480
+      "adds": 42216
     },
     {
       "id": "BUF",
@@ -4098,29 +4087,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41042
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 224,
-      "adds": 37710
-    },
-    {
-      "id": "CHI",
-      "name": "Chicago Bears",
-      "pos": "DEF",
-      "team": "CHI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 36852
+      "adds": 37701
     },
     {
       "id": "11256",
@@ -4131,7 +4098,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 546,
-      "adds": 34494
+      "adds": 35562
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 34240
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "pos": "DEF",
+      "team": "CHI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 34015
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 224,
+      "adds": 33975
     }
   ]
 }
