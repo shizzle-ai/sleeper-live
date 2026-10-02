@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-02T17:01:15.157Z",
+  "generated_at": "2026-10-02T17:18:09.027Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1132,7 +1132,7 @@
           "name": "Terry McLaurin",
           "pos": "WR",
           "team": "WAS",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 55
@@ -1977,7 +1977,7 @@
           "name": "Rachaad White",
           "pos": "RB",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 125
@@ -1999,7 +1999,7 @@
           "name": "Caleb Williams",
           "pos": "QB",
           "team": "CHI",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 21
@@ -3661,7 +3661,7 @@
         "name": "Chig Okonkwo",
         "pos": "TE",
         "team": "WAS",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 137
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 463869
+      "adds": 475533
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 390258
+      "adds": 402894
     },
     {
       "id": "12718",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 273744
+      "adds": 276372
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 198369
+      "adds": 202527
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 178767
+      "adds": 181044
     },
     {
       "id": "CLE",
@@ -3977,7 +3977,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 138397
+      "adds": 138614
     },
     {
       "id": "9757",
@@ -3988,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 124838
+      "adds": 126522
     },
     {
       "id": "11643",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 100680
+      "adds": 102170
     },
     {
       "id": "LV",
@@ -4010,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 90624
+      "adds": 91884
     },
     {
       "id": "ARI",
@@ -4021,18 +4021,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70760
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 69912
+      "adds": 71848
     },
     {
       "id": "11581",
@@ -4043,7 +4032,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 69282
+      "adds": 71469
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 70960
     },
     {
       "id": "7049",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 123,
-      "adds": 64414
+      "adds": 65912
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 58645
+      "adds": 59495
     },
     {
       "id": "12472",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 58120
+      "adds": 58336
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 45936
+      "adds": 46638
     },
     {
       "id": "BUF",
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40452
+      "adds": 40881
     },
     {
       "id": "CHI",
@@ -4109,7 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38338
+      "adds": 38812
     },
     {
       "id": "5995",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 31131
+      "adds": 32013
     },
     {
       "id": "11792",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 173,
-      "adds": 30498
+      "adds": 30891
     }
   ]
 }
