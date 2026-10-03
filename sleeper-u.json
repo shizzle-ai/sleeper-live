@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T00:22:32.812Z",
+  "generated_at": "2026-10-03T00:42:30.198Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -794,7 +794,7 @@
           "team": "SEA",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 161
         },
         {
@@ -866,7 +866,7 @@
           "team": "SEA",
           "injury": "PUP",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 101
         }
       ],
@@ -1164,7 +1164,7 @@
           "team": "MIN",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 99
         },
         {
@@ -1196,7 +1196,7 @@
           "team": "SEA",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 8,
           "rank": 52
         },
         {
@@ -1979,7 +1979,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 125
         },
         {
@@ -1989,7 +1989,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 207
         }
       ],
@@ -2001,7 +2001,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 21
         },
         {
@@ -2170,7 +2170,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 7,
           "rank": 33
         },
         {
@@ -2542,7 +2542,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 91
         },
         {
@@ -2922,7 +2922,7 @@
           "team": "MIN",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 5,
           "rank": 12
         },
         {
@@ -2964,7 +2964,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 4,
           "rank": 94
         }
       ],
@@ -3279,7 +3279,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 157
       },
       {
@@ -3451,7 +3451,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 123
       },
       {
@@ -3713,7 +3713,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 212
       },
       {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 690570
+      "adds": 684117
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 402192
+      "adds": 361890
     },
     {
       "id": "7049",
@@ -3942,20 +3942,9 @@
       "team": "MIN",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 123,
-      "adds": 222810
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 198000
+      "adds": 220577
     },
     {
       "id": "2505",
@@ -3966,7 +3955,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 195237
+      "adds": 178200
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 169578
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 180999
+      "adds": 165618
     },
     {
       "id": "LV",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82776
+      "adds": 75144
     },
     {
       "id": "11643",
@@ -3999,29 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 77346
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 65610
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 64552
+      "adds": 68952
     },
     {
       "id": "11581",
@@ -4032,7 +4010,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 64548
+      "adds": 59076
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 57504
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 56536
+    },
+    {
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 546,
+      "adds": 56424
     },
     {
       "id": "8168",
@@ -4043,18 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 58272
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 546,
-      "adds": 54096
+      "adds": 52216
     },
     {
       "id": "6083",
@@ -4065,18 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 48045
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 42595
+      "adds": 42580
     },
     {
       "id": "11603",
@@ -4087,7 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 38604
+      "adds": 34338
     },
     {
       "id": "13150",
@@ -4096,9 +4085,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 3,
       "rank": 658,
-      "adds": 36330
+      "adds": 34174
     },
     {
       "id": "13311",
@@ -4109,7 +4098,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 34118
+      "adds": 32795
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 29956
     },
     {
       "id": "BUF",
@@ -4120,7 +4120,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32876
+      "adds": 28459
     },
     {
       "id": "5995",
@@ -4131,7 +4131,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 31617
+      "adds": 28449
     }
   ]
 }
