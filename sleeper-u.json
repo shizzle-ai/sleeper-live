@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T00:42:30.198Z",
+  "generated_at": "2026-10-03T00:57:36.198Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 684117
+      "adds": 689688
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 361890
+      "adds": 364221
     },
     {
       "id": "7049",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 123,
-      "adds": 220577
+      "adds": 224007
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 178200
+      "adds": 179892
     },
     {
       "id": "12718",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 169578
+      "adds": 170271
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 165618
+      "adds": 167202
     },
     {
       "id": "LV",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75144
+      "adds": 75954
     },
     {
       "id": "11643",
@@ -3999,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 68952
+      "adds": 69350
     },
     {
       "id": "11581",
@@ -4010,29 +4010,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 59076
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 57504
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 56536
+      "adds": 59409
     },
     {
       "id": "11256",
@@ -4043,7 +4021,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 56424
+      "adds": 58032
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 58008
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 56854
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 52216
+      "adds": 52696
     },
     {
       "id": "6083",
@@ -4065,18 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 42580
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 34338
+      "adds": 42970
     },
     {
       "id": "13150",
@@ -4087,7 +4076,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 34174
+      "adds": 34741
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 34620
     },
     {
       "id": "13311",
@@ -4098,7 +4098,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 32795
+      "adds": 33383
     },
     {
       "id": "4663",
@@ -4109,18 +4109,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 29956
-    },
-    {
-      "id": "BUF",
-      "name": "Buffalo Bills",
-      "pos": "DEF",
-      "team": "BUF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 28459
+      "adds": 30552
     },
     {
       "id": "5995",
@@ -4131,7 +4120,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 28449
+      "adds": 28683
+    },
+    {
+      "id": "BUF",
+      "name": "Buffalo Bills",
+      "pos": "DEF",
+      "team": "BUF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 28626
     }
   ]
 }
