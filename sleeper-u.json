@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T02:25:43.495Z",
+  "generated_at": "2026-10-03T02:49:07.593Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 675036
+      "adds": 599823
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 349281
+      "adds": 329913
     },
     {
       "id": "7049",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 123,
-      "adds": 237440
+      "adds": 237405
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 177498
+      "adds": 169866
     },
     {
       "id": "3271",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 164979
+      "adds": 157734
     },
     {
       "id": "12718",
@@ -3977,18 +3977,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 153351
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 73062
+      "adds": 134991
     },
     {
       "id": "11256",
@@ -3999,7 +3988,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 67392
+      "adds": 69264
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 67806
     },
     {
       "id": "11643",
@@ -4010,7 +4010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 65402
+      "adds": 60876
     },
     {
       "id": "11581",
@@ -4021,7 +4021,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 57267
+      "adds": 54477
     },
     {
       "id": "ARI",
@@ -4032,18 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54368
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 53018
+      "adds": 50392
     },
     {
       "id": "8168",
@@ -4054,7 +4043,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 51960
+      "adds": 48960
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 48956
     },
     {
       "id": "6083",
@@ -4065,18 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 41390
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 35483
+      "adds": 38895
     },
     {
       "id": "13311",
@@ -4087,7 +4076,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 35420
+      "adds": 35035
     },
     {
       "id": "4663",
@@ -4098,7 +4087,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 34148
+      "adds": 34916
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 34202
     },
     {
       "id": "11603",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 33306
+      "adds": 31296
     },
     {
       "id": "5995",
@@ -4120,18 +4120,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 27810
+      "adds": 26379
     },
     {
-      "id": "BUF",
-      "name": "Buffalo Bills",
-      "pos": "DEF",
-      "team": "BUF",
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26698
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 25216
     }
   ]
 }
