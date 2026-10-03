@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T11:08:22.429Z",
+  "generated_at": "2026-10-03T14:32:13.920Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 540693
+      "adds": 498087
     },
     {
       "id": "11571",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 300312
+      "adds": 283068
     },
     {
       "id": "2505",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 162225
+      "adds": 156843
     },
     {
       "id": "3271",
@@ -3997,18 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 153108
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 95832
+      "adds": 152496
     },
     {
       "id": "11256",
@@ -4019,7 +4008,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 87330
+      "adds": 97542
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85122
     },
     {
       "id": "LV",
@@ -4030,29 +4030,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60492
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 174,
-      "adds": 51366
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 49122
+      "adds": 58248
     },
     {
       "id": "4663",
@@ -4063,7 +4041,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 47024
+      "adds": 55536
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 45981
     },
     {
       "id": "ARI",
@@ -4074,29 +4063,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46272
+      "adds": 45080
     },
     {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 608,
-      "adds": 44728
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
+      "id": "11643",
+      "name": "Jaylen Wright",
       "pos": "RB",
-      "team": "NO",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 180,
-      "adds": 40602
+      "rank": 174,
+      "adds": 44032
     },
     {
       "id": "13311",
@@ -4107,7 +4085,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 39326
+      "adds": 42784
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 608,
+      "adds": 42520
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 36350
     },
     {
       "id": "13150",
@@ -4118,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 35721
+      "adds": 36113
     },
     {
       "id": "6083",
@@ -4129,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 35135
+      "adds": 33545
     },
     {
       "id": "11603",
@@ -4140,18 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 27330
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 223,
-      "adds": 25101
+      "adds": 25560
     },
     {
       "id": "12492",
@@ -4162,7 +4151,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 25008
+      "adds": 24888
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 223,
+      "adds": 24651
     },
     {
       "id": "11608",
@@ -4173,7 +4173,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 23304
+      "adds": 24546
     }
   ]
 }
