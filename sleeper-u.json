@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T01:09:54.454Z",
+  "generated_at": "2026-10-03T01:24:20.186Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3922,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 693909
+      "adds": 698859
     },
     {
       "id": "11571",
@@ -3933,7 +3933,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 365778
+      "adds": 367938
     },
     {
       "id": "7049",
@@ -3944,7 +3944,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 123,
-      "adds": 226541
+      "adds": 229544
     },
     {
       "id": "2505",
@@ -3955,7 +3955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 181260
+      "adds": 182628
     },
     {
       "id": "12718",
@@ -3966,7 +3966,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 170811
+      "adds": 171450
     },
     {
       "id": "3271",
@@ -3977,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 168210
+      "adds": 169668
     },
     {
       "id": "LV",
@@ -3988,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76458
+      "adds": 77088
     },
     {
       "id": "11643",
@@ -3999,18 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 69628
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 59733
+      "adds": 69916
     },
     {
       "id": "11256",
@@ -4021,7 +4010,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 59364
+      "adds": 61440
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 60075
     },
     {
       "id": "ARI",
@@ -4032,7 +4032,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 58496
+      "adds": 58992
     },
     {
       "id": "9757",
@@ -4043,7 +4043,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 57096
+      "adds": 57368
     },
     {
       "id": "8168",
@@ -4054,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 53024
+      "adds": 53416
     },
     {
       "id": "6083",
@@ -4065,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43270
+      "adds": 43555
     },
     {
       "id": "13150",
@@ -4076,7 +4076,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 35210
+      "adds": 35686
     },
     {
       "id": "11603",
@@ -4087,7 +4087,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 34806
+      "adds": 34998
     },
     {
       "id": "13311",
@@ -4098,7 +4098,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 33803
+      "adds": 34286
     },
     {
       "id": "4663",
@@ -4109,7 +4109,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 31064
+      "adds": 31544
     },
     {
       "id": "5995",
@@ -4120,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 224,
-      "adds": 28872
+      "adds": 29034
     },
     {
       "id": "BUF",
@@ -4131,7 +4131,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28773
+      "adds": 28897
     }
   ]
 }
