@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-03T10:39:34.086Z",
+  "generated_at": "2026-10-03T11:08:22.429Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -525,9 +525,9 @@
         "6806": 0,
         "6904": 0,
         "7042": 0,
+        "7049": 0,
         "8138": 0,
         "8155": 0,
-        "10213": 0,
         "11559": 0,
         "11576": 0,
         "11620": 0,
@@ -2886,16 +2886,6 @@
       ],
       "bench": [
         {
-          "id": "10213",
-          "name": "Tre Tucker",
-          "pos": "WR",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 187
-        },
-        {
           "id": "11559",
           "name": "Michael Penix",
           "pos": "QB",
@@ -2936,6 +2926,16 @@
           "rank": 68
         },
         {
+          "id": "7049",
+          "name": "Jauan Jennings",
+          "pos": "WR",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 123
+        },
+        {
           "id": "8155",
           "name": "Breece Hall",
           "pos": "RB",
@@ -2974,6 +2974,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1412063332214591488",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791024642570,
+      "adds": [
+        {
+          "player": {
+            "id": "7049",
+            "name": "Jauan Jennings",
+            "pos": "WR",
+            "team": "MIN",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 123
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "10213",
+            "name": "Tre Tucker",
+            "pos": "WR",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 187
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1411792906209034240",
       "type": "free_agent",
@@ -3445,16 +3487,6 @@
         "rank": 103
       },
       {
-        "id": "7049",
-        "name": "Jauan Jennings",
-        "pos": "WR",
-        "team": "MIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 123
-      },
-      {
         "id": "13301",
         "name": "Antonio Williams",
         "pos": "WR",
@@ -3573,6 +3605,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 185
+      },
+      {
+        "id": "10213",
+        "name": "Tre Tucker",
+        "pos": "WR",
+        "team": "LV",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 187
       },
       {
         "id": "12536",
@@ -3922,7 +3964,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 538254
+      "adds": 540693
     },
     {
       "id": "11571",
@@ -3933,18 +3975,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 299097
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 123,
-      "adds": 265307
+      "adds": 300312
     },
     {
       "id": "2505",
@@ -3955,7 +3986,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 354,
-      "adds": 161343
+      "adds": 162225
     },
     {
       "id": "3271",
@@ -3966,7 +3997,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 152235
+      "adds": 153108
     },
     {
       "id": "12718",
@@ -3977,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 95508
+      "adds": 95832
     },
     {
       "id": "11256",
@@ -3988,7 +4019,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 546,
-      "adds": 86496
+      "adds": 87330
     },
     {
       "id": "LV",
@@ -3999,7 +4030,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60192
+      "adds": 60492
     },
     {
       "id": "11643",
@@ -4010,7 +4041,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 174,
-      "adds": 51190
+      "adds": 51366
     },
     {
       "id": "11581",
@@ -4021,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 48888
+      "adds": 49122
     },
     {
       "id": "4663",
@@ -4032,7 +4063,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 46356
+      "adds": 47024
     },
     {
       "id": "ARI",
@@ -4043,7 +4074,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45880
+      "adds": 46272
     },
     {
       "id": "8168",
@@ -4054,7 +4085,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 44472
+      "adds": 44728
     },
     {
       "id": "9757",
@@ -4065,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 40462
+      "adds": 40602
     },
     {
       "id": "13311",
@@ -4076,7 +4107,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 38955
+      "adds": 39326
     },
     {
       "id": "13150",
@@ -4087,7 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 35336
+      "adds": 35721
     },
     {
       "id": "6083",
@@ -4098,7 +4129,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 34920
+      "adds": 35135
     },
     {
       "id": "11603",
@@ -4109,7 +4140,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 27168
+      "adds": 27330
     },
     {
       "id": "5995",
@@ -4120,7 +4151,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 24921
+      "adds": 25101
     },
     {
       "id": "12492",
@@ -4131,7 +4162,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 24856
+      "adds": 25008
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 23304
     }
   ]
 }
