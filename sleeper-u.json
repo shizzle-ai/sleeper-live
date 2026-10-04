@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T22:18:14.507Z",
+  "generated_at": "2026-10-04T22:32:25.794Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 138.36,
+      "points": 140.26,
       "starters": [
         {
           "id": "4046",
@@ -371,25 +371,25 @@
         6.1,
         27.7,
         3.3,
-        2.7,
-        9.8,
+        4.4,
+        10,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 11.2,
+        "1166": 12.08,
         "3451": 16,
         "4035": 0,
         "4046": 10.34,
-        "4199": 9.8,
-        "4217": 2.7,
+        "4199": 10,
+        "4217": 4.4,
         "6770": 25.72,
         "8150": 36.7,
         "9493": 27.7,
         "10236": 1.7,
         "11584": 6.1,
-        "11610": 6.6,
+        "11610": 12,
         "11625": 0,
         "11637": 23.6,
         "12514": 3.3,
@@ -522,7 +522,7 @@
         "3163": 0,
         "5022": 0,
         "6794": 0,
-        "6806": 2.5,
+        "6806": 3.1,
         "6904": 13.52,
         "7049": 1.8,
         "8138": 16.3,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 431127
+      "adds": 433683
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 420345
+      "adds": 409122
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 178704
+      "adds": 170550
     },
     {
       "id": "ARI",
@@ -4249,18 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139808
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 133632
+      "adds": 137144
     },
     {
       "id": "13150",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 131586
+      "adds": 131467
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 129357
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 108668
+      "adds": 102952
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76524
+      "adds": 75048
     },
     {
       "id": "4018",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 71320
+      "adds": 68526
     },
     {
       "id": "13264",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 62541
+      "adds": 64467
     },
     {
       "id": "6083",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 61125
+      "adds": 59675
     },
     {
       "id": "3155",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 56050
+      "adds": 53540
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 54594
+      "adds": 52956
     },
     {
       "id": "13311",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 49994
+      "adds": 47761
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38034
+      "adds": 37086
     },
     {
       "id": "12492",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35576
+      "adds": 34664
     },
     {
       "id": "11603",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 29580
+      "adds": 28554
     },
     {
       "id": "5995",
@@ -4403,18 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 28332
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 24600
+      "adds": 27342
     },
     {
       "id": "8188",
@@ -4425,7 +4414,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 24136
+      "adds": 24773
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 23568
     }
   ]
 }
