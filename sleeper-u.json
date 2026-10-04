@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T23:04:38.071Z",
+  "generated_at": "2026-10-04T23:18:44.227Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 151.62,
+      "points": 153.82,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        14.9,
+        17.1,
         36.7,
         6.1,
         27.7,
@@ -381,7 +381,7 @@
         "1166": 14.64,
         "3451": 16,
         "4035": 0,
-        "4046": 14.9,
+        "4046": 17.1,
         "4199": 16.8,
         "4217": 4.4,
         "6770": 25.72,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 80.66,
+      "points": 86.06,
       "starters": [
         {
           "id": "1373",
@@ -511,7 +511,7 @@
         1.8,
         7.2,
         0,
-        13.9,
+        19.3,
         0,
         19,
         5
@@ -522,7 +522,7 @@
         "3163": 0,
         "5022": 0,
         "6794": 0,
-        "6806": 5.1,
+        "6806": 7.2,
         "6904": 13.52,
         "7049": 1.8,
         "8138": 16.3,
@@ -531,7 +531,7 @@
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
-        "12489": 13.9,
+        "12489": 19.3,
         "13281": 0,
         "13330": 0,
         "PHI": 5
@@ -1395,7 +1395,7 @@
           "name": "Jalen Coker",
           "pos": "WR",
           "team": "CAR",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 132
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 482499
+      "adds": 516636
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 429039
+      "adds": 438705
     },
     {
       "id": "11571",
@@ -4238,18 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 170937
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 137320
+      "adds": 171135
     },
     {
       "id": "13150",
@@ -4260,7 +4249,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 135576
+      "adds": 137578
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 137392
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 131994
+      "adds": 133524
     },
     {
       "id": "4663",
@@ -4282,40 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 103684
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 76836
-    },
-    {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 628,
-      "adds": 73188
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 212,
-      "adds": 70124
+      "adds": 103960
     },
     {
       "id": "8188",
@@ -4326,7 +4293,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 69986
+      "adds": 89971
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 77634
+    },
+    {
+      "id": "13264",
+      "name": "Dohnte Meyers",
+      "pos": "WR",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 628,
+      "adds": 77517
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": "Active",
+      "status": "Active",
+      "depth": null,
+      "rank": 212,
+      "adds": 70817
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 61390
+      "adds": 64455
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 54225
+      "adds": 54891
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 54010
+      "adds": 54300
     },
     {
       "id": "13311",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 47859
+      "adds": 47880
     },
     {
       "id": "8154",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38904
+      "adds": 40086
     },
     {
       "id": "12492",
@@ -4392,18 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35496
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 28650
+      "adds": 35552
     },
     {
       "id": "9482",
@@ -4414,7 +4403,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 27828
+      "adds": 30528
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 28710
     },
     {
       "id": "5995",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 27477
+      "adds": 27612
     }
   ]
 }
