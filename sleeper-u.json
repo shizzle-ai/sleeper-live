@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T21:37:49.534Z",
+  "generated_at": "2026-10-04T21:53:05.247Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -378,7 +378,7 @@
         0
       ],
       "players_points": {
-        "1166": 8.44,
+        "1166": 9.84,
         "3451": 16,
         "4035": 0,
         "4046": 9.66,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 66.46,
+      "points": 69.36,
       "starters": [
         {
           "id": "1373",
@@ -511,7 +511,7 @@
         1.8,
         7.2,
         0,
-        6.7,
+        9.6,
         0,
         12,
         5
@@ -531,7 +531,7 @@
         "11576": 8.7,
         "11620": 15.4,
         "11792": 12,
-        "12489": 6.7,
+        "12489": 9.6,
         "13281": 0,
         "13330": 0,
         "PHI": 5
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 413343
+      "adds": 419769
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 401850
+      "adds": 408654
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 178308
+      "adds": 178524
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139712
+      "adds": 139728
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 130284
+      "adds": 131616
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 127344
+      "adds": 128961
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 107952
+      "adds": 108192
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73560
+      "adds": 74376
     },
     {
       "id": "4018",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 69344
+      "adds": 70162
     },
     {
       "id": "6083",
@@ -4315,18 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 59255
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 674,
-      "adds": 55555
+      "adds": 59955
     },
     {
       "id": "13264",
@@ -4337,7 +4326,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 54396
+      "adds": 57339
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 674,
+      "adds": 55725
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53433
+      "adds": 53919
     },
     {
       "id": "13311",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 49924
+      "adds": 49945
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 36540
+      "adds": 37014
     },
     {
       "id": "12492",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35464
+      "adds": 35480
     },
     {
       "id": "11603",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 29412
+      "adds": 29496
     },
     {
       "id": "5995",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 28188
+      "adds": 28260
     },
     {
       "id": "6039",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 24558
+      "adds": 24570
     },
     {
       "id": "GB",
@@ -4425,7 +4425,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23069
+      "adds": 23080
     }
   ]
 }
