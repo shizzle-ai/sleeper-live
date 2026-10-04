@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T22:02:02.241Z",
+  "generated_at": "2026-10-04T22:18:14.507Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 137.28,
+      "points": 138.36,
       "starters": [
         {
           "id": "4046",
@@ -366,30 +366,30 @@
         }
       ],
       "starters_points": [
-        9.66,
+        10.34,
         36.7,
         6.1,
         27.7,
         3.3,
         2.7,
-        9.4,
+        9.8,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 10.92,
+        "1166": 11.2,
         "3451": 16,
         "4035": 0,
-        "4046": 9.66,
-        "4199": 9.4,
+        "4046": 10.34,
+        "4199": 9.8,
         "4217": 2.7,
         "6770": 25.72,
         "8150": 36.7,
         "9493": 27.7,
         "10236": 1.7,
         "11584": 6.1,
-        "11610": 5,
+        "11610": 6.6,
         "11625": 0,
         "11637": 23.6,
         "12514": 3.3,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 69.36,
+      "points": 73.36,
       "starters": [
         {
           "id": "1373",
@@ -513,7 +513,7 @@
         0,
         9.6,
         0,
-        12,
+        16,
         5
       ],
       "players_points": {
@@ -522,7 +522,7 @@
         "3163": 0,
         "5022": 0,
         "6794": 0,
-        "6806": 2.3,
+        "6806": 2.5,
         "6904": 13.52,
         "7049": 1.8,
         "8138": 16.3,
@@ -530,7 +530,7 @@
         "11559": 0,
         "11576": 8.7,
         "11620": 15.4,
-        "11792": 12,
+        "11792": 16,
         "12489": 9.6,
         "13281": 0,
         "13330": 0,
@@ -3763,7 +3763,7 @@
         "name": "Jalen Nailor",
         "pos": "WR",
         "team": "LV",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 171
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 424395
+      "adds": 431127
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 413091
+      "adds": 420345
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 178614
+      "adds": 178704
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139744
+      "adds": 139808
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 132354
+      "adds": 133632
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 130004
+      "adds": 131586
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 108356
+      "adds": 108668
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74844
+      "adds": 76524
     },
     {
       "id": "4018",
@@ -4304,18 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 70601
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 60305
+      "adds": 71320
     },
     {
       "id": "13264",
@@ -4326,7 +4315,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 59274
+      "adds": 62541
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 61125
     },
     {
       "id": "3155",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 55850
+      "adds": 56050
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 54162
+      "adds": 54594
     },
     {
       "id": "13311",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 49973
+      "adds": 49994
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 37404
+      "adds": 38034
     },
     {
       "id": "12492",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35512
+      "adds": 35576
     },
     {
       "id": "11603",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 29550
+      "adds": 29580
     },
     {
       "id": "5995",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 28269
+      "adds": 28332
     },
     {
       "id": "6039",
@@ -4414,18 +4414,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 24582
+      "adds": 24600
     },
     {
-      "id": "GB",
-      "name": "Green Bay Packers",
-      "pos": "DEF",
-      "team": "GB",
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 23090
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 24136
     }
   ]
 }
