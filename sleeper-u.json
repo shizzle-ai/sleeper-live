@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T01:26:12.296Z",
+  "generated_at": "2026-10-04T04:02:19.471Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2223,6 +2223,16 @@
       },
       "starters": [
         {
+          "id": "12495",
+          "name": "Ollie Gordon",
+          "pos": "RB",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 461
+        },
+        {
           "id": "12506",
           "name": "Harold Fannin",
           "pos": "TE",
@@ -2303,16 +2313,6 @@
           "rank": 155
         },
         {
-          "id": "9757",
-          "name": "Kendre Miller",
-          "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 180
-        },
-        {
           "id": "PIT",
           "name": "Pittsburgh Steelers",
           "pos": "DEF",
@@ -2333,16 +2333,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 73
-        },
-        {
-          "id": "12495",
-          "name": "Ollie Gordon",
-          "pos": "RB",
-          "team": "MIA",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 461
         },
         {
           "id": "5012",
@@ -2383,6 +2373,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 119
+        },
+        {
+          "id": "9508",
+          "name": "Tyjae Spears",
+          "pos": "RB",
+          "team": "TEN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 122
         }
       ],
       "reserve": [
@@ -2975,6 +2975,48 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1412304926784114688",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791082243203,
+      "adds": [
+        {
+          "player": {
+            "id": "9508",
+            "name": "Tyjae Spears",
+            "pos": "RB",
+            "team": "TEN",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 122
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "9757",
+            "name": "Kendre Miller",
+            "pos": "RB",
+            "team": "NO",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 180
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1412281726167695360",
       "type": "free_agent",
       "status": "complete",
@@ -3463,16 +3505,6 @@
         "rank": 110
       },
       {
-        "id": "9508",
-        "name": "Tyjae Spears",
-        "pos": "RB",
-        "team": "TEN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 122
-      },
-      {
         "id": "11647",
         "name": "Kimani Vidal",
         "pos": "RB",
@@ -3581,6 +3613,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 176
+      },
+      {
+        "id": "9757",
+        "name": "Kendre Miller",
+        "pos": "RB",
+        "team": "NO",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 180
       },
       {
         "id": "12455",
@@ -4132,7 +4174,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 358776
+      "adds": 338418
     },
     {
       "id": "11571",
@@ -4143,7 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 160317
+      "adds": 155808
     },
     {
       "id": "3271",
@@ -4154,7 +4196,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 109791
+      "adds": 107064
     },
     {
       "id": "4663",
@@ -4165,7 +4207,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 98304
+      "adds": 103656
     },
     {
       "id": "11256",
@@ -4176,40 +4218,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 97032
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 51144
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 48728
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 48468
+      "adds": 89790
     },
     {
       "id": "11157",
@@ -4220,7 +4229,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 47448
+      "adds": 63855
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 51296
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 49704
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 48657
     },
     {
       "id": "11581",
@@ -4231,40 +4273,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 36936
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 36666
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 35616
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 31440
+      "adds": 37962
     },
     {
       "id": "3155",
@@ -4275,7 +4284,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 31300
+      "adds": 37660
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 35056
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 32247
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 32010
     },
     {
       "id": "8168",
@@ -4286,18 +4328,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 29600
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 25878
+      "adds": 27504
     },
     {
       "id": "8154",
@@ -4308,7 +4339,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 25620
+      "adds": 25152
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 24792
     },
     {
       "id": "11643",
@@ -4319,7 +4361,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 24096
+      "adds": 21752
     },
     {
       "id": "12492",
@@ -4330,7 +4372,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 21432
+      "adds": 21696
     },
     {
       "id": "5995",
@@ -4341,7 +4383,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 20187
+      "adds": 20592
     }
   ]
 }
