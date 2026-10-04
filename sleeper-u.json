@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T22:32:25.794Z",
+  "generated_at": "2026-10-04T22:45:32.155Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 140.26,
+      "points": 149.48,
       "starters": [
         {
           "id": "4046",
@@ -366,23 +366,23 @@
         }
       ],
       "starters_points": [
-        10.34,
+        14.66,
         36.7,
         6.1,
         27.7,
         3.3,
         4.4,
-        10,
+        14.9,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 12.08,
+        "1166": 12.44,
         "3451": 16,
         "4035": 0,
-        "4046": 10.34,
-        "4199": 10,
+        "4046": 14.66,
+        "4199": 14.9,
         "4217": 4.4,
         "6770": 25.72,
         "8150": 36.7,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 73.36,
+      "points": 76.76,
       "starters": [
         {
           "id": "1373",
@@ -511,9 +511,9 @@
         1.8,
         7.2,
         0,
-        9.6,
+        10,
         0,
-        16,
+        19,
         5
       ],
       "players_points": {
@@ -530,8 +530,8 @@
         "11559": 0,
         "11576": 8.7,
         "11620": 15.4,
-        "11792": 16,
-        "12489": 9.6,
+        "11792": 19,
+        "12489": 10,
         "13281": 0,
         "13330": 0,
         "PHI": 5
@@ -2540,7 +2540,7 @@
           "name": "Ladd McConkey",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 433683
+      "adds": 441828
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 409122
+      "adds": 417978
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 170550
+      "adds": 170730
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137144
+      "adds": 137216
     },
     {
       "id": "13150",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 131467
+      "adds": 133245
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 129357
+      "adds": 130527
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 102952
+      "adds": 103248
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75048
+      "adds": 75738
     },
     {
       "id": "4018",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 68526
+      "adds": 69150
     },
     {
       "id": "13264",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 64467
+      "adds": 68022
     },
     {
       "id": "6083",
@@ -4326,84 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 59675
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 674,
-      "adds": 53540
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 52956
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 47761
-    },
-    {
-      "id": "8154",
-      "name": "Brian Robinson",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 80,
-      "adds": 37086
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 34664
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 28554
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 223,
-      "adds": 27342
+      "adds": 60085
     },
     {
       "id": "8188",
@@ -4414,7 +4337,84 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 24773
+      "adds": 58807
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 674,
+      "adds": 53730
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 53523
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 47782
+    },
+    {
+      "id": "8154",
+      "name": "Brian Robinson",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 80,
+      "adds": 37638
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 35184
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 28572
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 223,
+      "adds": 27405
     },
     {
       "id": "6039",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 23568
+      "adds": 23586
     }
   ]
 }
