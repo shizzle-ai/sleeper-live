@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T23:31:37.691Z",
+  "generated_at": "2026-10-04T23:45:26.860Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -378,7 +378,7 @@
         0
       ],
       "players_points": {
-        "1166": 22.44,
+        "1166": 23.6,
         "3451": 16,
         "4035": 0,
         "4046": 17.1,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 570699
+      "adds": 590706
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 432135
+      "adds": 439380
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 164385
+      "adds": 164583
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 137711
+      "adds": 139349
     },
     {
       "id": "ARI",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134776
+      "adds": 134848
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 129996
+      "adds": 131130
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 99232
+      "adds": 99412
     },
     {
       "id": "8188",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 92981
+      "adds": 94318
     },
     {
       "id": "13264",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 81162
+      "adds": 84564
     },
     {
       "id": "LV",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75624
+      "adds": 76074
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 68463
+      "adds": 68966
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 64045
+      "adds": 65095
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53505
+      "adds": 53964
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 52260
+      "adds": 52490
     },
     {
       "id": "13311",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 39732
+      "adds": 40506
     },
     {
       "id": "12492",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 34896
+      "adds": 34960
     },
     {
       "id": "9482",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 32238
+      "adds": 34632
     },
     {
       "id": "11603",
@@ -4414,18 +4414,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 27900
+      "adds": 27942
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
+      "id": "11729",
+      "name": "Sione Vaki",
       "pos": "RB",
-      "team": "BAL",
+      "team": "DET",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 223,
-      "adds": 26820
+      "rank": 527,
+      "adds": 27419
     }
   ]
 }
