@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T21:11:17.975Z",
+  "generated_at": "2026-10-04T21:37:49.534Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 131.4,
+      "points": 134.58,
       "starters": [
         {
           "id": "4046",
@@ -366,30 +366,30 @@
         }
       ],
       "starters_points": [
-        7.18,
+        9.66,
         36.7,
         6.1,
         27.7,
         3.3,
         2.7,
-        6,
+        6.7,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 6.44,
+        "1166": 8.44,
         "3451": 16,
         "4035": 0,
-        "4046": 7.18,
-        "4199": 6,
+        "4046": 9.66,
+        "4199": 6.7,
         "4217": 2.7,
         "6770": 25.72,
         "8150": 36.7,
         "9493": 27.7,
         "10236": 1.7,
         "11584": 6.1,
-        "11610": 2.9,
+        "11610": 5,
         "11625": 0,
         "11637": 23.6,
         "12514": 3.3,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 63.46,
+      "points": 66.46,
       "starters": [
         {
           "id": "1373",
@@ -513,7 +513,7 @@
         0,
         6.7,
         0,
-        9,
+        12,
         5
       ],
       "players_points": {
@@ -522,7 +522,7 @@
         "3163": 0,
         "5022": 0,
         "6794": 0,
-        "6806": 0,
+        "6806": 2.3,
         "6904": 13.52,
         "7049": 1.8,
         "8138": 16.3,
@@ -530,7 +530,7 @@
         "11559": 0,
         "11576": 8.7,
         "11620": 15.4,
-        "11792": 9,
+        "11792": 12,
         "12489": 6.7,
         "13281": 0,
         "13330": 0,
@@ -4208,17 +4208,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 688,
-      "adds": 412290
-    },
-    {
       "id": "11157",
       "name": "Brycen Tremayne",
       "pos": "WR",
@@ -4227,7 +4216,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 409356
+      "adds": 413343
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 688,
+      "adds": 401850
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 190080
+      "adds": 178308
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 142496
+      "adds": 139712
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 136692
+      "adds": 130284
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 127148
+      "adds": 127344
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 116212
+      "adds": 107952
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74922
+      "adds": 73560
     },
     {
       "id": "4018",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 71216
+      "adds": 69344
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 60920
+      "adds": 59255
     },
     {
       "id": "3155",
@@ -4326,29 +4326,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 58925
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 55926
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 53228
+      "adds": 55555
     },
     {
       "id": "13264",
@@ -4359,7 +4337,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 49950
+      "adds": 54396
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 53433
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 49924
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 37830
+      "adds": 36540
     },
     {
       "id": "12492",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 36640
+      "adds": 35464
     },
     {
       "id": "11603",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 30702
+      "adds": 29412
     },
     {
       "id": "5995",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 29610
+      "adds": 28188
     },
     {
       "id": "6039",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 26088
+      "adds": 24558
     },
     {
       "id": "GB",
@@ -4425,7 +4425,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23905
+      "adds": 23069
     }
   ]
 }
