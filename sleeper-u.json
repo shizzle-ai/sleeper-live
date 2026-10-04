@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T23:18:44.227Z",
+  "generated_at": "2026-10-04T23:31:37.691Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 153.82,
+      "points": 166.42,
       "starters": [
         {
           "id": "4046",
@@ -371,19 +371,19 @@
         6.1,
         27.7,
         3.3,
-        4.4,
+        17,
         16.8,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 14.64,
+        "1166": 22.44,
         "3451": 16,
         "4035": 0,
         "4046": 17.1,
         "4199": 16.8,
-        "4217": 4.4,
+        "4217": 17,
         "6770": 25.72,
         "8150": 36.7,
         "9493": 27.7,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 516636
+      "adds": 570699
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 438705
+      "adds": 432135
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 171135
+      "adds": 164385
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 137578
+      "adds": 137711
     },
     {
       "id": "ARI",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137392
+      "adds": 134776
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 133524
+      "adds": 129996
     },
     {
       "id": "4663",
@@ -4282,29 +4282,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 103960
+      "adds": 99232
     },
     {
       "id": "8188",
       "name": "Tyquan Thornton",
       "pos": "WR",
       "team": "KC",
-      "injury": null,
+      "injury": "Out",
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 89971
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 77634
+      "adds": 92981
     },
     {
       "id": "13264",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 77517
+      "adds": 81162
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 75624
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 70817
+      "adds": 68463
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 64455
+      "adds": 64045
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 54891
+      "adds": 53505
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 54300
+      "adds": 52260
     },
     {
       "id": "13311",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 47880
+      "adds": 45976
     },
     {
       "id": "8154",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 40086
+      "adds": 39732
     },
     {
       "id": "12492",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35552
+      "adds": 34896
     },
     {
       "id": "9482",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 30528
+      "adds": 32238
     },
     {
       "id": "11603",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 28710
+      "adds": 27900
     },
     {
       "id": "5995",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 27612
+      "adds": 26820
     }
   ]
 }
