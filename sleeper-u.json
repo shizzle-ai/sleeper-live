@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T23:45:26.860Z",
+  "generated_at": "2026-10-04T23:55:04.306Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 166.42,
+      "points": 166.32,
       "starters": [
         {
           "id": "4046",
@@ -366,7 +366,7 @@
         }
       ],
       "starters_points": [
-        17.1,
+        17,
         36.7,
         6.1,
         27.7,
@@ -381,7 +381,7 @@
         "1166": 23.6,
         "3451": 16,
         "4035": 0,
-        "4046": 17.1,
+        "4046": 17,
         "4199": 16.8,
         "4217": 17,
         "6770": 25.72,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 590706
+      "adds": 607086
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 439380
+      "adds": 447228
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 164583
+      "adds": 164718
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 139349
+      "adds": 141421
     },
     {
       "id": "ARI",
@@ -4260,7 +4260,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134848
+      "adds": 134944
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 131130
+      "adds": 132255
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 99412
+      "adds": 99688
     },
     {
       "id": "8188",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 94318
+      "adds": 95396
     },
     {
       "id": "13264",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 84564
+      "adds": 88749
     },
     {
       "id": "LV",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76074
+      "adds": 76656
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 68966
+      "adds": 69553
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 65095
+      "adds": 66250
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53964
+      "adds": 54441
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 52490
+      "adds": 52700
     },
     {
       "id": "13311",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 45976
+      "adds": 45990
     },
     {
       "id": "8154",
@@ -4381,18 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 40506
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 34960
+      "adds": 41472
     },
     {
       "id": "9482",
@@ -4403,18 +4392,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 34632
+      "adds": 36432
     },
     {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 27942
+      "depth": 3,
+      "rank": 172,
+      "adds": 35016
     },
     {
       "id": "11729",
@@ -4425,7 +4414,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 27419
+      "adds": 29337
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 27996
     }
   ]
 }
