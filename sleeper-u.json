@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T22:45:32.155Z",
+  "generated_at": "2026-10-04T22:55:39.983Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 149.48,
+      "points": 150.88,
       "starters": [
         {
           "id": "4046",
@@ -372,17 +372,17 @@
         27.7,
         3.3,
         4.4,
-        14.9,
+        16.3,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 12.44,
+        "1166": 13.2,
         "3451": 16,
         "4035": 0,
         "4046": 14.66,
-        "4199": 14.9,
+        "4199": 16.3,
         "4217": 4.4,
         "6770": 25.72,
         "8150": 36.7,
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 76.76,
+      "points": 80.66,
       "starters": [
         {
           "id": "1373",
@@ -511,7 +511,7 @@
         1.8,
         7.2,
         0,
-        10,
+        13.9,
         0,
         19,
         5
@@ -522,7 +522,7 @@
         "3163": 0,
         "5022": 0,
         "6794": 0,
-        "6806": 3.1,
+        "6806": 5.1,
         "6904": 13.52,
         "7049": 1.8,
         "8138": 16.3,
@@ -531,7 +531,7 @@
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
-        "12489": 10,
+        "12489": 13.9,
         "13281": 0,
         "13330": 0,
         "PHI": 5
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 441828
+      "adds": 448209
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 417978
+      "adds": 423972
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 170730
+      "adds": 170847
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137216
+      "adds": 137272
     },
     {
       "id": "13150",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 133245
+      "adds": 134491
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 130527
+      "adds": 131238
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 103248
+      "adds": 103496
     },
     {
       "id": "LV",
@@ -4293,18 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 75738
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 212,
-      "adds": 69150
+      "adds": 76284
     },
     {
       "id": "13264",
@@ -4315,18 +4304,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 68022
+      "adds": 71010
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": "Active",
       "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 60085
+      "depth": null,
+      "rank": 212,
+      "adds": 69610
     },
     {
       "id": "8188",
@@ -4337,18 +4326,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 58807
+      "adds": 67088
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 674,
-      "adds": 53730
+      "depth": 1,
+      "rank": 239,
+      "adds": 60860
     },
     {
       "id": "11581",
@@ -4359,7 +4348,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53523
+      "adds": 53991
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 674,
+      "adds": 53865
     },
     {
       "id": "13311",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 47782
+      "adds": 47817
     },
     {
       "id": "8154",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 37638
+      "adds": 38100
     },
     {
       "id": "12492",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35184
+      "adds": 35432
     },
     {
       "id": "11603",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 28572
+      "adds": 28590
     },
     {
       "id": "5995",
@@ -4414,18 +4414,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 27405
+      "adds": 27432
     },
     {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 23586
+      "depth": 1,
+      "rank": 450,
+      "adds": 23948
     }
   ]
 }
