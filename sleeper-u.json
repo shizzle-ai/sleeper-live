@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T22:55:39.983Z",
+  "generated_at": "2026-10-04T23:04:38.071Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 150.88,
+      "points": 151.62,
       "starters": [
         {
           "id": "4046",
@@ -366,23 +366,23 @@
         }
       ],
       "starters_points": [
-        14.66,
+        14.9,
         36.7,
         6.1,
         27.7,
         3.3,
         4.4,
-        16.3,
+        16.8,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 13.2,
+        "1166": 14.64,
         "3451": 16,
         "4035": 0,
-        "4046": 14.66,
-        "4199": 16.3,
+        "4046": 14.9,
+        "4199": 16.8,
         "4217": 4.4,
         "6770": 25.72,
         "8150": 36.7,
@@ -3783,7 +3783,7 @@
         "name": "Pat Bryant",
         "pos": "WR",
         "team": "DEN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 172
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 448209
+      "adds": 482499
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 423972
+      "adds": 429039
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 170847
+      "adds": 170937
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137272
+      "adds": 137320
     },
     {
       "id": "13150",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 134491
+      "adds": 135576
     },
     {
       "id": "3271",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 131238
+      "adds": 131994
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 103496
+      "adds": 103684
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76284
+      "adds": 76836
     },
     {
       "id": "13264",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 71010
+      "adds": 73188
     },
     {
       "id": "4018",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 69610
+      "adds": 70124
     },
     {
       "id": "8188",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 67088
+      "adds": 69986
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 60860
+      "adds": 61390
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53991
+      "adds": 54225
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 53865
+      "adds": 54010
     },
     {
       "id": "13311",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 47817
+      "adds": 47859
     },
     {
       "id": "8154",
@@ -4381,18 +4381,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38100
+      "adds": 38904
     },
     {
       "id": "12492",
       "name": "Pat Bryant",
       "pos": "WR",
       "team": "DEN",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35432
+      "adds": 35496
     },
     {
       "id": "11603",
@@ -4403,7 +4403,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 28590
+      "adds": 28650
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 468,
+      "adds": 27828
     },
     {
       "id": "5995",
@@ -4414,18 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 27432
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 450,
-      "adds": 23948
+      "adds": 27477
     }
   ]
 }
