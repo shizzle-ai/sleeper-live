@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T21:53:05.247Z",
+  "generated_at": "2026-10-04T22:02:02.241Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 134.58,
+      "points": 137.28,
       "starters": [
         {
           "id": "4046",
@@ -372,17 +372,17 @@
         27.7,
         3.3,
         2.7,
-        6.7,
+        9.4,
         25.72,
         16,
         0
       ],
       "players_points": {
-        "1166": 9.84,
+        "1166": 10.92,
         "3451": 16,
         "4035": 0,
         "4046": 9.66,
-        "4199": 6.7,
+        "4199": 9.4,
         "4217": 2.7,
         "6770": 25.72,
         "8150": 36.7,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 419769
+      "adds": 424395
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 408654
+      "adds": 413091
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 178524
+      "adds": 178614
     },
     {
       "id": "ARI",
@@ -4249,7 +4249,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139728
+      "adds": 139744
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 131616
+      "adds": 132354
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 128961
+      "adds": 130004
     },
     {
       "id": "4663",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 108192
+      "adds": 108356
     },
     {
       "id": "LV",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74376
+      "adds": 74844
     },
     {
       "id": "4018",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 70162
+      "adds": 70601
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 59955
+      "adds": 60305
     },
     {
       "id": "13264",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 57339
+      "adds": 59274
     },
     {
       "id": "3155",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 55725
+      "adds": 55850
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 53919
+      "adds": 54162
     },
     {
       "id": "13311",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 49945
+      "adds": 49973
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 37014
+      "adds": 37404
     },
     {
       "id": "12492",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 35480
+      "adds": 35512
     },
     {
       "id": "11603",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 29496
+      "adds": 29550
     },
     {
       "id": "5995",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 28260
+      "adds": 28269
     },
     {
       "id": "6039",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 24570
+      "adds": 24582
     },
     {
       "id": "GB",
@@ -4425,7 +4425,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23080
+      "adds": 23090
     }
   ]
 }
