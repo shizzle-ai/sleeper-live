@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-04T04:02:19.471Z",
+  "generated_at": "2026-10-04T05:56:12.724Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -743,7 +743,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 22
+          "rank": 23
         },
         {
           "id": "8146",
@@ -1366,7 +1366,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 7
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1970,7 +1970,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 106
+          "rank": 107
         },
         {
           "id": "8136",
@@ -2069,7 +2069,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 47
         },
         {
           "id": "12527",
@@ -2923,7 +2923,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 5,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "6806",
@@ -3215,7 +3215,7 @@
             "injury": null,
             "status": "Active",
             "depth": 1,
-            "rank": 187
+            "rank": 185
           },
           "roster_id": 12,
           "team": "Hakuna Mailata"
@@ -3410,7 +3410,7 @@
         "injury": null,
         "status": "Active",
         "depth": null,
-        "rank": 265
+        "rank": 264
       },
       {
         "id": "13272",
@@ -3797,6 +3797,16 @@
         "rank": 184
       },
       {
+        "id": "10213",
+        "name": "Tre Tucker",
+        "pos": "WR",
+        "team": "LV",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 185
+      },
+      {
         "id": "12499",
         "name": "Elic Ayomanor",
         "pos": "WR",
@@ -3815,16 +3825,6 @@
         "status": "Active",
         "depth": 4,
         "rank": 185
-      },
-      {
-        "id": "10213",
-        "name": "Tre Tucker",
-        "pos": "WR",
-        "team": "LV",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 187
       },
       {
         "id": "12536",
@@ -4008,7 +4008,7 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 119
+        "rank": 118
       },
       {
         "id": "2747",
@@ -4174,7 +4174,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 338418
+      "adds": 337194
     },
     {
       "id": "11571",
@@ -4185,7 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 155808
+      "adds": 156915
     },
     {
       "id": "3271",
@@ -4196,7 +4196,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 107064
+      "adds": 107766
     },
     {
       "id": "4663",
@@ -4207,7 +4207,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 103656
+      "adds": 107096
     },
     {
       "id": "11256",
@@ -4218,7 +4218,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 546,
-      "adds": 89790
+      "adds": 89376
     },
     {
       "id": "11157",
@@ -4229,7 +4229,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 542,
-      "adds": 63855
+      "adds": 74547
     },
     {
       "id": "ARI",
@@ -4240,7 +4240,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51296
+      "adds": 54800
     },
     {
       "id": "LV",
@@ -4251,7 +4251,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49704
+      "adds": 49638
     },
     {
       "id": "13311",
@@ -4262,18 +4262,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 48657
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 99,
-      "adds": 37962
+      "adds": 49434
     },
     {
       "id": "3155",
@@ -4284,7 +4273,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 37660
+      "adds": 41410
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 99,
+      "adds": 39051
     },
     {
       "id": "13150",
@@ -4295,18 +4295,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 35056
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 32247
+      "adds": 35567
     },
     {
       "id": "6083",
@@ -4317,7 +4306,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 32010
+      "adds": 32900
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 30717
     },
     {
       "id": "8168",
@@ -4328,7 +4328,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 608,
-      "adds": 27504
+      "adds": 27192
     },
     {
       "id": "8154",
@@ -4339,7 +4339,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 25152
+      "adds": 25302
     },
     {
       "id": "11608",
@@ -4350,18 +4350,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 24792
-    },
-    {
-      "id": "11643",
-      "name": "Jaylen Wright",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 21752
+      "adds": 24876
     },
     {
       "id": "12492",
@@ -4372,7 +4361,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 21696
+      "adds": 21992
     },
     {
       "id": "5995",
@@ -4383,7 +4372,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 223,
-      "adds": 20592
+      "adds": 21051
+    },
+    {
+      "id": "11643",
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 21042
     }
   ]
 }
