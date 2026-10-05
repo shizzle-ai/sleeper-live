@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T12:27:33.160Z",
+  "generated_at": "2026-10-05T12:49:55.605Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 489,
-      "adds": 592551
+      "adds": 576252
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 566064
+      "adds": 558225
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 265329
+      "adds": 271170
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 183519
+      "adds": 182994
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 123723
+      "adds": 118782
     },
     {
       "id": "8188",
@@ -4271,18 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 109445
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 107064
+      "adds": 109578
     },
     {
       "id": "ARI",
@@ -4293,18 +4282,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 104504
+      "adds": 98024
     },
     {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 80705
+      "depth": 2,
+      "rank": 518,
+      "adds": 97920
     },
     {
       "id": "9482",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 80640
+      "adds": 81585
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 79265
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 74840
+      "adds": 74538
     },
     {
       "id": "LV",
@@ -4337,7 +4337,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72834
+      "adds": 70488
     },
     {
       "id": "4663",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 61776
+      "adds": 55904
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 53649
+      "adds": 51678
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 47088
+      "adds": 45906
     },
     {
       "id": "4993",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 43864
+      "adds": 43780
     },
     {
       "id": "3155",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 37330
+      "adds": 33635
     },
     {
       "id": "13413",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 31122
+      "adds": 31590
     },
     {
       "id": "11729",
@@ -4414,18 +4414,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 29715
+      "adds": 28875
     },
     {
-      "id": "13311",
-      "name": "Chris Bell",
+      "id": "8147",
+      "name": "John Metchie",
       "pos": "WR",
-      "team": "MIA",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 29470
+      "depth": 4,
+      "rank": 697,
+      "adds": 27300
     }
   ]
 }
