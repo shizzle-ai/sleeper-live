@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T01:51:54.604Z",
+  "generated_at": "2026-10-05T02:01:06.563Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 542,
-      "adds": 629721
+      "adds": 630162
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 485748
+      "adds": 492246
     },
     {
       "id": "13150",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 159474
+      "adds": 160846
     },
     {
       "id": "11571",
@@ -4249,29 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 151659
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 132399
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 129696
+      "adds": 151785
     },
     {
       "id": "13264",
@@ -4282,7 +4260,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 129600
+      "adds": 133668
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 133299
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 129712
     },
     {
       "id": "8188",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 101136
+      "adds": 101801
     },
     {
       "id": "4663",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 91556
+      "adds": 91816
     },
     {
       "id": "LV",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76254
+      "adds": 76608
     },
     {
       "id": "6083",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 71125
+      "adds": 71830
     },
     {
       "id": "4018",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 70415
+      "adds": 70821
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 54873
+      "adds": 55278
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 50100
+      "adds": 50265
     },
     {
       "id": "9482",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 48519
+      "adds": 49779
     },
     {
       "id": "8154",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 44286
+      "adds": 44610
     },
     {
       "id": "13311",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 42175
+      "adds": 42189
     },
     {
       "id": "11729",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 33320
+      "adds": 33383
     },
     {
       "id": "12492",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 33176
+      "adds": 33184
     },
     {
       "id": "4993",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 450,
-      "adds": 29548
+      "adds": 30068
     }
   ]
 }
