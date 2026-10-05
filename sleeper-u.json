@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T11:01:28.511Z",
+  "generated_at": "2026-10-05T11:19:36.982Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 489,
-      "adds": 597483
+      "adds": 597978
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 554193
+      "adds": 557586
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 245025
+      "adds": 248364
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 179998
+      "adds": 180796
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 123732
+      "adds": 124200
     },
     {
       "id": "11571",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 111195
+      "adds": 111285
     },
     {
       "id": "8188",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 108528
+      "adds": 108689
     },
     {
       "id": "ARI",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106904
+      "adds": 106928
     },
     {
       "id": "6083",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 78480
+      "adds": 78980
     },
     {
       "id": "9482",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 76599
+      "adds": 77328
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 73985
+      "adds": 74207
     },
     {
       "id": "LV",
@@ -4337,7 +4337,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72816
+      "adds": 73026
     },
     {
       "id": "4663",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 64180
+      "adds": 64320
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 53271
+      "adds": 53496
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 46854
+      "adds": 47034
     },
     {
       "id": "4993",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 41656
+      "adds": 42096
     },
     {
       "id": "3155",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 38260
+      "adds": 38335
     },
     {
       "id": "13311",
@@ -4406,17 +4406,6 @@
       "adds": 30688
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 30002
-    },
-    {
       "id": "13413",
       "name": "Cyrus Allen",
       "pos": "WR",
@@ -4425,7 +4414,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 29850
+      "adds": 30072
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 30016
     }
   ]
 }
