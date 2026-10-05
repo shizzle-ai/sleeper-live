@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T11:19:36.982Z",
+  "generated_at": "2026-10-05T11:38:15.389Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 489,
-      "adds": 597978
+      "adds": 591246
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 557586
+      "adds": 553869
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 248364
+      "adds": 252648
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 180796
+      "adds": 180789
     },
     {
       "id": "3271",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 124200
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 111285
+      "adds": 122076
     },
     {
       "id": "8188",
@@ -4282,7 +4271,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 108689
+      "adds": 108843
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 518,
+      "adds": 106920
     },
     {
       "id": "ARI",
@@ -4293,7 +4293,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106928
+      "adds": 104320
     },
     {
       "id": "6083",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 78980
+      "adds": 78625
     },
     {
       "id": "9482",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 77328
+      "adds": 77976
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 74207
+      "adds": 74080
     },
     {
       "id": "LV",
@@ -4337,7 +4337,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73026
+      "adds": 72054
     },
     {
       "id": "4663",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 64320
+      "adds": 61232
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 53496
+      "adds": 52767
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 47034
+      "adds": 46524
     },
     {
       "id": "4993",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 42096
+      "adds": 42212
     },
     {
       "id": "3155",
@@ -4392,18 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 38335
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 30688
+      "adds": 36875
     },
     {
       "id": "13413",
@@ -4414,7 +4403,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 30072
+      "adds": 30354
     },
     {
       "id": "11729",
@@ -4425,7 +4414,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 30016
+      "adds": 29610
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 29407
     }
   ]
 }
