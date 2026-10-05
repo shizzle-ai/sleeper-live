@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T14:25:10.194Z",
+  "generated_at": "2026-10-05T14:43:14.211Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1236,7 +1236,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 55
         }
       ],
@@ -1397,7 +1397,7 @@
           "team": "CAR",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 7,
           "rank": 132
         },
         {
@@ -1949,7 +1949,7 @@
           "team": "IND",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 6,
           "rank": 182
         },
         {
@@ -2403,7 +2403,7 @@
           "team": "MIA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 4,
+          "depth": 5,
           "rank": 8
         }
       ],
@@ -3543,7 +3543,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 110
       },
       {
@@ -3745,7 +3745,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 156
       },
       {
@@ -3957,7 +3957,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 4,
         "rank": 136
       },
       {
@@ -4017,7 +4017,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 212
       },
       {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 560043
+      "adds": 549387
     },
     {
       "id": "11157",
@@ -4225,9 +4225,9 @@
       "team": "CAR",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 489,
-      "adds": 542781
+      "adds": 521262
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 300870
+      "adds": 307071
     },
     {
       "id": "13150",
@@ -4249,18 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 185199
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 111015
+      "adds": 184436
     },
     {
       "id": "8188",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 110411
+      "adds": 110285
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 104742
     },
     {
       "id": "9482",
@@ -4282,29 +4282,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 87597
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 82432
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 78440
+      "adds": 88686
     },
     {
       "id": "4018",
@@ -4315,18 +4293,29 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 75728
+      "adds": 75543
     },
     {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 75690
+      "depth": 1,
+      "rank": 239,
+      "adds": 74470
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 69536
     },
     {
       "id": "LV",
@@ -4337,18 +4326,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66726
+      "adds": 63096
     },
     {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
+      "id": "11571",
+      "name": "Isaiah Davis",
       "pos": "RB",
-      "team": "GB",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 98,
-      "adds": 48465
+      "depth": 2,
+      "rank": 518,
+      "adds": 59985
     },
     {
       "id": "4993",
@@ -4359,7 +4348,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 46496
+      "adds": 46132
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 98,
+      "adds": 45162
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 44382
+      "adds": 42480
     },
     {
       "id": "4663",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 43372
+      "adds": 36876
     },
     {
       "id": "13413",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 33648
+      "adds": 33948
     },
     {
       "id": "CLE",
@@ -4403,7 +4403,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29127
+      "adds": 29526
+    },
+    {
+      "id": "8147",
+      "name": "John Metchie",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 697,
+      "adds": 26810
     },
     {
       "id": "11729",
@@ -4414,18 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 27265
-    },
-    {
-      "id": "8147",
-      "name": "John Metchie",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 697,
-      "adds": 27090
+      "adds": 26474
     }
   ]
 }
