@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T22:00:47.966Z",
+  "generated_at": "2026-10-05T22:16:26.791Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 542214
+      "adds": 551763
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 460863
+      "adds": 473841
     },
     {
       "id": "11157",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 268956
+      "adds": 269514
     },
     {
       "id": "9482",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 124011
+      "adds": 126819
     },
     {
       "id": "13150",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 119140
+      "adds": 121093
     },
     {
       "id": "8188",
@@ -4271,51 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 106792
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 75834
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 67765
-    },
-    {
-      "id": "11577",
-      "name": "Will Shipley",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 686,
-      "adds": 67068
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 63068
+      "adds": 106974
     },
     {
       "id": "4018",
@@ -4326,7 +4282,51 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 45315
+      "adds": 101722
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 77202
+    },
+    {
+      "id": "11577",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 686,
+      "adds": 75056
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 68695
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 64628
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 43002
+      "adds": 43554
     },
     {
       "id": "CLE",
@@ -4348,7 +4348,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40418
+      "adds": 41146
     },
     {
       "id": "LV",
@@ -4359,7 +4359,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38712
+      "adds": 39072
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 36918
+      "adds": 38046
     },
     {
       "id": "11581",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 35568
+      "adds": 36225
     },
     {
       "id": "4663",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 23352
+      "adds": 24156
     },
     {
       "id": "12535",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20640
+      "adds": 20920
     },
     {
       "id": "8147",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 20510
+      "adds": 20601
     },
     {
       "id": "12542",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19064
+      "adds": 19328
     }
   ]
 }
