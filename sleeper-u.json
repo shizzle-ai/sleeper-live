@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T01:24:40.131Z",
+  "generated_at": "2026-10-05T01:38:45.651Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "matchup_id": 6,
-      "points": 88.02,
+      "points": 90.22,
       "starters": [
         {
           "id": "1373",
@@ -512,14 +512,14 @@
         7.2,
         0,
         19.3,
-        1.96,
+        4.16,
         19,
         5
       ],
       "players_points": {
         "1373": 8.76,
         "2133": 7.2,
-        "3163": 1.96,
+        "3163": 4.16,
         "5022": 0,
         "6794": 0,
         "6806": 7.2,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 542,
-      "adds": 633978
+      "adds": 629082
     },
     {
       "id": "11630",
@@ -4227,18 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 482472
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 158373
+      "adds": 476361
     },
     {
       "id": "13150",
@@ -4249,7 +4238,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 157213
+      "adds": 157458
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 518,
+      "adds": 151560
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 134640
+      "adds": 130923
     },
     {
       "id": "ARI",
@@ -4271,7 +4271,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132528
+      "adds": 129640
     },
     {
       "id": "13264",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 119151
+      "adds": 124398
     },
     {
       "id": "8188",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 100422
+      "adds": 100597
     },
     {
       "id": "4663",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 96420
+      "adds": 91220
     },
     {
       "id": "LV",
@@ -4315,18 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77568
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 212,
-      "adds": 71049
+      "adds": 75642
     },
     {
       "id": "6083",
@@ -4337,7 +4326,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 70655
+      "adds": 70085
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": "Active",
+      "status": "Active",
+      "depth": null,
+      "rank": 212,
+      "adds": 69908
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 55656
+      "adds": 54234
     },
     {
       "id": "3155",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 52160
+      "adds": 49830
     },
     {
       "id": "9482",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 45405
+      "adds": 46845
     },
     {
       "id": "8154",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 44280
+      "adds": 43734
     },
     {
       "id": "13311",
@@ -4392,18 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 44121
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 34256
+      "adds": 42168
     },
     {
       "id": "11729",
@@ -4414,7 +4403,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 32501
+      "adds": 33180
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 33136
     },
     {
       "id": "4993",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 450,
-      "adds": 28880
+      "adds": 28832
     }
   ]
 }
