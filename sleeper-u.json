@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T23:18:05.319Z",
+  "generated_at": "2026-10-05T23:30:38.425Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 553437
+      "adds": 519309
     },
     {
       "id": "13264",
@@ -4227,18 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 501390
-    },
-    {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 489,
-      "adds": 244359
+      "adds": 491256
     },
     {
       "id": "4018",
@@ -4249,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 168779
+      "adds": 173052
     },
     {
       "id": "9482",
@@ -4260,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 125046
+      "adds": 116577
     },
     {
       "id": "13150",
@@ -4271,7 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 120876
+      "adds": 114058
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 489,
+      "adds": 108342
     },
     {
       "id": "11577",
@@ -4282,18 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 95182
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 93436
+      "adds": 97630
     },
     {
       "id": "3271",
@@ -4304,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 76410
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 69595
+      "adds": 71829
     },
     {
       "id": "4993",
@@ -4326,18 +4304,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 67508
+      "adds": 66096
     },
     {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 177,
-      "adds": 45078
+      "depth": 1,
+      "rank": 239,
+      "adds": 64365
     },
     {
       "id": "CLE",
@@ -4348,7 +4326,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42217
+      "adds": 40859
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 177,
+      "adds": 39324
     },
     {
       "id": "8154",
@@ -4359,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38916
+      "adds": 35820
     },
     {
       "id": "11581",
@@ -4370,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 36342
+      "adds": 34317
     },
     {
       "id": "LV",
@@ -4381,7 +4370,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36060
+      "adds": 33114
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 25284
     },
     {
       "id": "4663",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 25380
+      "adds": 24580
     },
     {
       "id": "12535",
@@ -4403,18 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 21312
-    },
-    {
-      "id": "8147",
-      "name": "John Metchie",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 697,
-      "adds": 19740
+      "adds": 19032
     },
     {
       "id": "12542",
@@ -4425,7 +4414,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19392
+      "adds": 18628
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 14034
     }
   ]
 }
