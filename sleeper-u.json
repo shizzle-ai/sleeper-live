@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T01:07:34.042Z",
+  "generated_at": "2026-10-05T01:24:40.131Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 542,
-      "adds": 632880
+      "adds": 633978
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 471717
+      "adds": 482472
     },
     {
       "id": "11571",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 158202
+      "adds": 158373
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 154875
+      "adds": 157213
     },
     {
       "id": "3271",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 133281
+      "adds": 134640
     },
     {
       "id": "ARI",
@@ -4271,7 +4271,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132464
+      "adds": 132528
     },
     {
       "id": "13264",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 112698
+      "adds": 119151
     },
     {
       "id": "8188",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 99897
+      "adds": 100422
     },
     {
       "id": "4663",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 95960
+      "adds": 96420
     },
     {
       "id": "LV",
@@ -4315,7 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77022
+      "adds": 77568
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 70367
+      "adds": 71049
     },
     {
       "id": "6083",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 69355
+      "adds": 70655
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 99,
-      "adds": 55026
+      "adds": 55656
     },
     {
       "id": "3155",
@@ -4359,29 +4359,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 51825
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 44100
-    },
-    {
-      "id": "8154",
-      "name": "Brian Robinson",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 80,
-      "adds": 43734
+      "adds": 52160
     },
     {
       "id": "9482",
@@ -4392,7 +4370,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 468,
-      "adds": 43461
+      "adds": 45405
+    },
+    {
+      "id": "8154",
+      "name": "Brian Robinson",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 80,
+      "adds": 44280
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 44121
     },
     {
       "id": "12492",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 34208
+      "adds": 34256
     },
     {
       "id": "11729",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 32424
+      "adds": 32501
     },
     {
       "id": "4993",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 450,
-      "adds": 28220
+      "adds": 28880
     }
   ]
 }
