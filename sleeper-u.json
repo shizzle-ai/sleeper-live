@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T22:16:26.791Z",
+  "generated_at": "2026-10-05T22:30:44.673Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2581,7 +2581,7 @@
           "pos": "RB",
           "team": "PHI",
           "injury": "Out",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 2,
           "rank": 147
         }
@@ -3587,6 +3587,16 @@
         "rank": 161
       },
       {
+        "id": "4018",
+        "name": "Joe Mixon",
+        "pos": "RB",
+        "team": "SEA",
+        "injury": "Active",
+        "status": "Active",
+        "depth": null,
+        "rank": 164
+      },
+      {
         "id": "11575",
         "name": "Ray Davis",
         "pos": "RB",
@@ -3705,16 +3715,6 @@
         "status": "Active",
         "depth": null,
         "rank": 191
-      },
-      {
-        "id": "5995",
-        "name": "Justice Hill",
-        "pos": "RB",
-        "team": "BAL",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 222
       }
     ],
     "WR": [
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 551763
+      "adds": 530721
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 473841
+      "adds": 471834
     },
     {
       "id": "11157",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 269514
+      "adds": 243333
     },
     {
       "id": "9482",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 126819
+      "adds": 118764
     },
     {
       "id": "13150",
@@ -4260,7 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 121093
+      "adds": 116214
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": "SEA",
+      "injury": "Active",
+      "status": "Active",
+      "depth": null,
+      "rank": 164,
+      "adds": 113889
     },
     {
       "id": "8188",
@@ -4271,29 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 106974
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 212,
-      "adds": 101722
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 77202
+      "adds": 93023
     },
     {
       "id": "11577",
@@ -4304,7 +4293,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 75056
+      "adds": 79788
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 73404
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 68695
+      "adds": 67250
     },
     {
       "id": "4993",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 64628
+      "adds": 63804
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 43554
+      "adds": 43806
     },
     {
       "id": "CLE",
@@ -4348,18 +4348,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41146
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39072
+      "adds": 40383
     },
     {
       "id": "8154",
@@ -4370,7 +4359,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38046
+      "adds": 36648
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 35082
     },
     {
       "id": "11581",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 36225
+      "adds": 34893
     },
     {
       "id": "4663",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 24156
+      "adds": 23724
     },
     {
       "id": "12535",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20920
+      "adds": 20752
     },
     {
       "id": "8147",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 20601
+      "adds": 19425
     },
     {
       "id": "12542",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19328
+      "adds": 18484
     }
   ]
 }
