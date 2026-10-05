@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T17:36:15.976Z",
+  "generated_at": "2026-10-05T17:51:12.416Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 562284
+      "adds": 568098
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 377595
+      "adds": 383859
     },
     {
       "id": "11157",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 371106
+      "adds": 371385
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 192696
+      "adds": 193879
     },
     {
       "id": "8188",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 111615
+      "adds": 111853
     },
     {
       "id": "9482",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 99531
+      "adds": 101448
     },
     {
       "id": "3271",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 76374
+      "adds": 77157
     },
     {
       "id": "6083",
@@ -4293,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 63955
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 212,
-      "adds": 52445
+      "adds": 64725
     },
     {
       "id": "4993",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 52420
+      "adds": 53336
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": "Active",
+      "status": "Active",
+      "depth": null,
+      "rank": 212,
+      "adds": 53176
     },
     {
       "id": "LV",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49842
+      "adds": 50196
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 38400
+      "adds": 38742
     },
     {
       "id": "8154",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 38088
+      "adds": 38430
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 36648
+      "adds": 36990
     },
     {
       "id": "CLE",
@@ -4370,7 +4370,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34580
+      "adds": 35028
     },
     {
       "id": "12542",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 24152
+      "adds": 24428
     },
     {
       "id": "11729",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 23254
+      "adds": 23338
     },
     {
       "id": "8147",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 23219
+      "adds": 23261
     },
     {
       "id": "4663",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 21904
+      "adds": 22172
     },
     {
       "id": "11577",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 18896
+      "adds": 19112
     }
   ]
 }
