@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T16:22:04.996Z",
+  "generated_at": "2026-10-05T16:40:01.646Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 577818
+      "adds": 559872
     },
     {
       "id": "11157",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 489798
+      "adds": 425988
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 350973
+      "adds": 356625
     },
     {
       "id": "13150",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 191681
+      "adds": 189742
     },
     {
       "id": "8188",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 111328
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 102780
+      "adds": 111265
     },
     {
       "id": "9482",
@@ -4282,7 +4271,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 97092
+      "adds": 96129
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 87102
     },
     {
       "id": "4018",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 78574
+      "adds": 78625
     },
     {
       "id": "6083",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 74745
+      "adds": 68145
     },
     {
       "id": "LV",
@@ -4315,18 +4315,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60960
-    },
-    {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 54976
+      "adds": 55272
     },
     {
       "id": "4993",
@@ -4337,29 +4326,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 50292
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 44046
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 98,
-      "adds": 44019
+      "adds": 49660
     },
     {
       "id": "8154",
@@ -4370,7 +4337,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 42552
+      "adds": 39786
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 98,
+      "adds": 39330
     },
     {
       "id": "13413",
@@ -4381,7 +4359,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 36636
+      "adds": 37032
     },
     {
       "id": "CLE",
@@ -4392,18 +4370,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32879
+      "adds": 32984
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 31576
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 29104
     },
     {
       "id": "8147",
@@ -4414,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 26404
+      "adds": 24472
     },
     {
       "id": "11729",
@@ -4425,7 +4403,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 25970
+      "adds": 24423
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 518,
+      "adds": 23976
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 572,
+      "adds": 23052
     }
   ]
 }
