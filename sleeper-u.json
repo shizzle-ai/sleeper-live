@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T13:28:54.184Z",
+  "generated_at": "2026-10-05T13:47:23.387Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4208,17 +4208,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 489,
-      "adds": 577512
-    },
-    {
       "id": "11630",
       "name": "Roman Wilson",
       "pos": "WR",
@@ -4227,7 +4216,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 569556
+      "adds": 545940
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 489,
+      "adds": 542034
     },
     {
       "id": "13264",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 283086
+      "adds": 287928
     },
     {
       "id": "13150",
@@ -4249,18 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 185353
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 120393
+      "adds": 182630
     },
     {
       "id": "8188",
@@ -4271,29 +4260,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 110054
+      "adds": 109949
     },
     {
-      "id": "ARI",
-      "name": "Arizona Cardinals",
-      "pos": "DEF",
-      "team": "ARI",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 98112
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 98100
+      "depth": 1,
+      "rank": 652,
+      "adds": 109098
     },
     {
       "id": "9482",
@@ -4304,7 +4282,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 83907
+      "adds": 84825
+    },
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "pos": "DEF",
+      "team": "ARI",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 82360
     },
     {
       "id": "6083",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 80965
+      "adds": 76490
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 518,
+      "adds": 75510
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 75337
+      "adds": 74781
     },
     {
       "id": "LV",
@@ -4337,18 +4337,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71136
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 56404
+      "adds": 65910
     },
     {
       "id": "11581",
@@ -4359,18 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 52641
-    },
-    {
-      "id": "8154",
-      "name": "Brian Robinson",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 80,
-      "adds": 46590
+      "adds": 47493
     },
     {
       "id": "4993",
@@ -4381,18 +4359,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 45444
+      "adds": 44588
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
+      "id": "8154",
+      "name": "Brian Robinson",
+      "pos": "RB",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 674,
-      "adds": 33955
+      "rank": 80,
+      "adds": 43776
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 42840
     },
     {
       "id": "13413",
@@ -4403,18 +4392,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 32442
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 28973
+      "adds": 32796
     },
     {
       "id": "CLE",
@@ -4425,7 +4403,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27909
+      "adds": 27958
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 27160
+    },
+    {
+      "id": "8147",
+      "name": "John Metchie",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 697,
+      "adds": 26929
     }
   ]
 }
