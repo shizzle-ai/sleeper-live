@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T21:36:05.406Z",
+  "generated_at": "2026-10-05T21:50:38.519Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 533574
+      "adds": 538785
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 447138
+      "adds": 455634
     },
     {
       "id": "11157",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 268524
+      "adds": 268767
     },
     {
       "id": "9482",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 121383
+      "adds": 122958
     },
     {
       "id": "13150",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 117166
+      "adds": 118363
     },
     {
       "id": "8188",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 106624
+      "adds": 106722
     },
     {
       "id": "3271",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 74484
+      "adds": 75339
     },
     {
       "id": "6083",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66830
+      "adds": 67365
     },
     {
       "id": "4993",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 61392
+      "adds": 62376
     },
     {
       "id": "11577",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 54130
+      "adds": 62230
     },
     {
       "id": "4018",
@@ -4326,7 +4326,7 @@
       "status": "Active",
       "depth": null,
       "rank": 212,
-      "adds": 43324
+      "adds": 43973
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 42426
+      "adds": 42786
     },
     {
       "id": "CLE",
@@ -4348,7 +4348,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39634
+      "adds": 40152
     },
     {
       "id": "LV",
@@ -4359,7 +4359,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38184
+      "adds": 38508
     },
     {
       "id": "8154",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 36078
+      "adds": 36612
     },
     {
       "id": "11581",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 34803
+      "adds": 35289
     },
     {
       "id": "4663",
@@ -4392,18 +4392,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 22524
-    },
-    {
-      "id": "8147",
-      "name": "John Metchie",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 697,
-      "adds": 20377
+      "adds": 23012
     },
     {
       "id": "12535",
@@ -4414,7 +4403,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20368
+      "adds": 20504
+    },
+    {
+      "id": "8147",
+      "name": "John Metchie",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 697,
+      "adds": 20447
     },
     {
       "id": "12542",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 18596
+      "adds": 18888
     }
   ]
 }
