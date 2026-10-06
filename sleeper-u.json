@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T09:21:29.324Z",
+  "generated_at": "2026-10-06T09:37:46.849Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -866,7 +866,7 @@
           "team": "SEA",
           "injury": "PUP",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 101
         }
       ],
@@ -1196,7 +1196,7 @@
           "team": "SEA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 8,
+          "depth": 9,
           "rank": 52
         },
         {
@@ -1236,7 +1236,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 5,
           "rank": 55
         }
       ],
@@ -2584,7 +2584,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Inactive",
-          "depth": 2,
+          "depth": 3,
           "rank": 147
         }
       ],
@@ -3358,7 +3358,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 171
       },
       {
@@ -3368,7 +3368,7 @@
         "team": "DEN",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 3,
+        "depth": 7,
         "rank": 172
       },
       {
@@ -3468,7 +3468,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 192
       },
       {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 875295
+      "adds": 879948
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 555372
+      "adds": 554526
     },
     {
       "id": "11577",
@@ -3819,9 +3819,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 686,
-      "adds": 283028
+      "adds": 287054
     },
     {
       "id": "4018",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 278355
+      "adds": 279094
     },
     {
       "id": "8154",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 234360
+      "adds": 236736
     },
     {
       "id": "9482",
@@ -3854,18 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 183834
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 117824
+      "adds": 184770
     },
     {
       "id": "4993",
@@ -3876,7 +3865,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 117032
+      "adds": 117884
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 117362
     },
     {
       "id": "3271",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 100998
+      "adds": 101691
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 89320
+      "adds": 89810
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62678
+      "adds": 63350
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 48195
+      "adds": 48348
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 41008
+      "adds": 41140
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39900
+      "adds": 40086
     },
     {
       "id": "13413",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 31050
+      "adds": 30774
     },
     {
       "id": "11157",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 26649
+      "adds": 26001
     },
     {
       "id": "12542",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 24720
+      "adds": 24852
     },
     {
       "id": "NE",
@@ -3986,7 +3986,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18340
+      "adds": 18459
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 17411
+      "adds": 17583
     }
   ]
 }
