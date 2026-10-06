@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T00:19:55.507Z",
+  "generated_at": "2026-10-06T00:46:20.489Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -527,7 +527,7 @@
         "7049": 1.8,
         "8138": 16.3,
         "8155": 0,
-        "11559": 0.48,
+        "11559": 1.2,
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
@@ -1979,7 +1979,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 125
         },
         {
@@ -2403,7 +2403,7 @@
           "team": "MIA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 8
         }
       ],
@@ -2964,7 +2964,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 94
         }
       ],
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 537435
+      "adds": 512667
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 517383
+      "adds": 512091
     },
     {
       "id": "4018",
@@ -4238,29 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 196005
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 469,
-      "adds": 122436
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 117656
+      "adds": 202809
     },
     {
       "id": "11577",
@@ -4271,18 +4249,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 111484
+      "adds": 119576
     },
     {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "team": "LV",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 489,
-      "adds": 109053
+      "rank": 469,
+      "adds": 117990
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 106428
     },
     {
       "id": "3271",
@@ -4293,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 74493
+      "adds": 71487
     },
     {
       "id": "4993",
@@ -4304,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 69436
+      "adds": 69052
     },
     {
       "id": "6083",
@@ -4315,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66445
+      "adds": 63240
     },
     {
       "id": "CLE",
@@ -4326,7 +4315,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42504
+      "adds": 41440
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 489,
+      "adds": 39771
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 40308
+      "adds": 34656
     },
     {
       "id": "8154",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 37734
+      "adds": 34302
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 35352
+      "adds": 33849
     },
     {
       "id": "LV",
@@ -4370,7 +4370,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34128
+      "adds": 32256
     },
     {
       "id": "4663",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 26112
+      "adds": 25780
     },
     {
       "id": "8188",
@@ -4392,18 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 25459
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 19528
+      "adds": 19628
     },
     {
       "id": "12542",
@@ -4414,18 +4403,29 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19504
+      "adds": 18464
     },
     {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 18072
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 180,
-      "adds": 14836
+      "rank": 674,
+      "adds": 13720
     }
   ]
 }
