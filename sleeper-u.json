@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T23:11:32.116Z",
+  "generated_at": "2026-10-06T23:26:03.073Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2582,7 +2582,7 @@
           "name": "Tank Bigsby",
           "pos": "RB",
           "team": "PHI",
-          "injury": "Out",
+          "injury": "IR",
           "status": "Inactive",
           "depth": 3,
           "rank": 147
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2140191
+      "adds": 2176083
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 986922
+      "adds": 1001862
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 880152
+      "adds": 899936
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 575010
+      "adds": 581850
     },
     {
       "id": "9482",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 393966
+      "adds": 399654
     },
     {
       "id": "3271",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 336789
+      "adds": 343008
     },
     {
       "id": "4993",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 300440
+      "adds": 305600
     },
     {
       "id": "4018",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 270049
+      "adds": 270358
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 230265
+      "adds": 233095
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 221137
+      "adds": 226296
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 195272
+      "adds": 197589
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 131643
+      "adds": 133578
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 104180
+      "adds": 106628
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84654
+      "adds": 85812
     },
     {
       "id": "7083",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 73518
+      "adds": 75888
     },
     {
       "id": "DAL",
@@ -3964,7 +3964,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61784
+      "adds": 62721
     },
     {
       "id": "WAS",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60543
+      "adds": 61670
     },
     {
       "id": "12542",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 49364
+      "adds": 50004
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43757
+      "adds": 44408
     },
     {
       "id": "9479",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 36295
+      "adds": 36920
     }
   ]
 }
