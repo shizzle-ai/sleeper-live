@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T17:20:34.786Z",
+  "generated_at": "2026-10-06T17:35:19.521Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1618695
+      "adds": 1620486
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 819252
+      "adds": 805356
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 615280
+      "adds": 625022
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 435084
+      "adds": 439836
     },
     {
       "id": "4018",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 342145
+      "adds": 341474
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 316845
+      "adds": 315603
     },
     {
       "id": "3271",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 237888
+      "adds": 239265
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 219420
+      "adds": 219316
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 179085
+      "adds": 179095
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 166663
+      "adds": 163786
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 152474
+      "adds": 152824
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 96615
+      "adds": 96426
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 73092
+      "adds": 72952
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69534
+      "adds": 69138
     },
     {
       "id": "DAL",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44665
+      "adds": 44937
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 41660
+      "adds": 41112
     },
     {
       "id": "WAS",
@@ -3975,18 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40285
-    },
-    {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 177,
-      "adds": 33816
+      "adds": 40474
     },
     {
       "id": "7083",
@@ -3997,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 33480
+      "adds": 34674
     },
     {
       "id": "NE",
@@ -4008,7 +3997,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33383
+      "adds": 33334
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 177,
+      "adds": 32496
     }
   ]
 }
