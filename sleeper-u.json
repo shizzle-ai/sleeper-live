@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T14:37:23.336Z",
+  "generated_at": "2026-10-06T14:53:13.650Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2434,26 +2434,6 @@
           "rank": 147
         },
         {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 90
-        },
-        {
-          "id": "1466",
-          "name": "Travis Kelce",
-          "pos": "TE",
-          "team": "KC",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 90
-        },
-        {
           "id": "3198",
           "name": "Derrick Henry",
           "pos": "RB",
@@ -2462,6 +2442,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 7
+        },
+        {
+          "id": "4037",
+          "name": "Chris Godwin",
+          "pos": "WR",
+          "team": "TB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 88
         },
         {
           "id": "421",
@@ -2482,6 +2472,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 50
+        },
+        {
+          "id": "5001",
+          "name": "Dalton Schultz",
+          "pos": "TE",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 98
         },
         {
           "id": "5849",
@@ -2546,6 +2546,16 @@
           "rank": 35
         },
         {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 90
+        },
+        {
           "id": "13305",
           "name": "Mike Washington",
           "pos": "RB",
@@ -2556,24 +2566,14 @@
           "rank": 123
         },
         {
-          "id": "4037",
-          "name": "Chris Godwin",
-          "pos": "WR",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 88
-        },
-        {
-          "id": "5001",
-          "name": "Dalton Schultz",
+          "id": "1466",
+          "name": "Travis Kelce",
           "pos": "TE",
-          "team": "HOU",
+          "team": "KC",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 98
+          "rank": 90
         }
       ],
       "reserve": [
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1295019
+      "adds": 1325754
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 698391
+      "adds": 712836
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 473552
+      "adds": 485642
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 348096
+      "adds": 355404
     },
     {
       "id": "4018",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 318526
+      "adds": 321237
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 258093
+      "adds": 264033
     },
     {
       "id": "4993",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 173784
+      "adds": 178144
     },
     {
       "id": "3271",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 170730
+      "adds": 176211
     },
     {
       "id": "13150",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 143696
+      "adds": 146566
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 137610
+      "adds": 141290
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 113827
+      "adds": 117439
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 74916
+      "adds": 76833
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 58544
+      "adds": 59820
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55812
+      "adds": 57276
     },
     {
       "id": "12542",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 33928
+      "adds": 34708
     },
     {
       "id": "13413",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 177,
-      "adds": 33510
+      "adds": 33870
     },
     {
       "id": "DAL",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32555
+      "adds": 33674
     },
     {
       "id": "WAS",
@@ -3986,7 +3986,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30618
+      "adds": 31479
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27377
+      "adds": 28077
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 24120
+      "adds": 24568
     }
   ]
 }
