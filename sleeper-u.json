@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T15:22:28.575Z",
+  "generated_at": "2026-10-06T15:37:09.018Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1384875
+      "adds": 1397070
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 740529
+      "adds": 729774
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 509512
+      "adds": 522984
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 369960
+      "adds": 377202
     },
     {
       "id": "4018",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 326510
+      "adds": 327242
     },
     {
       "id": "9482",
@@ -3854,18 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 274914
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 186624
+      "adds": 276966
     },
     {
       "id": "3271",
@@ -3876,7 +3865,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 186453
+      "adds": 190350
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 188304
     },
     {
       "id": "13150",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 152299
+      "adds": 150703
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 148270
+      "adds": 150215
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 124593
+      "adds": 126315
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 80946
+      "adds": 81792
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 62768
+      "adds": 63292
     },
     {
       "id": "LV",
@@ -3942,18 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59874
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 36212
+      "adds": 59958
     },
     {
       "id": "DAL",
@@ -3964,18 +3953,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35789
+      "adds": 36605
     },
     {
-      "id": "13413",
-      "name": "Cyrus Allen",
+      "id": "12542",
+      "name": "Efton Chism",
       "pos": "WR",
-      "team": "KC",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 177,
-      "adds": 34668
+      "depth": 5,
+      "rank": 572,
+      "adds": 36400
     },
     {
       "id": "WAS",
@@ -3986,7 +3975,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33159
+      "adds": 33754
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 177,
+      "adds": 33552
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29225
+      "adds": 29260
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 25456
+      "adds": 25632
     }
   ]
 }
