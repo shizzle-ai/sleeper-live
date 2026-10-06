@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T02:53:41.014Z",
+  "generated_at": "2026-10-06T03:02:36.710Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -527,7 +527,7 @@
         "7049": 1.8,
         "8138": 16.3,
         "8155": 0,
-        "11559": 6.56,
+        "11559": 12.92,
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 579267
+      "adds": 590040
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 499266
+      "adds": 504279
     },
     {
       "id": "4018",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 232984
+      "adds": 235126
     },
     {
       "id": "11577",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 164330
+      "adds": 167572
     },
     {
       "id": "9482",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 130707
+      "adds": 132876
     },
     {
       "id": "13150",
@@ -4271,18 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 103012
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 78404
+      "adds": 104370
     },
     {
       "id": "8154",
@@ -4293,7 +4282,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 77892
+      "adds": 81252
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 79688
     },
     {
       "id": "3271",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 73818
+      "adds": 74718
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 65745
+      "adds": 66510
     },
     {
       "id": "CLE",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43792
+      "adds": 44506
     },
     {
       "id": "11581",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 34083
+      "adds": 34596
     },
     {
       "id": "11157",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 33894
+      "adds": 34119
     },
     {
       "id": "LV",
@@ -4359,7 +4359,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32364
+      "adds": 32772
     },
     {
       "id": "13413",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 30270
+      "adds": 30426
     },
     {
       "id": "4663",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 28404
+      "adds": 28812
     },
     {
       "id": "12542",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 18984
+      "adds": 19160
     },
     {
       "id": "12535",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 16968
+      "adds": 17176
     },
     {
       "id": "8188",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 16142
+      "adds": 16219
     },
     {
       "id": "3155",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 13785
+      "adds": 14005
     }
   ]
 }
