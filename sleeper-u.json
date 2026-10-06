@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-05T23:51:37.586Z",
+  "generated_at": "2026-10-06T00:19:55.507Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -527,7 +527,7 @@
         "7049": 1.8,
         "8138": 16.3,
         "8155": 0,
-        "11559": 0,
+        "11559": 0.48,
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 527400
+      "adds": 537435
     },
     {
       "id": "13264",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 502308
+      "adds": 517383
     },
     {
       "id": "4018",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 184256
+      "adds": 196005
     },
     {
       "id": "9482",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 119088
+      "adds": 122436
     },
     {
       "id": "13150",
@@ -4260,18 +4260,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 115647
-    },
-    {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 489,
-      "adds": 108648
+      "adds": 117656
     },
     {
       "id": "11577",
@@ -4282,7 +4271,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 103928
+      "adds": 111484
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 489,
+      "adds": 109053
     },
     {
       "id": "3271",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 73053
+      "adds": 74493
     },
     {
       "id": "4993",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 67564
+      "adds": 69436
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 65275
+      "adds": 66445
     },
     {
       "id": "CLE",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41608
+      "adds": 42504
     },
     {
       "id": "13413",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 39726
+      "adds": 40308
     },
     {
       "id": "8154",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 36630
+      "adds": 37734
     },
     {
       "id": "11581",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 34893
+      "adds": 35352
     },
     {
       "id": "LV",
@@ -4370,18 +4370,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33564
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 25347
+      "adds": 34128
     },
     {
       "id": "4663",
@@ -4392,7 +4381,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 25308
+      "adds": 26112
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 25459
     },
     {
       "id": "12535",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19288
+      "adds": 19528
     },
     {
       "id": "12542",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 18960
+      "adds": 19504
     },
     {
       "id": "9757",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 14348
+      "adds": 14836
     }
   ]
 }
