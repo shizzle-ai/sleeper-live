@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T03:36:30.221Z",
+  "generated_at": "2026-10-06T03:51:40.890Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 619308
+      "adds": 649224
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 490149
+      "adds": 504297
     },
     {
       "id": "4018",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 241806
+      "adds": 246431
     },
     {
       "id": "11577",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 181258
+      "adds": 189974
     },
     {
       "id": "8154",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 146904
+      "adds": 162012
     },
     {
       "id": "9482",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 136350
+      "adds": 142623
     },
     {
       "id": "13150",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 102123
+      "adds": 105315
     },
     {
       "id": "4993",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 82496
+      "adds": 86520
     },
     {
       "id": "3271",
@@ -4304,7 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 73404
+      "adds": 76275
     },
     {
       "id": "6083",
@@ -4315,7 +4315,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 67270
+      "adds": 70180
     },
     {
       "id": "CLE",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45479
+      "adds": 47712
     },
     {
       "id": "11581",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 34650
+      "adds": 36324
     },
     {
       "id": "LV",
@@ -4348,18 +4348,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31854
-    },
-    {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 489,
-      "adds": 30069
+      "adds": 33300
     },
     {
       "id": "4663",
@@ -4370,7 +4359,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 29620
+      "adds": 30988
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 489,
+      "adds": 30411
     },
     {
       "id": "13413",
@@ -4381,7 +4381,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 29226
+      "adds": 29796
     },
     {
       "id": "12542",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19084
+      "adds": 19524
     },
     {
       "id": "12535",
@@ -4403,7 +4403,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15048
+      "adds": 15752
     },
     {
       "id": "8188",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 15036
+      "adds": 15253
     },
     {
       "id": "3155",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 14200
+      "adds": 14865
     }
   ]
 }
