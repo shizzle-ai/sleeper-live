@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T17:04:59.172Z",
+  "generated_at": "2026-10-06T17:20:34.786Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2536,16 +2536,6 @@
           "rank": 127
         },
         {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 2,
-          "rank": 35
-        },
-        {
           "id": "13294",
           "name": "Makai Lemon",
           "pos": "WR",
@@ -2577,6 +2567,16 @@
         }
       ],
       "reserve": [
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 35
+        },
         {
           "id": "9225",
           "name": "Tank Bigsby",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1591047
+      "adds": 1618695
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 806220
+      "adds": 819252
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 604372
+      "adds": 615280
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 428496
+      "adds": 435084
     },
     {
       "id": "4018",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 340315
+      "adds": 342145
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 311742
+      "adds": 316845
     },
     {
       "id": "3271",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 232416
+      "adds": 237888
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 215428
+      "adds": 219420
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 175935
+      "adds": 179085
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 164024
+      "adds": 166663
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 149576
+      "adds": 152474
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 94689
+      "adds": 96615
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 71788
+      "adds": 73092
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68412
+      "adds": 69534
     },
     {
       "id": "DAL",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43744
+      "adds": 44665
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 40988
+      "adds": 41660
     },
     {
       "id": "WAS",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39466
+      "adds": 40285
     },
     {
       "id": "13413",
@@ -3986,18 +3986,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 177,
-      "adds": 33456
-    },
-    {
-      "id": "NE",
-      "name": "New England Patriots",
-      "pos": "DEF",
-      "team": "NE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 32802
+      "adds": 33816
     },
     {
       "id": "7083",
@@ -4008,7 +3997,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 31802
+      "adds": 33480
+    },
+    {
+      "id": "NE",
+      "name": "New England Patriots",
+      "pos": "DEF",
+      "team": "NE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 33383
     }
   ]
 }
