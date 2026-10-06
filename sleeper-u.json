@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T20:43:57.742Z",
+  "generated_at": "2026-10-06T20:55:44.173Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1916811
+      "adds": 1941777
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 912726
+      "adds": 924615
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 793800
+      "adds": 806440
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 522840
+      "adds": 528078
     },
     {
       "id": "9482",
@@ -3843,18 +3843,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 362007
+      "adds": 366732
     },
     {
       "id": "4018",
       "name": "Joe Mixon",
       "pos": "RB",
       "team": null,
-      "injury": "Active",
+      "injury": null,
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 342620
+      "adds": 342975
     },
     {
       "id": "3271",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 296703
+      "adds": 301275
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 265108
+      "adds": 268752
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 209440
+      "adds": 211985
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 193564
+      "adds": 198380
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 180299
+      "adds": 182427
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 118602
+      "adds": 120168
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 91948
+      "adds": 93308
     },
     {
       "id": "LV",
@@ -3942,18 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78072
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 54440
+      "adds": 78900
     },
     {
       "id": "7083",
@@ -3964,7 +3953,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 51742
+      "adds": 55496
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 55132
     },
     {
       "id": "WAS",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50407
+      "adds": 51282
     },
     {
       "id": "12542",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 46564
+      "adds": 47108
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39018
+      "adds": 39368
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 32928
+      "adds": 33512
     }
   ]
 }
