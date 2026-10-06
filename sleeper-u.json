@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T10:36:39.937Z",
+  "generated_at": "2026-10-06T10:52:10.210Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 926316
+      "adds": 945270
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 570366
+      "adds": 578628
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 306562
+      "adds": 313412
     },
     {
       "id": "4018",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 283757
+      "adds": 285525
     },
     {
       "id": "8154",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 249402
+      "adds": 254052
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 192897
+      "adds": 196362
     },
     {
       "id": "4993",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 123600
+      "adds": 125960
     },
     {
       "id": "13150",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 120197
+      "adds": 121737
     },
     {
       "id": "3271",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 109197
+      "adds": 112050
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 94860
+      "adds": 97165
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68754
+      "adds": 70945
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 51453
+      "adds": 52578
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 43084
+      "adds": 43872
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41904
+      "adds": 42702
     },
     {
       "id": "13413",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 31176
+      "adds": 31518
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 25712
+      "adds": 26068
     },
     {
       "id": "11157",
@@ -3975,18 +3975,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 25479
-    },
-    {
-      "id": "NE",
-      "name": "New England Patriots",
-      "pos": "DEF",
-      "team": "NE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 19194
+      "adds": 25587
     },
     {
       "id": "DAL",
@@ -3997,7 +3986,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 19130
+      "adds": 19728
+    },
+    {
+      "id": "NE",
+      "name": "New England Patriots",
+      "pos": "DEF",
+      "team": "NE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 19691
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18664
+      "adds": 18976
     }
   ]
 }
