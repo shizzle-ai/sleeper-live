@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T12:00:19.408Z",
+  "generated_at": "2026-10-06T12:19:48.815Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1037736
+      "adds": 1073214
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 611145
+      "adds": 625716
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 353518
+      "adds": 366878
     },
     {
       "id": "4018",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 294442
+      "adds": 297619
     },
     {
       "id": "8154",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 278382
+      "adds": 286680
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 212742
+      "adds": 219069
     },
     {
       "id": "4993",
@@ -3865,18 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 138204
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 127855
+      "adds": 142896
     },
     {
       "id": "3271",
@@ -3887,7 +3876,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 126306
+      "adds": 131724
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 130914
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 108015
+      "adds": 112340
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81872
+      "adds": 85953
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 58806
+      "adds": 61056
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 48020
+      "adds": 49480
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46290
+      "adds": 47850
     },
     {
       "id": "13413",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 32598
+      "adds": 33048
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 28220
+      "adds": 28944
     },
     {
       "id": "11157",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 24876
+      "adds": 25065
     },
     {
       "id": "DAL",
@@ -3986,7 +3986,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22939
+      "adds": 24097
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22022
+      "adds": 22694
     },
     {
       "id": "WAS",
@@ -4008,7 +4008,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21231
+      "adds": 22302
     }
   ]
 }
