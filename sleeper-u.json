@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T02:24:32.106Z",
+  "generated_at": "2026-10-06T02:39:54.010Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 23.6,
         "3451": 16,
-        "4035": 14.1,
+        "4035": 14.7,
         "4046": 17,
         "4199": 16.8,
         "4217": 17,
@@ -527,7 +527,7 @@
         "7049": 1.8,
         "8138": 16.3,
         "8155": 0,
-        "11559": 5,
+        "11559": 6.56,
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 572040
+      "adds": 562563
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 524088
+      "adds": 491652
     },
     {
       "id": "4018",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 228058
+      "adds": 229705
     },
     {
       "id": "11577",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 154524
+      "adds": 159390
     },
     {
       "id": "9482",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 131472
+      "adds": 127521
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 107954
+      "adds": 101311
     },
     {
       "id": "4993",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 77404
+      "adds": 76452
     },
     {
       "id": "3271",
@@ -4293,18 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 76797
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 67620
+      "adds": 72405
     },
     {
       "id": "8154",
@@ -4315,7 +4304,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 49500
+      "adds": 71910
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 64510
     },
     {
       "id": "CLE",
@@ -4326,7 +4326,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44555
+      "adds": 42868
     },
     {
       "id": "11157",
@@ -4337,7 +4337,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 36927
+      "adds": 33651
     },
     {
       "id": "11581",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 35055
+      "adds": 33183
     },
     {
       "id": "LV",
@@ -4359,7 +4359,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33690
+      "adds": 31830
     },
     {
       "id": "13413",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 32418
+      "adds": 29874
     },
     {
       "id": "4663",
@@ -4381,18 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 28468
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 19840
+      "adds": 27752
     },
     {
       "id": "12542",
@@ -4403,7 +4392,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 19504
+      "adds": 18724
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 16592
     },
     {
       "id": "8188",
@@ -4414,7 +4414,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 522,
-      "adds": 18354
+      "adds": 16016
     },
     {
       "id": "3155",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 14255
+      "adds": 13455
     }
   ]
 }
