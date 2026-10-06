@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T19:03:15.182Z",
+  "generated_at": "2026-10-06T19:19:12.350Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1088,6 +1088,16 @@
           "rank": 355
         },
         {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "pos": "TE",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
+        {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
           "pos": "RB",
@@ -1098,34 +1108,24 @@
           "rank": 95
         },
         {
-          "id": "2307",
-          "name": "Marcus Mariota",
-          "pos": "QB",
-          "team": "WAS",
-          "injury": "Out",
+          "id": "2216",
+          "name": "Mike Evans",
+          "pos": "WR",
+          "team": "SF",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 508
+          "rank": 60
         },
         {
-          "id": "2505",
-          "name": "Darren Waller",
-          "pos": "TE",
-          "team": "CAR",
+          "id": "2306",
+          "name": "Jameis Winston",
+          "pos": "QB",
+          "team": "NYG",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 354
-        },
-        {
-          "id": "4866",
-          "name": "Saquon Barkley",
-          "pos": "RB",
-          "team": "PHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 11
+          "rank": 490
         },
         {
           "id": "5870",
@@ -1180,16 +1180,6 @@
       ],
       "bench": [
         {
-          "id": "12517",
-          "name": "Colston Loveland",
-          "pos": "TE",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
           "id": "13286",
           "name": "Jadarian Price",
           "pos": "RB",
@@ -1210,24 +1200,34 @@
           "rank": 647
         },
         {
-          "id": "2216",
-          "name": "Mike Evans",
-          "pos": "WR",
-          "team": "SF",
-          "injury": "Questionable",
+          "id": "2307",
+          "name": "Marcus Mariota",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 60
+          "rank": 508
         },
         {
-          "id": "2306",
-          "name": "Jameis Winston",
-          "pos": "QB",
-          "team": "NYG",
+          "id": "2505",
+          "name": "Darren Waller",
+          "pos": "TE",
+          "team": "CAR",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 490
+          "rank": 354
+        },
+        {
+          "id": "4866",
+          "name": "Saquon Barkley",
+          "pos": "RB",
+          "team": "PHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 11
         },
         {
           "id": "5927",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1774836
+      "adds": 1802610
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 866907
+      "adds": 879030
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 702356
+      "adds": 714174
     },
     {
       "id": "8154",
@@ -3832,18 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 484290
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": "SEA",
-      "injury": "Active",
-      "status": "Active",
-      "depth": null,
-      "rank": 164,
-      "adds": 344510
+      "adds": 490770
     },
     {
       "id": "9482",
@@ -3854,7 +3843,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 340911
+      "adds": 345564
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": "SEA",
+      "injury": "Active",
+      "status": "Active",
+      "depth": null,
+      "rank": 164,
+      "adds": 345007
     },
     {
       "id": "3271",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 269235
+      "adds": 274230
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 242516
+      "adds": 246960
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 192635
+      "adds": 195165
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 177359
+      "adds": 180488
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 166992
+      "adds": 169715
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 108918
+      "adds": 110853
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 82468
+      "adds": 84120
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74286
+      "adds": 75234
     },
     {
       "id": "DAL",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49730
+      "adds": 50604
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 44848
+      "adds": 45604
     },
     {
       "id": "WAS",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44660
+      "adds": 45591
     },
     {
       "id": "7083",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 43224
+      "adds": 44550
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36281
+      "adds": 36834
     },
     {
       "id": "13413",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 177,
-      "adds": 32610
+      "adds": 32844
     }
   ]
 }
