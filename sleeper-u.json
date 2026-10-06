@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T15:52:32.904Z",
+  "generated_at": "2026-10-06T16:02:51.579Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -97,14 +97,24 @@
         "rank": 32
       },
       {
-        "id": "12514",
-        "name": "Emeka Egbuka",
+        "id": "11637",
+        "name": "Keon Coleman",
         "pos": "WR",
-        "team": "TB",
-        "injury": "Questionable",
+        "team": "BUF",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 206
+      },
+      {
+        "id": "1166",
+        "name": "Kirk Cousins",
+        "pos": "QB",
+        "team": "LV",
+        "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 39
+        "rank": 270
       },
       {
         "id": "3451",
@@ -115,16 +125,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 128
-      },
-      {
-        "id": "4046",
-        "name": "Patrick Mahomes",
-        "pos": "QB",
-        "team": "KC",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 39
       },
       {
         "id": "4199",
@@ -219,24 +219,14 @@
         "rank": 162
       },
       {
-        "id": "11637",
-        "name": "Keon Coleman",
+        "id": "12514",
+        "name": "Emeka Egbuka",
         "pos": "WR",
-        "team": "BUF",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 206
-      },
-      {
-        "id": "1166",
-        "name": "Kirk Cousins",
-        "pos": "QB",
-        "team": "LV",
-        "injury": null,
+        "team": "TB",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 270
+        "rank": 39
       },
       {
         "id": "4035",
@@ -247,6 +237,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 119
+      },
+      {
+        "id": "4046",
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "team": "KC",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 39
       }
     ],
     "reserve": [],
@@ -265,14 +265,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "4046",
-          "name": "Patrick Mahomes",
+          "id": "1166",
+          "name": "Kirk Cousins",
           "pos": "QB",
-          "team": "KC",
-          "injury": "Questionable",
+          "team": "LV",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 270
         },
         {
           "id": "8150",
@@ -285,14 +285,14 @@
           "rank": 13
         },
         {
-          "id": "11584",
-          "name": "Bucky Irving",
+          "id": "4199",
+          "name": "Aaron Jones",
           "pos": "RB",
-          "team": "TB",
+          "team": "MIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 32
+          "rank": 85
         },
         {
           "id": "9493",
@@ -305,14 +305,14 @@
           "rank": 4
         },
         {
-          "id": "12514",
-          "name": "Emeka Egbuka",
+          "id": "11637",
+          "name": "Keon Coleman",
           "pos": "WR",
-          "team": "TB",
-          "injury": "Questionable",
+          "team": "BUF",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 39
+          "depth": 3,
+          "rank": 206
         },
         {
           "id": "4217",
@@ -325,14 +325,14 @@
           "rank": 80
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
+          "id": "11584",
+          "name": "Bucky Irving",
           "pos": "RB",
-          "team": "MIN",
+          "team": "TB",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 32
         },
         {
           "id": "6770",
@@ -686,14 +686,14 @@
       },
       "starters": [
         {
-          "id": "11256",
-          "name": "Tyson Bagent",
-          "pos": "QB",
-          "team": "CHI",
+          "id": "11435",
+          "name": "Emanuel Wilson",
+          "pos": "RB",
+          "team": "SEA",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 546
+          "rank": 161
         },
         {
           "id": "11563",
@@ -716,14 +716,14 @@
           "rank": 150
         },
         {
-          "id": "13346",
-          "name": "Denzel Boston",
+          "id": "13279",
+          "name": "Carnell Tate",
           "pos": "WR",
-          "team": "CLE",
-          "injury": null,
+          "team": "TEN",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 153
+          "rank": 61
         },
         {
           "id": "8131",
@@ -788,14 +788,14 @@
       ],
       "bench": [
         {
-          "id": "11435",
-          "name": "Emanuel Wilson",
-          "pos": "RB",
-          "team": "SEA",
+          "id": "11256",
+          "name": "Tyson Bagent",
+          "pos": "QB",
+          "team": "CHI",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 161
+          "rank": 546
         },
         {
           "id": "12509",
@@ -808,16 +808,6 @@
           "rank": 179
         },
         {
-          "id": "13279",
-          "name": "Carnell Tate",
-          "pos": "WR",
-          "team": "TEN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 61
-        },
-        {
           "id": "13298",
           "name": "KC Concepcion",
           "pos": "WR",
@@ -826,6 +816,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 110
+        },
+        {
+          "id": "13346",
+          "name": "Denzel Boston",
+          "pos": "WR",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 153
         },
         {
           "id": "4892",
@@ -2615,14 +2615,24 @@
           "rank": 32
         },
         {
-          "id": "12514",
-          "name": "Emeka Egbuka",
+          "id": "11637",
+          "name": "Keon Coleman",
           "pos": "WR",
-          "team": "TB",
-          "injury": "Questionable",
+          "team": "BUF",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 206
+        },
+        {
+          "id": "1166",
+          "name": "Kirk Cousins",
+          "pos": "QB",
+          "team": "LV",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 270
         },
         {
           "id": "3451",
@@ -2633,16 +2643,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 128
-        },
-        {
-          "id": "4046",
-          "name": "Patrick Mahomes",
-          "pos": "QB",
-          "team": "KC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 39
         },
         {
           "id": "4199",
@@ -2737,24 +2737,14 @@
           "rank": 162
         },
         {
-          "id": "11637",
-          "name": "Keon Coleman",
+          "id": "12514",
+          "name": "Emeka Egbuka",
           "pos": "WR",
-          "team": "BUF",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 206
-        },
-        {
-          "id": "1166",
-          "name": "Kirk Cousins",
-          "pos": "QB",
-          "team": "LV",
-          "injury": null,
+          "team": "TB",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 270
+          "rank": 39
         },
         {
           "id": "4035",
@@ -2765,6 +2755,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 119
+        },
+        {
+          "id": "4046",
+          "name": "Patrick Mahomes",
+          "pos": "QB",
+          "team": "KC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 39
         }
       ],
       "reserve": [],
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1440630
+      "adds": 1470771
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 750240
+      "adds": 764280
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 539214
+      "adds": 549876
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 387474
+      "adds": 395064
     },
     {
       "id": "4018",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 330340
+      "adds": 332460
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 284922
+      "adds": 290781
     },
     {
       "id": "3271",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 199485
+      "adds": 205776
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 194324
+      "adds": 198376
     },
     {
       "id": "6083",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 155895
+      "adds": 160130
     },
     {
       "id": "13150",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 154287
+      "adds": 156835
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 131530
+      "adds": 135198
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 84771
+      "adds": 87012
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 65084
+      "adds": 66264
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 62058
+      "adds": 63552
     },
     {
       "id": "DAL",
@@ -3953,7 +3953,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38071
+      "adds": 39170
     },
     {
       "id": "12542",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 37492
+      "adds": 38220
     },
     {
       "id": "WAS",
@@ -3975,7 +3975,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34930
+      "adds": 35875
     },
     {
       "id": "13413",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 177,
-      "adds": 33828
+      "adds": 34008
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29995
+      "adds": 30457
     },
     {
       "id": "12535",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 26176
+      "adds": 26672
     }
   ]
 }
