@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T01:18:26.333Z",
+  "generated_at": "2026-10-06T01:33:23.549Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -527,7 +527,7 @@
         "7049": 1.8,
         "8138": 16.3,
         "8155": 0,
-        "11559": 1.56,
+        "11559": 2.84,
         "11576": 8.7,
         "11620": 15.4,
         "11792": 19,
@@ -4216,7 +4216,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 537543
+      "adds": 530055
     },
     {
       "id": "11630",
@@ -4227,7 +4227,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 528372
+      "adds": 501354
     },
     {
       "id": "4018",
@@ -4238,7 +4238,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 213627
+      "adds": 215642
     },
     {
       "id": "11577",
@@ -4249,7 +4249,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 132314
+      "adds": 136892
     },
     {
       "id": "9482",
@@ -4260,7 +4260,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 124515
+      "adds": 122040
     },
     {
       "id": "13150",
@@ -4271,7 +4271,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 109767
+      "adds": 102956
     },
     {
       "id": "3271",
@@ -4282,7 +4282,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 75096
+      "adds": 72207
     },
     {
       "id": "4993",
@@ -4293,7 +4293,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 72632
+      "adds": 72008
     },
     {
       "id": "6083",
@@ -4304,51 +4304,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 66180
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 42924
-    },
-    {
-      "id": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 489,
-      "adds": 40590
-    },
-    {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 177,
-      "adds": 35454
-    },
-    {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 98,
-      "adds": 34992
+      "adds": 63350
     },
     {
       "id": "8154",
@@ -4359,7 +4315,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 34932
+      "adds": 42276
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 41839
+    },
+    {
+      "id": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 489,
+      "adds": 36180
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 98,
+      "adds": 33534
     },
     {
       "id": "LV",
@@ -4370,7 +4359,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33462
+      "adds": 31866
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 177,
+      "adds": 31428
     },
     {
       "id": "4663",
@@ -4381,29 +4381,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 27192
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "team": "KC",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 522,
-      "adds": 19838
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 19060
+      "adds": 26448
     },
     {
       "id": "12535",
@@ -4414,7 +4392,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18696
+      "adds": 18936
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 572,
+      "adds": 18356
+    },
+    {
+      "id": "8188",
+      "name": "Tyquan Thornton",
+      "pos": "WR",
+      "team": "KC",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 3,
+      "rank": 522,
+      "adds": 17983
     },
     {
       "id": "3155",
@@ -4425,7 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 14295
+      "adds": 13395
     }
   ]
 }
