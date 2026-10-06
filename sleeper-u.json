@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T06:18:44.200Z",
+  "generated_at": "2026-10-06T06:43:00.256Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 778068
+      "adds": 787401
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 528669
+      "adds": 527004
     },
     {
       "id": "4018",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 266652
+      "adds": 268220
     },
     {
       "id": "11577",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 686,
-      "adds": 244030
+      "adds": 249762
     },
     {
       "id": "8154",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 208764
+      "adds": 212286
     },
     {
       "id": "9482",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 165663
+      "adds": 166752
     },
     {
       "id": "13150",
@@ -3865,7 +3865,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 112084
+      "adds": 111818
     },
     {
       "id": "4993",
@@ -3876,7 +3876,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 103808
+      "adds": 105080
     },
     {
       "id": "3271",
@@ -3887,7 +3887,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 88506
+      "adds": 89028
     },
     {
       "id": "6083",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 79895
+      "adds": 80120
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53956
+      "adds": 54180
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 42111
+      "adds": 42237
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 36384
+      "adds": 36824
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36246
+      "adds": 36222
     },
     {
       "id": "13413",
@@ -3953,7 +3953,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 177,
-      "adds": 30630
+      "adds": 30078
     },
     {
       "id": "11157",
@@ -3964,7 +3964,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 489,
-      "adds": 27954
+      "adds": 27243
     },
     {
       "id": "12542",
@@ -3975,18 +3975,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 22344
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 16720
+      "adds": 22552
     },
     {
       "id": "NE",
@@ -3997,18 +3986,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16548
+      "adds": 16695
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
+      "id": "12535",
+      "name": "Isaac TeSlaa",
       "pos": "WR",
-      "team": "IND",
+      "team": "DET",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 674,
-      "adds": 14815
+      "depth": 3,
+      "rank": 184,
+      "adds": 16672
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 14888
     }
   ]
 }
