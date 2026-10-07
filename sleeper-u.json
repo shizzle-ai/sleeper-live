@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T16:43:08.207Z",
+  "generated_at": "2026-10-07T17:06:55.323Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3648,7 +3648,7 @@
         "name": "Mason Taylor",
         "pos": "TE",
         "team": "NYJ",
-        "injury": "Doubtful",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 138
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2822544
+      "adds": 2837493
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 596223
+      "adds": 604512
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 469940
+      "adds": 474064
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 409157
+      "adds": 412482
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 294917
+      "adds": 299691
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 235180
+      "adds": 237324
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 186796
+      "adds": 188160
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132522
+      "adds": 134628
     },
     {
       "id": "DAL",
@@ -3967,29 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120355
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 94032
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 92664
+      "adds": 121983
     },
     {
       "id": "8129",
@@ -4000,7 +3978,29 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 80568
+      "adds": 99416
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 95952
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 572,
+      "adds": 93472
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 73860
+      "adds": 74934
     },
     {
       "id": "NYJ",
@@ -4022,29 +4022,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64864
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 59370
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 59150
+      "adds": 65982
     },
     {
       "id": "7528",
@@ -4055,7 +4033,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 58895
+      "adds": 60105
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 59880
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 474,
+      "adds": 59790
     },
     {
       "id": "7039",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 57645
+      "adds": 58272
     },
     {
       "id": "12535",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 56320
+      "adds": 57032
     },
     {
       "id": "2078",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 52248
+      "adds": 55538
     }
   ]
 }
