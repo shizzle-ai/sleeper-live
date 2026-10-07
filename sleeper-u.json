@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T10:16:46.455Z",
+  "generated_at": "2026-10-07T10:34:40.588Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -177,10 +177,10 @@
         "rank": 4
       },
       {
-        "id": "DET",
-        "name": "Detroit Lions",
+        "id": "WAS",
+        "name": "Washington Commanders",
         "pos": "DEF",
-        "team": "DET",
+        "team": "WAS",
         "injury": null,
         "status": null,
         "depth": null,
@@ -265,14 +265,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "1166",
-          "name": "Kirk Cousins",
+          "id": "6770",
+          "name": "Joe Burrow",
           "pos": "QB",
-          "team": "LV",
+          "team": "CIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 268
+          "rank": 16
         },
         {
           "id": "8150",
@@ -335,14 +335,14 @@
           "rank": 32
         },
         {
-          "id": "6770",
-          "name": "Joe Burrow",
+          "id": "1166",
+          "name": "Kirk Cousins",
           "pos": "QB",
-          "team": "CIN",
+          "team": "LV",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 16
+          "rank": 268
         },
         {
           "id": "3451",
@@ -355,10 +355,10 @@
           "rank": 128
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "WAS",
+          "name": "Washington Commanders",
           "pos": "DEF",
-          "team": "DET",
+          "team": "WAS",
           "injury": null,
           "status": null,
           "depth": null,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11637": 0,
         "12514": 0,
-        "DET": 0
+        "WAS": 0
       }
     },
     "opponent": {
@@ -2474,16 +2474,6 @@
           "rank": 50
         },
         {
-          "id": "5001",
-          "name": "Dalton Schultz",
-          "pos": "TE",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 98
-        },
-        {
           "id": "5849",
           "name": "Kyler Murray",
           "pos": "QB",
@@ -2514,6 +2504,16 @@
           "rank": 4
         },
         {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 469
+        },
+        {
           "id": "MIN",
           "name": "Minnesota Vikings",
           "pos": "DEF",
@@ -2534,6 +2534,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 125
+        },
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 36
         },
         {
           "id": "13294",
@@ -2574,29 +2584,9 @@
           "status": "Active",
           "depth": 2,
           "rank": 80
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "pos": "TE",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 469
         }
       ],
       "reserve": [
-        {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 36
-        },
         {
           "id": "9225",
           "name": "Tank Bigsby",
@@ -2715,10 +2705,10 @@
           "rank": 4
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "WAS",
+          "name": "Washington Commanders",
           "pos": "DEF",
-          "team": "DET",
+          "team": "WAS",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2994,7 +2984,77 @@
       "faab_used": 0
     }
   ],
-  "recent_transactions": [],
+  "recent_transactions": [
+    {
+      "transaction_id": "1413508264158638080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791369141190,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "5001",
+            "name": "Dalton Schultz",
+            "pos": "TE",
+            "team": "HOU",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 98
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1413506197843140608",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791368648542,
+      "adds": [
+        {
+          "player": {
+            "id": "WAS",
+            "name": "Washington Commanders",
+            "pos": "DEF",
+            "team": "WAS",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "DET",
+            "name": "Detroit Lions",
+            "pos": "DEF",
+            "team": "DET",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "roster_ids": [
+        11
+      ],
+      "waiver_bid": null
+    }
+  ],
   "free_agents": {
     "QB": [
       {
@@ -3544,6 +3604,16 @@
         "rank": 92
       },
       {
+        "id": "5001",
+        "name": "Dalton Schultz",
+        "pos": "TE",
+        "team": "HOU",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 98
+      },
+      {
         "id": "11603",
         "name": "AJ Barner",
         "pos": "TE",
@@ -3632,16 +3702,6 @@
         "status": "Active",
         "depth": null,
         "rank": 212
-      },
-      {
-        "id": "7600",
-        "name": "Pat Freiermuth",
-        "pos": "TE",
-        "team": "PIT",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 230
       }
     ],
     "K": [
@@ -3778,16 +3838,6 @@
         "rank": null
       },
       {
-        "id": "WAS",
-        "name": "Washington Commanders",
-        "pos": "DEF",
-        "team": "WAS",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
-      },
-      {
         "id": "LAC",
         "name": "Los Angeles Chargers",
         "pos": "DEF",
@@ -3806,6 +3856,16 @@
         "status": null,
         "depth": null,
         "rank": null
+      },
+      {
+        "id": "CLE",
+        "name": "Cleveland Browns",
+        "pos": "DEF",
+        "team": "CLE",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
       }
     ]
   },
@@ -3819,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3162672
+      "adds": 3127437
     },
     {
       "id": "3271",
@@ -3830,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 550530
+      "adds": 547785
     },
     {
       "id": "4993",
@@ -3841,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 473428
+      "adds": 470816
     },
     {
       "id": "13150",
@@ -3852,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 395283
+      "adds": 393869
     },
     {
       "id": "CLE",
@@ -3863,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 270466
+      "adds": 268786
     },
     {
       "id": "12509",
@@ -3874,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 213536
+      "adds": 213924
     },
     {
       "id": "4663",
@@ -3885,18 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 183812
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 125349
+      "adds": 183100
     },
     {
       "id": "LV",
@@ -3907,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 115236
+      "adds": 114918
     },
     {
       "id": "DAL",
@@ -3918,18 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 102175
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 164,
-      "adds": 94556
+      "adds": 102463
     },
     {
       "id": "12542",
@@ -3940,7 +3978,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 89896
+      "adds": 89700
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 164,
+      "adds": 89635
     },
     {
       "id": "11608",
@@ -3951,29 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 62088
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 59535
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 59295
+      "adds": 61962
     },
     {
       "id": "650",
@@ -3984,7 +4011,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 57804
+      "adds": 59076
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 474,
+      "adds": 58945
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 58885
     },
     {
       "id": "7039",
@@ -3995,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 56538
+      "adds": 56178
     },
     {
       "id": "12535",
@@ -4006,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 53496
+      "adds": 53344
     },
     {
       "id": "13418",
@@ -4017,7 +4066,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 47964
+      "adds": 47943
     },
     {
       "id": "NYJ",
@@ -4028,7 +4077,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46722
+      "adds": 47010
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 42135
     }
   ]
 }
