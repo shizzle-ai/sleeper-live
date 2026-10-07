@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T19:22:32.636Z",
+  "generated_at": "2026-10-07T19:36:50.087Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1489,6 +1489,16 @@
           "rank": 27
         },
         {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 44
+        },
+        {
           "id": "12545",
           "name": "Tyler Shough",
           "pos": "QB",
@@ -1519,16 +1529,6 @@
           "rank": 36
         },
         {
-          "id": "7594",
-          "name": "Chuba Hubbard",
-          "pos": "RB",
-          "team": "CAR",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 66
-        },
-        {
           "id": "8110",
           "name": "Jake Ferguson",
           "pos": "TE",
@@ -1539,10 +1539,20 @@
           "rank": 97
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "8259",
+          "name": "Cameron Dicker",
+          "pos": "K",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 118
+        },
+        {
+          "id": "CIN",
+          "name": "Cincinnati Bengals",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "CIN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1550,16 +1560,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "12490",
-          "name": "Bhayshul Tuten",
-          "pos": "RB",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 44
-        },
         {
           "id": "4177",
           "name": "Mack Hollins",
@@ -1601,20 +1601,20 @@
           "rank": 67
         },
         {
-          "id": "8259",
-          "name": "Cameron Dicker",
-          "pos": "K",
-          "team": "LAC",
+          "id": "7594",
+          "name": "Chuba Hubbard",
+          "pos": "RB",
+          "team": "CAR",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 118
+          "rank": 66
         },
         {
-          "id": "CIN",
-          "name": "Cincinnati Bengals",
+          "id": "BAL",
+          "name": "Baltimore Ravens",
           "pos": "DEF",
-          "team": "CIN",
+          "team": "BAL",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2434,6 +2434,16 @@
           "rank": 147
         },
         {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 36
+        },
+        {
           "id": "3198",
           "name": "Derrick Henry",
           "pos": "RB",
@@ -2462,16 +2472,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 65
-        },
-        {
-          "id": "4983",
-          "name": "DJ Moore",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 50
         },
         {
           "id": "5849",
@@ -2536,16 +2536,6 @@
           "rank": 125
         },
         {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 36
-        },
-        {
           "id": "13294",
           "name": "Makai Lemon",
           "pos": "WR",
@@ -2574,6 +2564,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 90
+        },
+        {
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 50
         },
         {
           "id": "8154",
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2682801
+      "adds": 2581497
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 601578
+      "adds": 586233
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 461000
+      "adds": 445496
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 407645
+      "adds": 396515
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 303884
+      "adds": 295764
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 234164
+      "adds": 227752
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 182592
+      "adds": 176672
     },
     {
       "id": "8129",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 164840
+      "adds": 168432
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 135786
+      "adds": 132840
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 122534
+      "adds": 119878
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 101142
+      "adds": 100044
     },
     {
       "id": "12542",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 92188
+      "adds": 89784
     },
     {
       "id": "11608",
@@ -4011,18 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 83358
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 68610
+      "adds": 83088
     },
     {
       "id": "2078",
@@ -4033,7 +4022,18 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 68523
+      "adds": 69692
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 67632
     },
     {
       "id": "7528",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 65035
+      "adds": 64370
     },
     {
       "id": "11647",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 58745
+      "adds": 57115
     },
     {
       "id": "9479",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 58140
+      "adds": 56390
     },
     {
       "id": "7039",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 57459
+      "adds": 56040
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 57048
+      "adds": 55288
     }
   ]
 }
