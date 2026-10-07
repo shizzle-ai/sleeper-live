@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T21:13:37.752Z",
+  "generated_at": "2026-10-07T21:30:39.768Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2525490
+      "adds": 2415168
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 597330
+      "adds": 581985
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 441908
+      "adds": 426328
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 396501
+      "adds": 383257
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 302715
+      "adds": 296184
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 228108
+      "adds": 221440
     },
     {
       "id": "8129",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 201608
+      "adds": 204872
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 175612
+      "adds": 169708
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136272
+      "adds": 133536
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121404
+      "adds": 118865
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 104070
+      "adds": 102906
     },
     {
       "id": "11608",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 92472
+      "adds": 92400
     },
     {
       "id": "12542",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 90780
+      "adds": 89104
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 75719
+      "adds": 76482
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 72385
+      "adds": 71610
     },
     {
       "id": "NYJ",
@@ -4044,7 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69782
+      "adds": 68974
     },
     {
       "id": "9479",
@@ -4055,18 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 56415
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 336,
-      "adds": 56115
+      "adds": 54710
     },
     {
       "id": "11647",
@@ -4077,7 +4066,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 56060
+      "adds": 54475
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 336,
+      "adds": 54081
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 55840
+      "adds": 54072
     }
   ]
 }
