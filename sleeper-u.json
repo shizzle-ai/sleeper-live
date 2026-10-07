@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T09:09:46.195Z",
+  "generated_at": "2026-10-07T09:28:04.999Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1947,7 +1947,7 @@
           "name": "Tyreek Hill",
           "pos": "WR",
           "team": null,
-          "injury": "Out",
+          "injury": null,
           "status": "Active",
           "depth": null,
           "rank": 145
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3148578
+      "adds": 3159585
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 541404
+      "adds": 543915
     },
     {
       "id": "4993",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 466940
+      "adds": 469348
     },
     {
       "id": "13150",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 390341
+      "adds": 392350
     },
     {
       "id": "CLE",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 263137
+      "adds": 265307
     },
     {
       "id": "12509",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 208884
+      "adds": 209908
     },
     {
       "id": "4663",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 181596
+      "adds": 182440
     },
     {
       "id": "WAS",
@@ -3896,7 +3896,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 119322
+      "adds": 120666
     },
     {
       "id": "LV",
@@ -3907,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 112146
+      "adds": 113154
     },
     {
       "id": "DAL",
@@ -3918,7 +3918,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 98482
+      "adds": 99460
     },
     {
       "id": "4018",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 97922
+      "adds": 97971
     },
     {
       "id": "12542",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 88472
+      "adds": 89076
     },
     {
       "id": "11608",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 60144
+      "adds": 60462
     },
     {
       "id": "9479",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 58915
+      "adds": 59165
     },
     {
       "id": "11647",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 58675
+      "adds": 58815
     },
     {
       "id": "7039",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 55908
+      "adds": 56088
     },
     {
       "id": "650",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 54444
+      "adds": 54876
     },
     {
       "id": "12535",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 52696
+      "adds": 52888
     },
     {
       "id": "13418",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 47460
+      "adds": 47691
     },
     {
       "id": "NYJ",
@@ -4028,7 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44588
+      "adds": 45032
     }
   ]
 }
