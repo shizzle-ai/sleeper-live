@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T07:22:43.766Z",
+  "generated_at": "2026-10-07T07:38:59.120Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3140199
+      "adds": 3123315
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 525537
+      "adds": 528570
     },
     {
       "id": "4993",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 455932
+      "adds": 457172
     },
     {
       "id": "13150",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 382235
+      "adds": 383089
     },
     {
       "id": "CLE",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 252791
+      "adds": 254562
     },
     {
       "id": "12509",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 199384
+      "adds": 201716
     },
     {
       "id": "4663",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 178380
+      "adds": 178308
     },
     {
       "id": "WAS",
@@ -3896,18 +3896,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 109284
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 164,
-      "adds": 106914
+      "adds": 112154
     },
     {
       "id": "LV",
@@ -3918,7 +3907,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106434
+      "adds": 107718
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 164,
+      "adds": 101618
     },
     {
       "id": "DAL",
@@ -3929,7 +3929,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 92825
+      "adds": 94169
     },
     {
       "id": "12542",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 86724
+      "adds": 86736
     },
     {
       "id": "9479",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 57945
+      "adds": 57815
     },
     {
       "id": "11647",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 57570
+      "adds": 57710
     },
     {
       "id": "11608",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 56466
+      "adds": 57294
     },
     {
       "id": "7039",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 54618
+      "adds": 54693
     },
     {
       "id": "12535",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 50992
+      "adds": 51104
     },
     {
       "id": "650",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 48972
+      "adds": 50688
     },
     {
       "id": "13418",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 46753
+      "adds": 46718
     },
     {
       "id": "NYJ",
@@ -4028,7 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41220
+      "adds": 42072
     }
   ]
 }
