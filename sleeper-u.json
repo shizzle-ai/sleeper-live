@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T07:38:59.120Z",
+  "generated_at": "2026-10-07T07:53:31.826Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3123315
+      "adds": 3136644
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 528570
+      "adds": 532719
     },
     {
       "id": "4993",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 457172
+      "adds": 460452
     },
     {
       "id": "13150",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 383089
+      "adds": 385595
     },
     {
       "id": "CLE",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 254562
+      "adds": 257187
     },
     {
       "id": "12509",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 201716
+      "adds": 203728
     },
     {
       "id": "4663",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 178308
+      "adds": 179424
     },
     {
       "id": "WAS",
@@ -3896,7 +3896,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 112154
+      "adds": 113925
     },
     {
       "id": "LV",
@@ -3907,7 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107718
+      "adds": 109056
     },
     {
       "id": "4018",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 101618
+      "adds": 101667
     },
     {
       "id": "DAL",
@@ -3929,7 +3929,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 94169
+      "adds": 95347
     },
     {
       "id": "12542",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 86736
+      "adds": 87344
     },
     {
       "id": "9479",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 57815
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 57710
+      "adds": 58215
     },
     {
       "id": "11608",
@@ -3973,7 +3962,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 57294
+      "adds": 58146
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 58010
     },
     {
       "id": "7039",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 54693
+      "adds": 55023
     },
     {
       "id": "12535",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 51104
+      "adds": 51608
     },
     {
       "id": "650",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 50688
+      "adds": 51576
     },
     {
       "id": "13418",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 46718
+      "adds": 46914
     },
     {
       "id": "NYJ",
@@ -4028,7 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42072
+      "adds": 42704
     }
   ]
 }
