@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T16:04:53.827Z",
+  "generated_at": "2026-10-07T16:25:21.636Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1299,14 +1299,14 @@
           "rank": 133
         },
         {
-          "id": "4017",
-          "name": "Deshaun Watson",
+          "id": "4943",
+          "name": "Sam Darnold",
           "pos": "QB",
-          "team": "CLE",
+          "team": "SEA",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 295
+          "rank": 92
         },
         {
           "id": "6813",
@@ -1401,14 +1401,14 @@
           "rank": 132
         },
         {
-          "id": "4943",
-          "name": "Sam Darnold",
+          "id": "4017",
+          "name": "Deshaun Watson",
           "pos": "QB",
-          "team": "SEA",
+          "team": "CLE",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 295
         },
         {
           "id": "7002",
@@ -3260,16 +3260,6 @@
         "rank": 167
       },
       {
-        "id": "12476",
-        "name": "Devin Neal",
-        "pos": "RB",
-        "team": "MIN",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
-        "rank": 169
-      },
-      {
         "id": "7528",
         "name": "Najee Harris",
         "pos": "RB",
@@ -3378,6 +3368,16 @@
         "status": "Active",
         "depth": 6,
         "rank": 222
+      },
+      {
+        "id": "11186",
+        "name": "Carlos Washington",
+        "pos": "RB",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 270
       }
     ],
     "WR": [
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2959227
+      "adds": 2976723
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 615456
+      "adds": 624195
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 484924
+      "adds": 489292
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 416682
+      "adds": 420525
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 305025
+      "adds": 310387
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 239940
+      "adds": 242456
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 191012
+      "adds": 192556
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136044
+      "adds": 138372
     },
     {
       "id": "DAL",
@@ -3967,18 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123005
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 95096
+      "adds": 124858
     },
     {
       "id": "650",
@@ -3989,7 +3978,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 94794
+      "adds": 96960
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 572,
+      "adds": 96052
     },
     {
       "id": "11608",
@@ -4000,18 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 73974
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 64884
+      "adds": 75498
     },
     {
       "id": "8129",
@@ -4022,7 +4011,18 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 61632
+      "adds": 72464
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 66200
     },
     {
       "id": "9479",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 61260
+      "adds": 61855
     },
     {
       "id": "11647",
@@ -4044,18 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 60710
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 336,
-      "adds": 59217
+      "adds": 61240
     },
     {
       "id": "7528",
@@ -4066,7 +4055,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 58790
+      "adds": 59995
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 336,
+      "adds": 59970
     },
     {
       "id": "12535",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 57520
+      "adds": 58288
     },
     {
       "id": "13418",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 50680
+      "adds": 51149
     }
   ]
 }
