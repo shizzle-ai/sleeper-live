@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T20:31:18.906Z",
+  "generated_at": "2026-10-07T20:47:41.093Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -233,7 +233,7 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "team": "NO",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 119
@@ -730,7 +730,7 @@
           "name": "Isaiah Likely",
           "pos": "TE",
           "team": "NYG",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 106
@@ -1664,7 +1664,7 @@
           "name": "Cam Skattebo",
           "pos": "RB",
           "team": "NYG",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -2761,7 +2761,7 @@
           "name": "Alvin Kamara",
           "pos": "RB",
           "team": "NO",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 119
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2498526
+      "adds": 2509686
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 583443
+      "adds": 589734
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 434944
+      "adds": 437892
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 388262
+      "adds": 391006
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 296086
+      "adds": 299047
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 224472
+      "adds": 226048
     },
     {
       "id": "8129",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 186776
+      "adds": 192768
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 173048
+      "adds": 174184
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132924
+      "adds": 134424
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 119318
+      "adds": 120157
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 101370
+      "adds": 102426
     },
     {
       "id": "12542",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 89456
+      "adds": 89932
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 87120
+      "adds": 89232
     },
     {
       "id": "2078",
@@ -4022,18 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 73353
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 68222
+      "adds": 74284
     },
     {
       "id": "7528",
@@ -4044,7 +4033,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 66305
+      "adds": 70305
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 68848
     },
     {
       "id": "9479",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 55530
+      "adds": 55860
     },
     {
       "id": "7039",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 55338
+      "adds": 55635
     },
     {
       "id": "11647",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 55290
+      "adds": 55615
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 54720
+      "adds": 55224
     }
   ]
 }
