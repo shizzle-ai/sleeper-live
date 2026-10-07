@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T15:50:49.397Z",
+  "generated_at": "2026-10-07T16:04:53.827Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2946213
+      "adds": 2959227
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 609165
+      "adds": 615456
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 481764
+      "adds": 484924
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 413749
+      "adds": 416682
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 301945
+      "adds": 305025
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 238316
+      "adds": 239940
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 189920
+      "adds": 191012
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134376
+      "adds": 136044
     },
     {
       "id": "DAL",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121876
+      "adds": 123005
     },
     {
       "id": "12542",
@@ -3978,7 +3978,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 94428
+      "adds": 95096
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 93324
+      "adds": 94794
     },
     {
       "id": "11608",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 72990
+      "adds": 73974
     },
     {
       "id": "NYJ",
@@ -4011,73 +4011,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64024
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 60685
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 60385
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 336,
-      "adds": 58734
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 58120
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 57040
-    },
-    {
-      "id": "13418",
-      "name": "Robert Henry",
-      "pos": "RB",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 9,
-      "rank": 534,
-      "adds": 50379
+      "adds": 64884
     },
     {
       "id": "8129",
@@ -4088,7 +4022,73 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 49216
+      "adds": 61632
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 474,
+      "adds": 61260
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 60710
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 336,
+      "adds": 59217
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 58790
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 57520
+    },
+    {
+      "id": "13418",
+      "name": "Robert Henry",
+      "pos": "RB",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 9,
+      "rank": 534,
+      "adds": 50680
     }
   ]
 }
