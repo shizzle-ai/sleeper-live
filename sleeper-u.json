@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T23:26:41.215Z",
+  "generated_at": "2026-10-07T23:39:45.361Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2354787
+      "adds": 2228724
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 594747
+      "adds": 576297
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 424064
+      "adds": 405228
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 389844
+      "adds": 374584
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 313061
+      "adds": 307419
     },
     {
       "id": "8129",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 240824
+      "adds": 242240
     },
     {
       "id": "12509",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 222136
+      "adds": 214664
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 168344
+      "adds": 160920
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 137274
+      "adds": 133770
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120110
+      "adds": 116980
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 107196
+      "adds": 105810
     },
     {
       "id": "11608",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 103272
+      "adds": 102606
     },
     {
       "id": "12542",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 90088
+      "adds": 88336
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 81424
+      "adds": 81893
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 75530
+      "adds": 74305
     },
     {
       "id": "NYJ",
@@ -4044,18 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70450
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 54905
+      "adds": 69084
     },
     {
       "id": "12535",
@@ -4066,7 +4055,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 54872
+      "adds": 53000
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 474,
+      "adds": 52900
     },
     {
       "id": "11647",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 54185
+      "adds": 52350
     },
     {
       "id": "7039",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 53469
+      "adds": 51180
     }
   ]
 }
