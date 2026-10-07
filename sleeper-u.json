@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T22:25:12.962Z",
+  "generated_at": "2026-10-07T22:39:11.636Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3234,7 +3234,7 @@
         "name": "Kaelon Black",
         "pos": "RB",
         "team": "SF",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 161
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2443527
+      "adds": 2330784
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 596637
+      "adds": 582246
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 433504
+      "adds": 418164
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 393218
+      "adds": 381521
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 307580
+      "adds": 302960
     },
     {
       "id": "8129",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 227872
+      "adds": 229592
     },
     {
       "id": "12509",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 225292
+      "adds": 218496
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 171996
+      "adds": 166084
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136740
+      "adds": 134160
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121025
+      "adds": 118296
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 105900
+      "adds": 104496
     },
     {
       "id": "11608",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 98562
+      "adds": 97974
     },
     {
       "id": "12542",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 90736
+      "adds": 89056
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 78862
+      "adds": 79478
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 74410
+      "adds": 73420
     },
     {
       "id": "NYJ",
@@ -4044,7 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70276
+      "adds": 69188
     },
     {
       "id": "9479",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 55735
+      "adds": 54090
     },
     {
       "id": "12535",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 55336
+      "adds": 54016
     },
     {
       "id": "11647",
@@ -4077,18 +4077,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 55135
+      "adds": 53495
     },
     {
       "id": "7039",
       "name": "Cody White",
       "pos": "WR",
       "team": "LV",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 54837
+      "adds": 52935
     }
   ]
 }
