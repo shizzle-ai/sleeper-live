@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T18:51:13.083Z",
+  "generated_at": "2026-10-07T19:04:35.159Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -404,14 +404,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "7083",
-          "name": "Tyler Huntley",
+          "id": "8161",
+          "name": "Malik Willis",
           "pos": "QB",
-          "team": "BAL",
+          "team": "MIA",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 690
+          "depth": 1,
+          "rank": 119
         },
         {
           "id": "12495",
@@ -2293,16 +2293,6 @@
           "rank": 42
         },
         {
-          "id": "7083",
-          "name": "Tyler Huntley",
-          "pos": "QB",
-          "team": "BAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 690
-        },
-        {
           "id": "7839",
           "name": "Evan McPherson",
           "pos": "K",
@@ -2311,6 +2301,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 155
+        },
+        {
+          "id": "8161",
+          "name": "Malik Willis",
+          "pos": "QB",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 119
         },
         {
           "id": "PIT",
@@ -2375,14 +2375,14 @@
           "rank": 65
         },
         {
-          "id": "8161",
-          "name": "Malik Willis",
+          "id": "7083",
+          "name": "Tyler Huntley",
           "pos": "QB",
-          "team": "MIA",
+          "team": "BAL",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 119
+          "depth": 2,
+          "rank": 690
         }
       ],
       "reserve": [
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2662902
+      "adds": 2671497
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 592110
+      "adds": 596259
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 455924
+      "adds": 458132
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 404222
+      "adds": 405692
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 297829
+      "adds": 300503
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 231064
+      "adds": 232436
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 181080
+      "adds": 181780
     },
     {
       "id": "8129",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 153184
+      "adds": 158144
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 133638
+      "adds": 134484
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120782
+      "adds": 121558
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 98982
+      "adds": 99804
     },
     {
       "id": "12542",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 91164
+      "adds": 91660
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 80022
+      "adds": 81546
     },
     {
       "id": "NYJ",
@@ -4022,7 +4022,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67438
+      "adds": 67936
     },
     {
       "id": "2078",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 66087
+      "adds": 67137
     },
     {
       "id": "7528",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 63395
+      "adds": 64125
     },
     {
       "id": "11647",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 58265
+      "adds": 58465
     },
     {
       "id": "9479",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 57490
+      "adds": 57820
     },
     {
       "id": "7039",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 56763
+      "adds": 57042
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 56128
+      "adds": 56584
     }
   ]
 }
