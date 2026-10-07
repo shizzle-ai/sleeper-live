@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T12:49:10.475Z",
+  "generated_at": "2026-10-07T13:06:40.465Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1851,6 +1851,16 @@
           "rank": 39
         },
         {
+          "id": "6083",
+          "name": "Matt Gay",
+          "pos": "K",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 239
+        },
+        {
           "id": "7526",
           "name": "Jaylen Waddle",
           "pos": "WR",
@@ -1871,14 +1881,14 @@
           "rank": 22
         },
         {
-          "id": "9228",
-          "name": "Bryce Young",
-          "pos": "QB",
-          "team": "CAR",
+          "id": "9486",
+          "name": "Dontayvion Wicks",
+          "pos": "WR",
+          "team": "PHI",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 134
+          "rank": 206
         },
         {
           "id": "9509",
@@ -1953,16 +1963,6 @@
           "rank": 145
         },
         {
-          "id": "6083",
-          "name": "Matt Gay",
-          "pos": "K",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 239
-        },
-        {
           "id": "6819",
           "name": "Michael Pittman",
           "pos": "WR",
@@ -1983,14 +1983,14 @@
           "rank": 125
         },
         {
-          "id": "9486",
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "team": "PHI",
+          "id": "9228",
+          "name": "Bryce Young",
+          "pos": "QB",
+          "team": "CAR",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 206
+          "rank": 134
         }
       ],
       "reserve": [
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3110922
+      "adds": 3133980
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 579393
+      "adds": 589059
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 486104
+      "adds": 491272
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 407232
+      "adds": 410942
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 289408
+      "adds": 295344
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 228416
+      "adds": 231412
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 188340
+      "adds": 190128
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 125496
+      "adds": 127842
     },
     {
       "id": "DAL",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 114175
+      "adds": 116499
     },
     {
       "id": "12542",
@@ -3978,7 +3978,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 93040
+      "adds": 94180
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 74172
+      "adds": 76788
     },
     {
       "id": "4018",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 73306
+      "adds": 73368
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 67428
+      "adds": 68412
     },
     {
       "id": "11647",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 60380
+      "adds": 61010
     },
     {
       "id": "9479",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 60185
+      "adds": 60880
     },
     {
       "id": "7039",
@@ -4044,18 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 58137
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 55560
+      "adds": 58779
     },
     {
       "id": "NYJ",
@@ -4066,7 +4055,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55304
+      "adds": 56862
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 56368
     },
     {
       "id": "7528",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 49505
+      "adds": 50905
     },
     {
       "id": "13418",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 48783
+      "adds": 49098
     }
   ]
 }
