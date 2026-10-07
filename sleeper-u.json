@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T20:14:13.018Z",
+  "generated_at": "2026-10-07T20:31:18.906Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1184,7 +1184,7 @@
           "name": "Jayden Daniels",
           "pos": "QB",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 21
@@ -3638,7 +3638,7 @@
         "name": "Chig Okonkwo",
         "pos": "TE",
         "team": "WAS",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 137
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2603781
+      "adds": 2498526
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 597159
+      "adds": 583443
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 450728
+      "adds": 434944
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 400680
+      "adds": 388262
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 303163
+      "adds": 296086
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 230988
+      "adds": 224472
     },
     {
       "id": "8129",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 182600
+      "adds": 186776
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 179228
+      "adds": 173048
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 135510
+      "adds": 132924
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121758
+      "adds": 119318
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 102534
+      "adds": 101370
     },
     {
       "id": "12542",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 90880
+      "adds": 89456
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 86910
+      "adds": 87120
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 72303
+      "adds": 73353
     },
     {
       "id": "NYJ",
@@ -4033,7 +4033,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68988
+      "adds": 68222
     },
     {
       "id": "7528",
@@ -4047,17 +4047,6 @@
       "adds": 66305
     },
     {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 57690
-    },
-    {
       "id": "9479",
       "name": "Darnell Washington",
       "pos": "TE",
@@ -4066,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 57245
+      "adds": 55530
     },
     {
       "id": "7039",
@@ -4077,7 +4066,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 56823
+      "adds": 55338
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 55290
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 56224
+      "adds": 54720
     }
   ]
 }
