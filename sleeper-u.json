@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-06T23:59:39.542Z",
+  "generated_at": "2026-10-07T00:22:48.306Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2225619
+      "adds": 2295009
     },
     {
       "id": "11630",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 688,
-      "adds": 1008864
+      "adds": 1036386
     },
     {
       "id": "11577",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 686,
-      "adds": 926788
+      "adds": 962846
     },
     {
       "id": "8154",
@@ -3832,7 +3832,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 80,
-      "adds": 593838
+      "adds": 606000
     },
     {
       "id": "9482",
@@ -3843,7 +3843,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 469,
-      "adds": 404640
+      "adds": 414576
     },
     {
       "id": "3271",
@@ -3854,7 +3854,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 353907
+      "adds": 365256
     },
     {
       "id": "4993",
@@ -3865,18 +3865,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 313288
-    },
-    {
-      "id": "6083",
-      "name": "Matt Gay",
-      "pos": "K",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 239,
-      "adds": 236610
+      "adds": 322456
     },
     {
       "id": "13150",
@@ -3887,7 +3876,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 234073
+      "adds": 243495
+    },
+    {
+      "id": "6083",
+      "name": "Matt Gay",
+      "pos": "K",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 239,
+      "adds": 241810
     },
     {
       "id": "4018",
@@ -3898,7 +3898,7 @@
       "status": "Active",
       "depth": null,
       "rank": 164,
-      "adds": 208245
+      "adds": 208689
     },
     {
       "id": "CLE",
@@ -3909,7 +3909,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 200403
+      "adds": 204862
     },
     {
       "id": "11581",
@@ -3920,7 +3920,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 98,
-      "adds": 136575
+      "adds": 140490
     },
     {
       "id": "4663",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 110404
+      "adds": 114584
     },
     {
       "id": "LV",
@@ -3942,7 +3942,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 86784
+      "adds": 88728
     },
     {
       "id": "7083",
@@ -3953,18 +3953,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 80640
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 64471
+      "adds": 84954
     },
     {
       "id": "WAS",
@@ -3975,7 +3964,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64232
+      "adds": 66577
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 66267
     },
     {
       "id": "12542",
@@ -3986,7 +3986,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 50724
+      "adds": 53184
     },
     {
       "id": "NE",
@@ -3997,7 +3997,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45227
+      "adds": 46571
     },
     {
       "id": "9479",
@@ -4008,7 +4008,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 38165
+      "adds": 39345
     }
   ]
 }
