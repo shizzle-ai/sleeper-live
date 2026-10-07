@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T08:56:36.918Z",
+  "generated_at": "2026-10-07T09:09:46.195Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 3140883
+      "adds": 3148578
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 539478
+      "adds": 541404
     },
     {
       "id": "4993",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 465048
+      "adds": 466940
     },
     {
       "id": "13150",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 388941
+      "adds": 390341
     },
     {
       "id": "CLE",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 261562
+      "adds": 263137
     },
     {
       "id": "12509",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 207880
+      "adds": 208884
     },
     {
       "id": "4663",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 181008
+      "adds": 181596
     },
     {
       "id": "WAS",
@@ -3896,7 +3896,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118265
+      "adds": 119322
     },
     {
       "id": "LV",
@@ -3907,18 +3907,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 111612
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "team": null,
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 164,
-      "adds": 97890
+      "adds": 112146
     },
     {
       "id": "DAL",
@@ -3929,7 +3918,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97772
+      "adds": 98482
+    },
+    {
+      "id": "4018",
+      "name": "Joe Mixon",
+      "pos": "RB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 164,
+      "adds": 97922
     },
     {
       "id": "12542",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 88176
+      "adds": 88472
     },
     {
       "id": "11608",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 59676
+      "adds": 60144
     },
     {
       "id": "9479",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 58675
+      "adds": 58915
     },
     {
       "id": "11647",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 58495
+      "adds": 58675
     },
     {
       "id": "7039",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 55701
+      "adds": 55908
     },
     {
       "id": "650",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 53880
+      "adds": 54444
     },
     {
       "id": "12535",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 52360
+      "adds": 52696
     },
     {
       "id": "13418",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 534,
-      "adds": 47306
+      "adds": 47460
     },
     {
       "id": "NYJ",
@@ -4028,7 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44182
+      "adds": 44588
     }
   ]
 }
