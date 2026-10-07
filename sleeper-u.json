@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T20:59:16.725Z",
+  "generated_at": "2026-10-07T21:13:37.752Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2168,7 +2168,7 @@
           "name": "Tony Pollard",
           "pos": "RB",
           "team": "TEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 63
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2517057
+      "adds": 2525490
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 593280
+      "adds": 597330
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 439844
+      "adds": 441908
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 393631
+      "adds": 396501
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 300825
+      "adds": 302715
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 227004
+      "adds": 228108
     },
     {
       "id": "8129",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 197168
+      "adds": 201608
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 174920
+      "adds": 175612
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 135228
+      "adds": 136272
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120730
+      "adds": 121404
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 103098
+      "adds": 104070
     },
     {
       "id": "11608",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 90756
+      "adds": 92472
     },
     {
       "id": "12542",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 90260
+      "adds": 90780
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 74984
+      "adds": 75719
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 71355
+      "adds": 72385
     },
     {
       "id": "NYJ",
@@ -4044,7 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69298
+      "adds": 69782
     },
     {
       "id": "9479",
@@ -4055,18 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 56105
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 55840
+      "adds": 56415
     },
     {
       "id": "7039",
@@ -4077,7 +4066,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 55830
+      "adds": 56115
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 56060
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 55528
+      "adds": 55840
     }
   ]
 }
