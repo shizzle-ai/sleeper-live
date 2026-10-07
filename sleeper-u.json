@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T20:47:41.093Z",
+  "generated_at": "2026-10-07T20:59:16.725Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1503,7 +1503,7 @@
           "name": "Tyler Shough",
           "pos": "QB",
           "team": "NO",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 90
@@ -3648,7 +3648,7 @@
         "name": "Mason Taylor",
         "pos": "TE",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 138
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2509686
+      "adds": 2517057
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 589734
+      "adds": 593280
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 437892
+      "adds": 439844
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 391006
+      "adds": 393631
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 299047
+      "adds": 300825
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 226048
+      "adds": 227004
     },
     {
       "id": "8129",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 666,
-      "adds": 192768
+      "adds": 197168
     },
     {
       "id": "4663",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 174184
+      "adds": 174920
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134424
+      "adds": 135228
     },
     {
       "id": "DAL",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 120157
+      "adds": 120730
     },
     {
       "id": "650",
@@ -3989,18 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 102426
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 89932
+      "adds": 103098
     },
     {
       "id": "11608",
@@ -4011,7 +4000,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 89232
+      "adds": 90756
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 572,
+      "adds": 90260
     },
     {
       "id": "2078",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 74284
+      "adds": 74984
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 70305
+      "adds": 71355
     },
     {
       "id": "NYJ",
@@ -4044,7 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68848
+      "adds": 69298
     },
     {
       "id": "9479",
@@ -4055,18 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 55860
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 336,
-      "adds": 55635
+      "adds": 56105
     },
     {
       "id": "11647",
@@ -4077,7 +4066,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 55615
+      "adds": 55840
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 336,
+      "adds": 55830
     },
     {
       "id": "12535",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 55224
+      "adds": 55528
     }
   ]
 }
