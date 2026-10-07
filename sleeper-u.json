@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-07T17:06:55.323Z",
+  "generated_at": "2026-10-07T17:25:55.471Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1180,6 +1180,16 @@
       ],
       "bench": [
         {
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 21
+        },
+        {
           "id": "11581",
           "name": "MarShawn Lloyd",
           "pos": "RB",
@@ -1190,14 +1200,14 @@
           "rank": 98
         },
         {
-          "id": "13286",
-          "name": "Jadarian Price",
-          "pos": "RB",
-          "team": "SEA",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 8,
-          "rank": 52
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 9,
+          "rank": 198
         },
         {
           "id": "13425",
@@ -1242,24 +1252,14 @@
       ],
       "reserve": [
         {
-          "id": "11566",
-          "name": "Jayden Daniels",
-          "pos": "QB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 21
-        },
-        {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "pos": "WR",
-          "team": "MIA",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 9,
-          "rank": 198
+          "id": "13286",
+          "name": "Jadarian Price",
+          "pos": "RB",
+          "team": "SEA",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 8,
+          "rank": 52
         }
       ],
       "taxi": [],
@@ -3168,14 +3168,14 @@
         "rank": 395
       },
       {
-        "id": "7527",
-        "name": "Mac Jones",
+        "id": "13816",
+        "name": "Mark Gronowski",
         "pos": "QB",
-        "team": "SF",
+        "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 2,
-        "rank": 405
+        "depth": null,
+        "rank": 395
       }
     ],
     "RB": [
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2837493
+      "adds": 2849724
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 604512
+      "adds": 610893
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 474064
+      "adds": 477304
     },
     {
       "id": "13150",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 412482
+      "adds": 415408
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 299691
+      "adds": 303520
     },
     {
       "id": "12509",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 237324
+      "adds": 239312
     },
     {
       "id": "4663",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 188160
+      "adds": 189352
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134628
+      "adds": 136116
     },
     {
       "id": "DAL",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121983
+      "adds": 123209
     },
     {
       "id": "8129",
@@ -3978,7 +3978,7 @@
       "status": "Active",
       "depth": null,
       "rank": 666,
-      "adds": 99416
+      "adds": 113960
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 95952
+      "adds": 97296
     },
     {
       "id": "12542",
@@ -4000,7 +4000,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 572,
-      "adds": 93472
+      "adds": 94276
     },
     {
       "id": "11608",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 74934
+      "adds": 75918
     },
     {
       "id": "NYJ",
@@ -4022,7 +4022,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65982
+      "adds": 66906
     },
     {
       "id": "7528",
@@ -4033,18 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 60105
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 59880
+      "adds": 61035
     },
     {
       "id": "9479",
@@ -4055,7 +4044,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 59790
+      "adds": 60305
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 60220
     },
     {
       "id": "7039",
@@ -4066,18 +4066,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 58272
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 57032
+      "adds": 58836
     },
     {
       "id": "2078",
@@ -4088,7 +4077,18 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 55538
+      "adds": 57603
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 57576
     }
   ]
 }
