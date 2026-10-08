@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T15:07:51.278Z",
+  "generated_at": "2026-10-08T15:27:46.029Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2454,16 +2454,6 @@
           "rank": 7
         },
         {
-          "id": "4037",
-          "name": "Chris Godwin",
-          "pos": "WR",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 88
-        },
-        {
           "id": "421",
           "name": "Matthew Stafford",
           "pos": "QB",
@@ -2504,6 +2494,16 @@
           "rank": 4
         },
         {
+          "id": "8154",
+          "name": "Brian Robinson",
+          "pos": "RB",
+          "team": "ATL",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 80
+        },
+        {
           "id": "9482",
           "name": "Michael Mayer",
           "pos": "TE",
@@ -2534,6 +2534,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 125
+        },
+        {
+          "id": "13264",
+          "name": "Dohnte Meyers",
+          "pos": "WR",
+          "team": "CIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 628
         },
         {
           "id": "13294",
@@ -2574,16 +2584,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 50
-        },
-        {
-          "id": "8154",
-          "name": "Brian Robinson",
-          "pos": "RB",
-          "team": "ATL",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 80
         }
       ],
       "reserve": [
@@ -2985,6 +2985,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1413944762326593536",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791473210463,
+      "adds": [
+        {
+          "player": {
+            "id": "13264",
+            "name": "Dohnte Meyers",
+            "pos": "WR",
+            "team": "CIN",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 628
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "4037",
+            "name": "Chris Godwin",
+            "pos": "WR",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 88
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1413936681521836032",
       "type": "free_agent",
@@ -3434,6 +3476,16 @@
         "rank": 75
       },
       {
+        "id": "4037",
+        "name": "Chris Godwin",
+        "pos": "WR",
+        "team": "TB",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 88
+      },
+      {
         "id": "9754",
         "name": "Quentin Johnston",
         "pos": "WR",
@@ -3612,16 +3664,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 190
-      },
-      {
-        "id": "9494",
-        "name": "Marvin Mims",
-        "pos": "WR",
-        "team": "DEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 192
       }
     ],
     "TE": [
@@ -3913,17 +3955,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 628,
-      "adds": 680346
-    },
-    {
       "id": "8129",
       "name": "Dameon Pierce",
       "pos": "RB",
@@ -3932,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 377688
+      "adds": 386776
     },
     {
       "id": "3271",
@@ -3943,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 324909
+      "adds": 330525
     },
     {
       "id": "13150",
@@ -3954,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 182756
+      "adds": 186165
     },
     {
       "id": "4993",
@@ -3965,7 +3996,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 155780
+      "adds": 157616
     },
     {
       "id": "11608",
@@ -3976,7 +4007,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 114510
+      "adds": 116904
     },
     {
       "id": "WAS",
@@ -3987,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 111244
+      "adds": 112994
     },
     {
       "id": "2078",
@@ -3998,7 +4029,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 109123
+      "adds": 109809
     },
     {
       "id": "12509",
@@ -4009,7 +4040,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 89436
+      "adds": 90580
     },
     {
       "id": "LV",
@@ -4020,7 +4051,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80232
+      "adds": 81396
     },
     {
       "id": "650",
@@ -4031,7 +4062,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 72774
+      "adds": 74166
     },
     {
       "id": "7528",
@@ -4042,7 +4073,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 59580
+      "adds": 60705
     },
     {
       "id": "DAL",
@@ -4053,7 +4084,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54720
+      "adds": 55606
     },
     {
       "id": "4663",
@@ -4064,7 +4095,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 54576
+      "adds": 55148
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 41598
     },
     {
       "id": "NYJ",
@@ -4075,7 +4117,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37838
+      "adds": 38446
     },
     {
       "id": "12542",
@@ -4086,7 +4128,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 34012
+      "adds": 34340
     },
     {
       "id": "12535",
@@ -4097,7 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 26440
+      "adds": 26744
     },
     {
       "id": "10213",
@@ -4108,7 +4150,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 25764
+      "adds": 26118
     },
     {
       "id": "9757",
@@ -4119,7 +4161,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 25596
+      "adds": 26038
     },
     {
       "id": "9479",
@@ -4130,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 24895
+      "adds": 25280
     }
   ]
 }
