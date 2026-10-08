@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T20:14:12.327Z",
+  "generated_at": "2026-10-08T20:33:27.609Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 365864
+      "adds": 351248
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 283797
+      "adds": 270027
     },
     {
       "id": "13150",
@@ -3985,18 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 181475
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 126256
+      "adds": 177289
     },
     {
       "id": "11608",
@@ -4007,7 +3996,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 125370
+      "adds": 121146
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 119352
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 91070
+      "adds": 86380
     },
     {
       "id": "12509",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 73928
+      "adds": 69508
     },
     {
       "id": "LV",
@@ -4040,18 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67716
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 61848
+      "adds": 64434
     },
     {
       "id": "7528",
@@ -4062,7 +4051,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 61740
+      "adds": 59710
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 58740
     },
     {
       "id": "2078",
@@ -4073,18 +4073,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 47593
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 44596
+      "adds": 43848
     },
     {
       "id": "DAL",
@@ -4095,7 +4084,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44441
+      "adds": 42150
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 42092
     },
     {
       "id": "4037",
@@ -4106,18 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 37494
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 681,
-      "adds": 30344
+      "adds": 36030
     },
     {
       "id": "NYJ",
@@ -4128,18 +4117,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30252
+      "adds": 28652
     },
     {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 572,
-      "adds": 24796
+      "depth": 3,
+      "rank": 681,
+      "adds": 23744
     },
     {
       "id": "11783",
@@ -4150,7 +4139,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 23704
+      "adds": 23288
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 572,
+      "adds": 23164
     },
     {
       "id": "12535",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23336
+      "adds": 22280
     },
     {
       "id": "10213",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23220
+      "adds": 22068
     }
   ]
 }
