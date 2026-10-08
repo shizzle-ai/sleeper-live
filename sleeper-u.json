@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T13:26:49.097Z",
+  "generated_at": "2026-10-08T13:43:38.842Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,18 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 782352
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 369882
+      "adds": 712872
     },
     {
       "id": "8129",
@@ -3901,7 +3890,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 346080
+      "adds": 349440
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 340191
     },
     {
       "id": "CLE",
@@ -3912,7 +3912,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 249326
+      "adds": 232148
     },
     {
       "id": "13150",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 197526
+      "adds": 186452
     },
     {
       "id": "4993",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 181732
+      "adds": 165012
     },
     {
       "id": "11608",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 113550
+      "adds": 111042
     },
     {
       "id": "2078",
@@ -3956,7 +3956,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 106379
+      "adds": 106792
     },
     {
       "id": "12509",
@@ -3967,7 +3967,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 104364
+      "adds": 94712
     },
     {
       "id": "LV",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 93024
+      "adds": 84828
     },
     {
       "id": "650",
@@ -3989,18 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 85962
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 66793
+      "adds": 78006
     },
     {
       "id": "7528",
@@ -4011,7 +4000,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 64365
+      "adds": 60515
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 59420
     },
     {
       "id": "4663",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 64256
+      "adds": 58256
     },
     {
       "id": "NYJ",
@@ -4033,7 +4033,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45706
+      "adds": 40846
     },
     {
       "id": "12542",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 39992
+      "adds": 36412
     },
     {
       "id": "12535",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 29584
+      "adds": 27320
     },
     {
       "id": "10213",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 28686
+      "adds": 26592
     },
     {
       "id": "9479",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 28375
+      "adds": 26175
     },
     {
       "id": "9757",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 26984
+      "adds": 25918
     }
   ]
 }
