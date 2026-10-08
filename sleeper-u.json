@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T21:37:12.565Z",
+  "generated_at": "2026-10-08T21:52:41.281Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 362808
+      "adds": 369776
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 270972
+      "adds": 275337
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 180971
+      "adds": 184933
     },
     {
       "id": "11608",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 122982
+      "adds": 125178
     },
     {
       "id": "4993",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 116036
+      "adds": 117520
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 87850
+      "adds": 89775
     },
     {
       "id": "12509",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 69032
+      "adds": 70092
     },
     {
       "id": "LV",
@@ -4040,7 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64368
+      "adds": 65478
     },
     {
       "id": "650",
@@ -4051,7 +4051,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60090
+      "adds": 61428
     },
     {
       "id": "7528",
@@ -4062,7 +4062,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 57960
+      "adds": 59420
     },
     {
       "id": "DAL",
@@ -4073,7 +4073,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42955
+      "adds": 43799
     },
     {
       "id": "4663",
@@ -4084,7 +4084,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 42520
+      "adds": 43184
     },
     {
       "id": "2078",
@@ -4095,7 +4095,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 42315
+      "adds": 42637
     },
     {
       "id": "4037",
@@ -4106,7 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 36570
+      "adds": 37200
     },
     {
       "id": "10235",
@@ -4117,7 +4117,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 32856
+      "adds": 36632
     },
     {
       "id": "NYJ",
@@ -4128,7 +4128,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29228
+      "adds": 29834
     },
     {
       "id": "11783",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25104
+      "adds": 25640
     },
     {
       "id": "10213",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22410
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 572,
-      "adds": 22292
+      "adds": 22752
     },
     {
       "id": "12535",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22208
+      "adds": 22552
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 572,
+      "adds": 22488
     }
   ]
 }
