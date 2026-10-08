@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T12:23:21.436Z",
+  "generated_at": "2026-10-08T12:46:56.974Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 836325
+      "adds": 765666
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 386613
+      "adds": 362574
     },
     {
       "id": "8129",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 332016
+      "adds": 335632
     },
     {
       "id": "CLE",
@@ -3912,7 +3912,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 259672
+      "adds": 242865
     },
     {
       "id": "13150",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 204246
+      "adds": 193095
     },
     {
       "id": "4993",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 195896
+      "adds": 178760
     },
     {
       "id": "11608",
@@ -3945,18 +3945,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 112584
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 179,
-      "adds": 112312
+      "adds": 110430
     },
     {
       "id": "2078",
@@ -3967,7 +3956,18 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 104713
+      "adds": 105336
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 179,
+      "adds": 102680
     },
     {
       "id": "LV",
@@ -3978,7 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99138
+      "adds": 91392
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 91464
+      "adds": 84354
     },
     {
       "id": "DAL",
@@ -4000,7 +4000,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73476
+      "adds": 65588
     },
     {
       "id": "4663",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 68936
+      "adds": 63204
     },
     {
       "id": "7528",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 66700
+      "adds": 62830
     },
     {
       "id": "NYJ",
@@ -4033,7 +4033,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49998
+      "adds": 44926
     },
     {
       "id": "12542",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 42660
+      "adds": 39396
     },
     {
       "id": "12535",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 31104
+      "adds": 29104
     },
     {
       "id": "10213",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 30120
+      "adds": 28170
     },
     {
       "id": "9479",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 29895
+      "adds": 27925
     },
     {
       "id": "9757",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 27196
+      "adds": 26334
     }
   ]
 }
