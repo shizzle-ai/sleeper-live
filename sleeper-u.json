@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T16:22:11.953Z",
+  "generated_at": "2026-10-08T16:41:41.139Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 416120
+      "adds": 391680
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 318672
+      "adds": 297837
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 185402
+      "adds": 177268
     },
     {
       "id": "4993",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 149744
+      "adds": 138752
     },
     {
       "id": "11608",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 122562
+      "adds": 120438
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105756
+      "adds": 96957
     },
     {
       "id": "12509",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 86708
+      "adds": 80968
     },
     {
       "id": "LV",
@@ -4040,18 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 77466
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 443,
-      "adds": 76090
+      "adds": 71706
     },
     {
       "id": "650",
@@ -4062,7 +4051,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 70404
+      "adds": 65208
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 443,
+      "adds": 61817
     },
     {
       "id": "7528",
@@ -4073,7 +4073,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 60860
+      "adds": 58870
     },
     {
       "id": "DAL",
@@ -4084,7 +4084,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52046
+      "adds": 47664
     },
     {
       "id": "4663",
@@ -4095,7 +4095,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 51580
+      "adds": 47600
     },
     {
       "id": "4037",
@@ -4106,7 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 40908
+      "adds": 38496
     },
     {
       "id": "NYJ",
@@ -4117,7 +4117,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35874
+      "adds": 32674
     },
     {
       "id": "12542",
@@ -4128,29 +4128,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 31724
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 25920
-    },
-    {
-      "id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 184,
-      "adds": 25842
+      "adds": 29100
     },
     {
       "id": "10235",
@@ -4161,7 +4139,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 25056
+      "adds": 25104
+    },
+    {
+      "id": "10213",
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 184,
+      "adds": 24456
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 24352
     },
     {
       "id": "9757",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 24940
+      "adds": 23556
     }
   ]
 }
