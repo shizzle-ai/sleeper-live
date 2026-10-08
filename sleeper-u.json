@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T15:27:46.029Z",
+  "generated_at": "2026-10-08T15:45:57.760Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 386776
+      "adds": 393488
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 330525
+      "adds": 307395
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 186165
+      "adds": 176505
     },
     {
       "id": "4993",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 157616
+      "adds": 145488
     },
     {
       "id": "11608",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 116904
+      "adds": 115452
     },
     {
       "id": "WAS",
@@ -4018,18 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 112994
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 443,
-      "adds": 109809
+      "adds": 101857
     },
     {
       "id": "12509",
@@ -4040,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 90580
+      "adds": 83364
     },
     {
       "id": "LV",
@@ -4051,7 +4040,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81396
+      "adds": 75162
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 443,
+      "adds": 75068
     },
     {
       "id": "650",
@@ -4062,7 +4062,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 74166
+      "adds": 67974
     },
     {
       "id": "7528",
@@ -4073,7 +4073,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 60705
+      "adds": 57955
     },
     {
       "id": "DAL",
@@ -4084,7 +4084,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 55606
+      "adds": 50394
     },
     {
       "id": "4663",
@@ -4095,7 +4095,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 55148
+      "adds": 50148
     },
     {
       "id": "4037",
@@ -4106,7 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 41598
+      "adds": 39060
     },
     {
       "id": "NYJ",
@@ -4117,7 +4117,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38446
+      "adds": 34800
     },
     {
       "id": "12542",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 34340
+      "adds": 31092
     },
     {
       "id": "12535",
@@ -4139,18 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 26744
-    },
-    {
-      "id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 184,
-      "adds": 26118
+      "adds": 24776
     },
     {
       "id": "9757",
@@ -4161,18 +4150,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 26038
+      "adds": 24716
     },
     {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
+      "id": "10213",
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "team": "LV",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 473,
-      "adds": 25280
+      "depth": 1,
+      "rank": 184,
+      "adds": 24594
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 681,
+      "adds": 24328
     }
   ]
 }
