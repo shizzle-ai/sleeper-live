@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T05:22:46.299Z",
+  "generated_at": "2026-10-08T05:37:37.128Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1296,7 +1296,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "4943",
@@ -1759,7 +1759,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 104
+          "rank": 105
         },
         {
           "id": "8151",
@@ -2059,7 +2059,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 47
         },
         {
           "id": "12527",
@@ -2563,7 +2563,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "4983",
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 1373076
+      "adds": 1222371
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 486873
+      "adds": 464859
     },
     {
       "id": "CLE",
@@ -3901,7 +3901,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 306222
+      "adds": 298942
     },
     {
       "id": "8129",
@@ -3912,7 +3912,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 297576
+      "adds": 296504
     },
     {
       "id": "4993",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 296576
+      "adds": 273644
     },
     {
       "id": "13150",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 278705
+      "adds": 256361
     },
     {
       "id": "12509",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 164716
+      "adds": 153788
     },
     {
       "id": "LV",
@@ -3956,7 +3956,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 125640
+      "adds": 122208
     },
     {
       "id": "11608",
@@ -3967,7 +3967,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 118392
+      "adds": 115356
     },
     {
       "id": "650",
@@ -3978,29 +3978,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 108156
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 107064
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 102156
+      "adds": 106692
     },
     {
       "id": "2078",
@@ -4011,7 +3989,29 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 98721
+      "adds": 99099
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 98340
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 97660
     },
     {
       "id": "7528",
@@ -4022,18 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 75090
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 572,
-      "adds": 65372
+      "adds": 73645
     },
     {
       "id": "NYJ",
@@ -4044,7 +4033,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64432
+      "adds": 62614
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 572,
+      "adds": 59104
     },
     {
       "id": "12535",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 42008
+      "adds": 39608
     },
     {
       "id": "9479",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 40500
+      "adds": 37610
     },
     {
       "id": "10213",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 36306
+      "adds": 35106
     },
     {
       "id": "7039",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 35691
+      "adds": 32841
     }
   ]
 }
