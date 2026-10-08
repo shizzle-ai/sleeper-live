@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T21:02:26.747Z",
+  "generated_at": "2026-10-08T21:20:26.020Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1885,7 +1885,7 @@
           "name": "Dontayvion Wicks",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 206
@@ -2168,7 +2168,7 @@
           "name": "Tony Pollard",
           "pos": "RB",
           "team": "TEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 63
@@ -3762,7 +3762,7 @@
         "name": "Gunnar Helm",
         "pos": "TE",
         "team": "TEN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 153
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 363744
+      "adds": 372984
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 278118
+      "adds": 284058
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 182644
+      "adds": 187558
     },
     {
       "id": "11608",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 124686
+      "adds": 127476
     },
     {
       "id": "4993",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 121840
+      "adds": 123676
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 89635
+      "adds": 92295
     },
     {
       "id": "12509",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 71364
+      "adds": 72588
     },
     {
       "id": "LV",
@@ -4040,7 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66330
+      "adds": 67638
     },
     {
       "id": "7528",
@@ -4051,7 +4051,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 61810
+      "adds": 63205
     },
     {
       "id": "650",
@@ -4062,7 +4062,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60750
+      "adds": 62352
     },
     {
       "id": "2078",
@@ -4073,7 +4073,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 44562
+      "adds": 44975
     },
     {
       "id": "4663",
@@ -4084,7 +4084,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 43996
+      "adds": 44936
     },
     {
       "id": "DAL",
@@ -4095,7 +4095,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43598
+      "adds": 44717
     },
     {
       "id": "4037",
@@ -4106,7 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 36996
+      "adds": 37758
     },
     {
       "id": "NYJ",
@@ -4117,18 +4117,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29752
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 24472
+      "adds": 30598
     },
     {
       "id": "10235",
@@ -4139,7 +4128,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 24440
+      "adds": 25584
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 25240
     },
     {
       "id": "12542",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 23604
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 22824
+      "adds": 23920
     },
     {
       "id": "10213",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22746
+      "adds": 23214
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 23200
     }
   ]
 }
