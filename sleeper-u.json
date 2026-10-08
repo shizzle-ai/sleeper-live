@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T19:28:26.028Z",
+  "generated_at": "2026-10-08T19:44:48.352Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1969,7 +1969,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 6,
           "rank": 107
         },
         {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 372248
+      "adds": 355520
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 292554
+      "adds": 277335
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 182462
+      "adds": 177345
     },
     {
       "id": "4993",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 132300
+      "adds": 123940
     },
     {
       "id": "11608",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 127710
+      "adds": 122670
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 94262
+      "adds": 88599
     },
     {
       "id": "12509",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 77672
+      "adds": 72440
     },
     {
       "id": "LV",
@@ -4040,7 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69954
+      "adds": 66174
     },
     {
       "id": "650",
@@ -4051,7 +4051,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 63954
+      "adds": 60252
     },
     {
       "id": "7528",
@@ -4062,7 +4062,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 62025
+      "adds": 59830
     },
     {
       "id": "2078",
@@ -4073,7 +4073,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 51912
+      "adds": 47075
     },
     {
       "id": "DAL",
@@ -4084,7 +4084,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45965
+      "adds": 43289
     },
     {
       "id": "4663",
@@ -4095,7 +4095,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 44940
+      "adds": 42564
     },
     {
       "id": "4037",
@@ -4106,7 +4106,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 38460
+      "adds": 36672
     },
     {
       "id": "NYJ",
@@ -4117,7 +4117,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31050
+      "adds": 29340
     },
     {
       "id": "10235",
@@ -4128,7 +4128,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 28616
+      "adds": 29288
     },
     {
       "id": "12542",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 26216
+      "adds": 24416
     },
     {
       "id": "12535",
@@ -4150,18 +4150,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 24216
-    },
-    {
-      "id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 184,
-      "adds": 23994
+      "adds": 22888
     },
     {
       "id": "11783",
@@ -4172,7 +4161,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 23432
+      "adds": 22864
+    },
+    {
+      "id": "10213",
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 184,
+      "adds": 22716
     }
   ]
 }
