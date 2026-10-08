@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T14:38:52.405Z",
+  "generated_at": "2026-10-08T14:55:28.403Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -177,10 +177,10 @@
         "rank": 4
       },
       {
-        "id": "WAS",
-        "name": "Washington Commanders",
+        "id": "CLE",
+        "name": "Cleveland Browns",
         "pos": "DEF",
-        "team": "WAS",
+        "team": "CLE",
         "injury": null,
         "status": null,
         "depth": null,
@@ -285,14 +285,14 @@
           "rank": 13
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
+          "id": "11584",
+          "name": "Bucky Irving",
           "pos": "RB",
-          "team": "MIN",
+          "team": "TB",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 32
         },
         {
           "id": "9493",
@@ -325,14 +325,14 @@
           "rank": 80
         },
         {
-          "id": "11584",
-          "name": "Bucky Irving",
+          "id": "4199",
+          "name": "Aaron Jones",
           "pos": "RB",
-          "team": "TB",
+          "team": "MIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 32
+          "rank": 85
         },
         {
           "id": "1166",
@@ -355,10 +355,10 @@
           "rank": 128
         },
         {
-          "id": "WAS",
-          "name": "Washington Commanders",
+          "id": "CLE",
+          "name": "Cleveland Browns",
           "pos": "DEF",
-          "team": "WAS",
+          "team": "CLE",
           "injury": null,
           "status": null,
           "depth": null,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11637": 0,
         "12514": 0,
-        "WAS": 0
+        "CLE": 0
       }
     },
     "opponent": {
@@ -2705,10 +2705,10 @@
           "rank": 4
         },
         {
-          "id": "WAS",
-          "name": "Washington Commanders",
+          "id": "CLE",
+          "name": "Cleveland Browns",
           "pos": "DEF",
-          "team": "WAS",
+          "team": "CLE",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2985,6 +2985,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1413936681521836032",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791471283849,
+      "adds": [
+        {
+          "player": {
+            "id": "CLE",
+            "name": "Cleveland Browns",
+            "pos": "DEF",
+            "team": "CLE",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "WAS",
+            "name": "Washington Commanders",
+            "pos": "DEF",
+            "team": "WAS",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "roster_ids": [
+        11
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1413508264158638080",
       "type": "free_agent",
@@ -3838,6 +3880,16 @@
         "rank": null
       },
       {
+        "id": "WAS",
+        "name": "Washington Commanders",
+        "pos": "DEF",
+        "team": "WAS",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
+      },
+      {
         "id": "LAC",
         "name": "Los Angeles Chargers",
         "pos": "DEF",
@@ -3856,16 +3908,6 @@
         "status": null,
         "depth": null,
         "rank": null
-      },
-      {
-        "id": "CLE",
-        "name": "Cleveland Browns",
-        "pos": "DEF",
-        "team": "CLE",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
       }
     ]
   },
@@ -3879,7 +3921,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 667548
+      "adds": 675117
     },
     {
       "id": "8129",
@@ -3890,7 +3932,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 366816
+      "adds": 372784
     },
     {
       "id": "3271",
@@ -3901,18 +3943,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 318735
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 222215
+      "adds": 322254
     },
     {
       "id": "13150",
@@ -3923,7 +3954,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 179326
+      "adds": 181363
     },
     {
       "id": "4993",
@@ -3934,7 +3965,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 153388
+      "adds": 154772
     },
     {
       "id": "11608",
@@ -3945,7 +3976,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 111906
+      "adds": 113328
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 110495
     },
     {
       "id": "2078",
@@ -3956,7 +3998,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 108248
+      "adds": 108766
     },
     {
       "id": "12509",
@@ -3967,7 +4009,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 87936
+      "adds": 88856
     },
     {
       "id": "LV",
@@ -3978,7 +4020,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78984
+      "adds": 79734
     },
     {
       "id": "650",
@@ -3989,7 +4031,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 71520
+      "adds": 72240
     },
     {
       "id": "7528",
@@ -4000,18 +4042,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 58370
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 53936
+      "adds": 59065
     },
     {
       "id": "DAL",
@@ -4022,7 +4053,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53750
+      "adds": 54309
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 54308
     },
     {
       "id": "NYJ",
@@ -4033,7 +4075,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37156
+      "adds": 37528
     },
     {
       "id": "12542",
@@ -4044,7 +4086,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 33668
+      "adds": 33876
     },
     {
       "id": "12535",
@@ -4055,7 +4097,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 25976
+      "adds": 26232
     },
     {
       "id": "10213",
@@ -4066,7 +4108,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 25272
+      "adds": 25590
     },
     {
       "id": "9757",
@@ -4077,7 +4119,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 25006
+      "adds": 25350
     },
     {
       "id": "9479",
@@ -4088,7 +4130,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 24520
+      "adds": 24715
     }
   ]
 }
