@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T23:47:37.234Z",
+  "generated_at": "2026-10-08T23:58:03.865Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3963,7 +3963,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 403064
+      "adds": 410272
     },
     {
       "id": "3271",
@@ -3974,7 +3974,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 299115
+      "adds": 304650
     },
     {
       "id": "13150",
@@ -3985,7 +3985,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 199654
+      "adds": 203343
     },
     {
       "id": "11608",
@@ -3996,7 +3996,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 131154
+      "adds": 133134
     },
     {
       "id": "4993",
@@ -4007,7 +4007,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 118308
+      "adds": 119856
     },
     {
       "id": "WAS",
@@ -4018,7 +4018,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 103327
+      "adds": 105924
     },
     {
       "id": "650",
@@ -4029,7 +4029,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 75132
+      "adds": 77010
     },
     {
       "id": "LV",
@@ -4040,7 +4040,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69552
+      "adds": 70902
     },
     {
       "id": "12509",
@@ -4051,7 +4051,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 69448
+      "adds": 70288
     },
     {
       "id": "7528",
@@ -4062,7 +4062,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 66795
+      "adds": 68340
     },
     {
       "id": "10235",
@@ -4073,7 +4073,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 53344
+      "adds": 54840
     },
     {
       "id": "DAL",
@@ -4084,7 +4084,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49601
+      "adds": 50869
     },
     {
       "id": "4663",
@@ -4095,18 +4095,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 43372
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 443,
-      "adds": 40768
+      "adds": 43920
     },
     {
       "id": "4037",
@@ -4117,7 +4106,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 40698
+      "adds": 41670
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 443,
+      "adds": 41062
     },
     {
       "id": "NYJ",
@@ -4128,7 +4128,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34136
+      "adds": 34962
     },
     {
       "id": "11783",
@@ -4139,7 +4139,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 31200
+      "adds": 32192
     },
     {
       "id": "10213",
@@ -4150,7 +4150,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23304
+      "adds": 23586
     },
     {
       "id": "12535",
@@ -4161,7 +4161,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23176
+      "adds": 23424
     },
     {
       "id": "9479",
@@ -4172,7 +4172,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 21620
+      "adds": 21870
     }
   ]
 }
