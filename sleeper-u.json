@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T11:13:17.914Z",
+  "generated_at": "2026-10-08T11:31:13.187Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 883044
+      "adds": 819279
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 399888
+      "adds": 378792
     },
     {
       "id": "8129",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 321576
+      "adds": 322752
     },
     {
       "id": "CLE",
@@ -3912,7 +3912,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 267743
+      "adds": 253043
     },
     {
       "id": "13150",
@@ -3923,7 +3923,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 210168
+      "adds": 199647
     },
     {
       "id": "4993",
@@ -3934,7 +3934,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 207756
+      "adds": 192628
     },
     {
       "id": "12509",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 118992
+      "adds": 110520
     },
     {
       "id": "11608",
@@ -3956,18 +3956,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 111798
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 104166
+      "adds": 109110
     },
     {
       "id": "2078",
@@ -3978,7 +3967,18 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 103376
+      "adds": 103649
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 97356
     },
     {
       "id": "650",
@@ -3989,7 +3989,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 95688
+      "adds": 89730
     },
     {
       "id": "DAL",
@@ -4000,7 +4000,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79042
+      "adds": 72228
     },
     {
       "id": "4663",
@@ -4011,7 +4011,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 72768
+      "adds": 67840
     },
     {
       "id": "7528",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 68320
+      "adds": 65140
     },
     {
       "id": "NYJ",
@@ -4033,7 +4033,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53172
+      "adds": 49116
     },
     {
       "id": "12542",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 44948
+      "adds": 41984
     },
     {
       "id": "12535",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 32616
+      "adds": 30552
     },
     {
       "id": "10213",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 31122
+      "adds": 29598
     },
     {
       "id": "9479",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 30900
+      "adds": 29305
     },
     {
       "id": "9757",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 27208
+      "adds": 26482
     }
   ]
 }
