@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T00:18:14.920Z",
+  "generated_at": "2026-10-08T00:46:27.882Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": "Doubtful",
         "status": "Active",
-        "depth": 7,
+        "depth": 3,
         "rank": 162
       },
       {
@@ -804,7 +804,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 686
         },
         {
@@ -866,7 +866,7 @@
           "team": "SEA",
           "injury": "PUP",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 101
         }
       ],
@@ -1015,7 +1015,7 @@
           "team": "PIT",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 688
         },
         {
@@ -1164,7 +1164,7 @@
           "team": "MIN",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 99
         },
         {
@@ -1186,7 +1186,7 @@
           "team": "WAS",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 21
         },
         {
@@ -1206,7 +1206,7 @@
           "team": "MIA",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 9,
+          "depth": 4,
           "rank": 198
         },
         {
@@ -1226,7 +1226,7 @@
           "team": "WAS",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 508
         },
         {
@@ -1236,7 +1236,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 11
         },
         {
@@ -1246,7 +1246,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 5,
+          "depth": 1,
           "rank": 55
         }
       ],
@@ -1758,7 +1758,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 104
         },
         {
@@ -1788,7 +1788,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 164
         },
         {
@@ -1949,7 +1949,7 @@
           "team": "IND",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 6,
+          "depth": 2,
           "rank": 182
         },
         {
@@ -1969,7 +1969,7 @@
           "team": "PIT",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 107
         },
         {
@@ -1979,7 +1979,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 6,
+          "depth": 2,
           "rank": 125
         },
         {
@@ -2001,7 +2001,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 22
         },
         {
@@ -2180,7 +2180,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 7,
+          "depth": 4,
           "rank": 33
         },
         {
@@ -2341,7 +2341,7 @@
           "team": "BAL",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 8
         },
         {
@@ -2371,7 +2371,7 @@
           "team": "PIT",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 4,
+          "depth": 2,
           "rank": 65
         },
         {
@@ -2381,7 +2381,7 @@
           "team": "BAL",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 690
         }
       ],
@@ -2440,7 +2440,7 @@
           "team": "LAC",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 36
         },
         {
@@ -2542,7 +2542,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 90
         },
         {
@@ -2594,7 +2594,7 @@
           "team": "PHI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 3,
+          "depth": 4,
           "rank": 147
         }
       ],
@@ -2743,7 +2743,7 @@
           "team": "NYJ",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 7,
+          "depth": 3,
           "rank": 162
         },
         {
@@ -2851,7 +2851,7 @@
           "team": "MIN",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 5,
+          "depth": 1,
           "rank": 12
         },
         {
@@ -2881,7 +2881,7 @@
           "team": "NYJ",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 5,
+          "depth": 3,
           "rank": 27
         },
         {
@@ -2975,7 +2975,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 4,
+          "depth": 1,
           "rank": 94
         }
       ],
@@ -3174,7 +3174,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 4,
         "rank": 395
       }
     ],
@@ -3186,7 +3186,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 110
       },
       {
@@ -3226,7 +3226,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 157
       },
       {
@@ -3296,7 +3296,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 176
       },
       {
@@ -3366,7 +3366,7 @@
         "team": "SF",
         "injury": null,
         "status": "Active",
-        "depth": 6,
+        "depth": 3,
         "rank": 222
       },
       {
@@ -3398,7 +3398,7 @@
         "team": "LAC",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 103
       },
       {
@@ -3408,7 +3408,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 123
       },
       {
@@ -3428,7 +3428,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 156
       },
       {
@@ -3568,7 +3568,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -3630,7 +3630,7 @@
         "team": "LAR",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 4,
+        "depth": 2,
         "rank": 136
       },
       {
@@ -3650,7 +3650,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 2,
         "rank": 138
       },
       {
@@ -3690,7 +3690,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 212
       },
       {
@@ -3879,7 +3879,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 2248362
+      "adds": 2093751
     },
     {
       "id": "3271",
@@ -3890,7 +3890,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 586377
+      "adds": 565281
     },
     {
       "id": "4993",
@@ -3901,7 +3901,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 410132
+      "adds": 390628
     },
     {
       "id": "13150",
@@ -3910,9 +3910,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 658,
-      "adds": 381129
+      "adds": 361970
     },
     {
       "id": "CLE",
@@ -3923,7 +3923,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 314615
+      "adds": 310142
     },
     {
       "id": "8129",
@@ -3932,9 +3932,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 3,
       "rank": 666,
-      "adds": 251784
+      "adds": 256768
     },
     {
       "id": "12509",
@@ -3945,7 +3945,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 217336
+      "adds": 208380
     },
     {
       "id": "4663",
@@ -3954,9 +3954,9 @@
       "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 3,
       "rank": 632,
-      "adds": 162540
+      "adds": 152988
     },
     {
       "id": "LV",
@@ -3967,7 +3967,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136182
+      "adds": 133764
     },
     {
       "id": "DAL",
@@ -3978,18 +3978,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118582
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 107970
+      "adds": 115293
     },
     {
       "id": "11608",
@@ -4000,18 +3989,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 106896
+      "adds": 107292
     },
     {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 572,
-      "adds": 89456
+      "depth": 1,
+      "rank": 249,
+      "adds": 107112
     },
     {
       "id": "2078",
@@ -4022,7 +4011,18 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 83895
+      "adds": 85624
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 572,
+      "adds": 85376
     },
     {
       "id": "7528",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 75865
+      "adds": 74800
     },
     {
       "id": "NYJ",
@@ -4044,7 +4044,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70140
+      "adds": 68938
     },
     {
       "id": "9479",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 53660
+      "adds": 51355
     },
     {
       "id": "12535",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 53584
+      "adds": 51280
     },
     {
       "id": "11647",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 52815
+      "adds": 50100
     },
     {
       "id": "7039",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 336,
-      "adds": 51594
+      "adds": 48816
     }
   ]
 }
