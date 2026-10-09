@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T02:25:21.000Z",
+  "generated_at": "2026-10-09T02:40:40.635Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 5.2,
+      "points": 5.64,
       "starters": [
         {
           "id": "8161",
@@ -512,12 +512,12 @@
         0,
         0,
         0,
-        5.2,
+        5.64,
         0,
         0
       ],
       "players_points": {
-        "3294": 5.2,
+        "3294": 5.64,
         "3634": 0,
         "4881": 0,
         "5012": 0,
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 442096
+      "adds": 433064
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 319401
+      "adds": 306342
     },
     {
       "id": "13150",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 212191
+      "adds": 204127
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 136236
+      "adds": 130662
     },
     {
       "id": "WAS",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117901
+      "adds": 114996
     },
     {
       "id": "4993",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 117300
+      "adds": 110812
     },
     {
       "id": "650",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 82758
+      "adds": 80382
     },
     {
       "id": "7528",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 74525
+      "adds": 72600
     },
     {
       "id": "LV",
@@ -4068,18 +4068,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73974
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 179,
-      "adds": 69128
+      "adds": 71178
     },
     {
       "id": "10235",
@@ -4090,7 +4079,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 66232
+      "adds": 66328
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 179,
+      "adds": 65376
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48942
+      "adds": 46521
     },
     {
       "id": "4663",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 42940
+      "adds": 40676
     },
     {
       "id": "4037",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 41952
+      "adds": 40044
     },
     {
       "id": "NYJ",
@@ -4134,7 +4134,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39872
+      "adds": 38892
     },
     {
       "id": "2078",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 36043
+      "adds": 32543
     },
     {
       "id": "11783",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 33344
+      "adds": 32408
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23868
+      "adds": 22830
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23768
+      "adds": 22648
     },
     {
       "id": "9479",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 21525
+      "adds": 20530
     }
   ]
 }
