@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T01:57:12.813Z",
+  "generated_at": "2026-10-09T02:10:04.749Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 4.56,
+      "points": 5.2,
       "starters": [
         {
           "id": "8161",
@@ -512,12 +512,12 @@
         0,
         0,
         0,
-        4.56,
+        5.2,
         0,
         0
       ],
       "players_points": {
-        "3294": 4.56,
+        "3294": 5.2,
         "3634": 0,
         "4881": 0,
         "5012": 0,
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 431088
+      "adds": 436184
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 311022
+      "adds": 315027
     },
     {
       "id": "13150",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 206360
+      "adds": 208971
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 132738
+      "adds": 134424
     },
     {
       "id": "4993",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 114952
+      "adds": 116068
     },
     {
       "id": "WAS",
@@ -4035,7 +4035,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 114044
+      "adds": 115892
     },
     {
       "id": "650",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 80640
+      "adds": 81564
     },
     {
       "id": "7528",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 72325
+      "adds": 73355
     },
     {
       "id": "LV",
@@ -4068,7 +4068,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71718
+      "adds": 72696
     },
     {
       "id": "12509",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 67656
+      "adds": 68260
     },
     {
       "id": "10235",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 63960
+      "adds": 64968
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48904
+      "adds": 48922
     },
     {
       "id": "4663",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 42244
+      "adds": 42596
     },
     {
       "id": "4037",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 41496
+      "adds": 41718
     },
     {
       "id": "NYJ",
@@ -4134,7 +4134,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38404
+      "adds": 39104
     },
     {
       "id": "2078",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 35868
+      "adds": 35931
     },
     {
       "id": "11783",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 33160
+      "adds": 33232
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23376
+      "adds": 23640
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23256
+      "adds": 23464
     },
     {
       "id": "9479",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 21140
+      "adds": 21320
     }
   ]
 }
