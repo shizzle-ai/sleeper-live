@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T17:17:17.119Z",
+  "generated_at": "2026-10-09T17:32:57.049Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1555,7 +1555,7 @@
           "name": "Mack Hollins",
           "pos": "WR",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 697
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 388312
+      "adds": 370776
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 256572
+      "adds": 246294
     },
     {
       "id": "13150",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 187621
+      "adds": 182259
     },
     {
       "id": "10235",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 143288
+      "adds": 157592
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 111246
+      "adds": 107238
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 107065
+      "adds": 103355
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 85576
+      "adds": 81032
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 72280
+      "adds": 69805
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 69108
+      "adds": 66108
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61188
+      "adds": 58548
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38382
+      "adds": 37514
     },
     {
       "id": "11783",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 36432
+      "adds": 34968
     },
     {
       "id": "4663",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 35696
+      "adds": 34732
     },
     {
       "id": "DAL",
@@ -4165,7 +4165,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28406
+      "adds": 26323
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 26562
+      "adds": 24924
     },
     {
       "id": "8116",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 21069
+      "adds": 21744
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 20244
+      "adds": 19560
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19272
+      "adds": 18432
     },
     {
       "id": "2747",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 17315
+      "adds": 16535
     },
     {
       "id": "9479",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 15665
+      "adds": 15015
     }
   ]
 }
