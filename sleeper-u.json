@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T18:17:40.746Z",
+  "generated_at": "2026-10-09T18:38:36.516Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1152,7 +1152,7 @@
           "name": "Chris Olave",
           "pos": "WR",
           "team": "NO",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 30
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 387952
+      "adds": 373848
     },
     {
       "id": "3271",
@@ -4033,18 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 254475
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 192542
+      "adds": 244512
     },
     {
       "id": "10235",
@@ -4055,7 +4044,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 191368
+      "adds": 201968
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 658,
+      "adds": 187530
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 112764
+      "adds": 108486
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106337
+      "adds": 102683
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 84296
+      "adds": 80556
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 72165
+      "adds": 69075
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 67674
+      "adds": 65292
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60102
+      "adds": 57912
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38754
+      "adds": 37790
     },
     {
       "id": "4663",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36740
+      "adds": 35912
     },
     {
       "id": "11783",
@@ -4154,29 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 35552
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26339
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 25326
+      "adds": 34200
     },
     {
       "id": "8116",
@@ -4187,7 +4165,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 23769
+      "adds": 24354
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 24231
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 23724
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 20796
+      "adds": 20220
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19456
+      "adds": 18520
     },
     {
       "id": "2747",
@@ -4220,18 +4220,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 16985
+      "adds": 16395
     },
     {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 475,
-      "adds": 15480
+      "depth": 4,
+      "rank": 572,
+      "adds": 16000
     }
   ]
 }
