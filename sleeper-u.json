@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T17:01:33.673Z",
+  "generated_at": "2026-10-09T17:17:17.119Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1927,7 +1927,7 @@
           "name": "Kyle Monangai",
           "pos": "RB",
           "team": "CHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 61
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 381088
+      "adds": 388312
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 253053
+      "adds": 256572
     },
     {
       "id": "13150",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 183645
+      "adds": 187621
     },
     {
       "id": "10235",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 119728
+      "adds": 143288
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 108732
+      "adds": 111246
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 106183
+      "adds": 107065
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 84288
+      "adds": 85576
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 70925
+      "adds": 72280
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 68694
+      "adds": 69108
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60672
+      "adds": 61188
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37960
+      "adds": 38382
     },
     {
       "id": "11783",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 36136
+      "adds": 36432
     },
     {
       "id": "4663",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34508
+      "adds": 35696
     },
     {
       "id": "DAL",
@@ -4165,7 +4165,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28398
+      "adds": 28406
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 26412
+      "adds": 26562
     },
     {
       "id": "8116",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 20322
+      "adds": 21069
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 19728
+      "adds": 20244
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18896
+      "adds": 19272
     },
     {
       "id": "2747",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 17165
+      "adds": 17315
     },
     {
       "id": "9479",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 15370
+      "adds": 15665
     }
   ]
 }
