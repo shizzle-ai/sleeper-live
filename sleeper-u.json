@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T15:24:41.544Z",
+  "generated_at": "2026-10-09T15:41:39.327Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 417336
+      "adds": 395920
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 274716
+      "adds": 262323
     },
     {
       "id": "13150",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 194894
+      "adds": 188041
     },
     {
       "id": "11608",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 118662
+      "adds": 113712
     },
     {
       "id": "WAS",
@@ -4066,18 +4066,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 112105
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 92204
+      "adds": 108402
     },
     {
       "id": "10235",
@@ -4088,7 +4077,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 90536
+      "adds": 90944
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 447,
+      "adds": 87532
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 73985
+      "adds": 71670
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 73746
+      "adds": 70962
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64986
+      "adds": 62484
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39500
+      "adds": 38168
     },
     {
       "id": "11783",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 38488
+      "adds": 37416
     },
     {
       "id": "4663",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34992
+      "adds": 33796
     },
     {
       "id": "DAL",
@@ -4165,7 +4165,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33275
+      "adds": 31043
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 29958
+      "adds": 28488
     },
     {
       "id": "10213",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 21462
+      "adds": 20514
     },
     {
       "id": "12535",
@@ -4198,29 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20416
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 443,
-      "adds": 18620
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 124,
-      "adds": 18470
+      "adds": 19624
     },
     {
       "id": "8116",
@@ -4231,7 +4209,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 17523
+      "adds": 17955
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 124,
+      "adds": 17790
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 443,
+      "adds": 16821
     }
   ]
 }
