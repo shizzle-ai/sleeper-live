@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T19:23:20.060Z",
+  "generated_at": "2026-10-09T19:38:04.840Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1746,7 +1746,7 @@
           "name": "Stefon Diggs",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 105
@@ -4022,18 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 383952
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 250074
+      "adds": 371720
     },
     {
       "id": "10235",
@@ -4044,7 +4033,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 233056
+      "adds": 244232
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 241425
     },
     {
       "id": "13150",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 193235
+      "adds": 190043
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 111228
+      "adds": 107910
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 104601
+      "adds": 100828
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 82640
+      "adds": 79284
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 70225
+      "adds": 67035
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 66276
+      "adds": 63954
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 59100
+      "adds": 56442
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38548
+      "adds": 37278
     },
     {
       "id": "4663",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36992
+      "adds": 36220
     },
     {
       "id": "11783",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 34696
+      "adds": 33552
     },
     {
       "id": "8116",
@@ -4165,29 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 25659
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 24246
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 24102
+      "adds": 26253
     },
     {
       "id": "12542",
@@ -4198,7 +4176,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 21568
+      "adds": 24384
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 22740
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 22017
     },
     {
       "id": "10213",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 21150
+      "adds": 20754
     },
     {
       "id": "12535",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19120
+      "adds": 18344
     },
     {
       "id": "2747",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 16720
+      "adds": 16005
     }
   ]
 }
