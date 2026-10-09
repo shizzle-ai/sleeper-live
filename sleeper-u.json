@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T10:03:44.115Z",
+  "generated_at": "2026-10-09T10:23:38.013Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 435912
+      "adds": 437224
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 293949
+      "adds": 294606
     },
     {
       "id": "13150",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 199283
+      "adds": 199885
     },
     {
       "id": "11608",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 124836
+      "adds": 125214
     },
     {
       "id": "WAS",
@@ -4066,7 +4066,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 115360
+      "adds": 115689
     },
     {
       "id": "4993",
@@ -4077,18 +4077,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 100204
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 78264
+      "adds": 100500
     },
     {
       "id": "10235",
@@ -4099,7 +4088,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 77936
+      "adds": 78440
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 78438
     },
     {
       "id": "7528",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 74095
+      "adds": 74400
     },
     {
       "id": "LV",
@@ -4121,7 +4121,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68574
+      "adds": 68754
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 40112
     },
     {
       "id": "DAL",
@@ -4135,17 +4146,6 @@
       "adds": 40080
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39972
-    },
-    {
       "id": "11783",
       "name": "Ryan Flournoy",
       "pos": "WR",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 39288
+      "adds": 39456
     },
     {
       "id": "4663",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 37140
+      "adds": 37232
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 35136
+      "adds": 35184
     },
     {
       "id": "2078",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 23961
+      "adds": 23975
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 21870
+      "adds": 21948
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 21384
+      "adds": 21456
     },
     {
       "id": "2747",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 19305
+      "adds": 19385
     },
     {
       "id": "9479",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 18435
+      "adds": 18505
     }
   ]
 }
