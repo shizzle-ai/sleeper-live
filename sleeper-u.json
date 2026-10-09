@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T02:40:40.635Z",
+  "generated_at": "2026-10-09T02:54:25.105Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 41.7,
+      "points": 46,
       "starters": [
         {
           "id": "6770",
@@ -368,9 +368,9 @@
       "starters_points": [
         0,
         0,
-        25.7,
+        28.8,
         0,
-        16,
+        17.2,
         0,
         0,
         0,
@@ -388,11 +388,11 @@
         "8150": 0,
         "9493": 0,
         "10236": 0,
-        "11584": 25.7,
+        "11584": 28.8,
         "11610": 0,
         "11625": 0,
         "11637": 0,
-        "12514": 16,
+        "12514": 17.2,
         "CLE": 0
       }
     },
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 433064
+      "adds": 436536
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 306342
+      "adds": 308979
     },
     {
       "id": "13150",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 204127
+      "adds": 205786
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 130662
+      "adds": 131652
     },
     {
       "id": "WAS",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 114996
+      "adds": 116109
     },
     {
       "id": "4993",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 110812
+      "adds": 111484
     },
     {
       "id": "650",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 80382
+      "adds": 80844
     },
     {
       "id": "7528",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 72600
+      "adds": 73190
     },
     {
       "id": "LV",
@@ -4068,7 +4068,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71178
+      "adds": 71832
     },
     {
       "id": "10235",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 66328
+      "adds": 67032
     },
     {
       "id": "12509",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 65376
+      "adds": 65944
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46521
+      "adds": 46537
     },
     {
       "id": "4663",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 40676
+      "adds": 40976
     },
     {
       "id": "4037",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 40044
+      "adds": 40152
     },
     {
       "id": "NYJ",
@@ -4134,7 +4134,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38892
+      "adds": 39294
     },
     {
       "id": "2078",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 32543
+      "adds": 32606
     },
     {
       "id": "11783",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 32408
+      "adds": 32464
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22830
+      "adds": 23028
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22648
+      "adds": 22776
     },
     {
       "id": "9479",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 20530
+      "adds": 20695
     }
   ]
 }
