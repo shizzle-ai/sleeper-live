@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T20:29:41.877Z",
+  "generated_at": "2026-10-09T20:46:28.803Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -444,14 +444,14 @@
           "rank": 73
         },
         {
-          "id": "11628",
-          "name": "Marvin Harrison",
+          "id": "12509",
+          "name": "Tre' Harris",
           "pos": "WR",
-          "team": "ARI",
+          "team": "LAC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 73
+          "depth": 3,
+          "rank": 179
         },
         {
           "id": "12506",
@@ -464,14 +464,14 @@
           "rank": 63
         },
         {
-          "id": "3634",
-          "name": "Kalif Raymond",
+          "id": "11628",
+          "name": "Marvin Harrison",
           "pos": "WR",
-          "team": "CHI",
+          "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 645
+          "depth": 2,
+          "rank": 73
         },
         {
           "id": "3294",
@@ -730,7 +730,7 @@
           "name": "Isaiah Likely",
           "pos": "TE",
           "team": "NYG",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 105
@@ -1194,7 +1194,7 @@
           "name": "Caleb Douglas",
           "pos": "WR",
           "team": "MIA",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 4,
           "rank": 198
@@ -1654,7 +1654,7 @@
           "name": "Cam Skattebo",
           "pos": "RB",
           "team": "NYG",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 37
@@ -2243,6 +2243,16 @@
           "rank": 63
         },
         {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 179
+        },
+        {
           "id": "3294",
           "name": "Dak Prescott",
           "pos": "QB",
@@ -2251,16 +2261,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 38
-        },
-        {
-          "id": "3634",
-          "name": "Kalif Raymond",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 645
         },
         {
           "id": "5846",
@@ -2315,16 +2315,6 @@
       ],
       "bench": [
         {
-          "id": "12509",
-          "name": "Tre' Harris",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 179
-        },
-        {
           "id": "12526",
           "name": "Tetairoa McMillan",
           "pos": "WR",
@@ -2333,6 +2323,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 37
+        },
+        {
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 645
         },
         {
           "id": "4881",
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 400160
+      "adds": 386408
     },
     {
       "id": "10235",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 294392
+      "adds": 306648
     },
     {
       "id": "3271",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 252090
+      "adds": 241947
     },
     {
       "id": "13150",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 207291
+      "adds": 204008
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 114288
+      "adds": 110418
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 104132
+      "adds": 99764
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 83448
+      "adds": 79820
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 69720
+      "adds": 66710
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 65826
+      "adds": 63204
     },
     {
       "id": "LV",
@@ -4121,29 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 58710
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 39116
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38850
+      "adds": 56280
     },
     {
       "id": "12542",
@@ -4154,7 +4132,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 35716
+      "adds": 38680
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 37502
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 36264
     },
     {
       "id": "11783",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 34280
+      "adds": 32816
     },
     {
       "id": "8116",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 29277
+      "adds": 30231
     },
     {
       "id": "4037",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 23520
+      "adds": 21888
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22290
+      "adds": 21696
     },
     {
       "id": "DAL",
@@ -4209,7 +4209,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22043
+      "adds": 19672
     },
     {
       "id": "12535",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19488
+      "adds": 19000
     },
     {
       "id": "13301",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 17964
+      "adds": 17972
     }
   ]
 }
