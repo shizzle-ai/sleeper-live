@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T22:12:30.288Z",
+  "generated_at": "2026-10-09T22:29:27.073Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3625,16 +3625,6 @@
         "rank": 171
       },
       {
-        "id": "12492",
-        "name": "Pat Bryant",
-        "pos": "WR",
-        "team": "DEN",
-        "injury": "IR",
-        "status": "Active",
-        "depth": 7,
-        "rank": 172
-      },
-      {
         "id": "12540",
         "name": "Chimere Dike",
         "pos": "WR",
@@ -3723,6 +3713,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 190
+      },
+      {
+        "id": "9494",
+        "name": "Marvin Mims",
+        "pos": "WR",
+        "team": "DEN",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 192
       }
     ],
     "TE": [
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 385488
+      "adds": 389624
     },
     {
       "id": "10235",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 352496
+      "adds": 359840
     },
     {
       "id": "3271",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 236097
+      "adds": 237582
     },
     {
       "id": "13150",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 209097
+      "adds": 211554
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 110310
+      "adds": 111210
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 96516
+      "adds": 97111
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 78700
+      "adds": 79328
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 64455
+      "adds": 64735
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60534
+      "adds": 60834
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54858
+      "adds": 55296
     },
     {
       "id": "12542",
@@ -4132,7 +4132,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 53344
+      "adds": 55040
     },
     {
       "id": "NYJ",
@@ -4143,7 +4143,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36722
+      "adds": 37016
     },
     {
       "id": "4663",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 35260
+      "adds": 35688
     },
     {
       "id": "8116",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 33048
+      "adds": 33687
     },
     {
       "id": "11783",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 31504
+      "adds": 31632
     },
     {
       "id": "10213",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22374
+      "adds": 22926
     },
     {
       "id": "4037",
@@ -4198,18 +4198,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 20076
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 19872
+      "adds": 20196
     },
     {
       "id": "13301",
@@ -4220,7 +4209,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 19816
+      "adds": 20178
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 20136
     },
     {
       "id": "8135",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 16464
+      "adds": 16779
     }
   ]
 }
