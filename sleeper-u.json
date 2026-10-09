@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T03:04:40.992Z",
+  "generated_at": "2026-10-09T03:23:31.937Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 46.1,
+      "points": 48.7,
       "starters": [
         {
           "id": "6770",
@@ -368,7 +368,7 @@
       "starters_points": [
         0,
         0,
-        28.9,
+        31.5,
         0,
         17.2,
         0,
@@ -388,7 +388,7 @@
         "8150": 0,
         "9493": 0,
         "10236": 0,
-        "11584": 28.9,
+        "11584": 31.5,
         "11610": 0,
         "11625": 0,
         "11637": 0,
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 13.2,
+      "points": 14.64,
       "starters": [
         {
           "id": "8161",
@@ -512,12 +512,12 @@
         0,
         0,
         0,
-        13.2,
+        14.64,
         0,
         0
       ],
       "players_points": {
-        "3294": 13.2,
+        "3294": 14.64,
         "3634": 0,
         "4881": 0,
         "5012": 0,
@@ -1674,7 +1674,7 @@
           "name": "CeeDee Lamb",
           "pos": "WR",
           "team": "DAL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 440136
+      "adds": 446912
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 311643
+      "adds": 316098
     },
     {
       "id": "13150",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 207641
+      "adds": 211043
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 132672
+      "adds": 134466
     },
     {
       "id": "WAS",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117390
+      "adds": 119119
     },
     {
       "id": "4993",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 112352
+      "adds": 113876
     },
     {
       "id": "650",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 81498
+      "adds": 82458
     },
     {
       "id": "7528",
@@ -4057,7 +4057,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 73925
+      "adds": 75085
     },
     {
       "id": "LV",
@@ -4068,7 +4068,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72648
+      "adds": 73872
     },
     {
       "id": "10235",
@@ -4079,7 +4079,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 67768
+      "adds": 69104
     },
     {
       "id": "12509",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 66400
+      "adds": 67200
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46548
+      "adds": 46565
     },
     {
       "id": "4663",
@@ -4112,18 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 41200
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 40218
+      "adds": 41588
     },
     {
       "id": "NYJ",
@@ -4134,7 +4123,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39718
+      "adds": 40482
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 40434
     },
     {
       "id": "11783",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 33824
+      "adds": 37880
     },
     {
       "id": "2078",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 32676
+      "adds": 32767
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23256
+      "adds": 23592
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22968
+      "adds": 23280
     },
     {
       "id": "9479",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 20830
+      "adds": 21000
     }
   ]
 }
