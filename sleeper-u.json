@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T05:28:43.454Z",
+  "generated_at": "2026-10-09T05:45:29.001Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -857,7 +857,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 12,
-          "rank": 113
+          "rank": 112
         },
         {
           "id": "9753",
@@ -1657,7 +1657,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 35
+          "rank": 37
         },
         {
           "id": "13968",
@@ -2002,7 +2002,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 5,
-          "rank": 92
+          "rank": 91
         }
       ],
       "taxi": [],
@@ -2573,7 +2573,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 50
+          "rank": 48
         }
       ],
       "reserve": [
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 446080
+      "adds": 439568
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 305838
+      "adds": 300033
     },
     {
       "id": "13150",
@@ -4002,7 +4002,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 205639
+      "adds": 201775
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 130272
+      "adds": 127554
     },
     {
       "id": "WAS",
@@ -4024,7 +4024,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118034
+      "adds": 116298
     },
     {
       "id": "4993",
@@ -4035,7 +4035,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 107344
+      "adds": 104084
     },
     {
       "id": "650",
@@ -4046,18 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 80268
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 75275
+      "adds": 78966
     },
     {
       "id": "10235",
@@ -4068,7 +4057,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 74312
+      "adds": 74304
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 74250
     },
     {
       "id": "LV",
@@ -4079,7 +4079,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72042
+      "adds": 70098
     },
     {
       "id": "12509",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 63772
+      "adds": 62068
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43175
+      "adds": 42084
     },
     {
       "id": "NYJ",
@@ -4112,18 +4112,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40594
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 39564
+      "adds": 40004
     },
     {
       "id": "11783",
@@ -4134,7 +4123,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 38968
+      "adds": 38704
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 38408
     },
     {
       "id": "4037",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 37620
+      "adds": 36804
     },
     {
       "id": "2078",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 28252
+      "adds": 26845
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22824
+      "adds": 22278
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22744
+      "adds": 22000
     },
     {
       "id": "2747",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 19950
+      "adds": 19645
     }
   ]
 }
