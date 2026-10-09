@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T22:29:27.073Z",
+  "generated_at": "2026-10-09T22:45:02.640Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1180,6 +1180,16 @@
       ],
       "bench": [
         {
+          "id": "10213",
+          "name": "Tre Tucker",
+          "pos": "WR",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 184
+        },
+        {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
           "pos": "RB",
@@ -1190,14 +1200,14 @@
           "rank": 95
         },
         {
-          "id": "13296",
-          "name": "Caleb Douglas",
+          "id": "13150",
+          "name": "Darius Cooper",
           "pos": "WR",
-          "team": "MIA",
-          "injury": "Out",
+          "team": "PHI",
+          "injury": null,
           "status": "Active",
-          "depth": 4,
-          "rank": 198
+          "depth": 3,
+          "rank": 658
         },
         {
           "id": "13425",
@@ -1208,16 +1218,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 647
-        },
-        {
-          "id": "4866",
-          "name": "Saquon Barkley",
-          "pos": "RB",
-          "team": "PHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 3,
-          "rank": 11
         },
         {
           "id": "5870",
@@ -1250,6 +1250,16 @@
           "status": "Inactive",
           "depth": 8,
           "rank": 52
+        },
+        {
+          "id": "4866",
+          "name": "Saquon Barkley",
+          "pos": "RB",
+          "team": "PHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 3,
+          "rank": 11
         }
       ],
       "taxi": [],
@@ -2976,6 +2986,75 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1414416007568584704",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791585564084,
+      "adds": [
+        {
+          "player": {
+            "id": "10213",
+            "name": "Tre Tucker",
+            "pos": "WR",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 184
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "13296",
+            "name": "Caleb Douglas",
+            "pos": "WR",
+            "team": "MIA",
+            "injury": "Out",
+            "status": "Active",
+            "depth": 4,
+            "rank": 198
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1414415729133961216",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791585497700,
+      "adds": [
+        {
+          "player": {
+            "id": "13150",
+            "name": "Darius Cooper",
+            "pos": "WR",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 658
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1414076758625374208",
       "type": "free_agent",
       "status": "complete",
@@ -3665,16 +3744,6 @@
         "rank": 180
       },
       {
-        "id": "10213",
-        "name": "Tre Tucker",
-        "pos": "WR",
-        "team": "LV",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 184
-      },
-      {
         "id": "12535",
         "name": "Isaac TeSlaa",
         "pos": "WR",
@@ -3723,6 +3792,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 192
+      },
+      {
+        "id": "7090",
+        "name": "Darnell Mooney",
+        "pos": "WR",
+        "team": "NYG",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 194
       }
     ],
     "TE": [
@@ -4022,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 389624
+      "adds": 365408
     },
     {
       "id": "10235",
@@ -4033,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 359840
+      "adds": 351480
     },
     {
       "id": "3271",
@@ -4044,18 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 237582
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 658,
-      "adds": 211554
+      "adds": 221499
     },
     {
       "id": "11608",
@@ -4066,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 111210
+      "adds": 103962
     },
     {
       "id": "WAS",
@@ -4077,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97111
+      "adds": 89824
     },
     {
       "id": "4993",
@@ -4088,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 79328
+      "adds": 73844
     },
     {
       "id": "7528",
@@ -4099,7 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 64735
+      "adds": 59835
     },
     {
       "id": "650",
@@ -4110,18 +4178,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60834
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 55296
+      "adds": 55740
     },
     {
       "id": "12542",
@@ -4132,7 +4189,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 55040
+      "adds": 55696
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 51408
     },
     {
       "id": "NYJ",
@@ -4143,7 +4211,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37016
+      "adds": 34708
     },
     {
       "id": "4663",
@@ -4154,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 35688
+      "adds": 33256
     },
     {
       "id": "8116",
@@ -4165,7 +4233,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 33687
+      "adds": 32013
     },
     {
       "id": "11783",
@@ -4176,29 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 31632
-    },
-    {
-      "id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 184,
-      "adds": 22926
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 20196
+      "adds": 29352
     },
     {
       "id": "13301",
@@ -4209,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 20178
+      "adds": 19955
     },
     {
       "id": "12535",
@@ -4220,7 +4266,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20136
+      "adds": 18928
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 17640
     },
     {
       "id": "8135",
@@ -4231,7 +4288,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 16779
+      "adds": 16548
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 15932
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 124,
+      "adds": 14210
     }
   ]
 }
