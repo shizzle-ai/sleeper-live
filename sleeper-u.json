@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T23:24:53.631Z",
+  "generated_at": "2026-10-09T23:38:30.266Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4093,17 +4093,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 666,
-      "adds": 374472
-    },
-    {
       "id": "10235",
       "name": "Roschon Johnson",
       "pos": "RB",
@@ -4112,7 +4101,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 366720
+      "adds": 362120
+    },
+    {
+      "id": "8129",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 666,
+      "adds": 334920
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224541
+      "adds": 190017
     },
     {
       "id": "11608",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 105714
+      "adds": 95472
     },
     {
       "id": "WAS",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 91140
+      "adds": 78022
     },
     {
       "id": "4993",
@@ -4156,18 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 75200
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 60405
+      "adds": 66204
     },
     {
       "id": "12542",
@@ -4178,18 +4167,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 59364
+      "adds": 59316
     },
     {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 56388
+      "depth": 2,
+      "rank": 170,
+      "adds": 52675
     },
     {
       "id": "LV",
@@ -4200,18 +4189,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52320
+      "adds": 45822
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 35266
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 42870
     },
     {
       "id": "8116",
@@ -4222,7 +4211,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 34236
+      "adds": 33462
     },
     {
       "id": "4663",
@@ -4233,7 +4222,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34020
+      "adds": 31200
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 31092
     },
     {
       "id": "11783",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29624
+      "adds": 25344
     },
     {
       "id": "13301",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 20629
+      "adds": 20261
     },
     {
       "id": "12535",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19296
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 17874
+      "adds": 17736
     },
     {
       "id": "8135",
@@ -4288,7 +4277,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 17332
+      "adds": 16982
     },
     {
       "id": "13311",
@@ -4299,18 +4288,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16506
+      "adds": 15442
     },
     {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 124,
-      "adds": 14440
+      "depth": 2,
+      "rank": 88,
+      "adds": 14058
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 12915
     }
   ]
 }
