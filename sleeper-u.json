@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T20:13:47.929Z",
+  "generated_at": "2026-10-09T20:29:41.877Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 392336
+      "adds": 400160
     },
     {
       "id": "10235",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 279560
+      "adds": 294392
     },
     {
       "id": "3271",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 248958
+      "adds": 252090
     },
     {
       "id": "13150",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 202223
+      "adds": 207291
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 112512
+      "adds": 114288
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 103082
+      "adds": 104132
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 82180
+      "adds": 83448
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 68915
+      "adds": 69720
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 65184
+      "adds": 65826
     },
     {
       "id": "LV",
@@ -4121,18 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57954
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38356
+      "adds": 58710
     },
     {
       "id": "4663",
@@ -4143,18 +4132,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 38260
+      "adds": 39116
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
       "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 34064
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38850
     },
     {
       "id": "12542",
@@ -4165,7 +4154,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 32532
+      "adds": 35716
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 34280
     },
     {
       "id": "8116",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 28467
+      "adds": 29277
     },
     {
       "id": "4037",
@@ -4187,18 +4187,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 23292
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 22031
+      "adds": 23520
     },
     {
       "id": "10213",
@@ -4209,7 +4198,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 21798
+      "adds": 22290
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 22043
     },
     {
       "id": "12535",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19128
+      "adds": 19488
     },
     {
       "id": "13301",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 17338
+      "adds": 17964
     }
   ]
 }
