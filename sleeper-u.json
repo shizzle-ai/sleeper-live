@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T16:47:42.148Z",
+  "generated_at": "2026-10-09T17:01:33.673Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 374312
+      "adds": 381088
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 250776
+      "adds": 253053
     },
     {
       "id": "13150",
@@ -4044,29 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 181020
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 107340
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 105245
+      "adds": 183645
     },
     {
       "id": "10235",
@@ -4077,7 +4055,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 95128
+      "adds": 119728
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 108732
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 106183
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 83308
+      "adds": 84288
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 69540
+      "adds": 70925
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 68298
+      "adds": 68694
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60264
+      "adds": 60672
     },
     {
       "id": "NYJ",
@@ -4132,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37666
+      "adds": 37960
     },
     {
       "id": "11783",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 35968
+      "adds": 36136
     },
     {
       "id": "4663",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 33448
+      "adds": 34508
     },
     {
       "id": "DAL",
@@ -4165,7 +4165,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28395
+      "adds": 28398
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 26280
+      "adds": 26412
     },
     {
       "id": "8116",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 19701
+      "adds": 20322
     },
     {
       "id": "10213",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 19452
+      "adds": 19728
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18656
+      "adds": 18896
     },
     {
       "id": "2747",
@@ -4220,18 +4220,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 17045
+      "adds": 17165
     },
     {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": null,
-      "rank": 443,
-      "adds": 15267
+      "depth": 2,
+      "rank": 475,
+      "adds": 15370
     }
   ]
 }
