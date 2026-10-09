@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T00:18:28.229Z",
+  "generated_at": "2026-10-09T00:49:13.700Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 0,
+      "points": 12.2,
       "starters": [
         {
           "id": "6770",
@@ -368,9 +368,9 @@
       "starters_points": [
         0,
         0,
+        8,
         0,
-        0,
-        0,
+        4.2,
         0,
         0,
         0,
@@ -388,11 +388,11 @@
         "8150": 0,
         "9493": 0,
         "10236": 0,
-        "11584": 0,
+        "11584": 8,
         "11610": 0,
         "11625": 0,
         "11637": 0,
-        "12514": 0,
+        "12514": 4.2,
         "CLE": 0
       }
     },
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 0,
+      "points": 1.48,
       "starters": [
         {
           "id": "8161",
@@ -512,12 +512,12 @@
         0,
         0,
         0,
-        0,
+        1.48,
         0,
         0
       ],
       "players_points": {
-        "3294": 0,
+        "3294": 1.48,
         "3634": 0,
         "4881": 0,
         "5012": 0,
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 13,
+          "depth": 12,
           "rank": 113
         },
         {
@@ -1515,7 +1515,7 @@
           "team": "CIN",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 36
         },
         {
@@ -2480,7 +2480,7 @@
           "team": "CIN",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 4
         },
         {
@@ -2542,7 +2542,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 90
         },
         {
@@ -3327,7 +3327,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": null,
         "rank": 157
       },
       {
@@ -3609,7 +3609,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 10,
+        "depth": 9,
         "rank": 177
       },
       {
@@ -3980,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 425152
+      "adds": 423800
     },
     {
       "id": "3271",
@@ -3991,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 315774
+      "adds": 311436
     },
     {
       "id": "13150",
@@ -4000,9 +4000,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 3,
       "rank": 658,
-      "adds": 210875
+      "adds": 206878
     },
     {
       "id": "11608",
@@ -4013,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 136842
+      "adds": 133722
     },
     {
       "id": "4993",
@@ -4024,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 122976
+      "adds": 117964
     },
     {
       "id": "WAS",
@@ -4035,7 +4035,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 111398
+      "adds": 111958
     },
     {
       "id": "650",
@@ -4046,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 80742
+      "adds": 80268
     },
     {
       "id": "LV",
@@ -4057,18 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73314
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 179,
-      "adds": 71968
+      "adds": 71964
     },
     {
       "id": "7528",
@@ -4082,6 +4071,17 @@
       "adds": 70970
     },
     {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 179,
+      "adds": 69236
+    },
+    {
       "id": "10235",
       "name": "Roschon Johnson",
       "pos": "RB",
@@ -4090,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 57720
+      "adds": 59232
     },
     {
       "id": "DAL",
@@ -4101,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53459
+      "adds": 51150
     },
     {
       "id": "4663",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 45028
+      "adds": 43360
     },
     {
       "id": "4037",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 43794
+      "adds": 42834
     },
     {
       "id": "2078",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 41734
+      "adds": 39186
     },
     {
       "id": "NYJ",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36814
+      "adds": 37236
     },
     {
       "id": "11783",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 34112
+      "adds": 33072
     },
     {
       "id": "10213",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 24282
+      "adds": 23700
     },
     {
       "id": "12535",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23928
+      "adds": 23480
     },
     {
       "id": "9479",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 22415
+      "adds": 21650
     }
   ]
 }
