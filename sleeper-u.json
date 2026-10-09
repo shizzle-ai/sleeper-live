@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T21:14:09.842Z",
+  "generated_at": "2026-10-09T21:30:33.202Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3629,7 +3629,7 @@
         "name": "Pat Bryant",
         "pos": "WR",
         "team": "DEN",
-        "injury": "Out",
+        "injury": "IR",
         "status": "Active",
         "depth": 7,
         "rank": 172
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 396672
+      "adds": 373760
     },
     {
       "id": "10235",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 328432
+      "adds": 330584
     },
     {
       "id": "3271",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 246573
+      "adds": 231408
     },
     {
       "id": "13150",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 210973
+      "adds": 202013
     },
     {
       "id": "11608",
@@ -4066,7 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 113592
+      "adds": 107286
     },
     {
       "id": "WAS",
@@ -4077,7 +4077,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 101598
+      "adds": 94829
     },
     {
       "id": "4993",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 81444
+      "adds": 76760
     },
     {
       "id": "7528",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 67740
+      "adds": 63570
     },
     {
       "id": "650",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 64014
+      "adds": 59766
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 57390
+      "adds": 53730
     },
     {
       "id": "12542",
@@ -4132,7 +4132,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 44772
+      "adds": 48192
     },
     {
       "id": "NYJ",
@@ -4143,7 +4143,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38272
+      "adds": 35988
     },
     {
       "id": "4663",
@@ -4154,18 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 37348
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 33184
+      "adds": 34304
     },
     {
       "id": "8116",
@@ -4176,7 +4165,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 31536
+      "adds": 31518
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 31088
     },
     {
       "id": "10213",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22488
+      "adds": 21438
     },
     {
       "id": "4037",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 22158
+      "adds": 19770
     },
     {
       "id": "12535",
@@ -4209,18 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 19888
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 19685
+      "adds": 19152
     },
     {
       "id": "13301",
@@ -4231,7 +4220,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 18825
+      "adds": 18711
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 16305
     }
   ]
 }
