@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T10:40:16.980Z",
+  "generated_at": "2026-10-09T10:55:02.192Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 431704
+      "adds": 432800
     },
     {
       "id": "3271",
@@ -4033,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 290916
+      "adds": 291609
     },
     {
       "id": "13150",
@@ -4044,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 197953
+      "adds": 198450
     },
     {
       "id": "11608",
@@ -4055,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 123690
+      "adds": 124020
     },
     {
       "id": "WAS",
@@ -4066,7 +4066,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 114975
+      "adds": 115381
     },
     {
       "id": "4993",
@@ -4077,7 +4077,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 99088
+      "adds": 99304
     },
     {
       "id": "10235",
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 78456
+      "adds": 78792
     },
     {
       "id": "650",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 77784
+      "adds": 77904
     },
     {
       "id": "7528",
@@ -4110,7 +4110,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 73845
+      "adds": 74050
     },
     {
       "id": "LV",
@@ -4121,7 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68082
+      "adds": 68268
     },
     {
       "id": "NYJ",
@@ -4132,18 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39850
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39461
+      "adds": 39958
     },
     {
       "id": "11783",
@@ -4154,7 +4143,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 39368
+      "adds": 39488
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39464
     },
     {
       "id": "4663",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36744
+      "adds": 36836
     },
     {
       "id": "4037",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 34680
+      "adds": 34728
     },
     {
       "id": "2078",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 21690
+      "adds": 21810
     },
     {
       "id": "12535",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 21152
+      "adds": 21192
     },
     {
       "id": "2747",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 19230
+      "adds": 19290
     },
     {
       "id": "9479",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 475,
-      "adds": 18195
+      "adds": 18240
     }
   ]
 }
