@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T05:59:21.931Z",
+  "generated_at": "2026-10-09T06:19:10.119Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -104,7 +104,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 269
+        "rank": 268
       },
       {
         "id": "12514",
@@ -342,7 +342,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 269
+          "rank": 268
         },
         {
           "id": "3451",
@@ -411,7 +411,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 120
+          "rank": 119
         },
         {
           "id": "12495",
@@ -421,7 +421,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 463
+          "rank": 460
         },
         {
           "id": "5892",
@@ -524,7 +524,6 @@
         "5846": 0,
         "5859": 0,
         "5892": 0,
-        "5947": 0,
         "7021": 0,
         "7083": 0,
         "7839": 0,
@@ -533,6 +532,7 @@
         "11628": 0,
         "12495": 0,
         "12506": 0,
+        "12509": 0,
         "12526": 0,
         "PIT": 0
       }
@@ -835,7 +835,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 74
+          "rank": 75
         },
         {
           "id": "8132",
@@ -974,7 +974,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 188
+          "rank": 187
         },
         {
           "id": "DEN",
@@ -1085,7 +1085,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 22
+          "rank": 21
         },
         {
           "id": "11581",
@@ -1115,7 +1115,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 35
+          "rank": 37
         },
         {
           "id": "2216",
@@ -1135,7 +1135,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 485
+          "rank": 482
         },
         {
           "id": "7611",
@@ -1227,7 +1227,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 132
+          "rank": 131
         },
         {
           "id": "5927",
@@ -1296,7 +1296,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 93
         },
         {
           "id": "6813",
@@ -1336,7 +1336,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 55
+          "rank": 56
         },
         {
           "id": "9487",
@@ -1356,7 +1356,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "HOU",
@@ -1398,7 +1398,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 294
+          "rank": 293
         },
         {
           "id": "7002",
@@ -1496,7 +1496,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "4034",
@@ -1624,7 +1624,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -1687,7 +1687,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 69
+          "rank": 68
         },
         {
           "id": "7523",
@@ -1898,7 +1898,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "9997",
@@ -1992,7 +1992,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 21
+          "rank": 20
         },
         {
           "id": "8408",
@@ -2049,7 +2049,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 48
         },
         {
           "id": "12527",
@@ -2141,7 +2141,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 114
+          "rank": 115
         },
         {
           "id": "13337",
@@ -2230,7 +2230,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 463
+          "rank": 460
         },
         {
           "id": "12506",
@@ -2300,7 +2300,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 120
+          "rank": 119
         },
         {
           "id": "PIT",
@@ -2314,6 +2314,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "12509",
+          "name": "Tre' Harris",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 179
+        },
         {
           "id": "12526",
           "name": "Tetairoa McMillan",
@@ -2343,16 +2353,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 96
-        },
-        {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 77
         },
         {
           "id": "7021",
@@ -2398,7 +2398,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -2451,7 +2451,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 66
         },
         {
           "id": "5849",
@@ -2461,7 +2461,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 86
+          "rank": 87
         },
         {
           "id": "6790",
@@ -2501,7 +2501,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 469
+          "rank": 467
         },
         {
           "id": "MIN",
@@ -2589,7 +2589,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -2622,7 +2622,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 269
+          "rank": 268
         },
         {
           "id": "12514",
@@ -2852,7 +2852,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 28
+          "rank": 27
         },
         {
           "id": "8138",
@@ -2924,7 +2924,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 209
+          "rank": 210
         },
         {
           "id": "6806",
@@ -3087,6 +3087,48 @@
       "waiver_bid": null
     },
     {
+      "transaction_id": "1413529392897961984",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791374178675,
+      "adds": [
+        {
+          "player": {
+            "id": "12509",
+            "name": "Tre' Harris",
+            "pos": "WR",
+            "team": "LAC",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 179
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "5947",
+            "name": "Jakobi Meyers",
+            "pos": "WR",
+            "team": "JAX",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 77
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1413508264158638080",
       "type": "free_agent",
       "status": "complete",
@@ -3226,7 +3268,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 287
+        "rank": 289
       },
       {
         "id": "12477",
@@ -3493,6 +3535,16 @@
         "rank": 75
       },
       {
+        "id": "5947",
+        "name": "Jakobi Meyers",
+        "pos": "WR",
+        "team": "JAX",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 2,
+        "rank": 77
+      },
+      {
         "id": "4037",
         "name": "Chris Godwin",
         "pos": "WR",
@@ -3611,16 +3663,6 @@
         "status": "Active",
         "depth": 9,
         "rank": 177
-      },
-      {
-        "id": "12509",
-        "name": "Tre' Harris",
-        "pos": "WR",
-        "team": "LAC",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 179
       },
       {
         "id": "4981",
@@ -3980,7 +4022,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 440720
+      "adds": 442920
     },
     {
       "id": "3271",
@@ -3991,7 +4033,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 300699
+      "adds": 301914
     },
     {
       "id": "13150",
@@ -4002,7 +4044,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 202734
+      "adds": 203896
     },
     {
       "id": "11608",
@@ -4013,7 +4055,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 127974
+      "adds": 128508
     },
     {
       "id": "WAS",
@@ -4024,7 +4066,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 116522
+      "adds": 116900
     },
     {
       "id": "4993",
@@ -4034,8 +4076,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 449,
-      "adds": 104392
+      "rank": 447,
+      "adds": 104868
     },
     {
       "id": "650",
@@ -4046,7 +4088,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 79080
+      "adds": 79344
     },
     {
       "id": "10235",
@@ -4057,7 +4099,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 74560
+      "adds": 75048
     },
     {
       "id": "7528",
@@ -4068,7 +4110,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 74490
+      "adds": 74875
     },
     {
       "id": "LV",
@@ -4079,18 +4121,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70254
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 179,
-      "adds": 62284
+      "adds": 70590
     },
     {
       "id": "DAL",
@@ -4101,7 +4132,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42088
+      "adds": 42094
     },
     {
       "id": "NYJ",
@@ -4112,7 +4143,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40120
+      "adds": 40310
     },
     {
       "id": "11783",
@@ -4123,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 38832
+      "adds": 38968
     },
     {
       "id": "4663",
@@ -4134,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 38516
+      "adds": 38712
     },
     {
       "id": "4037",
@@ -4145,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 36852
+      "adds": 36942
     },
     {
       "id": "2078",
@@ -4156,7 +4187,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 26859
+      "adds": 26887
     },
     {
       "id": "10213",
@@ -4167,7 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 22362
+      "adds": 22524
     },
     {
       "id": "12535",
@@ -4178,7 +4209,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22080
+      "adds": 22184
     },
     {
       "id": "2747",
@@ -4189,7 +4220,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 19655
+      "adds": 19720
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 475,
+      "adds": 19390
     }
   ]
 }
