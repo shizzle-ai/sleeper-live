@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-08T23:58:03.865Z",
+  "generated_at": "2026-10-09T00:18:28.229Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -97,16 +97,6 @@
         "rank": 32
       },
       {
-        "id": "11637",
-        "name": "Keon Coleman",
-        "pos": "WR",
-        "team": "BUF",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 206
-      },
-      {
         "id": "1166",
         "name": "Kirk Cousins",
         "pos": "QB",
@@ -115,6 +105,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 269
+      },
+      {
+        "id": "12514",
+        "name": "Emeka Egbuka",
+        "pos": "WR",
+        "team": "TB",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 39
       },
       {
         "id": "3451",
@@ -219,14 +219,14 @@
         "rank": 162
       },
       {
-        "id": "12514",
-        "name": "Emeka Egbuka",
+        "id": "11637",
+        "name": "Keon Coleman",
         "pos": "WR",
-        "team": "TB",
-        "injury": "Questionable",
+        "team": "BUF",
+        "injury": null,
         "status": "Active",
-        "depth": 1,
-        "rank": 39
+        "depth": 3,
+        "rank": 206
       },
       {
         "id": "4035",
@@ -305,14 +305,14 @@
           "rank": 4
         },
         {
-          "id": "11637",
-          "name": "Keon Coleman",
+          "id": "12514",
+          "name": "Emeka Egbuka",
           "pos": "WR",
-          "team": "BUF",
-          "injury": null,
+          "team": "TB",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
-          "rank": 206
+          "depth": 1,
+          "rank": 39
         },
         {
           "id": "4217",
@@ -1078,6 +1078,26 @@
       },
       "starters": [
         {
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "team": "WAS",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 22
+        },
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd",
+          "pos": "RB",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 98
+        },
+        {
           "id": "12185",
           "name": "Spencer Shrader",
           "pos": "K",
@@ -1098,16 +1118,6 @@
           "rank": 35
         },
         {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "pos": "RB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 95
-        },
-        {
           "id": "2216",
           "name": "Mike Evans",
           "pos": "WR",
@@ -1126,16 +1136,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 485
-        },
-        {
-          "id": "5870",
-          "name": "Daniel Jones",
-          "pos": "QB",
-          "team": "IND",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 132
         },
         {
           "id": "7611",
@@ -1180,24 +1180,14 @@
       ],
       "bench": [
         {
-          "id": "11566",
-          "name": "Jayden Daniels",
-          "pos": "QB",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 22
-        },
-        {
-          "id": "11581",
-          "name": "MarShawn Lloyd",
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
           "pos": "RB",
-          "team": "GB",
-          "injury": null,
+          "team": "WAS",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 98
+          "rank": 95
         },
         {
           "id": "13296",
@@ -1220,16 +1210,6 @@
           "rank": 647
         },
         {
-          "id": "2307",
-          "name": "Marcus Mariota",
-          "pos": "QB",
-          "team": "WAS",
-          "injury": "Doubtful",
-          "status": "Active",
-          "depth": 2,
-          "rank": 508
-        },
-        {
           "id": "4866",
           "name": "Saquon Barkley",
           "pos": "RB",
@@ -1238,6 +1218,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 11
+        },
+        {
+          "id": "5870",
+          "name": "Daniel Jones",
+          "pos": "QB",
+          "team": "IND",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 132
         },
         {
           "id": "5927",
@@ -2625,16 +2615,6 @@
           "rank": 32
         },
         {
-          "id": "11637",
-          "name": "Keon Coleman",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 206
-        },
-        {
           "id": "1166",
           "name": "Kirk Cousins",
           "pos": "QB",
@@ -2643,6 +2623,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 269
+        },
+        {
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "pos": "WR",
+          "team": "TB",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 39
         },
         {
           "id": "3451",
@@ -2747,14 +2737,14 @@
           "rank": 162
         },
         {
-          "id": "12514",
-          "name": "Emeka Egbuka",
+          "id": "11637",
+          "name": "Keon Coleman",
           "pos": "WR",
-          "team": "TB",
-          "injury": "Questionable",
+          "team": "BUF",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 39
+          "depth": 3,
+          "rank": 206
         },
         {
           "id": "4035",
@@ -2985,6 +2975,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1414076758625374208",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791504680834,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "2307",
+            "name": "Marcus Mariota",
+            "pos": "QB",
+            "team": "WAS",
+            "injury": "Doubtful",
+            "status": "Active",
+            "depth": 2,
+            "rank": 508
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1413944762326593536",
       "type": "free_agent",
@@ -3963,7 +3980,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 666,
-      "adds": 410272
+      "adds": 425152
     },
     {
       "id": "3271",
@@ -3974,7 +3991,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 304650
+      "adds": 315774
     },
     {
       "id": "13150",
@@ -3985,7 +4002,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 203343
+      "adds": 210875
     },
     {
       "id": "11608",
@@ -3996,7 +4013,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 133134
+      "adds": 136842
     },
     {
       "id": "4993",
@@ -4007,7 +4024,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 119856
+      "adds": 122976
     },
     {
       "id": "WAS",
@@ -4018,7 +4035,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105924
+      "adds": 111398
     },
     {
       "id": "650",
@@ -4029,7 +4046,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 77010
+      "adds": 80742
     },
     {
       "id": "LV",
@@ -4040,7 +4057,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70902
+      "adds": 73314
     },
     {
       "id": "12509",
@@ -4051,7 +4068,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 179,
-      "adds": 70288
+      "adds": 71968
     },
     {
       "id": "7528",
@@ -4062,7 +4079,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 68340
+      "adds": 70970
     },
     {
       "id": "10235",
@@ -4073,7 +4090,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 54840
+      "adds": 57720
     },
     {
       "id": "DAL",
@@ -4084,7 +4101,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50869
+      "adds": 53459
     },
     {
       "id": "4663",
@@ -4095,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 43920
+      "adds": 45028
     },
     {
       "id": "4037",
@@ -4106,7 +4123,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 41670
+      "adds": 43794
     },
     {
       "id": "2078",
@@ -4117,7 +4134,7 @@
       "status": "Active",
       "depth": null,
       "rank": 443,
-      "adds": 41062
+      "adds": 41734
     },
     {
       "id": "NYJ",
@@ -4128,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34962
+      "adds": 36814
     },
     {
       "id": "11783",
@@ -4139,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 32192
+      "adds": 34112
     },
     {
       "id": "10213",
@@ -4150,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 184,
-      "adds": 23586
+      "adds": 24282
     },
     {
       "id": "12535",
@@ -4161,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23424
+      "adds": 23928
     },
     {
       "id": "9479",
@@ -4172,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 21870
+      "adds": 22415
     }
   ]
 }
