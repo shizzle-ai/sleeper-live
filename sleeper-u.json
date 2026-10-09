@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-09T22:45:02.640Z",
+  "generated_at": "2026-10-09T22:57:50.617Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2795,6 +2795,16 @@
       },
       "starters": [
         {
+          "id": "11576",
+          "name": "Braelon Allen",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 135
+        },
+        {
           "id": "11792",
           "name": "Will Reichard",
           "pos": "K",
@@ -2875,20 +2885,10 @@
           "rank": 5
         },
         {
-          "id": "8155",
-          "name": "Breece Hall",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 3,
-          "rank": 27
-        },
-        {
-          "id": "PHI",
-          "name": "Philadelphia Eagles",
+          "id": "NE",
+          "name": "New England Patriots",
           "pos": "DEF",
-          "team": "PHI",
+          "team": "NE",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2905,16 +2905,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 228
-        },
-        {
-          "id": "11576",
-          "name": "Braelon Allen",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 135
         },
         {
           "id": "11620",
@@ -2937,6 +2927,16 @@
           "rank": 210
         },
         {
+          "id": "5022",
+          "name": "Dallas Goedert",
+          "pos": "TE",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 94
+        },
+        {
           "id": "6806",
           "name": "J.K. Dobbins",
           "pos": "RB",
@@ -2947,10 +2947,10 @@
           "rank": 68
         },
         {
-          "id": "NE",
-          "name": "New England Patriots",
+          "id": "PHI",
+          "name": "Philadelphia Eagles",
           "pos": "DEF",
-          "team": "NE",
+          "team": "PHI",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2969,14 +2969,14 @@
           "rank": 62
         },
         {
-          "id": "5022",
-          "name": "Dallas Goedert",
-          "pos": "TE",
-          "team": "PHI",
-          "injury": null,
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": "Out",
           "status": "Active",
-          "depth": 1,
-          "rank": 94
+          "depth": 3,
+          "rank": 27
         }
       ],
       "taxi": [],
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 365408
+      "adds": 368504
     },
     {
       "id": "10235",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 351480
+      "adds": 356696
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 221499
+      "adds": 222507
     },
     {
       "id": "11608",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 103962
+      "adds": 104508
     },
     {
       "id": "WAS",
@@ -4145,7 +4145,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 89824
+      "adds": 90258
     },
     {
       "id": "4993",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 73844
+      "adds": 74340
     },
     {
       "id": "7528",
@@ -4167,18 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 59835
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 55740
+      "adds": 60020
     },
     {
       "id": "12542",
@@ -4189,7 +4178,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 55696
+      "adds": 56876
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 55920
     },
     {
       "id": "LV",
@@ -4200,7 +4200,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51408
+      "adds": 51696
     },
     {
       "id": "NYJ",
@@ -4211,7 +4211,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34708
+      "adds": 34892
     },
     {
       "id": "4663",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 33256
+      "adds": 33476
     },
     {
       "id": "8116",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 32013
+      "adds": 32517
     },
     {
       "id": "11783",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29352
+      "adds": 29432
     },
     {
       "id": "13301",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 156,
-      "adds": 19955
+      "adds": 20198
     },
     {
       "id": "12535",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18928
+      "adds": 19064
     },
     {
       "id": "4037",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 17640
+      "adds": 17718
     },
     {
       "id": "8135",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 16548
+      "adds": 16800
     },
     {
       "id": "13311",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15932
+      "adds": 16135
     },
     {
       "id": "2747",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 14210
+      "adds": 14280
     }
   ]
 }
