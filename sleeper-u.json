@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T17:26:43.712Z",
+  "generated_at": "2026-10-10T17:39:45.065Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 566848
+      "adds": 508384
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 230304
+      "adds": 209888
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 117196
+      "adds": 117168
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 111213
+      "adds": 102222
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 65760
+      "adds": 59172
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 53523
+      "adds": 51579
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 45176
+      "adds": 41616
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43596
+      "adds": 40579
     },
     {
       "id": "4454",
@@ -4189,18 +4189,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 32712
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 29384
+      "adds": 34239
     },
     {
       "id": "8135",
@@ -4211,7 +4200,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29141
+      "adds": 27517
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 26364
     },
     {
       "id": "LV",
@@ -4222,18 +4222,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27150
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 24805
+      "adds": 25614
     },
     {
       "id": "13301",
@@ -4244,7 +4233,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 23813
+      "adds": 20978
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 20815
     },
     {
       "id": "650",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 20742
+      "adds": 19392
     },
     {
       "id": "7039",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 19176
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 18168
+      "adds": 18807
     },
     {
       "id": "13311",
@@ -4288,7 +4277,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 18109
+      "adds": 17255
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17054
     },
     {
       "id": "12535",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 16344
+      "adds": 15352
     },
     {
       "id": "13405",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 12114
+      "adds": 12138
     }
   ]
 }
