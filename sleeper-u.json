@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T00:27:08.918Z",
+  "generated_at": "2026-10-10T00:52:09.352Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 7,
         "rank": 162
       },
       {
@@ -1567,7 +1567,7 @@
           "team": "NE",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 5,
           "rank": 697
         },
         {
@@ -1577,7 +1577,7 @@
           "team": "GB",
           "injury": "NA",
           "status": "Active",
-          "depth": 5,
+          "depth": 4,
           "rank": 20
         },
         {
@@ -1758,7 +1758,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 105
         },
         {
@@ -1939,7 +1939,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 61
         },
         {
@@ -2202,7 +2202,7 @@
           "team": "DEN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 5,
           "rank": 118
         }
       ],
@@ -2743,7 +2743,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 7,
           "rank": 162
         },
         {
@@ -2975,7 +2975,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 5,
           "rank": 27
         }
       ],
@@ -3670,7 +3670,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 156
       },
       {
@@ -3684,16 +3684,6 @@
         "rank": 160
       },
       {
-        "id": "8180",
-        "name": "Jalen Nailor",
-        "pos": "WR",
-        "team": "LV",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 2,
-        "rank": 171
-      },
-      {
         "id": "11627",
         "name": "Troy Franklin",
         "pos": "WR",
@@ -3701,6 +3691,16 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
+        "rank": 171
+      },
+      {
+        "id": "8180",
+        "name": "Jalen Nailor",
+        "pos": "WR",
+        "team": "LV",
+        "injury": "Out",
+        "status": "Active",
+        "depth": 6,
         "rank": 171
       },
       {
@@ -4099,9 +4099,9 @@
       "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 681,
-      "adds": 381384
+      "adds": 382944
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 341328
+      "adds": 303688
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 193518
+      "adds": 163665
     },
     {
       "id": "11608",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 97440
+      "adds": 87570
     },
     {
       "id": "WAS",
@@ -4145,7 +4145,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79590
+      "adds": 65653
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 64260
     },
     {
       "id": "4993",
@@ -4156,18 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 67576
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 572,
-      "adds": 63244
+      "adds": 59636
     },
     {
       "id": "7528",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 53280
+      "adds": 46085
     },
     {
       "id": "LV",
@@ -4189,18 +4189,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46680
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 43716
+      "adds": 40146
     },
     {
       "id": "8116",
@@ -4211,7 +4200,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 35865
+      "adds": 35991
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 33528
     },
     {
       "id": "4663",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 32148
+      "adds": 29688
     },
     {
       "id": "NYJ",
@@ -4233,7 +4233,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31758
+      "adds": 26984
     },
     {
       "id": "11783",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25688
+      "adds": 21392
     },
     {
       "id": "13301",
@@ -4253,9 +4253,20 @@
       "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 156,
-      "adds": 20997
+      "adds": 20756
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 17675
     },
     {
       "id": "12535",
@@ -4266,18 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 18264
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 17822
+      "adds": 17160
     },
     {
       "id": "13311",
@@ -4288,18 +4288,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16191
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 14328
+      "adds": 15316
     },
     {
       "id": "11647",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 13310
+      "adds": 12235
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 336,
+      "adds": 11919
     }
   ]
 }
