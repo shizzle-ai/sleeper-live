@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T15:31:50.269Z",
+  "generated_at": "2026-10-10T15:46:37.276Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -468,7 +468,7 @@
           "name": "Marvin Harrison",
           "pos": "WR",
           "team": "ARI",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 73
@@ -2227,7 +2227,7 @@
           "name": "Marvin Harrison",
           "pos": "WR",
           "team": "ARI",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 73
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 521968
+      "adds": 530584
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 225856
+      "adds": 228504
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 107235
+      "adds": 108819
     },
     {
       "id": "12542",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 105440
+      "adds": 107816
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 64896
+      "adds": 65562
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 50157
+      "adds": 50841
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 43104
+      "adds": 43808
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41503
+      "adds": 42329
     },
     {
       "id": "4663",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28352
+      "adds": 28780
     },
     {
       "id": "LV",
@@ -4200,7 +4200,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25806
+      "adds": 26274
     },
     {
       "id": "8135",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 25326
+      "adds": 26054
     },
     {
       "id": "7528",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 25280
+      "adds": 25565
     },
     {
       "id": "13301",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 22879
+      "adds": 23150
     },
     {
       "id": "650",
@@ -4244,18 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 20256
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 17320
+      "adds": 20586
     },
     {
       "id": "7039",
@@ -4266,7 +4255,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 17235
+      "adds": 17697
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17640
     },
     {
       "id": "13311",
@@ -4277,29 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16695
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 15320
-    },
-    {
-      "id": "13405",
-      "name": "Kaytron Allen",
-      "pos": "RB",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 7,
-      "rank": 157,
-      "adds": 11678
+      "adds": 17178
     },
     {
       "id": "4454",
@@ -4310,7 +4288,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 11073
+      "adds": 15783
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 15664
+    },
+    {
+      "id": "13405",
+      "name": "Kaytron Allen",
+      "pos": "RB",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 7,
+      "rank": 157,
+      "adds": 11758
     }
   ]
 }
