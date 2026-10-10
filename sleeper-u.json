@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T23:44:38.629Z",
+  "generated_at": "2026-10-10T23:55:21.664Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 393992
+      "adds": 396920
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 129008
+      "adds": 129920
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 120556
+      "adds": 121708
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 77796
+      "adds": 78480
     },
     {
       "id": "4454",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 64815
+      "adds": 65496
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 60480
+      "adds": 61020
     },
     {
       "id": "11608",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 38232
+      "adds": 38496
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33656
+      "adds": 33985
     },
     {
       "id": "4993",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 31492
+      "adds": 31724
     },
     {
       "id": "8135",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29134
+      "adds": 29470
     },
     {
       "id": "7039",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 21420
+      "adds": 21597
     },
     {
       "id": "4663",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 21260
+      "adds": 21436
     },
     {
       "id": "LV",
@@ -4233,7 +4233,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20766
+      "adds": 21006
     },
     {
       "id": "13311",
@@ -4244,29 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15750
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 13992
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 13900
+      "adds": 15834
     },
     {
       "id": "2078",
@@ -4277,7 +4255,29 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 13874
+      "adds": 14112
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 14106
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 14034
     },
     {
       "id": "12535",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 12928
+      "adds": 13048
     },
     {
       "id": "13301",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 12304
+      "adds": 12401
     },
     {
       "id": "7528",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 12215
+      "adds": 12260
     }
   ]
 }
