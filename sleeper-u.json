@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T05:18:29.468Z",
+  "generated_at": "2026-10-10T05:34:13.653Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -206,7 +206,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 177
+        "rank": 176
       },
       {
         "id": "11625",
@@ -733,7 +733,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 106
         },
         {
           "id": "8137",
@@ -773,7 +773,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "SF",
@@ -1759,7 +1759,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 6,
-          "rank": 105
+          "rank": 103
         },
         {
           "id": "8151",
@@ -2059,7 +2059,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 48
+          "rank": 47
         },
         {
           "id": "12527",
@@ -2734,7 +2734,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 177
+          "rank": 176
         },
         {
           "id": "11625",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 437776
+      "adds": 438096
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 257624
+      "adds": 251832
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 125154
+      "adds": 121563
     },
     {
       "id": "12542",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 80504
+      "adds": 80928
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 74394
+      "adds": 72696
     },
     {
       "id": "4993",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 49592
+      "adds": 48172
     },
     {
       "id": "WAS",
@@ -4167,7 +4167,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48314
+      "adds": 46851
     },
     {
       "id": "8116",
@@ -4178,7 +4178,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 43920
+      "adds": 43515
     },
     {
       "id": "7528",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 34640
+      "adds": 33430
     },
     {
       "id": "LV",
@@ -4200,7 +4200,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30222
+      "adds": 29154
     },
     {
       "id": "4663",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28380
+      "adds": 27964
     },
     {
       "id": "650",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 24144
+      "adds": 23376
     },
     {
       "id": "13301",
@@ -4233,18 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 21449
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 20256
+      "adds": 21292
     },
     {
       "id": "8135",
@@ -4255,7 +4244,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 19775
+      "adds": 19740
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 19574
     },
     {
       "id": "12535",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15872
+      "adds": 15496
     },
     {
       "id": "13311",
@@ -4277,18 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15638
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 13728
+      "adds": 15435
     },
     {
       "id": "7039",
@@ -4299,7 +4288,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 13719
+      "adds": 13608
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 12952
     },
     {
       "id": "11647",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 11370
+      "adds": 11080
     }
   ]
 }
