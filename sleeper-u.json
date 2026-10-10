@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T12:17:11.733Z",
+  "generated_at": "2026-10-10T12:38:56.603Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 473760
+      "adds": 475944
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 243424
+      "adds": 238552
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 116181
+      "adds": 113409
     },
     {
       "id": "12542",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 91832
+      "adds": 92852
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 70512
+      "adds": 69138
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 47835
+      "adds": 47466
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 46224
+      "adds": 45084
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44835
+      "adds": 43582
     },
     {
       "id": "7528",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 30630
+      "adds": 29490
     },
     {
       "id": "4663",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28448
+      "adds": 28272
     },
     {
       "id": "LV",
@@ -4211,18 +4211,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27678
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 22224
+      "adds": 26952
     },
     {
       "id": "13301",
@@ -4233,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 21865
+      "adds": 21827
     },
     {
       "id": "8135",
@@ -4244,7 +4233,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 21392
+      "adds": 21651
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 21462
     },
     {
       "id": "NYJ",
@@ -4255,7 +4255,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18642
+      "adds": 18080
     },
     {
       "id": "13311",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16226
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 15696
+      "adds": 16163
     },
     {
       "id": "7039",
@@ -4288,18 +4277,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 15363
+      "adds": 15507
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
+      "id": "12535",
+      "name": "Isaac TeSlaa",
       "pos": "WR",
-      "team": "DAL",
+      "team": "DET",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 199,
-      "adds": 11384
+      "rank": 184,
+      "adds": 15384
     },
     {
       "id": "13405",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 10942
+      "adds": 11012
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 10840
     }
   ]
 }
