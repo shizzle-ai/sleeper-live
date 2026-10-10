@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T23:17:11.739Z",
+  "generated_at": "2026-10-10T23:31:11.765Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -464,14 +464,14 @@
           "rank": 63
         },
         {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "pos": "TE",
-          "team": "BAL",
-          "injury": null,
+          "id": "7021",
+          "name": "Rico Dowdle",
+          "pos": "RB",
+          "team": "PIT",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
-          "rank": 96
+          "depth": 2,
+          "rank": 65
         },
         {
           "id": "3294",
@@ -2263,16 +2263,6 @@
           "rank": 38
         },
         {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "pos": "TE",
-          "team": "BAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 96
-        },
-        {
           "id": "5846",
           "name": "DK Metcalf",
           "pos": "WR",
@@ -2291,6 +2281,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 42
+        },
+        {
+          "id": "7021",
+          "name": "Rico Dowdle",
+          "pos": "RB",
+          "team": "PIT",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 65
         },
         {
           "id": "7839",
@@ -2365,14 +2365,14 @@
           "rank": 10
         },
         {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": "Questionable",
+          "id": "5012",
+          "name": "Mark Andrews",
+          "pos": "TE",
+          "team": "BAL",
+          "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 65
+          "depth": 1,
+          "rank": 96
         },
         {
           "id": "7083",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 410240
+      "adds": 390624
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 140528
+      "adds": 128088
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 123212
+      "adds": 119132
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 80910
+      "adds": 77013
     },
     {
       "id": "4454",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 63453
+      "adds": 64074
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 62244
+      "adds": 59805
     },
     {
       "id": "11608",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 40494
+      "adds": 37932
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34769
+      "adds": 33215
     },
     {
       "id": "4993",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 33016
+      "adds": 31204
     },
     {
       "id": "8135",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29715
+      "adds": 28903
     },
     {
       "id": "7039",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 22056
+      "adds": 21207
     },
     {
       "id": "4663",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 21976
+      "adds": 21048
     },
     {
       "id": "LV",
@@ -4233,7 +4233,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21588
+      "adds": 20526
     },
     {
       "id": "13311",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16345
+      "adds": 15638
     },
     {
       "id": "650",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 14724
+      "adds": 13854
     },
     {
       "id": "NYJ",
@@ -4266,7 +4266,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 14384
+      "adds": 13710
     },
     {
       "id": "2078",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 13587
+      "adds": 13594
     },
     {
       "id": "12535",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 13312
+      "adds": 12808
     },
     {
       "id": "13301",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 13167
+      "adds": 12195
     },
     {
       "id": "7528",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 12980
+      "adds": 12120
     }
   ]
 }
