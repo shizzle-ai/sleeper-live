@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T19:17:28.605Z",
+  "generated_at": "2026-10-10T19:31:48.294Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -256,287 +256,9 @@
   },
   "my_matchup": {
     "week": 5,
-    "found": true,
-    "mine": {
-      "roster_id": 11,
-      "team": "PimpShizzle",
-      "is_me": true,
-      "matchup_id": 6,
-      "points": 48.7,
-      "starters": [
-        {
-          "id": "6770",
-          "name": "Joe Burrow",
-          "pos": "QB",
-          "team": "CIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 16
-        },
-        {
-          "id": "8150",
-          "name": "Kyren Williams",
-          "pos": "RB",
-          "team": "LAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 13
-        },
-        {
-          "id": "11584",
-          "name": "Bucky Irving",
-          "pos": "RB",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 32
-        },
-        {
-          "id": "9493",
-          "name": "Puka Nacua",
-          "pos": "WR",
-          "team": "LAR",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 4
-        },
-        {
-          "id": "12514",
-          "name": "Emeka Egbuka",
-          "pos": "WR",
-          "team": "TB",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 39
-        },
-        {
-          "id": "4217",
-          "name": "George Kittle",
-          "pos": "TE",
-          "team": "SF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 80
-        },
-        {
-          "id": "4199",
-          "name": "Aaron Jones",
-          "pos": "RB",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 85
-        },
-        {
-          "id": "1166",
-          "name": "Kirk Cousins",
-          "pos": "QB",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 268
-        },
-        {
-          "id": "3451",
-          "name": "Ka'imi Fairbairn",
-          "pos": "K",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 128
-        },
-        {
-          "id": "CLE",
-          "name": "Cleveland Browns",
-          "pos": "DEF",
-          "team": "CLE",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        }
-      ],
-      "starters_points": [
-        0,
-        0,
-        31.5,
-        0,
-        17.2,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "players_points": {
-        "1166": 0,
-        "3451": 0,
-        "4035": 0,
-        "4046": 0,
-        "4199": 0,
-        "4217": 0,
-        "6770": 0,
-        "8150": 0,
-        "9493": 0,
-        "10236": 0,
-        "11584": 31.5,
-        "11610": 0,
-        "11625": 0,
-        "11637": 0,
-        "12514": 17.2,
-        "CLE": 0
-      }
-    },
-    "opponent": {
-      "roster_id": 9,
-      "team": "Achane in the Membrane",
-      "is_me": false,
-      "matchup_id": 6,
-      "points": 14.64,
-      "starters": [
-        {
-          "id": "8161",
-          "name": "Malik Willis",
-          "pos": "QB",
-          "team": "MIA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 120
-        },
-        {
-          "id": "12495",
-          "name": "Ollie Gordon",
-          "pos": "RB",
-          "team": "MIA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 460
-        },
-        {
-          "id": "5892",
-          "name": "David Montgomery",
-          "pos": "RB",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 42
-        },
-        {
-          "id": "5846",
-          "name": "DK Metcalf",
-          "pos": "WR",
-          "team": "PIT",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 73
-        },
-        {
-          "id": "12509",
-          "name": "Tre' Harris",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 179
-        },
-        {
-          "id": "12506",
-          "name": "Harold Fannin",
-          "pos": "TE",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 63
-        },
-        {
-          "id": "11628",
-          "name": "Marvin Harrison",
-          "pos": "WR",
-          "team": "ARI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 2,
-          "rank": 73
-        },
-        {
-          "id": "3294",
-          "name": "Dak Prescott",
-          "pos": "QB",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 38
-        },
-        {
-          "id": "7839",
-          "name": "Evan McPherson",
-          "pos": "K",
-          "team": "CIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 154
-        },
-        {
-          "id": "PIT",
-          "name": "Pittsburgh Steelers",
-          "pos": "DEF",
-          "team": "PIT",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        }
-      ],
-      "starters_points": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        14.64,
-        0,
-        0
-      ],
-      "players_points": {
-        "3294": 14.64,
-        "3634": 0,
-        "4881": 0,
-        "5012": 0,
-        "5846": 0,
-        "5859": 0,
-        "5892": 0,
-        "7021": 0,
-        "7083": 0,
-        "7839": 0,
-        "8161": 0,
-        "9226": 0,
-        "11628": 0,
-        "12495": 0,
-        "12506": 0,
-        "12509": 0,
-        "12526": 0,
-        "PIT": 0
-      }
-    }
+    "found": false,
+    "mine": null,
+    "opponent": null
   },
   "standings": [
     {
@@ -4101,7 +3823,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 496368
+      "adds": 458448
     },
     {
       "id": "8129",
@@ -4112,7 +3834,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 197784
+      "adds": 184104
     },
     {
       "id": "12542",
@@ -4123,7 +3845,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 122032
+      "adds": 115484
     },
     {
       "id": "3271",
@@ -4134,18 +3856,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 98577
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 54426
+      "adds": 91359
     },
     {
       "id": "8116",
@@ -4156,7 +3867,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 52443
+      "adds": 51210
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 50904
     },
     {
       "id": "4454",
@@ -4167,18 +3889,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 43107
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 40260
+      "adds": 44151
     },
     {
       "id": "WAS",
@@ -4189,7 +3900,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39928
+      "adds": 37730
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 447,
+      "adds": 37640
     },
     {
       "id": "8135",
@@ -4200,7 +3922,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 28049
+      "adds": 26936
     },
     {
       "id": "4663",
@@ -4211,7 +3933,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 25496
+      "adds": 24088
     },
     {
       "id": "LV",
@@ -4222,7 +3944,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25302
+      "adds": 23904
     },
     {
       "id": "7039",
@@ -4233,7 +3955,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 19728
+      "adds": 19425
     },
     {
       "id": "13301",
@@ -4244,7 +3966,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 19389
+      "adds": 17431
     },
     {
       "id": "650",
@@ -4255,7 +3977,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 18504
+      "adds": 17244
     },
     {
       "id": "7528",
@@ -4266,7 +3988,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 18460
+      "adds": 16995
     },
     {
       "id": "13311",
@@ -4277,7 +3999,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 17430
+      "adds": 16989
     },
     {
       "id": "NYJ",
@@ -4288,7 +4010,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16736
+      "adds": 15868
     },
     {
       "id": "12535",
@@ -4299,7 +4021,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15160
+      "adds": 14496
     },
     {
       "id": "13405",
@@ -4310,7 +4032,7 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 12326
+      "adds": 12330
     }
   ]
 }
