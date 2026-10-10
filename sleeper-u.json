@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T20:18:31.962Z",
+  "generated_at": "2026-10-10T20:33:43.939Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1565,7 +1565,7 @@
           "name": "Mack Hollins",
           "pos": "WR",
           "team": "NE",
-          "injury": "Out",
+          "injury": "IR",
           "status": "Active",
           "depth": 5,
           "rank": 697
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 485872
+      "adds": 437112
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 193240
+      "adds": 164392
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 129144
+      "adds": 121108
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 96696
+      "adds": 85698
     },
     {
       "id": "8116",
@@ -4145,18 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 57249
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 54006
+      "adds": 56511
     },
     {
       "id": "4454",
@@ -4167,7 +4156,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 49716
+      "adds": 51639
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 47190
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39368
+      "adds": 36064
     },
     {
       "id": "4993",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 39312
+      "adds": 34924
     },
     {
       "id": "8135",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29729
+      "adds": 27699
     },
     {
       "id": "4663",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 25604
+      "adds": 22768
     },
     {
       "id": "LV",
@@ -4222,7 +4222,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25014
+      "adds": 22674
     },
     {
       "id": "7039",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 21423
+      "adds": 20766
     },
     {
       "id": "13311",
@@ -4244,29 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 18172
-    },
-    {
-      "id": "13301",
-      "name": "Antonio Williams",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 156,
-      "adds": 18018
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 17840
+      "adds": 17269
     },
     {
       "id": "650",
@@ -4277,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 17790
+      "adds": 15822
     },
     {
       "id": "NYJ",
@@ -4288,7 +4266,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16654
+      "adds": 15060
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 15030
+    },
+    {
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 156,
+      "adds": 14981
     },
     {
       "id": "12535",
@@ -4299,18 +4299,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15424
+      "adds": 14432
     },
     {
-      "id": "13405",
-      "name": "Kaytron Allen",
-      "pos": "RB",
-      "team": "MIA",
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 7,
-      "rank": 157,
-      "adds": 12456
+      "depth": 3,
+      "rank": 674,
+      "adds": 10370
     }
   ]
 }
