@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T16:37:11.339Z",
+  "generated_at": "2026-10-10T16:50:54.059Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 548832
+      "adds": 554024
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 224704
+      "adds": 226144
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 112888
+      "adds": 114080
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 107703
+      "adds": 108648
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 64296
+      "adds": 64662
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 51660
+      "adds": 52317
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 43524
+      "adds": 44024
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41797
+      "adds": 42238
     },
     {
       "id": "4663",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28484
+      "adds": 28752
     },
     {
       "id": "8135",
@@ -4200,18 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 27685
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26070
+      "adds": 28056
     },
     {
       "id": "4454",
@@ -4222,7 +4211,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 25311
+      "adds": 27369
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 26340
     },
     {
       "id": "7528",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 24250
+      "adds": 24420
     },
     {
       "id": "13301",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 23318
+      "adds": 23444
     },
     {
       "id": "650",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 20130
+      "adds": 20298
     },
     {
       "id": "7039",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 18363
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 17458
+      "adds": 18567
     },
     {
       "id": "NYJ",
@@ -4288,7 +4277,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 17432
+      "adds": 17624
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 17612
     },
     {
       "id": "12535",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15688
+      "adds": 15920
     },
     {
       "id": "13405",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 11942
+      "adds": 11990
     }
   ]
 }
