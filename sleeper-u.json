@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T16:50:54.059Z",
+  "generated_at": "2026-10-10T17:00:13.113Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1943,16 +1943,6 @@
           "rank": 22
         },
         {
-          "id": "12534",
-          "name": "Kyle Monangai",
-          "pos": "RB",
-          "team": "CHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 61
-        },
-        {
           "id": "1479",
           "name": "Keenan Allen",
           "pos": "WR",
@@ -1971,6 +1961,16 @@
           "status": "Active",
           "depth": null,
           "rank": 145
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 6,
+          "rank": 107
         },
         {
           "id": "8136",
@@ -1995,14 +1995,14 @@
       ],
       "reserve": [
         {
-          "id": "6819",
-          "name": "Michael Pittman",
-          "pos": "WR",
-          "team": "PIT",
+          "id": "12534",
+          "name": "Kyle Monangai",
+          "pos": "RB",
+          "team": "CHI",
           "injury": "Out",
           "status": "Active",
           "depth": 6,
-          "rank": 107
+          "rank": 61
         },
         {
           "id": "8408",
@@ -2434,14 +2434,14 @@
           "rank": 147
         },
         {
-          "id": "11635",
-          "name": "Ladd McConkey",
+          "id": "13264",
+          "name": "Dohnte Meyers",
           "pos": "WR",
-          "team": "LAC",
-          "injury": "Questionable",
+          "team": "CIN",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 36
+          "depth": 3,
+          "rank": 628
         },
         {
           "id": "3198",
@@ -2536,14 +2536,14 @@
           "rank": 127
         },
         {
-          "id": "13264",
-          "name": "Dohnte Meyers",
+          "id": "11635",
+          "name": "Ladd McConkey",
           "pos": "WR",
-          "team": "CIN",
-          "injury": null,
+          "team": "LAC",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
-          "rank": 628
+          "depth": 1,
+          "rank": 36
         },
         {
           "id": "13294",
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 554024
+      "adds": 557384
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 226144
+      "adds": 227200
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 114080
+      "adds": 114900
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 108648
+      "adds": 109215
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 64662
+      "adds": 64992
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 52317
+      "adds": 52623
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 44024
+      "adds": 44328
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42238
+      "adds": 42630
     },
     {
       "id": "4663",
@@ -4189,18 +4189,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28752
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 28056
+      "adds": 28912
     },
     {
       "id": "4454",
@@ -4211,7 +4200,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 673,
-      "adds": 27369
+      "adds": 28737
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 28371
     },
     {
       "id": "LV",
@@ -4222,7 +4222,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26340
+      "adds": 26526
     },
     {
       "id": "7528",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 24420
+      "adds": 24495
     },
     {
       "id": "13301",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 23444
+      "adds": 23560
     },
     {
       "id": "650",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 20298
+      "adds": 20388
     },
     {
       "id": "7039",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 18567
+      "adds": 18723
     },
     {
       "id": "NYJ",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 17624
+      "adds": 17772
     },
     {
       "id": "13311",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 17612
+      "adds": 17710
     },
     {
       "id": "12535",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15920
+      "adds": 16024
     },
     {
       "id": "13405",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 11990
+      "adds": 12008
     }
   ]
 }
