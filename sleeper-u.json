@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T20:03:30.593Z",
+  "generated_at": "2026-10-10T20:18:31.962Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1967,7 +1967,7 @@
           "name": "Michael Pittman",
           "pos": "WR",
           "team": "PIT",
-          "injury": "Out",
+          "injury": "IR",
           "status": "Inactive",
           "depth": 6,
           "rank": 107
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 472272
+      "adds": 485872
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 188600
+      "adds": 193240
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 119880
+      "adds": 129144
     },
     {
       "id": "3271",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 93960
+      "adds": 96696
     },
     {
       "id": "8116",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 53199
+      "adds": 57249
     },
     {
       "id": "11608",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 52236
+      "adds": 54006
     },
     {
       "id": "4454",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 47127
+      "adds": 49716
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38654
+      "adds": 39368
     },
     {
       "id": "4993",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 38640
+      "adds": 39312
     },
     {
       "id": "8135",
@@ -4200,7 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 28259
+      "adds": 29729
     },
     {
       "id": "4663",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 24748
+      "adds": 25604
     },
     {
       "id": "LV",
@@ -4222,7 +4222,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24612
+      "adds": 25014
     },
     {
       "id": "7039",
@@ -4233,18 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 20265
-    },
-    {
-      "id": "13301",
-      "name": "Antonio Williams",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 156,
-      "adds": 17750
+      "adds": 21423
     },
     {
       "id": "13311",
@@ -4255,18 +4244,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 17654
+      "adds": 18172
     },
     {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 17514
+      "depth": 2,
+      "rank": 156,
+      "adds": 18018
     },
     {
       "id": "7528",
@@ -4277,7 +4266,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 17390
+      "adds": 17840
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 17790
     },
     {
       "id": "NYJ",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 16376
+      "adds": 16654
     },
     {
       "id": "12535",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 14952
+      "adds": 15424
     },
     {
       "id": "13405",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 12418
+      "adds": 12456
     }
   ]
 }
