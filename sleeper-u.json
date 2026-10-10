@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T22:28:24.712Z",
+  "generated_at": "2026-10-10T22:42:32.122Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 426632
+      "adds": 400840
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 153384
+      "adds": 138264
     },
     {
       "id": "12542",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 125060
+      "adds": 119648
     },
     {
       "id": "3271",
@@ -4134,18 +4134,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 84105
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 62082
+      "adds": 78651
     },
     {
       "id": "4454",
@@ -4156,7 +4145,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 60432
+      "adds": 61455
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 60696
     },
     {
       "id": "11608",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 43428
+      "adds": 39744
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35735
+      "adds": 33789
     },
     {
       "id": "4993",
@@ -4189,7 +4189,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 34472
+      "adds": 32268
     },
     {
       "id": "8135",
@@ -4200,29 +4200,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29757
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 22612
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 22254
+      "adds": 28798
     },
     {
       "id": "7039",
@@ -4233,7 +4211,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 22233
+      "adds": 21420
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 21388
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 20904
     },
     {
       "id": "13311",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16926
+      "adds": 15995
     },
     {
       "id": "650",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 15318
+      "adds": 14388
     },
     {
       "id": "NYJ",
@@ -4266,18 +4266,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 14874
-    },
-    {
-      "id": "13301",
-      "name": "Antonio Williams",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 156,
-      "adds": 14181
+      "adds": 13988
     },
     {
       "id": "12535",
@@ -4288,18 +4277,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 13896
+      "adds": 13000
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 170,
-      "adds": 13835
+      "rank": 156,
+      "adds": 12825
     },
     {
       "id": "2078",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 12740
+      "adds": 12775
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 12730
     }
   ]
 }
