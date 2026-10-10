@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T01:23:57.659Z",
+  "generated_at": "2026-10-10T01:39:31.189Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 394456
+      "adds": 394648
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 307736
+      "adds": 289288
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 165600
+      "adds": 150930
     },
     {
       "id": "11608",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 88674
+      "adds": 83610
     },
     {
       "id": "12542",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 66700
+      "adds": 67400
     },
     {
       "id": "WAS",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66556
+      "adds": 59857
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 60516
+      "adds": 56612
     },
     {
       "id": "7528",
@@ -4178,18 +4178,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 46425
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 40758
+      "adds": 42785
     },
     {
       "id": "8116",
@@ -4200,7 +4189,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 37449
+      "adds": 37557
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 37440
     },
     {
       "id": "650",
@@ -4211,7 +4211,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 33942
+      "adds": 30138
     },
     {
       "id": "4663",
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 30224
+      "adds": 28920
     },
     {
       "id": "NYJ",
@@ -4233,7 +4233,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27312
+      "adds": 24690
     },
     {
       "id": "11783",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 21584
+      "adds": 21376
     },
     {
       "id": "13301",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 21141
+      "adds": 20801
     },
     {
       "id": "8135",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 18123
+      "adds": 18039
     },
     {
       "id": "12535",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 17560
+      "adds": 16584
     },
     {
       "id": "13311",
@@ -4288,18 +4288,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15610
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 12460
+      "adds": 15113
     },
     {
       "id": "7039",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 12324
+      "adds": 12123
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 11930
     }
   ]
 }
