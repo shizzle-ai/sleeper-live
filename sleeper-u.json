@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T02:20:02.758Z",
+  "generated_at": "2026-10-10T02:36:27.843Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 408080
+      "adds": 408656
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 294192
+      "adds": 275848
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 153864
+      "adds": 139572
     },
     {
       "id": "11608",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 85050
+      "adds": 79410
     },
     {
       "id": "12542",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 70540
+      "adds": 71108
     },
     {
       "id": "WAS",
@@ -4156,7 +4156,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 60725
+      "adds": 54292
     },
     {
       "id": "4993",
@@ -4167,18 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 57708
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 43180
+      "adds": 53668
     },
     {
       "id": "8116",
@@ -4189,7 +4178,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 39249
+      "adds": 39537
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 39320
     },
     {
       "id": "LV",
@@ -4200,18 +4200,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38124
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 30672
+      "adds": 34512
     },
     {
       "id": "4663",
@@ -4222,7 +4211,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 29692
+      "adds": 28576
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 26958
     },
     {
       "id": "NYJ",
@@ -4233,18 +4233,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25112
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 21592
+      "adds": 22704
     },
     {
       "id": "13301",
@@ -4255,7 +4244,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 21209
+      "adds": 20928
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 20400
     },
     {
       "id": "8135",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 18564
+      "adds": 18473
     },
     {
       "id": "12535",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 16968
+      "adds": 16168
     },
     {
       "id": "13311",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15659
+      "adds": 15113
     },
     {
       "id": "7039",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 12708
+      "adds": 12438
     },
     {
       "id": "11647",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 12160
+      "adds": 11730
     }
   ]
 }
