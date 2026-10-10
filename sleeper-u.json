@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-10T15:16:47.161Z",
+  "generated_at": "2026-10-10T15:31:50.269Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4101,7 +4101,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 515800
+      "adds": 521968
     },
     {
       "id": "8129",
@@ -4112,7 +4112,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 237552
+      "adds": 225856
     },
     {
       "id": "3271",
@@ -4123,7 +4123,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 112860
+      "adds": 107235
     },
     {
       "id": "12542",
@@ -4134,7 +4134,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 103004
+      "adds": 105440
     },
     {
       "id": "11608",
@@ -4145,7 +4145,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 68706
+      "adds": 64896
     },
     {
       "id": "8116",
@@ -4156,7 +4156,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 50841
+      "adds": 50157
     },
     {
       "id": "4993",
@@ -4167,7 +4167,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 45344
+      "adds": 43104
     },
     {
       "id": "WAS",
@@ -4178,7 +4178,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 43715
+      "adds": 41503
     },
     {
       "id": "4663",
@@ -4189,18 +4189,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 29160
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 27735
+      "adds": 28352
     },
     {
       "id": "LV",
@@ -4211,7 +4200,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27246
+      "adds": 25806
     },
     {
       "id": "8135",
@@ -4222,7 +4211,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 24794
+      "adds": 25326
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 25280
     },
     {
       "id": "13301",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 22928
+      "adds": 22879
     },
     {
       "id": "650",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 21462
+      "adds": 20256
     },
     {
       "id": "NYJ",
@@ -4255,18 +4255,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18224
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 17101
+      "adds": 17320
     },
     {
       "id": "7039",
@@ -4277,7 +4266,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 17034
+      "adds": 17235
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 16695
     },
     {
       "id": "12535",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15824
+      "adds": 15320
     },
     {
       "id": "13405",
@@ -4299,18 +4299,18 @@
       "status": "Active",
       "depth": 7,
       "rank": 157,
-      "adds": 11620
+      "adds": 11678
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
+      "id": "4454",
+      "name": "Kendrick Bourne",
       "pos": "WR",
-      "team": "DAL",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 199,
-      "adds": 10616
+      "rank": 673,
+      "adds": 11073
     }
   ]
 }
