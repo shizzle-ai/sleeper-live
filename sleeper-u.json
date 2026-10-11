@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T19:00:13.630Z",
+  "generated_at": "2026-10-11T19:14:25.482Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 106.12,
+      "points": 119.08,
       "starters": [
         {
           "id": "6770",
@@ -372,17 +372,17 @@
         0,
         17.2,
         0,
-        5.5,
-        8.92,
+        14.5,
+        9.88,
         16,
-        9
+        12
       ],
       "players_points": {
-        "1166": 8.92,
+        "1166": 9.88,
         "3451": 16,
         "4035": 2.4,
         "4046": 0,
-        "4199": 5.5,
+        "4199": 14.5,
         "4217": 0,
         "6770": 18,
         "8150": 0,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11637": 0,
         "12514": 17.2,
-        "CLE": 9
+        "CLE": 12
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 38.24,
+      "points": 43.94,
       "starters": [
         {
           "id": "8161",
@@ -505,20 +505,20 @@
         }
       ],
       "starters_points": [
-        2.1,
-        9.3,
+        3.2,
+        12.3,
         1.1,
         5.3,
         0,
         0,
-        1.8,
+        3.4,
         14.64,
         3,
         1
       ],
       "players_points": {
         "3294": 14.64,
-        "3634": 1.8,
+        "3634": 3.4,
         "4881": 0,
         "5012": 0,
         "5846": 5.3,
@@ -527,10 +527,10 @@
         "7021": 0,
         "7083": 0,
         "7839": 3,
-        "8161": 2.1,
+        "8161": 3.2,
         "9226": 0,
         "11628": 0,
-        "12495": 9.3,
+        "12495": 12.3,
         "12506": 0,
         "12509": 0,
         "12526": 0,
@@ -3465,7 +3465,7 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 287
@@ -3475,7 +3475,7 @@
         "name": "Kurtis Rourke",
         "pos": "QB",
         "team": "SF",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 296
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 517672
+      "adds": 518424
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 238653
+      "adds": 242142
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 223227
+      "adds": 228375
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 191588
+      "adds": 192560
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 122032
+      "adds": 122600
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99134
+      "adds": 99211
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 91881
+      "adds": 92223
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 51933
+      "adds": 51947
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 45660
+      "adds": 45960
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 42588
+      "adds": 42624
     },
     {
       "id": "650",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 39786
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39276
+      "adds": 40830
     },
     {
       "id": "12535",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 38920
+      "adds": 40304
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39354
     },
     {
       "id": "4663",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36976
+      "adds": 37024
     },
     {
       "id": "7039",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 35157
+      "adds": 35193
     },
     {
       "id": "NYJ",
@@ -4387,7 +4387,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34820
+      "adds": 34852
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 31437
+      "adds": 31507
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 25312
+      "adds": 25389
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 22670
+      "adds": 22760
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 21285
+      "adds": 21315
     }
   ]
 }
