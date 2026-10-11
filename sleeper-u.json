@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T00:33:41.059Z",
+  "generated_at": "2026-10-11T00:56:55.262Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1118,6 +1118,16 @@
           "rank": 37
         },
         {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 658
+        },
+        {
           "id": "2216",
           "name": "Mike Evans",
           "pos": "WR",
@@ -1136,16 +1146,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 482
-        },
-        {
-          "id": "5927",
-          "name": "Terry McLaurin",
-          "pos": "WR",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 55
         },
         {
           "id": "7611",
@@ -1200,24 +1200,14 @@
           "rank": 95
         },
         {
-          "id": "13150",
-          "name": "Darius Cooper",
+          "id": "13301",
+          "name": "Antonio Williams",
           "pos": "WR",
-          "team": "PHI",
+          "team": "WAS",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 658
-        },
-        {
-          "id": "13425",
-          "name": "Jalon Daniels",
-          "pos": "QB",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 647
+          "depth": 2,
+          "rank": 156
         },
         {
           "id": "5870",
@@ -1228,6 +1218,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 131
+        },
+        {
+          "id": "5927",
+          "name": "Terry McLaurin",
+          "pos": "WR",
+          "team": "WAS",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 55
         },
         {
           "id": "9756",
@@ -2001,7 +2001,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 61
         },
         {
@@ -2331,7 +2331,7 @@
           "team": "ARI",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 7,
           "rank": 73
         },
         {
@@ -2965,7 +2965,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 11,
+          "depth": 10,
           "rank": 62
         },
         {
@@ -2985,6 +2985,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1414810344974487552",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791679581448,
+      "adds": [
+        {
+          "player": {
+            "id": "13301",
+            "name": "Antonio Williams",
+            "pos": "WR",
+            "team": "WAS",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 156
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "13425",
+            "name": "Jalon Daniels",
+            "pos": "QB",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 647
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1414416007568584704",
       "type": "free_agent",
@@ -3598,7 +3640,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 5,
         "rank": 270
       }
     ],
@@ -3662,16 +3704,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 149
-      },
-      {
-        "id": "13301",
-        "name": "Antonio Williams",
-        "pos": "WR",
-        "team": "WAS",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 156
       },
       {
         "id": "6783",
@@ -3798,6 +3830,16 @@
         "name": "Darnell Mooney",
         "pos": "WR",
         "team": "NYG",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 194
+      },
+      {
+        "id": "13274",
+        "name": "Germie Bernard",
+        "pos": "WR",
+        "team": "PIT",
         "injury": null,
         "status": "Active",
         "depth": 3,
@@ -4101,7 +4143,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 385032
+      "adds": 391936
     },
     {
       "id": "8129",
@@ -4112,7 +4154,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 124096
+      "adds": 126080
     },
     {
       "id": "12542",
@@ -4123,7 +4165,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 121076
+      "adds": 123592
     },
     {
       "id": "3271",
@@ -4134,7 +4176,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 76734
+      "adds": 78678
     },
     {
       "id": "4454",
@@ -4145,7 +4187,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 67797
+      "adds": 69354
     },
     {
       "id": "8116",
@@ -4156,7 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 60156
+      "adds": 61281
     },
     {
       "id": "11608",
@@ -4167,7 +4209,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 36996
+      "adds": 37602
     },
     {
       "id": "WAS",
@@ -4178,7 +4220,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33292
+      "adds": 34174
     },
     {
       "id": "4993",
@@ -4189,7 +4231,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 30984
+      "adds": 31504
     },
     {
       "id": "8135",
@@ -4200,7 +4242,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29687
+      "adds": 30296
     },
     {
       "id": "7039",
@@ -4211,7 +4253,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 21297
+      "adds": 21789
     },
     {
       "id": "4663",
@@ -4222,7 +4264,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 20980
+      "adds": 21324
     },
     {
       "id": "LV",
@@ -4233,7 +4275,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20508
+      "adds": 20982
     },
     {
       "id": "13311",
@@ -4244,7 +4286,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15302
+      "adds": 15554
     },
     {
       "id": "2078",
@@ -4255,7 +4297,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 14623
+      "adds": 15162
     },
     {
       "id": "NYJ",
@@ -4266,7 +4308,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 13720
+      "adds": 14046
     },
     {
       "id": "650",
@@ -4277,7 +4319,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 13464
+      "adds": 13752
     },
     {
       "id": "12535",
@@ -4288,7 +4330,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 12816
+      "adds": 13088
     },
     {
       "id": "3155",
@@ -4299,18 +4341,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 11945
+      "adds": 12205
     },
     {
-      "id": "13301",
-      "name": "Antonio Williams",
-      "pos": "WR",
-      "team": "WAS",
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 156,
-      "adds": 11836
+      "rank": 170,
+      "adds": 11950
     }
   ]
 }
