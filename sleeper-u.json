@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T20:34:58.766Z",
+  "generated_at": "2026-10-11T20:49:17.553Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 469920
+      "adds": 470544
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 245271
+      "adds": 247236
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 242694
+      "adds": 245547
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 174376
+      "adds": 174952
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 110248
+      "adds": 110776
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95802
+      "adds": 95844
     },
     {
       "id": "8116",
@@ -4288,29 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 82719
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 46912
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 46858
+      "adds": 82773
     },
     {
       "id": "650",
@@ -4321,7 +4299,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 46392
+      "adds": 47268
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 47208
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 47056
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 43576
+      "adds": 43720
     },
     {
       "id": "LV",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37602
+      "adds": 37650
     },
     {
       "id": "11608",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 37488
+      "adds": 37512
     },
     {
       "id": "4663",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34248
+      "adds": 34268
     },
     {
       "id": "NYJ",
@@ -4376,7 +4376,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33846
+      "adds": 33924
     },
     {
       "id": "7039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 31731
+      "adds": 31767
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 24990
+      "adds": 25004
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 23296
+      "adds": 23310
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 21565
+      "adds": 21620
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 19405
+      "adds": 19410
     }
   ]
 }
