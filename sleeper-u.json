@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T20:49:17.553Z",
+  "generated_at": "2026-10-11T21:00:15.947Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 69.52,
+      "points": 73.12,
       "starters": [
         {
           "id": "8161",
@@ -509,7 +509,7 @@
         14.8,
         1.1,
         5.3,
-        0,
+        3.6,
         1.4,
         3.4,
         14.64,
@@ -532,7 +532,7 @@
         "11628": 0,
         "12495": 14.8,
         "12506": 1.4,
-        "12509": 0,
+        "12509": 3.6,
         "12526": 0,
         "PIT": 1
       }
@@ -4222,18 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 470544
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 247236
+      "adds": 471160
     },
     {
       "id": "3271",
@@ -4244,7 +4233,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 245547
+      "adds": 247941
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 673,
+      "adds": 247935
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 174952
+      "adds": 175504
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 110776
+      "adds": 111424
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95844
+      "adds": 95900
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 82773
+      "adds": 82845
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 47268
+      "adds": 48006
     },
     {
       "id": "8135",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 47208
+      "adds": 47285
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 47056
+      "adds": 47136
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 43720
+      "adds": 43840
     },
     {
       "id": "LV",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37650
+      "adds": 37704
     },
     {
       "id": "11608",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 37512
+      "adds": 37530
     },
     {
       "id": "4663",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34268
+      "adds": 34276
     },
     {
       "id": "NYJ",
@@ -4376,7 +4376,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33924
+      "adds": 34000
     },
     {
       "id": "7039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 31767
+      "adds": 31788
     },
     {
       "id": "2078",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 21620
+      "adds": 21645
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 19410
+      "adds": 19415
     }
   ]
 }
