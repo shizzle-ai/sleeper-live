@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T05:02:26.940Z",
+  "generated_at": "2026-10-11T05:19:07.493Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1634,7 +1634,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -1963,14 +1963,14 @@
           "rank": 145
         },
         {
-          "id": "6819",
-          "name": "Michael Pittman",
+          "id": "5947",
+          "name": "Jakobi Meyers",
           "pos": "WR",
-          "team": "PIT",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 6,
-          "rank": 107
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 77
         },
         {
           "id": "8136",
@@ -2016,7 +2016,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -2408,7 +2408,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2599,7 +2599,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 9,
       "faab_used": 0
     },
     {
@@ -2985,6 +2985,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1414823645934571520",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791682752645,
+      "adds": [
+        {
+          "player": {
+            "id": "5947",
+            "name": "Jakobi Meyers",
+            "pos": "WR",
+            "team": "JAX",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 77
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "6819",
+            "name": "Michael Pittman",
+            "pos": "WR",
+            "team": "PIT",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 6,
+            "rank": 107
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1414810344974487552",
       "type": "free_agent",
@@ -3656,16 +3698,6 @@
         "rank": 75
       },
       {
-        "id": "5947",
-        "name": "Jakobi Meyers",
-        "pos": "WR",
-        "team": "JAX",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 77
-      },
-      {
         "id": "4037",
         "name": "Chris Godwin",
         "pos": "WR",
@@ -3844,6 +3876,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 194
+      },
+      {
+        "id": "12547",
+        "name": "Kyle Williams",
+        "pos": "WR",
+        "team": "NE",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 195
       }
     ],
     "TE": [
@@ -4143,7 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 383832
+      "adds": 387200
     },
     {
       "id": "12542",
@@ -4154,7 +4196,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 132388
+      "adds": 133832
     },
     {
       "id": "8129",
@@ -4165,7 +4207,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 118456
+      "adds": 119520
     },
     {
       "id": "4454",
@@ -4176,7 +4218,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 97860
+      "adds": 99828
     },
     {
       "id": "3271",
@@ -4187,7 +4229,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 83619
+      "adds": 84663
     },
     {
       "id": "8116",
@@ -4198,7 +4240,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 65448
+      "adds": 66267
     },
     {
       "id": "WAS",
@@ -4209,7 +4251,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40488
+      "adds": 41097
     },
     {
       "id": "11608",
@@ -4220,7 +4262,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 35676
+      "adds": 36006
     },
     {
       "id": "8135",
@@ -4231,7 +4273,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 35098
+      "adds": 35434
     },
     {
       "id": "4993",
@@ -4242,7 +4284,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 32432
+      "adds": 32864
     },
     {
       "id": "7039",
@@ -4253,7 +4295,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 23124
+      "adds": 23412
     },
     {
       "id": "4663",
@@ -4264,7 +4306,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 22412
+      "adds": 22704
     },
     {
       "id": "LV",
@@ -4275,7 +4317,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22368
+      "adds": 22662
     },
     {
       "id": "2078",
@@ -4286,7 +4328,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 19789
+      "adds": 20048
     },
     {
       "id": "13311",
@@ -4297,7 +4339,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15855
+      "adds": 15946
     },
     {
       "id": "NYJ",
@@ -4308,7 +4350,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15692
+      "adds": 15944
     },
     {
       "id": "12535",
@@ -4319,7 +4361,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 15648
+      "adds": 15912
     },
     {
       "id": "650",
@@ -4330,7 +4372,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 14136
+      "adds": 14340
     },
     {
       "id": "3155",
@@ -4341,7 +4383,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 14130
+      "adds": 14305
     },
     {
       "id": "7528",
@@ -4352,7 +4394,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 12050
+      "adds": 12185
     }
   ]
 }
