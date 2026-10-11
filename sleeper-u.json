@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T15:56:30.127Z",
+  "generated_at": "2026-10-11T16:07:00.237Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -233,7 +233,7 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "team": "NO",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 119
@@ -802,7 +802,7 @@
           "name": "Will Shipley",
           "pos": "RB",
           "team": "PHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 686
@@ -1224,7 +1224,7 @@
           "name": "Terry McLaurin",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 55
@@ -1234,7 +1234,7 @@
           "name": "Jordan Addison",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 99
@@ -1937,7 +1937,7 @@
           "name": "Caleb Williams",
           "pos": "QB",
           "team": "CHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 22
@@ -2771,7 +2771,7 @@
           "name": "Alvin Kamara",
           "pos": "RB",
           "team": "NO",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 119
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 500712
+      "adds": 525176
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 206772
+      "adds": 217293
     },
     {
       "id": "12542",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 179868
+      "adds": 186176
     },
     {
       "id": "3271",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 168624
+      "adds": 176841
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 125896
+      "adds": 132304
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 85897
+      "adds": 89222
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 84996
+      "adds": 87930
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 51345
+      "adds": 53165
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 42836
+      "adds": 43976
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 42432
+      "adds": 43962
     },
     {
       "id": "LV",
@@ -4332,7 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35754
+      "adds": 36840
     },
     {
       "id": "4663",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 33252
+      "adds": 34912
     },
     {
       "id": "7039",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 32955
+      "adds": 34383
     },
     {
       "id": "NYJ",
@@ -4365,18 +4365,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30932
+      "adds": 32004
     },
     {
       "id": "2078",
       "name": "Odell Beckham",
       "pos": "WR",
       "team": "MIN",
-      "injury": null,
+      "injury": "Out",
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 29764
+      "adds": 30198
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 26064
+      "adds": 27624
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 24744
+      "adds": 25698
     },
     {
       "id": "13311",
@@ -4409,18 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 22505
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 674,
-      "adds": 20275
+      "adds": 23597
     },
     {
       "id": "7528",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 19575
+      "adds": 20990
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 674,
+      "adds": 20985
     }
   ]
 }
