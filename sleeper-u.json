@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T22:26:45.709Z",
+  "generated_at": "2026-10-11T22:42:08.538Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 137.22,
+      "points": 138.12,
       "starters": [
         {
           "id": "6770",
@@ -371,7 +371,7 @@
         31.5,
         0,
         17.2,
-        1.5,
+        2.4,
         18.7,
         13.72,
         17,
@@ -383,7 +383,7 @@
         "4035": 2.6,
         "4046": 0,
         "4199": 18.7,
-        "4217": 1.5,
+        "4217": 2.4,
         "6770": 24.6,
         "8150": 0,
         "9493": 0,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 452400
+      "adds": 436096
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 260532
+      "adds": 259713
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 247761
+      "adds": 244677
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 168172
+      "adds": 161400
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 107728
+      "adds": 103232
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 94213
+      "adds": 92596
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 77301
+      "adds": 74052
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 51756
+      "adds": 51846
     },
     {
       "id": "12535",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46944
+      "adds": 46304
     },
     {
       "id": "8135",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 44842
+      "adds": 42910
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 42956
+      "adds": 41600
     },
     {
       "id": "LV",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37206
+      "adds": 36456
     },
     {
       "id": "11608",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 35508
+      "adds": 34146
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33838
+      "adds": 33274
     },
     {
       "id": "4663",
@@ -4376,18 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 32944
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 336,
-      "adds": 30255
+      "adds": 31980
     },
     {
       "id": "11647",
@@ -4398,18 +4387,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 27035
+      "adds": 29275
     },
     {
-      "id": "2078",
-      "name": "Odell Beckham",
+      "id": "7039",
+      "name": "Cody White",
       "pos": "WR",
-      "team": "MIN",
-      "injury": "Out",
+      "team": "LV",
+      "injury": null,
       "status": "Active",
-      "depth": 5,
-      "rank": 443,
-      "adds": 23142
+      "depth": 2,
+      "rank": 336,
+      "adds": 29052
     },
     {
       "id": "13311",
@@ -4420,7 +4409,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 22526
+      "adds": 21651
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": "Out",
+      "status": "Active",
+      "depth": 5,
+      "rank": 443,
+      "adds": 21553
     },
     {
       "id": "7528",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 21085
+      "adds": 20595
     }
   ]
 }
