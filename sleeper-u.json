@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T13:55:26.412Z",
+  "generated_at": "2026-10-11T14:05:40.019Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 444128
+      "adds": 450640
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 162615
+      "adds": 165738
     },
     {
       "id": "12542",
@@ -4244,18 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 160468
-    },
-    {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 666,
-      "adds": 126536
+      "adds": 162352
     },
     {
       "id": "3271",
@@ -4266,7 +4255,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 125901
+      "adds": 129024
+    },
+    {
+      "id": "8129",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 666,
+      "adds": 126688
     },
     {
       "id": "8116",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 77607
+      "adds": 78210
     },
     {
       "id": "WAS",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67753
+      "adds": 69650
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 45745
+      "adds": 46291
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 39412
+      "adds": 39964
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 38826
+      "adds": 39234
     },
     {
       "id": "LV",
@@ -4332,7 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30258
+      "adds": 30828
     },
     {
       "id": "7039",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 28722
+      "adds": 29052
     },
     {
       "id": "4663",
@@ -4354,18 +4354,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 28308
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 6,
-      "rank": 443,
-      "adds": 25193
+      "adds": 28804
     },
     {
       "id": "NYJ",
@@ -4376,7 +4365,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25186
+      "adds": 25846
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 6,
+      "rank": 443,
+      "adds": 25375
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 20720
+      "adds": 21000
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 20316
+      "adds": 20790
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 18837
+      "adds": 19019
     },
     {
       "id": "3155",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 17935
+      "adds": 18130
     },
     {
       "id": "7528",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 15445
+      "adds": 15730
     }
   ]
 }
