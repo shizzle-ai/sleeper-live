@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T23:20:38.856Z",
+  "generated_at": "2026-10-11T23:35:17.975Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 438472
+      "adds": 423792
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 269172
+      "adds": 270243
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 247542
+      "adds": 245193
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 163624
+      "adds": 158212
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 105240
+      "adds": 102272
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 92785
+      "adds": 91210
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 74313
+      "adds": 71604
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 54324
+      "adds": 55224
     },
     {
       "id": "12535",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46520
+      "adds": 46064
     },
     {
       "id": "8135",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 43071
+      "adds": 41559
     },
     {
       "id": "4993",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 42092
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 36798
+      "adds": 40916
     },
     {
       "id": "11647",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 35015
+      "adds": 36760
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 35880
     },
     {
       "id": "11608",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 34296
+      "adds": 33030
     },
     {
       "id": "NYJ",
@@ -4376,7 +4376,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33504
+      "adds": 32912
     },
     {
       "id": "4663",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 32100
+      "adds": 31192
     },
     {
       "id": "7039",
@@ -4398,29 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 29184
-    },
-    {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 198,
-      "adds": 21693
-    },
-    {
-      "id": "2078",
-      "name": "Odell Beckham",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 5,
-      "rank": 443,
-      "adds": 21588
+      "adds": 28179
     },
     {
       "id": "2747",
@@ -4431,7 +4409,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 21245
+      "adds": 22700
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 451,
+      "adds": 21340
+    },
+    {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 198,
+      "adds": 21021
     }
   ]
 }
