@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T15:29:57.334Z",
+  "generated_at": "2026-10-11T15:44:55.002Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 489304
+      "adds": 476536
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 195435
+      "adds": 194247
     },
     {
       "id": "12542",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 175384
+      "adds": 172820
     },
     {
       "id": "3271",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 155745
+      "adds": 158004
     },
     {
       "id": "8129",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 129408
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 82647
+      "adds": 123696
     },
     {
       "id": "WAS",
@@ -4288,7 +4277,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81123
+      "adds": 81809
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 81720
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 50092
+      "adds": 49420
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 42692
+      "adds": 41612
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 42072
+      "adds": 40680
     },
     {
       "id": "LV",
@@ -4332,18 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34470
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 31776
+      "adds": 34236
     },
     {
       "id": "7039",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 31734
+      "adds": 31521
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 31508
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29454
+      "adds": 29598
     },
     {
       "id": "2078",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 28182
+      "adds": 28595
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 23768
+      "adds": 24008
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 23520
+      "adds": 23460
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 21238
+      "adds": 20986
     },
     {
       "id": "3155",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 19725
+      "adds": 19500
     },
     {
       "id": "7528",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 18235
+      "adds": 18160
     }
   ]
 }
