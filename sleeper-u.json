@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T19:29:18.208Z",
+  "generated_at": "2026-10-11T19:43:21.947Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 129.24,
+      "points": 133,
       "starters": [
         {
           "id": "6770",
@@ -372,24 +372,24 @@
         0,
         17.2,
         0,
-        16.7,
-        10.36,
+        17.1,
+        13.72,
         17,
         12
       ],
       "players_points": {
-        "1166": 10.36,
+        "1166": 13.72,
         "3451": 17,
         "4035": 2.6,
         "4046": 0,
-        "4199": 16.7,
+        "4199": 17.1,
         "4217": 0,
         "6770": 24.48,
         "8150": 0,
         "9493": 0,
         "10236": 0,
         "11584": 31.5,
-        "11610": 6.9,
+        "11610": 10.6,
         "11625": 0,
         "11637": 0,
         "12514": 17.2,
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 44.14,
+      "points": 57.16,
       "starters": [
         {
           "id": "8161",
@@ -505,8 +505,8 @@
         }
       ],
       "starters_points": [
-        3.2,
-        12.5,
+        14.42,
+        13.3,
         1.1,
         5.3,
         0,
@@ -514,7 +514,7 @@
         3.4,
         14.64,
         4,
-        0
+        1
       ],
       "players_points": {
         "3294": 14.64,
@@ -527,14 +527,14 @@
         "7021": 0,
         "7083": 0,
         "7839": 4,
-        "8161": 3.2,
+        "8161": 14.42,
         "9226": 0,
         "11628": 0,
-        "12495": 12.5,
+        "12495": 13.3,
         "12506": 0,
         "12509": 0,
         "12526": 0,
-        "PIT": 0
+        "PIT": 1
       }
     }
   },
@@ -1236,7 +1236,7 @@
           "team": "MIN",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 99
         }
       ],
@@ -1788,7 +1788,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 164
         },
         {
@@ -1939,7 +1939,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 22
         },
         {
@@ -2381,7 +2381,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 5,
           "rank": 65
         },
         {
@@ -2450,7 +2450,7 @@
           "team": "LAC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 36
         },
         {
@@ -3529,7 +3529,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 110
       },
       {
@@ -3569,7 +3569,7 @@
         "team": "MIA",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 7,
         "rank": 157
       },
       {
@@ -3599,7 +3599,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 6,
         "rank": 167
       },
       {
@@ -3719,7 +3719,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": 6,
+        "depth": 4,
         "rank": 270
       }
     ],
@@ -3761,7 +3761,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 123
       },
       {
@@ -3881,7 +3881,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 519224
+      "adds": 501840
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 245781
+      "adds": 243693
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 233370
+      "adds": 234576
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 193392
+      "adds": 189372
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 123288
+      "adds": 119264
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99344
+      "adds": 97734
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 92385
+      "adds": 90477
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 52038
+      "adds": 50568
     },
     {
       "id": "4993",
@@ -4310,29 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 46184
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 42684
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 42174
+      "adds": 44928
     },
     {
       "id": "12535",
@@ -4343,7 +4321,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 41896
+      "adds": 42712
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 42696
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 41442
     },
     {
       "id": "LV",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39504
+      "adds": 38514
     },
     {
       "id": "4663",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 37084
+      "adds": 36108
     },
     {
       "id": "7039",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 35244
+      "adds": 34323
     },
     {
       "id": "NYJ",
@@ -4387,7 +4387,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34932
+      "adds": 34316
     },
     {
       "id": "2078",
@@ -4396,9 +4396,9 @@
       "team": "MIN",
       "injury": "Out",
       "status": "Active",
-      "depth": 6,
+      "depth": 5,
       "rank": 443,
-      "adds": 31542
+      "adds": 27881
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 25396
+      "adds": 24633
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 22850
+      "adds": 22505
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 21365
+      "adds": 20780
     }
   ]
 }
