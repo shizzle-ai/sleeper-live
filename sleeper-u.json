@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T18:27:55.276Z",
+  "generated_at": "2026-10-11T18:46:44.095Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 97.74,
+      "points": 101.86,
       "starters": [
         {
           "id": "6770",
@@ -366,13 +366,13 @@
         }
       ],
       "starters_points": [
-        13.32,
+        17.64,
         0,
         31.5,
         0,
         17.2,
         0,
-        3.8,
+        3.6,
         8.92,
         15,
         8
@@ -382,14 +382,14 @@
         "3451": 15,
         "4035": 2.4,
         "4046": 0,
-        "4199": 3.8,
+        "4199": 3.6,
         "4217": 0,
-        "6770": 13.32,
+        "6770": 17.64,
         "8150": 0,
         "9493": 0,
         "10236": 0,
         "11584": 31.5,
-        "11610": 1.8,
+        "11610": 5.9,
         "11625": 0,
         "11637": 0,
         "12514": 17.2,
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 36.52,
+      "points": 40.34,
       "starters": [
         {
           "id": "8161",
@@ -505,7 +505,7 @@
         }
       ],
       "starters_points": [
-        -1.12,
+        1.7,
         9.3,
         1.1,
         5.3,
@@ -513,7 +513,7 @@
         0,
         1.3,
         14.64,
-        2,
+        3,
         4
       ],
       "players_points": {
@@ -526,8 +526,8 @@
         "5892": 1.1,
         "7021": 0,
         "7083": 0,
-        "7839": 2,
-        "8161": -1.12,
+        "7839": 3,
+        "8161": 1.7,
         "9226": 0,
         "11628": 0,
         "12495": 9.3,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 535504
+      "adds": 516888
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 238668
+      "adds": 235944
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 218700
+      "adds": 219150
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 193588
+      "adds": 190256
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 127128
+      "adds": 121488
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 100926
+      "adds": 99057
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 93591
+      "adds": 91809
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 53375
+      "adds": 51919
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 46704
+      "adds": 45428
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 43902
+      "adds": 42558
     },
     {
       "id": "LV",
@@ -4332,7 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40158
+      "adds": 39186
     },
     {
       "id": "650",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 38100
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 37900
+      "adds": 38706
     },
     {
       "id": "12535",
@@ -4365,7 +4354,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 36920
+      "adds": 37752
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 36932
     },
     {
       "id": "7039",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 35994
+      "adds": 35130
     },
     {
       "id": "NYJ",
@@ -4387,7 +4387,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35514
+      "adds": 34762
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 31416
+      "adds": 31360
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 26040
+      "adds": 25305
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 23010
+      "adds": 22630
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 21890
+      "adds": 21255
     }
   ]
 }
