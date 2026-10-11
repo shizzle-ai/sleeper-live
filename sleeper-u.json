@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T22:10:40.959Z",
+  "generated_at": "2026-10-11T22:26:45.709Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -448,7 +448,7 @@
           "name": "Tre' Harris",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 179
@@ -2257,7 +2257,7 @@
           "name": "Tre' Harris",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 179
@@ -3298,7 +3298,7 @@
             "name": "Tre' Harris",
             "pos": "WR",
             "team": "LAC",
-            "injury": null,
+            "injury": "Questionable",
             "status": "Active",
             "depth": 1,
             "rank": 179
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 451544
+      "adds": 452400
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 256968
+      "adds": 260532
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 246513
+      "adds": 247761
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 167300
+      "adds": 168172
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 107008
+      "adds": 107728
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 94164
+      "adds": 94213
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 77157
+      "adds": 77301
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 50952
+      "adds": 51756
     },
     {
       "id": "12535",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46880
+      "adds": 46944
     },
     {
       "id": "8135",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 44793
+      "adds": 44842
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 42796
+      "adds": 42956
     },
     {
       "id": "LV",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37092
+      "adds": 37206
     },
     {
       "id": "11608",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 35490
+      "adds": 35508
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33730
+      "adds": 33838
     },
     {
       "id": "4663",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 32916
+      "adds": 32944
     },
     {
       "id": "7039",
@@ -4387,7 +4387,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 30186
+      "adds": 30255
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 27035
     },
     {
       "id": "2078",
@@ -4398,7 +4409,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 23107
+      "adds": 23142
     },
     {
       "id": "13311",
@@ -4409,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 22505
+      "adds": 22526
     },
     {
       "id": "7528",
@@ -4420,18 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 21060
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 451,
-      "adds": 19092
+      "adds": 21085
     }
   ]
 }
