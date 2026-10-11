@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T15:44:55.002Z",
+  "generated_at": "2026-10-11T15:56:30.127Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -464,14 +464,14 @@
           "rank": 63
         },
         {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": "Questionable",
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 65
+          "depth": 3,
+          "rank": 645
         },
         {
           "id": "3294",
@@ -1152,7 +1152,7 @@
           "name": "Rhamondre Stevenson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 58
@@ -1947,7 +1947,7 @@
           "name": "Keenan Allen",
           "pos": "WR",
           "team": "IND",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 182
@@ -2273,6 +2273,16 @@
           "rank": 38
         },
         {
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 645
+        },
+        {
           "id": "5846",
           "name": "DK Metcalf",
           "pos": "WR",
@@ -2291,16 +2301,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 42
-        },
-        {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 65
         },
         {
           "id": "7839",
@@ -2355,16 +2355,6 @@
           "rank": 37
         },
         {
-          "id": "3634",
-          "name": "Kalif Raymond",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 645
-        },
-        {
           "id": "4881",
           "name": "Lamar Jackson",
           "pos": "QB",
@@ -2383,6 +2373,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 96
+        },
+        {
+          "id": "7021",
+          "name": "Rico Dowdle",
+          "pos": "RB",
+          "team": "PIT",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 65
         },
         {
           "id": "7083",
@@ -2869,7 +2869,7 @@
           "name": "Justin Jefferson",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 12
@@ -3495,7 +3495,7 @@
         "name": "Drew Allar",
         "pos": "QB",
         "team": "PIT",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 359
@@ -3567,7 +3567,7 @@
         "name": "Kaytron Allen",
         "pos": "RB",
         "team": "MIA",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 157
@@ -3597,7 +3597,7 @@
         "name": "Nicholas Singleton",
         "pos": "RB",
         "team": "TEN",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 167
@@ -3627,7 +3627,7 @@
         "name": "Jaylen Wright",
         "pos": "RB",
         "team": "MIA",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 174
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 476536
+      "adds": 500712
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 194247
+      "adds": 206772
     },
     {
       "id": "12542",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 172820
+      "adds": 179868
     },
     {
       "id": "3271",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 158004
+      "adds": 168624
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 123696
+      "adds": 125896
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81809
+      "adds": 85897
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 81720
+      "adds": 84996
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 49420
+      "adds": 51345
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 41612
+      "adds": 42836
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 40680
+      "adds": 42432
     },
     {
       "id": "LV",
@@ -4332,18 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34236
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 336,
-      "adds": 31521
+      "adds": 35754
     },
     {
       "id": "4663",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 31508
+      "adds": 33252
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 336,
+      "adds": 32955
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29598
+      "adds": 30932
     },
     {
       "id": "2078",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 28595
+      "adds": 29764
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 24008
+      "adds": 26064
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 23460
+      "adds": 24744
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 20986
+      "adds": 22505
     },
     {
       "id": "3155",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 19500
+      "adds": 20275
     },
     {
       "id": "7528",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 18160
+      "adds": 19575
     }
   ]
 }
