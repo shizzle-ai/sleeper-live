@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T23:04:51.268Z",
+  "generated_at": "2026-10-11T23:20:38.856Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 141.92,
+      "points": 143.12,
       "starters": [
         {
           "id": "6770",
@@ -371,7 +371,7 @@
         31.5,
         0,
         17.2,
-        6.2,
+        7.4,
         18.7,
         13.72,
         17,
@@ -383,7 +383,7 @@
         "4035": 2.6,
         "4046": 0,
         "4199": 18.7,
-        "4217": 6.2,
+        "4217": 7.4,
         "6770": 24.6,
         "8150": 0,
         "9493": 0,
@@ -1585,7 +1585,7 @@
           "name": "Deebo Samuel",
           "pos": "WR",
           "team": "SF",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 131
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 437272
+      "adds": 438472
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 265068
+      "adds": 269172
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 246186
+      "adds": 247542
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 162676
+      "adds": 163624
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 104408
+      "adds": 105240
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 92708
+      "adds": 92785
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 74187
+      "adds": 74313
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 53256
+      "adds": 54324
     },
     {
       "id": "12535",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46424
+      "adds": 46520
     },
     {
       "id": "8135",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 42994
+      "adds": 43071
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 41872
+      "adds": 42092
     },
     {
       "id": "LV",
@@ -4343,29 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36672
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 34248
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 33402
+      "adds": 36798
     },
     {
       "id": "11647",
@@ -4376,7 +4354,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 32775
+      "adds": 35015
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 34296
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 33504
     },
     {
       "id": "4663",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 32060
+      "adds": 32100
     },
     {
       "id": "7039",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 29127
+      "adds": 29184
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 21679
+      "adds": 21693
     },
     {
       "id": "2078",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 21574
+      "adds": 21588
     },
     {
       "id": "2747",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 20730
+      "adds": 21245
     }
   ]
 }
