@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T20:18:40.475Z",
+  "generated_at": "2026-10-11T20:34:58.766Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 504056
+      "adds": 469920
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 250884
+      "adds": 245271
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 245853
+      "adds": 242694
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 192108
+      "adds": 174376
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 121168
+      "adds": 110248
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97895
+      "adds": 95802
     },
     {
       "id": "8116",
@@ -4288,18 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 90783
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 50666
+      "adds": 82719
     },
     {
       "id": "12535",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 47360
+      "adds": 46912
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 46858
     },
     {
       "id": "650",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 46128
+      "adds": 46392
     },
     {
       "id": "4993",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 45548
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 41544
+      "adds": 43576
     },
     {
       "id": "LV",
@@ -4354,7 +4343,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38832
+      "adds": 37602
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 37488
     },
     {
       "id": "4663",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36172
+      "adds": 34248
     },
     {
       "id": "NYJ",
@@ -4376,7 +4376,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34696
+      "adds": 33846
     },
     {
       "id": "7039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 34404
+      "adds": 31731
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 27937
+      "adds": 24990
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 24682
+      "adds": 23296
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 22530
+      "adds": 21565
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 20845
+      "adds": 19405
     }
   ]
 }
