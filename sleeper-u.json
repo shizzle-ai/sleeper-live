@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T19:43:21.947Z",
+  "generated_at": "2026-10-11T19:54:23.960Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 133,
+      "points": 138.92,
       "starters": [
         {
           "id": "6770",
@@ -366,25 +366,25 @@
         }
       ],
       "starters_points": [
-        24.48,
+        24.8,
         0,
         31.5,
         0,
         17.2,
         0,
-        17.1,
+        18.7,
         13.72,
         17,
-        12
+        16
       ],
       "players_points": {
         "1166": 13.72,
         "3451": 17,
         "4035": 2.6,
         "4046": 0,
-        "4199": 17.1,
+        "4199": 18.7,
         "4217": 0,
-        "6770": 24.48,
+        "6770": 24.8,
         "8150": 0,
         "9493": 0,
         "10236": 0,
@@ -393,7 +393,7 @@
         "11625": 0,
         "11637": 0,
         "12514": 17.2,
-        "CLE": 12
+        "CLE": 16
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "Achane in the Membrane",
       "is_me": false,
       "matchup_id": 6,
-      "points": 57.16,
+      "points": 57.12,
       "starters": [
         {
           "id": "8161",
@@ -418,7 +418,7 @@
           "name": "Ollie Gordon",
           "pos": "RB",
           "team": "MIA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 460
@@ -505,7 +505,7 @@
         }
       ],
       "starters_points": [
-        14.42,
+        14.38,
         13.3,
         1.1,
         5.3,
@@ -527,7 +527,7 @@
         "7021": 0,
         "7083": 0,
         "7839": 4,
-        "8161": 14.42,
+        "8161": 14.38,
         "9226": 0,
         "11628": 0,
         "12495": 13.3,
@@ -2237,7 +2237,7 @@
           "name": "Ollie Gordon",
           "pos": "RB",
           "team": "MIA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 460
@@ -2931,7 +2931,7 @@
           "name": "Kenyon Sadiq",
           "pos": "TE",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 109
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 501840
+      "adds": 502616
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 243693
+      "adds": 245775
     },
     {
       "id": "3271",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 234576
+      "adds": 238122
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 189372
+      "adds": 190472
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 119264
+      "adds": 119832
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97734
+      "adds": 97811
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 90477
+      "adds": 90639
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 50568
+      "adds": 50596
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 44928
+      "adds": 45188
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 42712
+      "adds": 44368
     },
     {
       "id": "650",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 42696
+      "adds": 43590
     },
     {
       "id": "11608",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 41442
+      "adds": 41484
     },
     {
       "id": "LV",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38514
+      "adds": 38628
     },
     {
       "id": "4663",
@@ -4365,18 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 36108
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 336,
-      "adds": 34323
+      "adds": 36140
     },
     {
       "id": "NYJ",
@@ -4387,7 +4376,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34316
+      "adds": 34388
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "team": "LV",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 336,
+      "adds": 34356
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 27881
+      "adds": 27902
     },
     {
       "id": "13311",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 22505
+      "adds": 22515
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 20780
+      "adds": 20800
     }
   ]
 }
