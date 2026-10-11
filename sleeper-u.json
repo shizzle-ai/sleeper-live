@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T16:07:00.237Z",
+  "generated_at": "2026-10-11T16:23:36.672Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3501,16 +3501,6 @@
         "rank": 359
       },
       {
-        "id": "13816",
-        "name": "Mark Gronowski",
-        "pos": "QB",
-        "team": "HOU",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
-        "rank": 395
-      },
-      {
         "id": "13303",
         "name": "Cade Klubnik",
         "pos": "QB",
@@ -3519,6 +3509,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 396
+      },
+      {
+        "id": "7527",
+        "name": "Mac Jones",
+        "pos": "QB",
+        "team": "SF",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 405
       }
     ],
     "RB": [
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 525176
+      "adds": 544744
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 217293
+      "adds": 226740
     },
     {
       "id": "12542",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 186176
+      "adds": 191736
     },
     {
       "id": "3271",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 176841
+      "adds": 186300
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 132304
+      "adds": 134992
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 89222
+      "adds": 93429
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 87930
+      "adds": 90693
     },
     {
       "id": "8135",
@@ -4299,18 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 53165
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 43976
+      "adds": 54474
     },
     {
       "id": "11608",
@@ -4321,7 +4310,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 43962
+      "adds": 45378
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 45260
     },
     {
       "id": "LV",
@@ -4332,7 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36840
+      "adds": 38286
     },
     {
       "id": "4663",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 34912
+      "adds": 36372
     },
     {
       "id": "7039",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 34383
+      "adds": 35634
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32004
+      "adds": 33534
     },
     {
       "id": "2078",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 30198
+      "adds": 30632
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 27624
+      "adds": 29048
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 25698
+      "adds": 27462
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 23597
+      "adds": 24899
     },
     {
       "id": "7528",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 20990
+      "adds": 22115
     },
     {
       "id": "3155",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 20985
+      "adds": 21560
     }
   ]
 }
