@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T02:37:34.288Z",
+  "generated_at": "2026-10-11T02:52:13.111Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 379832
+      "adds": 383520
     },
     {
       "id": "12542",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 126556
+      "adds": 128040
     },
     {
       "id": "8129",
@@ -4165,18 +4165,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 119104
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 78300
+      "adds": 120168
     },
     {
       "id": "4454",
@@ -4187,7 +4176,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 77475
+      "adds": 79608
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 79506
     },
     {
       "id": "8116",
@@ -4198,18 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 61938
-    },
-    {
-      "id": "11608",
-      "name": "Isaiah Williams",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 650,
-      "adds": 36036
+      "adds": 62793
     },
     {
       "id": "WAS",
@@ -4220,7 +4209,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35812
+      "adds": 36470
+    },
+    {
+      "id": "11608",
+      "name": "Isaiah Williams",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 650,
+      "adds": 36354
     },
     {
       "id": "8135",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 32137
+      "adds": 32599
     },
     {
       "id": "4993",
@@ -4242,7 +4242,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 31060
+      "adds": 31500
     },
     {
       "id": "7039",
@@ -4253,7 +4253,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 22104
+      "adds": 22371
     },
     {
       "id": "4663",
@@ -4264,7 +4264,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 21144
+      "adds": 21428
     },
     {
       "id": "LV",
@@ -4275,7 +4275,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20970
+      "adds": 21294
     },
     {
       "id": "2078",
@@ -4286,7 +4286,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 17332
+      "adds": 17696
     },
     {
       "id": "13311",
@@ -4297,7 +4297,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 15638
+      "adds": 15876
     },
     {
       "id": "NYJ",
@@ -4308,7 +4308,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 14378
+      "adds": 14596
     },
     {
       "id": "12535",
@@ -4319,7 +4319,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 14120
+      "adds": 14368
     },
     {
       "id": "650",
@@ -4330,7 +4330,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 13494
+      "adds": 13722
     },
     {
       "id": "3155",
@@ -4341,7 +4341,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 12880
+      "adds": 13025
     },
     {
       "id": "7528",
@@ -4352,7 +4352,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 11655
+      "adds": 11820
     }
   ]
 }
