@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T15:00:07.695Z",
+  "generated_at": "2026-10-11T15:14:06.496Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -802,7 +802,7 @@
           "name": "Will Shipley",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 686
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 470688
+      "adds": 478576
     },
     {
       "id": "4454",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 185358
+      "adds": 189453
     },
     {
       "id": "12542",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 169836
+      "adds": 172252
     },
     {
       "id": "3271",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 145674
+      "adds": 149895
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 126728
+      "adds": 128176
     },
     {
       "id": "8116",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 80379
+      "adds": 81378
     },
     {
       "id": "WAS",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76748
+      "adds": 78610
     },
     {
       "id": "8135",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 48356
+      "adds": 49063
     },
     {
       "id": "4993",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 41348
+      "adds": 41888
     },
     {
       "id": "11608",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 40812
+      "adds": 41262
     },
     {
       "id": "LV",
@@ -4332,7 +4332,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32988
+      "adds": 33654
     },
     {
       "id": "4663",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 30524
+      "adds": 31048
     },
     {
       "id": "7039",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 30501
+      "adds": 31032
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28006
+      "adds": 28662
     },
     {
       "id": "2078",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 27405
+      "adds": 27727
     },
     {
       "id": "12535",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 22576
+      "adds": 23016
     },
     {
       "id": "650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 22416
+      "adds": 22926
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 20328
+      "adds": 20685
     },
     {
       "id": "3155",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 19020
+      "adds": 19305
     },
     {
       "id": "7528",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 17310
+      "adds": 17710
     }
   ]
 }
