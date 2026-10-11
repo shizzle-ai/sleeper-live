@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T04:20:55.244Z",
+  "generated_at": "2026-10-11T04:38:04.314Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 389136
+      "adds": 378672
     },
     {
       "id": "12542",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 132584
+      "adds": 130332
     },
     {
       "id": "8129",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 120752
+      "adds": 116744
     },
     {
       "id": "4454",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 92706
+      "adds": 94797
     },
     {
       "id": "3271",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 83268
+      "adds": 82035
     },
     {
       "id": "8116",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 65565
+      "adds": 64323
     },
     {
       "id": "WAS",
@@ -4209,7 +4209,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39648
+      "adds": 39270
     },
     {
       "id": "11608",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 36264
+      "adds": 35172
     },
     {
       "id": "8135",
@@ -4231,7 +4231,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 34692
+      "adds": 34482
     },
     {
       "id": "4993",
@@ -4242,7 +4242,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 32596
+      "adds": 31868
     },
     {
       "id": "7039",
@@ -4253,18 +4253,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 23226
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 22336
+      "adds": 22737
     },
     {
       "id": "LV",
@@ -4275,7 +4264,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22332
+      "adds": 21930
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 21920
     },
     {
       "id": "2078",
@@ -4286,7 +4286,7 @@
       "status": "Active",
       "depth": 6,
       "rank": 443,
-      "adds": 19264
+      "adds": 19411
     },
     {
       "id": "13311",
@@ -4297,18 +4297,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 16107
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 15536
+      "adds": 15645
     },
     {
       "id": "NYJ",
@@ -4319,18 +4308,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15512
+      "adds": 15344
     },
     {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 14196
+      "depth": 3,
+      "rank": 184,
+      "adds": 15320
     },
     {
       "id": "3155",
@@ -4341,7 +4330,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 13940
+      "adds": 13860
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 13806
     },
     {
       "id": "7528",
@@ -4352,7 +4352,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 12130
+      "adds": 11825
     }
   ]
 }
