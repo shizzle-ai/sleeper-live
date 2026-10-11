@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T21:14:53.247Z",
+  "generated_at": "2026-10-11T21:30:46.677Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -911,7 +911,7 @@
           "name": "Quinshon Judkins",
           "pos": "RB",
           "team": "CLE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 45
@@ -2338,7 +2338,7 @@
           "id": "11628",
           "name": "Marvin Harrison",
           "pos": "WR",
-          "team": "ARI",
+          "team": "HOU",
           "injury": "Out",
           "status": "Active",
           "depth": 7,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 471864
+      "adds": 449480
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 250812
+      "adds": 248985
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 248691
+      "adds": 243735
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 176140
+      "adds": 165384
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 112184
+      "adds": 105096
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95921
+      "adds": 94010
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 82899
+      "adds": 76959
     },
     {
       "id": "650",
@@ -4299,18 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 48774
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 47299
+      "adds": 48942
     },
     {
       "id": "12535",
@@ -4321,7 +4310,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 47216
+      "adds": 46584
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 44674
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 43984
+      "adds": 42340
     },
     {
       "id": "LV",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37812
+      "adds": 36786
     },
     {
       "id": "11608",
@@ -4354,18 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 37560
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 34296
+      "adds": 35364
     },
     {
       "id": "NYJ",
@@ -4376,7 +4365,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34092
+      "adds": 33454
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 32856
     },
     {
       "id": "7039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 31833
+      "adds": 30075
     },
     {
       "id": "2078",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 5,
       "rank": 443,
-      "adds": 25018
+      "adds": 23065
     },
     {
       "id": "13311",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 198,
-      "adds": 23310
+      "adds": 22491
     },
     {
       "id": "7528",
@@ -4420,18 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 21680
+      "adds": 21000
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 674,
-      "adds": 19435
+      "depth": 1,
+      "rank": 124,
+      "adds": 18380
     }
   ]
 }
