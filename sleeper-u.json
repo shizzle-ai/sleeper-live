@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T09:47:11.569Z",
+  "generated_at": "2026-10-12T10:03:34.469Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 316568
+      "adds": 316680
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 297765
+      "adds": 298116
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 213294
+      "adds": 213483
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 126496
+      "adds": 126716
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 87856
+      "adds": 88232
     },
     {
       "id": "11647",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 73720
+      "adds": 74215
     },
     {
       "id": "WAS",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70070
+      "adds": 70084
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60366
+      "adds": 60516
     },
     {
       "id": "8116",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 32832
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 31464
+      "adds": 32996
     },
     {
       "id": "IND",
@@ -4354,18 +4343,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31443
+      "adds": 31623
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 30357
+      "depth": 1,
+      "rank": 448,
+      "adds": 31496
     },
     {
       "id": "2747",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30345
+      "adds": 30465
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 30402
     },
     {
       "id": "6650",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 28656
+      "adds": 28680
     },
     {
       "id": "LV",
@@ -4398,7 +4398,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27894
+      "adds": 27900
     },
     {
       "id": "8135",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 27741
+      "adds": 27748
     },
     {
       "id": "NYJ",
@@ -4420,7 +4420,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27382
+      "adds": 27408
     },
     {
       "id": "4663",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 22632
+      "adds": 22636
     }
   ]
 }
