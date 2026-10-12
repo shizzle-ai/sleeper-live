@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T22:42:47.571Z",
+  "generated_at": "2026-10-12T22:57:16.602Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 203688
+      "adds": 207992
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 143136
+      "adds": 165726
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 124000
+      "adds": 125695
     },
     {
       "id": "4454",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 69693
+      "adds": 70950
     },
     {
       "id": "4147",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 52868
+      "adds": 53660
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 47416
+      "adds": 48064
     },
     {
       "id": "IND",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44784
+      "adds": 45195
     },
     {
       "id": "650",
@@ -4299,128 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 34686
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 33752
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 33216
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 30990
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 25824
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 24928
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 23895
-    },
-    {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 21500
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 18564
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 12456
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 11286
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 11242
+      "adds": 35052
     },
     {
       "id": "12718",
@@ -4431,7 +4310,128 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 10719
+      "adds": 34605
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 34256
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 33376
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 31270
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 25928
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 25408
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 25038
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 24057
+    },
+    {
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 22022
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 12870
+    },
+    {
+      "id": "13402",
+      "name": "Skyler Bell",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 388,
+      "adds": 12690
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 11460
     }
   ]
 }
