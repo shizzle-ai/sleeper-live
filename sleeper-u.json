@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T05:20:28.657Z",
+  "generated_at": "2026-10-12T05:39:29.380Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -733,7 +733,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 106
+          "rank": 105
         },
         {
           "id": "8137",
@@ -743,7 +743,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 23
+          "rank": 22
         },
         {
           "id": "8146",
@@ -773,7 +773,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 15
+          "rank": 14
         },
         {
           "id": "SF",
@@ -1296,7 +1296,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 132
         },
         {
           "id": "4943",
@@ -1366,7 +1366,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1486,7 +1486,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 27
+          "rank": 28
         },
         {
           "id": "12490",
@@ -1588,7 +1588,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 131
+          "rank": 130
         },
         {
           "id": "7553",
@@ -1598,7 +1598,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 67
+          "rank": 68
         },
         {
           "id": "7594",
@@ -2039,7 +2039,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "12501",
@@ -2059,7 +2059,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 48
         },
         {
           "id": "12527",
@@ -2141,7 +2141,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 30
+          "rank": 29
         },
         {
           "id": "12522",
@@ -2352,7 +2352,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 37
+          "rank": 38
         },
         {
           "id": "4881",
@@ -2441,7 +2441,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 147
+          "rank": 148
         },
         {
           "id": "11635",
@@ -3053,7 +3053,7 @@
             "injury": "IR",
             "status": "Inactive",
             "depth": 6,
-            "rank": 107
+            "rank": 106
           },
           "roster_id": 7,
           "team": "Bijan Mustard"
@@ -3137,7 +3137,7 @@
             "injury": "Out",
             "status": "Active",
             "depth": 9,
-            "rank": 198
+            "rank": 197
           },
           "roster_id": 3,
           "team": "D’s Nuts"
@@ -3713,14 +3713,14 @@
         "rank": 222
       },
       {
-        "id": "11186",
-        "name": "Carlos Washington",
+        "id": "11273",
+        "name": "Ben VanSumeren",
         "pos": "RB",
-        "team": "MIA",
+        "team": "KC",
         "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 270
+        "rank": 228
       }
     ],
     "WR": [
@@ -3732,7 +3732,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 75
+        "rank": 74
       },
       {
         "id": "4037",
@@ -3815,16 +3815,6 @@
         "rank": 175
       },
       {
-        "id": "13413",
-        "name": "Cyrus Allen",
-        "pos": "WR",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 177
-      },
-      {
         "id": "6803",
         "name": "Brandon Aiyuk",
         "pos": "WR",
@@ -3839,6 +3829,16 @@
         "name": "Calvin Ridley",
         "pos": "WR",
         "team": "TEN",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 180
+      },
+      {
+        "id": "13413",
+        "name": "Cyrus Allen",
+        "pos": "WR",
+        "team": "KC",
         "injury": null,
         "status": "Active",
         "depth": 4,
@@ -3915,13 +3915,13 @@
         "rank": 194
       },
       {
-        "id": "12547",
-        "name": "Kyle Williams",
+        "id": "4039",
+        "name": "Cooper Kupp",
         "pos": "WR",
-        "team": "NE",
+        "team": "SEA",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 195
       }
     ],
@@ -4056,7 +4056,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 124
+        "rank": 125
       },
       {
         "id": "12015",
@@ -4126,7 +4126,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 195
+        "rank": 194
       }
     ],
     "DEF": [
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 356464
+      "adds": 344280
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 303993
+      "adds": 301050
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 233679
+      "adds": 226857
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 140464
+      "adds": 135724
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 96704
+      "adds": 93280
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 79191
+      "adds": 76447
     },
     {
       "id": "11647",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 67810
+      "adds": 68255
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60870
+      "adds": 60336
     },
     {
       "id": "8116",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 55926
+      "adds": 53109
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 41752
+      "adds": 40944
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 35996
+      "adds": 34608
     },
     {
       "id": "8135",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 33047
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 31782
+      "adds": 31598
     },
     {
       "id": "4147",
@@ -4365,7 +4354,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 451,
-      "adds": 30780
+      "adds": 30888
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 30774
     },
     {
       "id": "5995",
@@ -4376,7 +4376,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 222,
-      "adds": 30294
+      "adds": 30132
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 29765
     },
     {
       "id": "NYJ",
@@ -4387,18 +4398,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30052
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 124,
-      "adds": 29965
+      "adds": 29230
     },
     {
       "id": "IND",
@@ -4409,7 +4409,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28890
+      "adds": 28992
     },
     {
       "id": "6650",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 26376
+      "adds": 26584
     },
     {
       "id": "11608",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 26352
+      "adds": 25152
     }
   ]
 }
