@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T16:02:14.838Z",
+  "generated_at": "2026-10-12T16:20:55.979Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3481,6 +3481,16 @@
         "rank": 325
       },
       {
+        "id": "13816",
+        "name": "Mark Gronowski",
+        "pos": "QB",
+        "team": "HOU",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 341
+      },
+      {
         "id": "13289",
         "name": "Drew Allar",
         "pos": "QB",
@@ -3509,16 +3519,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 395
-      },
-      {
-        "id": "7527",
-        "name": "Mac Jones",
-        "pos": "QB",
-        "team": "SF",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 401
       }
     ],
     "RB": [
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 250047
+      "adds": 252153
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 165672
+      "adds": 166040
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 148158
+      "adds": 149190
     },
     {
       "id": "8129",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 104528
+      "adds": 111512
     },
     {
       "id": "11647",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 94750
+      "adds": 96715
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 84812
+      "adds": 85532
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 58188
+      "adds": 58776
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 43660
+      "adds": 44864
     },
     {
       "id": "IND",
@@ -4310,40 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39855
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 31152
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 31140
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 31048
+      "adds": 40572
     },
     {
       "id": "2747",
@@ -4354,7 +4321,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31045
+      "adds": 31690
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 31368
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 31338
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 31096
     },
     {
       "id": "WAS",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29785
+      "adds": 29820
     },
     {
       "id": "8116",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 25389
+      "adds": 25578
     },
     {
       "id": "11783",
@@ -4387,29 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20576
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 19242
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 19056
+      "adds": 20992
     },
     {
       "id": "12472",
@@ -4420,7 +4398,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 18872
+      "adds": 19848
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 19584
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 19108
     },
     {
       "id": "LV",
@@ -4431,7 +4431,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15084
+      "adds": 15132
     }
   ]
 }
