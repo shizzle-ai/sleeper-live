@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T17:05:17.918Z",
+  "generated_at": "2026-10-12T17:23:57.411Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 218043
+      "adds": 220041
     },
     {
       "id": "8129",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 115376
+      "adds": 122384
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 109254
+      "adds": 110382
     },
     {
       "id": "11647",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 100055
+      "adds": 102850
     },
     {
       "id": "10235",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 78544
+      "adds": 78896
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 62716
+      "adds": 63580
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 54552
+      "adds": 55110
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 46072
+      "adds": 47384
     },
     {
       "id": "IND",
@@ -4310,7 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40710
+      "adds": 41403
     },
     {
       "id": "6650",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 31576
+      "adds": 31880
     },
     {
       "id": "5995",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30915
+      "adds": 31113
     },
     {
       "id": "2747",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30135
+      "adds": 30630
     },
     {
       "id": "12535",
@@ -4354,18 +4354,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 24640
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 21120
+      "adds": 24672
     },
     {
       "id": "12472",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 20920
+      "adds": 22200
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 21608
     },
     {
       "id": "6039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 18198
+      "adds": 18402
     },
     {
       "id": "13274",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 14650
+      "adds": 15095
     },
     {
       "id": "4993",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 14256
+      "adds": 14320
     },
     {
       "id": "2505",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 14139
+      "adds": 14301
     },
     {
       "id": "8116",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 14040
+      "adds": 14247
     }
   ]
 }
