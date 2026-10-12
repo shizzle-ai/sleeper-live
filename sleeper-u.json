@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T23:42:42.150Z",
+  "generated_at": "2026-10-12T23:56:13.650Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 220488
+      "adds": 225048
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 182736
+      "adds": 186444
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 122080
+      "adds": 123570
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 78471
+      "adds": 82431
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 69672
+      "adds": 70632
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 54200
+      "adds": 54748
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 46596
+      "adds": 47200
     },
     {
       "id": "IND",
@@ -4299,7 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44193
+      "adds": 44550
     },
     {
       "id": "12472",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 35376
+      "adds": 35952
     },
     {
       "id": "6039",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 33864
+      "adds": 34944
     },
     {
       "id": "650",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 32130
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 29944
+      "adds": 32388
     },
     {
       "id": "13402",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 28770
+      "adds": 31020
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 30112
     },
     {
       "id": "2747",
@@ -4365,29 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 28290
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 25176
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 23896
+      "adds": 28540
     },
     {
       "id": "5970",
@@ -4398,7 +4376,29 @@
       "status": "Active",
       "depth": 5,
       "rank": 585,
-      "adds": 23574
+      "adds": 26508
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 25584
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 24064
     },
     {
       "id": "13274",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 23060
+      "adds": 23556
     },
     {
       "id": "5995",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 21150
+      "adds": 21249
     },
     {
       "id": "11623",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 648,
-      "adds": 12924
+      "adds": 13113
     }
   ]
 }
