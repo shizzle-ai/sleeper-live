@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T16:20:55.979Z",
+  "generated_at": "2026-10-12T16:39:04.150Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,18 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 252153
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 166040
+      "adds": 215577
     },
     {
       "id": "4454",
@@ -4244,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 149190
+      "adds": 107658
     },
     {
       "id": "8129",
@@ -4255,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 111512
+      "adds": 104880
     },
     {
       "id": "11647",
@@ -4266,7 +4255,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 96715
+      "adds": 96340
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 77992
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 85532
+      "adds": 61572
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 58776
+      "adds": 53730
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 44864
+      "adds": 44116
     },
     {
       "id": "IND",
@@ -4310,18 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 40572
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 31690
+      "adds": 39561
     },
     {
       "id": "6650",
@@ -4332,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 31368
+      "adds": 31224
     },
     {
       "id": "5995",
@@ -4343,7 +4332,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31338
+      "adds": 30573
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 29510
     },
     {
       "id": "12535",
@@ -4354,29 +4354,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 31096
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 29820
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 25578
+      "adds": 24528
     },
     {
       "id": "11783",
@@ -4387,7 +4365,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20992
+      "adds": 20432
     },
     {
       "id": "12472",
@@ -4398,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 19848
+      "adds": 18984
     },
     {
       "id": "6039",
@@ -4409,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 19584
+      "adds": 17808
     },
     {
       "id": "4993",
@@ -4420,18 +4398,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 19108
+      "adds": 14156
     },
     {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 15132
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 14032
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 13905
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 13869
     }
   ]
 }
