@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T22:26:42.325Z",
+  "generated_at": "2026-10-12T22:42:47.571Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 202368
+      "adds": 203688
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 154719
+      "adds": 143136
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 132210
+      "adds": 124000
     },
     {
       "id": "4454",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 72900
+      "adds": 69693
     },
     {
       "id": "4147",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 54540
+      "adds": 52868
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 49936
+      "adds": 47416
     },
     {
       "id": "IND",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46068
+      "adds": 44784
     },
     {
       "id": "650",
@@ -4299,18 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 37494
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 36320
+      "adds": 34686
     },
     {
       "id": "12472",
@@ -4321,7 +4310,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 33784
+      "adds": 33752
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 33216
     },
     {
       "id": "2747",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31640
+      "adds": 30990
     },
     {
       "id": "6650",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 27808
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 26550
+      "adds": 25824
     },
     {
       "id": "11783",
@@ -4365,7 +4354,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25504
+      "adds": 24928
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 23895
     },
     {
       "id": "13274",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 21614
+      "adds": 21500
     },
     {
       "id": "6039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 19314
+      "adds": 18564
     },
     {
       "id": "2505",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 13122
+      "adds": 12456
     },
     {
       "id": "4037",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 12066
+      "adds": 11286
     },
     {
       "id": "9757",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 11690
+      "adds": 11242
     },
     {
       "id": "12718",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 10881
+      "adds": 10719
     }
   ]
 }
