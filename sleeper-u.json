@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T15:46:44.825Z",
+  "generated_at": "2026-10-12T16:02:14.838Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 248616
+      "adds": 250047
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 165272
+      "adds": 165672
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 147252
+      "adds": 148158
     },
     {
       "id": "8129",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 97664
+      "adds": 104528
     },
     {
       "id": "11647",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 92865
+      "adds": 94750
     },
     {
       "id": "12542",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 84092
+      "adds": 84812
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 57702
+      "adds": 58188
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 42620
+      "adds": 43660
     },
     {
       "id": "IND",
@@ -4310,29 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39279
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 30984
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 30942
+      "adds": 39855
     },
     {
       "id": "6650",
@@ -4343,7 +4321,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 30824
+      "adds": 31152
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 31140
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 31048
     },
     {
       "id": "2747",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30630
+      "adds": 31045
     },
     {
       "id": "WAS",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29757
+      "adds": 29785
     },
     {
       "id": "8116",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 25299
+      "adds": 25389
     },
     {
       "id": "11783",
@@ -4387,18 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20272
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 18996
+      "adds": 20576
     },
     {
       "id": "6039",
@@ -4409,7 +4398,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 18942
+      "adds": 19242
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 19056
     },
     {
       "id": "12472",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 17896
+      "adds": 18872
     },
     {
       "id": "LV",
@@ -4431,7 +4431,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15048
+      "adds": 15084
     }
   ]
 }
