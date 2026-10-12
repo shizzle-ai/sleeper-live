@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T08:27:36.542Z",
+  "generated_at": "2026-10-12T08:48:48.806Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 327328
+      "adds": 321272
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 300321
+      "adds": 298512
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 218157
+      "adds": 215139
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 129888
+      "adds": 127864
     },
     {
       "id": "8129",
@@ -4266,18 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 90064
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 72632
+      "adds": 88416
     },
     {
       "id": "11647",
@@ -4288,7 +4277,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 72425
+      "adds": 72660
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 71239
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60534
+      "adds": 60318
     },
     {
       "id": "8116",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 48978
+      "adds": 47124
     },
     {
       "id": "12535",
@@ -4321,18 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 39680
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 32596
+      "adds": 39296
     },
     {
       "id": "4147",
@@ -4343,7 +4332,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 32436
+      "adds": 32484
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 31960
     },
     {
       "id": "IND",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30930
+      "adds": 31008
     },
     {
       "id": "5995",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30339
+      "adds": 30285
     },
     {
       "id": "2747",
@@ -4376,18 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30310
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 29085
+      "adds": 30125
     },
     {
       "id": "LV",
@@ -4398,7 +4387,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28980
+      "adds": 28506
     },
     {
       "id": "6650",
@@ -4409,7 +4398,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 28320
+      "adds": 28480
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 28287
     },
     {
       "id": "NYJ",
@@ -4420,7 +4420,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28086
+      "adds": 27720
     },
     {
       "id": "4663",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 23440
+      "adds": 22988
     }
   ]
 }
