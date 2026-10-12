@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T06:10:44.088Z",
+  "generated_at": "2026-10-12T06:38:22.986Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 344752
+      "adds": 334864
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 302346
+      "adds": 300321
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 227391
+      "adds": 221766
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 136252
+      "adds": 132568
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 94088
+      "adds": 91320
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76482
+      "adds": 74256
     },
     {
       "id": "11647",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 69465
+      "adds": 70050
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60636
+      "adds": 60360
     },
     {
       "id": "8116",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 53163
+      "adds": 51102
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 40968
+      "adds": 40232
     },
     {
       "id": "4993",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 34668
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 31626
+      "adds": 33548
     },
     {
       "id": "4147",
@@ -4354,18 +4343,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 31400
+      "adds": 31592
     },
     {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 30804
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 30226
     },
     {
       "id": "5995",
@@ -4376,7 +4365,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30276
+      "adds": 30213
     },
     {
       "id": "2747",
@@ -4387,7 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30065
+      "adds": 29895
     },
     {
       "id": "IND",
@@ -4398,7 +4387,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29634
+      "adds": 29877
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 29862
     },
     {
       "id": "NYJ",
@@ -4409,7 +4409,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29272
+      "adds": 28568
     },
     {
       "id": "6650",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 27120
+      "adds": 27344
     },
     {
       "id": "11608",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 25194
+      "adds": 24180
     }
   ]
 }
