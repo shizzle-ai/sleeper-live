@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T23:27:16.787Z",
+  "generated_at": "2026-10-12T23:42:42.150Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 218488
+      "adds": 220488
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 192654
+      "adds": 182736
     },
     {
       "id": "11647",
@@ -4244,18 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 129390
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 73161
+      "adds": 122080
     },
     {
       "id": "12718",
@@ -4266,7 +4255,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 72945
+      "adds": 78471
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 673,
+      "adds": 69672
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 55120
+      "adds": 54200
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 49340
+      "adds": 46596
     },
     {
       "id": "IND",
@@ -4299,18 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46002
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 35736
+      "adds": 44193
     },
     {
       "id": "12472",
@@ -4321,18 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 35424
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 33576
+      "adds": 35376
     },
     {
       "id": "6039",
@@ -4343,40 +4321,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 33234
+      "adds": 33864
     },
     {
-      "id": "2747",
-      "name": "Jason Myers",
+      "id": "650",
+      "name": "Nick Folk",
       "pos": "K",
-      "team": "SEA",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 125,
-      "adds": 31765
+      "rank": 249,
+      "adds": 32130
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 26200
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 26120
+      "depth": 2,
+      "rank": 681,
+      "adds": 29944
     },
     {
       "id": "13402",
@@ -4387,29 +4354,40 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 25375
+      "adds": 28770
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 24363
+      "depth": 1,
+      "rank": 125,
+      "adds": 28290
     },
     {
-      "id": "13274",
-      "name": "Germie Bernard",
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "PIT",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 194,
-      "adds": 23183
+      "rank": 199,
+      "adds": 25176
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 23896
     },
     {
       "id": "5970",
@@ -4420,18 +4398,40 @@
       "status": "Active",
       "depth": 5,
       "rank": 585,
-      "adds": 18714
+      "adds": 23574
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 13500
+      "depth": 3,
+      "rank": 194,
+      "adds": 23060
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 21150
+    },
+    {
+      "id": "11623",
+      "name": "Jordan Whittington",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 648,
+      "adds": 12924
     }
   ]
 }
