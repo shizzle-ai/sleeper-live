@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T22:57:16.602Z",
+  "generated_at": "2026-10-12T23:10:25.073Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2590,7 +2590,7 @@
           "name": "DJ Moore",
           "pos": "WR",
           "team": "BUF",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 50
@@ -3445,7 +3445,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -4021,7 +4021,7 @@
         "name": "Max Klare",
         "pos": "TE",
         "team": "LAR",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 212
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 207992
+      "adds": 212888
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 165726
+      "adds": 174996
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 125695
+      "adds": 127290
     },
     {
       "id": "4454",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 70950
+      "adds": 71877
     },
     {
       "id": "4147",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 53660
+      "adds": 54368
     },
     {
       "id": "12542",
@@ -4277,29 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 48064
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 45195
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 35052
+      "adds": 48616
     },
     {
       "id": "12718",
@@ -4310,7 +4288,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 34605
+      "adds": 47430
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 45588
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 35346
     },
     {
       "id": "12472",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 34256
+      "adds": 34800
     },
     {
       "id": "10235",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 33376
+      "adds": 33520
     },
     {
       "id": "2747",
@@ -4343,29 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31270
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 25928
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 25408
+      "adds": 31460
     },
     {
       "id": "6039",
@@ -4376,7 +4354,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 25038
+      "adds": 28164
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 26064
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 25704
     },
     {
       "id": "5995",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 24057
+      "adds": 24228
     },
     {
       "id": "13274",
@@ -4398,18 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 22022
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 12870
+      "adds": 22509
     },
     {
       "id": "13402",
@@ -4420,18 +4409,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 12690
+      "adds": 18060
     },
     {
-      "id": "4037",
-      "name": "Chris Godwin",
-      "pos": "WR",
-      "team": "TB",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 11460
+      "depth": 1,
+      "rank": 358,
+      "adds": 13203
+    },
+    {
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 585,
+      "adds": 12804
     }
   ]
 }
