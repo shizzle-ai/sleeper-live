@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T15:07:49.703Z",
+  "generated_at": "2026-10-12T15:27:06.844Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 266715
+      "adds": 269091
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 205800
+      "adds": 206336
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 167148
+      "adds": 168420
     },
     {
       "id": "12542",
@@ -4255,18 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 94640
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 141,
-      "adds": 89080
+      "adds": 95504
     },
     {
       "id": "8129",
@@ -4277,7 +4266,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 81560
+      "adds": 94040
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 141,
+      "adds": 91605
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 58848
+      "adds": 59580
     },
     {
       "id": "4147",
@@ -4299,18 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 40584
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39074
+      "adds": 42060
     },
     {
       "id": "IND",
@@ -4321,7 +4310,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 38289
+      "adds": 39123
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39102
     },
     {
       "id": "12535",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 33360
+      "adds": 33416
     },
     {
       "id": "2747",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31125
+      "adds": 31630
     },
     {
       "id": "5995",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30960
+      "adds": 31266
     },
     {
       "id": "6650",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 30536
+      "adds": 30800
     },
     {
       "id": "8116",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 29790
+      "adds": 29970
     },
     {
       "id": "4993",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 21936
+      "adds": 21980
     },
     {
       "id": "11783",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 19984
+      "adds": 20440
     },
     {
       "id": "6039",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 18954
+      "adds": 19338
     },
     {
       "id": "LV",
@@ -4420,18 +4420,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18150
+      "adds": 18192
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 17120
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 17768
     }
   ]
 }
