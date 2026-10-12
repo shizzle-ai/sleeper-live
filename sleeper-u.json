@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T23:10:25.073Z",
+  "generated_at": "2026-10-12T23:27:16.787Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 212888
+      "adds": 218488
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 174996
+      "adds": 192654
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 127290
+      "adds": 129390
     },
     {
       "id": "4454",
@@ -4255,29 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 71877
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 54368
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 48616
+      "adds": 73161
     },
     {
       "id": "12718",
@@ -4288,7 +4266,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 47430
+      "adds": 72945
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 55120
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 49340
     },
     {
       "id": "IND",
@@ -4299,7 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45588
+      "adds": 46002
     },
     {
       "id": "650",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 35346
+      "adds": 35736
     },
     {
       "id": "12472",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 34800
+      "adds": 35424
     },
     {
       "id": "10235",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 33520
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 31460
+      "adds": 33576
     },
     {
       "id": "6039",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 28164
+      "adds": 33234
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 31765
     },
     {
       "id": "6650",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 26064
+      "adds": 26200
     },
     {
       "id": "11783",
@@ -4376,29 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25704
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 24228
-    },
-    {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 194,
-      "adds": 22509
+      "adds": 26120
     },
     {
       "id": "13402",
@@ -4409,18 +4387,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 18060
+      "adds": 25375
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 13203
+      "depth": 2,
+      "rank": 220,
+      "adds": 24363
+    },
+    {
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 194,
+      "adds": 23183
     },
     {
       "id": "5970",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 5,
       "rank": 585,
-      "adds": 12804
+      "adds": 18714
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 13500
     }
   ]
 }
