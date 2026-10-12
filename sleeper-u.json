@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-11T23:58:54.975Z",
+  "generated_at": "2026-10-12T00:20:56.675Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 425424
+      "adds": 426808
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 276930
+      "adds": 281934
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 247161
+      "adds": 248769
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 159608
+      "adds": 160804
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 103816
+      "adds": 104872
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 91301
+      "adds": 91399
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 71775
+      "adds": 71919
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 57324
+      "adds": 58734
     },
     {
       "id": "12535",
@@ -4310,29 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46160
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 41671
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 41244
+      "adds": 46280
     },
     {
       "id": "11647",
@@ -4343,7 +4321,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 39920
+      "adds": 42160
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 41755
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 41500
     },
     {
       "id": "LV",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36072
+      "adds": 36252
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33110
+      "adds": 33282
     },
     {
       "id": "11608",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 33108
+      "adds": 33162
     },
     {
       "id": "4663",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 31236
+      "adds": 31292
     },
     {
       "id": "7039",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 28242
+      "adds": 28317
     },
     {
       "id": "2747",
@@ -4409,18 +4409,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 24020
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 451,
-      "adds": 22136
+      "adds": 24800
     },
     {
       "id": "5995",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 222,
-      "adds": 22059
+      "adds": 24426
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 451,
+      "adds": 22908
     }
   ]
 }
