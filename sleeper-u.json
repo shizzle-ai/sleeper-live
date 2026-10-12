@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T07:05:39.578Z",
+  "generated_at": "2026-10-12T07:28:40.625Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 335096
+      "adds": 335248
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 301149
+      "adds": 301950
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 222150
+      "adds": 222402
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 132864
+      "adds": 133072
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 91832
+      "adds": 92176
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74263
+      "adds": 74305
     },
     {
       "id": "11647",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 70920
+      "adds": 71535
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60606
+      "adds": 60738
     },
     {
       "id": "8116",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 51147
+      "adds": 51192
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 40240
+      "adds": 40248
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 33588
+      "adds": 33616
     },
     {
       "id": "4147",
@@ -4343,7 +4343,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 31872
+      "adds": 32120
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 30522
     },
     {
       "id": "5995",
@@ -4354,7 +4365,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30276
+      "adds": 30330
     },
     {
       "id": "8135",
@@ -4368,17 +4379,6 @@
       "adds": 30261
     },
     {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 30171
-    },
-    {
       "id": "2747",
       "name": "Jason Myers",
       "pos": "K",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30085
+      "adds": 30240
     },
     {
       "id": "LV",
@@ -4409,7 +4409,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28608
+      "adds": 28638
     },
     {
       "id": "6650",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 27688
+      "adds": 27904
     },
     {
       "id": "11608",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 24186
+      "adds": 24204
     }
   ]
 }
