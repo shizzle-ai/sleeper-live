@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T14:26:04.243Z",
+  "generated_at": "2026-10-12T14:49:07.034Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -225,7 +225,7 @@
         "team": "BUF",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 206
       },
       {
@@ -2108,7 +2108,7 @@
           "team": "BUF",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 120
         },
         {
@@ -2763,7 +2763,7 @@
           "team": "BUF",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 206
         },
         {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 279945
+      "adds": 264744
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 238472
+      "adds": 205360
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 182337
+      "adds": 166125
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 104344
+      "adds": 93984
     },
     {
       "id": "11647",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 86175
+      "adds": 87180
     },
     {
       "id": "8129",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 80040
+      "adds": 79680
     },
     {
       "id": "650",
@@ -4288,18 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60132
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 48671
+      "adds": 58200
     },
     {
       "id": "4147",
@@ -4310,7 +4299,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 38876
+      "adds": 39468
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39039
     },
     {
       "id": "IND",
@@ -4321,7 +4321,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37029
+      "adds": 37488
     },
     {
       "id": "12535",
@@ -4332,29 +4332,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 35088
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 33822
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 31510
+      "adds": 33336
     },
     {
       "id": "5995",
@@ -4365,7 +4343,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30906
+      "adds": 30726
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 30685
     },
     {
       "id": "6650",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 30312
+      "adds": 30344
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 29673
     },
     {
       "id": "4993",
@@ -4387,29 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 24804
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 21396
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 20446
+      "adds": 21868
     },
     {
       "id": "11783",
@@ -4420,18 +4398,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20000
+      "adds": 19736
     },
     {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 19243
+      "depth": 2,
+      "rank": 534,
+      "adds": 18750
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 18120
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17032
     }
   ]
 }
