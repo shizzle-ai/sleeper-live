@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T15:27:06.844Z",
+  "generated_at": "2026-10-12T15:46:44.825Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 269091
+      "adds": 248616
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 206336
+      "adds": 165272
     },
     {
       "id": "4454",
@@ -4244,18 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 168420
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 95504
+      "adds": 147252
     },
     {
       "id": "8129",
@@ -4266,7 +4255,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 94040
+      "adds": 97664
     },
     {
       "id": "11647",
@@ -4277,7 +4266,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 91605
+      "adds": 92865
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 84092
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 59580
+      "adds": 57702
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 42060
+      "adds": 42620
     },
     {
       "id": "IND",
@@ -4310,18 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39123
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39102
+      "adds": 39279
     },
     {
       "id": "12535",
@@ -4332,18 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 33416
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 31630
+      "adds": 30984
     },
     {
       "id": "5995",
@@ -4354,7 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31266
+      "adds": 30942
     },
     {
       "id": "6650",
@@ -4365,7 +4343,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 30800
+      "adds": 30824
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 30630
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 29757
     },
     {
       "id": "8116",
@@ -4376,18 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 29970
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 21980
+      "adds": 25299
     },
     {
       "id": "11783",
@@ -4398,7 +4387,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 20440
+      "adds": 20272
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 18996
     },
     {
       "id": "6039",
@@ -4409,18 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 19338
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 18192
+      "adds": 18942
     },
     {
       "id": "12472",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 17768
+      "adds": 17896
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 15048
     }
   ]
 }
