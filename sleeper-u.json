@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T03:09:04.717Z",
+  "generated_at": "2026-10-12T03:29:21.644Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -520,12 +520,12 @@
         "3294": 14.64,
         "3634": 3.4,
         "4881": 0,
-        "5012": -0.1,
+        "5012": 1.2,
         "5846": 5.3,
         "5859": 0,
         "5892": 1.1,
         "7021": 0,
-        "7083": 10.54,
+        "7083": 16.62,
         "7839": 7,
         "8161": 20.88,
         "9226": 0,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 382152
+      "adds": 383008
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 297378
+      "adds": 300168
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 245889
+      "adds": 246714
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 148116
+      "adds": 148964
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 99160
+      "adds": 99960
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84798
+      "adds": 84812
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 63045
+      "adds": 63135
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 59190
+      "adds": 59850
     },
     {
       "id": "11647",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 57440
+      "adds": 59330
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 43712
+      "adds": 43768
     },
     {
       "id": "4993",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 38532
+      "adds": 38688
     },
     {
       "id": "8135",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 36561
+      "adds": 36680
     },
     {
       "id": "LV",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33708
+      "adds": 33822
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31488
+      "adds": 31572
     },
     {
       "id": "5995",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 222,
-      "adds": 29214
+      "adds": 29610
     },
     {
       "id": "11608",
@@ -4387,18 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 28866
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 28308
+      "adds": 28884
     },
     {
       "id": "2747",
@@ -4409,7 +4398,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 124,
-      "adds": 27955
+      "adds": 28395
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 28332
     },
     {
       "id": "4147",
@@ -4420,18 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 451,
-      "adds": 27656
+      "adds": 28196
     },
     {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "team": "LV",
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 336,
-      "adds": 25107
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 25350
     }
   ]
 }
