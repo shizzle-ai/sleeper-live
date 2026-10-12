@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T13:03:38.213Z",
+  "generated_at": "2026-10-12T13:35:38.373Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 291672
+      "adds": 274797
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 284848
+      "adds": 237544
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 199386
+      "adds": 180084
     },
     {
       "id": "12542",
@@ -4255,18 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 116816
-    },
-    {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 666,
-      "adds": 86048
+      "adds": 102624
     },
     {
       "id": "11647",
@@ -4277,18 +4266,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 81815
+      "adds": 82750
     },
     {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
+      "id": "8129",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "team": "PHI",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 61859
+      "status": "Active",
+      "depth": 2,
+      "rank": 666,
+      "adds": 75928
     },
     {
       "id": "650",
@@ -4299,29 +4288,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 60936
+      "adds": 58686
     },
     {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
       "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 40644
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 37120
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 48594
     },
     {
       "id": "4147",
@@ -4332,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 35880
+      "adds": 36480
     },
     {
       "id": "IND",
@@ -4343,18 +4321,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 34851
+      "adds": 35184
     },
     {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 31405
+      "depth": 3,
+      "rank": 184,
+      "adds": 35016
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 33597
     },
     {
       "id": "5995",
@@ -4365,7 +4354,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 30861
+      "adds": 30483
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 30220
     },
     {
       "id": "6650",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 29696
+      "adds": 29776
     },
     {
       "id": "4993",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 28640
+      "adds": 24656
     },
     {
       "id": "LV",
@@ -4398,7 +4398,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25320
+      "adds": 21318
     },
     {
       "id": "NYJ",
@@ -4409,7 +4409,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 24702
+      "adds": 20248
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 19248
     },
     {
       "id": "8135",
@@ -4420,18 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 23492
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 20000
+      "adds": 19215
     }
   ]
 }
