@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T17:23:57.411Z",
+  "generated_at": "2026-10-12T17:41:07.964Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 220041
+      "adds": 195741
     },
     {
       "id": "8129",
@@ -4233,18 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 122384
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 110382
+      "adds": 124448
     },
     {
       "id": "11647",
@@ -4255,18 +4244,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 102850
+      "adds": 102960
     },
     {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 681,
-      "adds": 78896
+      "rank": 673,
+      "adds": 89127
     },
     {
       "id": "12542",
@@ -4277,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 63580
+      "adds": 54348
     },
     {
       "id": "650",
@@ -4288,7 +4277,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 55110
+      "adds": 47934
     },
     {
       "id": "4147",
@@ -4299,7 +4288,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 47384
+      "adds": 47572
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 45496
     },
     {
       "id": "IND",
@@ -4310,7 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41403
+      "adds": 40920
     },
     {
       "id": "6650",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 31880
+      "adds": 31560
     },
     {
       "id": "5995",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31113
+      "adds": 30393
     },
     {
       "id": "2747",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30630
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 184,
-      "adds": 24672
+      "adds": 29100
     },
     {
       "id": "12472",
@@ -4365,7 +4354,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 22200
+      "adds": 22280
     },
     {
       "id": "11783",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 21608
+      "adds": 21440
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 184,
+      "adds": 19160
     },
     {
       "id": "6039",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 18402
+      "adds": 17616
     },
     {
       "id": "13274",
@@ -4398,18 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 15095
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 14320
+      "adds": 15357
     },
     {
       "id": "2505",
@@ -4420,18 +4409,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 14301
+      "adds": 13824
     },
     {
-      "id": "8116",
-      "name": "Pierre Strong",
+      "id": "9757",
+      "name": "Kendre Miller",
       "pos": "RB",
-      "team": "GB",
+      "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 14247
+      "depth": 2,
+      "rank": 180,
+      "adds": 13728
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 12558
     }
   ]
 }
