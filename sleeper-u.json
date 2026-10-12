@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T14:49:07.034Z",
+  "generated_at": "2026-10-12T15:07:49.703Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2448,7 +2448,7 @@
           "name": "Ladd McConkey",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 35
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 264744
+      "adds": 266715
     },
     {
       "id": "10235",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 205360
+      "adds": 205800
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 166125
+      "adds": 167148
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 93984
+      "adds": 94640
     },
     {
       "id": "11647",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 87180
+      "adds": 89080
     },
     {
       "id": "8129",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 79680
+      "adds": 81560
     },
     {
       "id": "650",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 58200
+      "adds": 58848
     },
     {
       "id": "4147",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 39468
+      "adds": 40584
     },
     {
       "id": "WAS",
@@ -4310,7 +4310,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39039
+      "adds": 39074
     },
     {
       "id": "IND",
@@ -4321,7 +4321,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37488
+      "adds": 38289
     },
     {
       "id": "12535",
@@ -4332,18 +4332,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 33336
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 30726
+      "adds": 33360
     },
     {
       "id": "2747",
@@ -4354,7 +4343,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 30685
+      "adds": 31125
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 30960
     },
     {
       "id": "6650",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 30344
+      "adds": 30536
     },
     {
       "id": "8116",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 29673
+      "adds": 29790
     },
     {
       "id": "4993",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 21868
+      "adds": 21936
     },
     {
       "id": "11783",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 19736
+      "adds": 19984
     },
     {
       "id": "6039",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 18750
+      "adds": 18954
     },
     {
       "id": "LV",
@@ -4420,7 +4420,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18120
+      "adds": 18150
     },
     {
       "id": "NYJ",
@@ -4431,7 +4431,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 17032
+      "adds": 17120
     }
   ]
 }
