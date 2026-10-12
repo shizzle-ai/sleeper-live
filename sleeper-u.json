@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T12:18:36.681Z",
+  "generated_at": "2026-10-12T13:03:38.213Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4214,17 +4214,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 303712
-    },
-    {
       "id": "3271",
       "name": "Tyler Higbee",
       "pos": "TE",
@@ -4233,7 +4222,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 297432
+      "adds": 291672
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 284848
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 208641
+      "adds": 199386
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 123480
+      "adds": 116816
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 88216
+      "adds": 86048
     },
     {
       "id": "11647",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 79445
+      "adds": 81815
     },
     {
       "id": "WAS",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66850
+      "adds": 61859
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 61416
+      "adds": 60936
     },
     {
       "id": "8116",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 44154
+      "adds": 40644
     },
     {
       "id": "12535",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 38096
+      "adds": 37120
     },
     {
       "id": "4147",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 34712
+      "adds": 35880
     },
     {
       "id": "IND",
@@ -4343,7 +4343,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33885
+      "adds": 34851
     },
     {
       "id": "2747",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31330
+      "adds": 31405
     },
     {
       "id": "5995",
@@ -4368,17 +4368,6 @@
       "adds": 30861
     },
     {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 30412
-    },
-    {
       "id": "6650",
       "name": "Chase McLaughlin",
       "pos": "K",
@@ -4387,7 +4376,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 29400
+      "adds": 29696
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 28640
     },
     {
       "id": "LV",
@@ -4398,7 +4398,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26952
+      "adds": 25320
     },
     {
       "id": "NYJ",
@@ -4409,7 +4409,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26402
+      "adds": 24702
     },
     {
       "id": "8135",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 25823
+      "adds": 23492
     },
     {
       "id": "4663",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 21532
+      "adds": 20000
     }
   ]
 }
