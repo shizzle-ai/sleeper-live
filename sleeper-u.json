@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T00:20:56.675Z",
+  "generated_at": "2026-10-12T00:50:20.876Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -520,12 +520,12 @@
         "3294": 14.64,
         "3634": 3.4,
         "4881": 0,
-        "5012": 0,
+        "5012": -0.1,
         "5846": 5.3,
         "5859": 0,
         "5892": 1.1,
         "7021": 0,
-        "7083": 0,
+        "7083": 0.8,
         "7839": 7,
         "8161": 20.88,
         "9226": 0,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 426808
+      "adds": 411288
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 281934
+      "adds": 283032
     },
     {
       "id": "4454",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 248769
+      "adds": 246705
     },
     {
       "id": "12542",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 160804
+      "adds": 155764
     },
     {
       "id": "8129",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 104872
+      "adds": 101816
     },
     {
       "id": "WAS",
@@ -4277,7 +4277,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 91399
+      "adds": 89635
     },
     {
       "id": "8116",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 71919
+      "adds": 68931
     },
     {
       "id": "650",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 58734
+      "adds": 58512
     },
     {
       "id": "12535",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 184,
-      "adds": 46280
+      "adds": 45736
     },
     {
       "id": "11647",
@@ -4321,18 +4321,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 42160
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 41755
+      "adds": 44420
     },
     {
       "id": "4993",
@@ -4343,7 +4332,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 41500
+      "adds": 40304
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 40152
     },
     {
       "id": "LV",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36252
+      "adds": 35454
     },
     {
       "id": "NYJ",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 33282
+      "adds": 32644
     },
     {
       "id": "11608",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 33162
+      "adds": 31758
     },
     {
       "id": "4663",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 632,
-      "adds": 31292
+      "adds": 30332
     },
     {
       "id": "7039",
@@ -4398,18 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 336,
-      "adds": 28317
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 124,
-      "adds": 24800
+      "adds": 27273
     },
     {
       "id": "5995",
@@ -4420,7 +4409,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 222,
-      "adds": 24426
+      "adds": 25425
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 124,
+      "adds": 25075
     },
     {
       "id": "4147",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 451,
-      "adds": 22908
+      "adds": 23524
     }
   ]
 }
