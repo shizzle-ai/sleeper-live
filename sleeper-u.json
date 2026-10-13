@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T12:57:29.282Z",
+  "generated_at": "2026-10-13T13:20:01.434Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 879224
+      "adds": 929256
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 301491
+      "adds": 309546
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 229855
+      "adds": 239515
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 155715
+      "adds": 165945
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 149556
+      "adds": 155715
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 117564
+      "adds": 125040
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 116488
+      "adds": 122968
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 101863
+      "adds": 108014
     },
     {
       "id": "12718",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85482
+      "adds": 85572
     },
     {
       "id": "4147",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 83756
+      "adds": 85556
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 72176
+      "adds": 74504
     },
     {
       "id": "9757",
@@ -3940,18 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 64754
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 59916
+      "adds": 69404
     },
     {
       "id": "2747",
@@ -3962,7 +3951,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 59405
+      "adds": 61875
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 61782
     },
     {
       "id": "11783",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 55952
+      "adds": 58456
     },
     {
       "id": "13545",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 53112
+      "adds": 57420
     },
     {
       "id": "2505",
@@ -3995,18 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 41301
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 38800
+      "adds": 43785
     },
     {
       "id": "7042",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 38425
+      "adds": 42275
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 40472
     },
     {
       "id": "13402",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33935
+      "adds": 33975
     }
   ]
 }
