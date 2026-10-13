@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T05:18:52.950Z",
+  "generated_at": "2026-10-13T05:39:10.754Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1366,7 +1366,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "HOU",
@@ -2039,7 +2039,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 91
         },
         {
           "id": "12501",
@@ -2451,7 +2451,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 3,
-          "rank": 35
+          "rank": 34
         },
         {
           "id": "3198",
@@ -3439,7 +3439,7 @@
         "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 180
+        "rank": 181
       },
       {
         "id": "12535",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 443624
+      "adds": 460160
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 237924
+      "adds": 237672
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 156555
+      "adds": 156020
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 96237
+      "adds": 97572
     },
     {
       "id": "12718",
@@ -3863,18 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85572
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 69760
+      "adds": 85230
     },
     {
       "id": "IND",
@@ -3885,7 +3874,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67650
+      "adds": 69642
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 69464
     },
     {
       "id": "12542",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 63728
+      "adds": 64820
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 55500
+      "adds": 56868
     },
     {
       "id": "12472",
@@ -3918,18 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 49056
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 45534
+      "adds": 49848
     },
     {
       "id": "13274",
@@ -3940,7 +3929,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 44788
+      "adds": 46947
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 45630
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 39255
+      "adds": 39510
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 34368
+      "adds": 34824
     },
     {
       "id": "13402",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 34090
+      "adds": 33975
     },
     {
       "id": "5970",
@@ -3984,18 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31098
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 23512
+      "adds": 31056
     },
     {
       "id": "9757",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 22824
+      "adds": 24208
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 23224
     },
     {
       "id": "10235",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 21600
+      "adds": 20712
     },
     {
       "id": "2505",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 17397
+      "adds": 17973
     }
   ]
 }
