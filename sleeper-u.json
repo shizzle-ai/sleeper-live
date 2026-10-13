@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T18:30:32.765Z",
+  "generated_at": "2026-10-13T19:00:17.274Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1489,16 +1489,6 @@
           "rank": 28
         },
         {
-          "id": "12490",
-          "name": "Bhayshul Tuten",
-          "pos": "RB",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 44
-        },
-        {
           "id": "12545",
           "name": "Tyler Shough",
           "pos": "QB",
@@ -1529,6 +1519,16 @@
           "rank": 36
         },
         {
+          "id": "7594",
+          "name": "Chuba Hubbard",
+          "pos": "RB",
+          "team": "CAR",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 66
+        },
+        {
           "id": "8110",
           "name": "Jake Ferguson",
           "pos": "TE",
@@ -1549,10 +1549,10 @@
           "rank": 119
         },
         {
-          "id": "CIN",
-          "name": "Cincinnati Bengals",
+          "id": "BAL",
+          "name": "Baltimore Ravens",
           "pos": "DEF",
-          "team": "CIN",
+          "team": "BAL",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1560,6 +1560,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 44
+        },
         {
           "id": "4177",
           "name": "Mack Hollins",
@@ -1581,16 +1591,6 @@
           "rank": 20
         },
         {
-          "id": "5872",
-          "name": "Deebo Samuel",
-          "pos": "WR",
-          "team": "SF",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 8,
-          "rank": 130
-        },
-        {
           "id": "7553",
           "name": "Kyle Pitts",
           "pos": "TE",
@@ -1601,20 +1601,10 @@
           "rank": 68
         },
         {
-          "id": "7594",
-          "name": "Chuba Hubbard",
-          "pos": "RB",
-          "team": "CAR",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 66
-        },
-        {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "CIN",
+          "name": "Cincinnati Bengals",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "CIN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1622,6 +1612,16 @@
         }
       ],
       "reserve": [
+        {
+          "id": "5872",
+          "name": "Deebo Samuel",
+          "pos": "WR",
+          "team": "SF",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 8,
+          "rank": 130
+        },
         {
           "id": "7543",
           "name": "Travis Etienne",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1618136
+      "adds": 1670536
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 395451
+      "adds": 403749
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 357555
+      "adds": 370740
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 292221
+      "adds": 301155
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 232104
+      "adds": 239340
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 229674
+      "adds": 238590
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 209096
+      "adds": 215460
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 186863
+      "adds": 194018
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 142848
+      "adds": 147928
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 122776
+      "adds": 127664
     },
     {
       "id": "7042",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 99305
+      "adds": 103900
     },
     {
       "id": "11783",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 93272
+      "adds": 96656
     },
     {
       "id": "12472",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 89888
+      "adds": 91800
     },
     {
       "id": "4147",
@@ -3962,18 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 89616
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85023
+      "adds": 91220
     },
     {
       "id": "2747",
@@ -3984,7 +3973,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 83535
+      "adds": 85590
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85140
     },
     {
       "id": "6039",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 83226
+      "adds": 85116
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 77913
+      "adds": 80460
     },
     {
       "id": "2197",
@@ -4017,18 +4017,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 63512
+      "adds": 67424
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 60816
+      "depth": 3,
+      "rank": 487,
+      "adds": 64254
     }
   ]
 }
