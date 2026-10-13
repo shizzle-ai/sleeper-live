@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T22:59:22.676Z",
+  "generated_at": "2026-10-13T23:20:02.174Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,18 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2028896
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 446724
+      "adds": 2068952
     },
     {
       "id": "11647",
@@ -3841,7 +3830,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 445930
+      "adds": 455270
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 452349
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 359946
+      "adds": 365925
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 293772
+      "adds": 298614
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 283095
+      "adds": 289287
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 264604
+      "adds": 269832
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 251270
+      "adds": 257446
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 189656
+      "adds": 193740
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 159864
+      "adds": 162516
     },
     {
       "id": "7042",
@@ -3929,18 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 132035
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 124008
+      "adds": 134460
     },
     {
       "id": "12491",
@@ -3951,7 +3940,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 122586
+      "adds": 128412
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 127568
     },
     {
       "id": "11439",
@@ -3962,29 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 698,
-      "adds": 107140
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 359,
-      "adds": 99414
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 99072
+      "adds": 118795
     },
     {
       "id": "2197",
@@ -3995,18 +3973,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 98888
+      "adds": 102208
     },
     {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 125,
-      "adds": 93960
+      "rank": 359,
+      "adds": 101448
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 100752
     },
     {
       "id": "4147",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 93772
+      "adds": 95276
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 95060
     },
     {
       "id": "12472",
@@ -4028,7 +4028,7 @@
       "status": "Inactive",
       "depth": 2,
       "rank": 690,
-      "adds": 91608
+      "adds": 91800
     }
   ]
 }
