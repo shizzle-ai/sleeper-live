@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T03:27:55.162Z",
+  "generated_at": "2026-10-13T03:48:40.370Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 195.52,
+      "points": 200.42,
       "starters": [
         {
           "id": "6770",
@@ -367,9 +367,9 @@
       ],
       "starters_points": [
         24.6,
-        19.3,
+        19.6,
         31.5,
-        33.1,
+        37.7,
         17.2,
         7.4,
         18.7,
@@ -385,8 +385,8 @@
         "4199": 18.7,
         "4217": 7.4,
         "6770": 24.6,
-        "8150": 19.3,
-        "9493": 33.1,
+        "8150": 19.6,
+        "9493": 37.7,
         "10236": 3.7,
         "11584": 31.5,
         "11610": 12.1,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 324512
+      "adds": 332032
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 214956
+      "adds": 212652
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 142510
+      "adds": 139640
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 86580
+      "adds": 85986
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 80862
+      "adds": 79689
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 63776
+      "adds": 63148
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 52600
+      "adds": 51136
     },
     {
       "id": "IND",
@@ -4299,7 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49329
+      "adds": 48561
     },
     {
       "id": "12472",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 42592
+      "adds": 42600
     },
     {
       "id": "6039",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 41112
+      "adds": 41796
     },
     {
       "id": "650",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 39672
+      "adds": 39864
     },
     {
       "id": "13402",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 34445
+      "adds": 34215
     },
     {
       "id": "2747",
@@ -4354,18 +4354,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 31875
-    },
-    {
-      "id": "5970",
-      "name": "Greg Dortch",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 585,
-      "adds": 31164
+      "adds": 31720
     },
     {
       "id": "13274",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 31147
+      "adds": 31305
+    },
+    {
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 585,
+      "adds": 31020
     },
     {
       "id": "11783",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 28816
+      "adds": 28176
     },
     {
       "id": "10235",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 23936
+      "adds": 21536
     },
     {
       "id": "6650",
@@ -4409,18 +4409,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 21696
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 14337
+      "adds": 20136
     },
     {
       "id": "9757",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 13878
+      "adds": 13936
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 13206
     }
   ]
 }
