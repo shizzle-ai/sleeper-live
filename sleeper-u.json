@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T17:18:09.232Z",
+  "generated_at": "2026-10-13T17:37:26.395Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -927,14 +927,14 @@
           "rank": 151
         },
         {
-          "id": "5844",
-          "name": "T.J. Hockenson",
-          "pos": "TE",
-          "team": "MIN",
-          "injury": "Out",
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "team": "DEN",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 128
+          "depth": 2,
+          "rank": 72
         },
         {
           "id": "6797",
@@ -947,16 +947,6 @@
           "rank": 33
         },
         {
-          "id": "7547",
-          "name": "Amon-Ra St. Brown",
-          "pos": "WR",
-          "team": "DET",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 7
-        },
-        {
           "id": "7569",
           "name": "Nico Collins",
           "pos": "WR",
@@ -965,6 +955,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 23
+        },
+        {
+          "id": "9484",
+          "name": "Tucker Kraft",
+          "pos": "TE",
+          "team": "GB",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 64
         },
         {
           "id": "96",
@@ -1029,27 +1029,27 @@
           "rank": 105
         },
         {
-          "id": "5045",
-          "name": "Courtland Sutton",
+          "id": "7547",
+          "name": "Amon-Ra St. Brown",
           "pos": "WR",
-          "team": "DEN",
+          "team": "DET",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 72
-        },
-        {
-          "id": "9484",
-          "name": "Tucker Kraft",
-          "pos": "TE",
-          "team": "GB",
-          "injury": "Questionable",
-          "status": "Active",
           "depth": 1,
-          "rank": 64
+          "rank": 7
         }
       ],
       "reserve": [
+        {
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "pos": "TE",
+          "team": "MIN",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 128
+        },
         {
           "id": "9502",
           "name": "Tank Dell",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1524416
+      "adds": 1540648
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 385047
+      "adds": 385587
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 343875
+      "adds": 343480
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 272859
+      "adds": 277215
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 222177
+      "adds": 223608
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 204840
+      "adds": 210876
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 196660
+      "adds": 199252
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 172464
+      "adds": 176021
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 129690
+      "adds": 133262
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 107876
+      "adds": 112160
     },
     {
       "id": "4147",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 92880
+      "adds": 90056
     },
     {
       "id": "12472",
@@ -3940,29 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 92456
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 87136
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85536
+      "adds": 89728
     },
     {
       "id": "7042",
@@ -3973,18 +3951,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 84885
+      "adds": 89100
     },
     {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 80430
+      "depth": 3,
+      "rank": 199,
+      "adds": 88072
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85266
     },
     {
       "id": "6039",
@@ -3995,7 +3984,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 80358
+      "adds": 80886
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 80575
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 72360
+      "adds": 73656
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 57024
+      "adds": 57592
     },
     {
       "id": "2197",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 53636
+      "adds": 56320
     }
   ]
 }
