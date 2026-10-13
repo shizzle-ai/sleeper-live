@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T11:48:27.299Z",
+  "generated_at": "2026-10-13T12:03:46.370Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 746448
+      "adds": 771864
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 282312
+      "adds": 286767
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 206385
+      "adds": 212125
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 134016
+      "adds": 137712
     },
     {
       "id": "IND",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 128034
+      "adds": 133923
     },
     {
       "id": "12542",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 99936
+      "adds": 103544
     },
     {
       "id": "650",
@@ -3885,18 +3885,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 99060
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85329
+      "adds": 102990
     },
     {
       "id": "13274",
@@ -3907,7 +3896,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 85005
+      "adds": 88494
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85392
     },
     {
       "id": "4147",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 79660
+      "adds": 80820
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 65856
+      "adds": 67216
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 55368
+      "adds": 56436
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 53825
+      "adds": 55165
     },
     {
       "id": "9757",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 52112
+      "adds": 54722
     },
     {
       "id": "11783",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 48880
+      "adds": 50416
     },
     {
       "id": "13545",
@@ -3984,29 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 41044
-    },
-    {
-      "id": "13402",
-      "name": "Skyler Bell",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 387,
-      "adds": 33950
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 33888
+      "adds": 43648
     },
     {
       "id": "2505",
@@ -4017,7 +3995,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 33831
+      "adds": 35343
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 35056
+    },
+    {
+      "id": "13402",
+      "name": "Skyler Bell",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 387,
+      "adds": 33975
     },
     {
       "id": "5970",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31542
+      "adds": 31584
     }
   ]
 }
