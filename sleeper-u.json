@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T10:14:38.117Z",
+  "generated_at": "2026-10-13T10:36:09.445Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 626184
+      "adds": 646680
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 263619
+      "adds": 266193
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 184210
+      "adds": 187465
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 120030
+      "adds": 122055
     },
     {
       "id": "IND",
@@ -3863,18 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 101679
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85194
+      "adds": 105906
     },
     {
       "id": "12542",
@@ -3885,7 +3874,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 84716
+      "adds": 87184
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85158
     },
     {
       "id": "650",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 80244
+      "adds": 83280
     },
     {
       "id": "4147",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 75752
+      "adds": 76276
     },
     {
       "id": "13274",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 69335
+      "adds": 72064
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 59296
+      "adds": 60216
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 50682
+      "adds": 51432
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 48085
+      "adds": 48885
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 43288
+      "adds": 43928
     },
     {
       "id": "9757",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 39702
+      "adds": 41790
     },
     {
       "id": "13402",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33975
+      "adds": 33910
     },
     {
       "id": "5970",
@@ -3995,18 +3995,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31386
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 29200
+      "adds": 31374
     },
     {
       "id": "13545",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 28972
+      "adds": 31068
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 29968
     },
     {
       "id": "2505",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 27567
+      "adds": 28539
     }
   ]
 }
