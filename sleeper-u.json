@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T19:00:17.274Z",
+  "generated_at": "2026-10-13T19:28:36.168Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1670536
+      "adds": 1719120
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 403749
+      "adds": 411174
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 370740
+      "adds": 383355
     },
     {
       "id": "IND",
@@ -3852,18 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 301155
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 239340
+      "adds": 309336
     },
     {
       "id": "650",
@@ -3874,7 +3863,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 238590
+      "adds": 246612
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 673,
+      "adds": 246255
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 215460
+      "adds": 222232
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 194018
+      "adds": 200955
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 147928
+      "adds": 152752
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 127664
+      "adds": 131852
     },
     {
       "id": "7042",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 103900
+      "adds": 107835
     },
     {
       "id": "11783",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 96656
+      "adds": 101128
     },
     {
       "id": "12472",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 91800
+      "adds": 93664
     },
     {
       "id": "4147",
@@ -3962,29 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 91220
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 85590
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85140
+      "adds": 93292
     },
     {
       "id": "6039",
@@ -3995,7 +3973,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 85116
+      "adds": 88044
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 87315
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85293
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 80460
+      "adds": 83070
     },
     {
       "id": "2197",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 67424
+      "adds": 71076
     },
     {
       "id": "12491",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 64254
+      "adds": 69816
     }
   ]
 }
