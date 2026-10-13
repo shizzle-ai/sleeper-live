@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T07:47:47.501Z",
+  "generated_at": "2026-10-13T08:03:34.640Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 542688
+      "adds": 550416
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 250182
+      "adds": 251721
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 168810
+      "adds": 170480
     },
     {
       "id": "4454",
@@ -3852,18 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 109236
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85194
+      "adds": 110502
     },
     {
       "id": "IND",
@@ -3874,7 +3863,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 85044
+      "adds": 86523
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85212
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 73992
+      "adds": 74992
     },
     {
       "id": "4147",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 72856
+      "adds": 73240
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 68022
+      "adds": 69174
     },
     {
       "id": "13274",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 58244
+      "adds": 59298
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 54688
+      "adds": 55056
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 48084
+      "adds": 48336
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 43790
+      "adds": 44255
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 38944
+      "adds": 39520
     },
     {
       "id": "13402",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 31440
+      "adds": 32160
     },
     {
       "id": "5970",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31230
+      "adds": 31236
     },
     {
       "id": "6650",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 25808
+      "adds": 26152
     },
     {
       "id": "2505",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 22698
+      "adds": 23076
     },
     {
       "id": "13545",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 21988
+      "adds": 22540
     }
   ]
 }
