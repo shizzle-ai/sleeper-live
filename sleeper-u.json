@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T21:45:13.171Z",
+  "generated_at": "2026-10-13T22:07:51.562Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1650,16 +1650,6 @@
       },
       "starters": [
         {
-          "id": "10859",
-          "name": "Sam LaPorta",
-          "pos": "TE",
-          "team": "DET",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 58
-        },
-        {
           "id": "12481",
           "name": "Cam Skattebo",
           "pos": "RB",
@@ -1740,6 +1730,16 @@
           "rank": 52
         },
         {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "pos": "TE",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 104
+        },
+        {
           "id": "JAX",
           "name": "Jacksonville Jaguars",
           "pos": "DEF",
@@ -1751,6 +1751,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "10859",
+          "name": "Sam LaPorta",
+          "pos": "TE",
+          "team": "DET",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 58
+        },
         {
           "id": "2449",
           "name": "Stefon Diggs",
@@ -1770,16 +1780,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 18
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "pos": "TE",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 104
         },
         {
           "id": "9504",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1905960
+      "adds": 1948632
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 431181
+      "adds": 437337
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 419775
+      "adds": 429355
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 340413
+      "adds": 346662
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 276330
+      "adds": 282144
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 266748
+      "adds": 273012
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 247024
+      "adds": 252848
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 231316
+      "adds": 237854
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 175740
+      "adds": 180076
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 150120
+      "adds": 153132
     },
     {
       "id": "7042",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 123575
+      "adds": 126295
     },
     {
       "id": "11783",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 113856
+      "adds": 117160
     },
     {
       "id": "12491",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 104328
+      "adds": 109416
     },
     {
       "id": "6039",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 94056
+      "adds": 95910
     },
     {
       "id": "2505",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 93159
+      "adds": 95247
     },
     {
       "id": "12472",
@@ -3984,7 +3984,7 @@
       "status": "Inactive",
       "depth": 2,
       "rank": 690,
-      "adds": 92848
+      "adds": 93288
     },
     {
       "id": "4147",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 91508
+      "adds": 93004
     },
     {
       "id": "2747",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 91070
+      "adds": 92235
     },
     {
       "id": "2197",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 87880
+      "adds": 91092
     },
     {
       "id": "12718",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 84438
+      "adds": 84519
     }
   ]
 }
