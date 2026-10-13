@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T01:27:08.491Z",
+  "generated_at": "2026-10-13T01:46:22.057Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 157.22,
+      "points": 157.32,
       "starters": [
         {
           "id": "6770",
@@ -367,7 +367,7 @@
       ],
       "starters_points": [
         24.6,
-        5,
+        5.1,
         31.5,
         9.1,
         17.2,
@@ -385,9 +385,9 @@
         "4199": 18.7,
         "4217": 7.4,
         "6770": 24.6,
-        "8150": 5,
+        "8150": 5.1,
         "9493": 9.1,
-        "10236": 0,
+        "10236": 1.7,
         "11584": 31.5,
         "11610": 12.1,
         "11625": 0,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 260384
+      "adds": 267368
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 183096
+      "adds": 173727
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 130250
+      "adds": 128525
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 87579
+      "adds": 86949
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 73827
+      "adds": 72642
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 58500
+      "adds": 58052
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 48672
+      "adds": 47132
     },
     {
       "id": "IND",
@@ -4299,7 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45384
+      "adds": 44541
     },
     {
       "id": "12472",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 38496
+      "adds": 38720
     },
     {
       "id": "6039",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 37248
+      "adds": 36342
     },
     {
       "id": "13402",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 34575
+      "adds": 34345
     },
     {
       "id": "650",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 32748
+      "adds": 33066
     },
     {
       "id": "5970",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31344
+      "adds": 31206
     },
     {
       "id": "2747",
@@ -4365,29 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 28855
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 27616
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 26656
+      "adds": 28275
     },
     {
       "id": "13274",
@@ -4398,7 +4376,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 26382
+      "adds": 26694
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 26272
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 25016
     },
     {
       "id": "6650",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 22944
+      "adds": 21280
     },
     {
       "id": "5995",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 15732
+      "adds": 15444
     },
     {
       "id": "6865",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 13794
+      "adds": 13548
     }
   ]
 }
