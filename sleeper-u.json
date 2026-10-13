@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T13:46:06.728Z",
+  "generated_at": "2026-10-13T14:06:20.660Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -404,14 +404,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "9228",
-          "name": "Bryce Young",
+          "id": "11560",
+          "name": "Caleb Williams",
           "pos": "QB",
-          "team": "CAR",
-          "injury": null,
+          "team": "CHI",
+          "injury": "Out",
           "status": "Active",
-          "depth": 1,
-          "rank": 133
+          "depth": 3,
+          "rank": 20
         },
         {
           "id": "9509",
@@ -474,14 +474,14 @@
           "rank": 40
         },
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
+          "id": "9228",
+          "name": "Bryce Young",
           "pos": "QB",
-          "team": "HOU",
+          "team": "CAR",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 102
+          "rank": 133
         },
         {
           "id": "6083",
@@ -1831,6 +1831,16 @@
       },
       "starters": [
         {
+          "id": "11560",
+          "name": "Caleb Williams",
+          "pos": "QB",
+          "team": "CHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 3,
+          "rank": 20
+        },
+        {
           "id": "12519",
           "name": "Luther Burden",
           "pos": "WR",
@@ -1901,16 +1911,6 @@
           "rank": 1
         },
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "pos": "QB",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 102
-        },
-        {
           "id": "9997",
           "name": "Zay Flowers",
           "pos": "WR",
@@ -1932,16 +1932,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "11560",
-          "name": "Caleb Williams",
-          "pos": "QB",
-          "team": "CHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 3,
-          "rank": 20
-        },
         {
           "id": "1479",
           "name": "Keenan Allen",
@@ -1991,6 +1981,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 203
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 102
         }
       ],
       "reserve": [
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 993400
+      "adds": 1043080
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 314442
+      "adds": 321354
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 247405
+      "adds": 256275
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 176316
+      "adds": 185094
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 161379
+      "adds": 167088
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 131928
+      "adds": 138288
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 129268
+      "adds": 135100
     },
     {
       "id": "13274",
@@ -3896,18 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 114092
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85437
+      "adds": 119074
     },
     {
       "id": "4147",
@@ -3918,18 +3907,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 85424
+      "adds": 87084
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 75688
+      "depth": 3,
+      "rank": 678,
+      "adds": 85572
     },
     {
       "id": "9757",
@@ -3940,29 +3929,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 74980
+      "adds": 79302
     },
     {
-      "id": "6039",
-      "name": "Ty Johnson",
+      "id": "12472",
+      "name": "Raheim Sanders",
       "pos": "RB",
-      "team": "BUF",
-      "injury": null,
+      "team": "CLE",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 2,
-      "rank": 534,
-      "adds": 63414
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 63200
+      "rank": 690,
+      "adds": 77744
     },
     {
       "id": "13545",
@@ -3973,7 +3951,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 62244
+      "adds": 66076
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 65178
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 65145
     },
     {
       "id": "11783",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 60984
+      "adds": 63576
     },
     {
       "id": "7042",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 46500
+      "adds": 49610
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 46485
+      "adds": 48726
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 41944
+      "adds": 43384
     },
     {
       "id": "13402",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33880
+      "adds": 33925
     }
   ]
 }
