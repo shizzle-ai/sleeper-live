@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T22:07:51.562Z",
+  "generated_at": "2026-10-13T22:34:33.386Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1948632
+      "adds": 1982240
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 437337
+      "adds": 440001
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 429355
+      "adds": 434880
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 346662
+      "adds": 352998
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 282144
+      "adds": 287778
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 273012
+      "adds": 275982
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 252848
+      "adds": 257824
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 237854
+      "adds": 243758
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 180076
+      "adds": 184554
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 153132
+      "adds": 156640
     },
     {
       "id": "7042",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 126295
+      "adds": 129040
     },
     {
       "id": "11783",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 117160
+      "adds": 119728
     },
     {
       "id": "12491",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 109416
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 95910
+      "adds": 115962
     },
     {
       "id": "2505",
@@ -3973,40 +3962,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 95247
+      "adds": 97173
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
+      "id": "6039",
+      "name": "Ty Johnson",
       "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 2,
-      "rank": 690,
-      "adds": 93288
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 456,
-      "adds": 93004
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 92235
+      "rank": 534,
+      "adds": 96972
     },
     {
       "id": "2197",
@@ -4017,18 +3984,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 91092
+      "adds": 95228
     },
     {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
+      "id": "11439",
+      "name": "Jaleel McLaughlin",
+      "pos": "RB",
+      "team": "CLE",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 678,
-      "adds": 84519
+      "rank": 698,
+      "adds": 93855
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 92635
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 91992
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 2,
+      "rank": 690,
+      "adds": 91320
     }
   ]
 }
