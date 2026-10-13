@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T00:12:55.125Z",
+  "generated_at": "2026-10-13T00:44:15.475Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 143.12,
+      "points": 152.02,
       "starters": [
         {
           "id": "6770",
@@ -367,9 +367,9 @@
       ],
       "starters_points": [
         24.6,
-        0,
+        2.5,
         31.5,
-        0,
+        6.4,
         17.2,
         7.4,
         18.7,
@@ -385,8 +385,8 @@
         "4199": 18.7,
         "4217": 7.4,
         "6770": 24.6,
-        "8150": 0,
-        "9493": 0,
+        "8150": 2.5,
+        "9493": 6.4,
         "10236": 0,
         "11584": 31.5,
         "11610": 12.1,
@@ -1057,7 +1057,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 5,
           "rank": 187
         }
       ],
@@ -2108,7 +2108,7 @@
           "team": "BUF",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 1,
           "rank": 120
         },
         {
@@ -2341,7 +2341,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 6,
           "rank": 74
         },
         {
@@ -2592,7 +2592,7 @@
           "team": "BUF",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 5,
           "rank": 50
         }
       ],
@@ -3679,7 +3679,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 6,
         "rank": 190
       },
       {
@@ -4023,7 +4023,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 212
       },
       {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 230624
+      "adds": 238760
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 191943
+      "adds": 180207
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 125640
+      "adds": 122600
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 87336
+      "adds": 87399
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 71826
+      "adds": 69429
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 55616
+      "adds": 55288
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 47940
+      "adds": 45764
     },
     {
       "id": "IND",
@@ -4299,18 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44976
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 36678
+      "adds": 43002
     },
     {
       "id": "12472",
@@ -4321,7 +4310,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 36576
+      "adds": 36712
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 35676
     },
     {
       "id": "13402",
@@ -4332,7 +4332,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 34400
+      "adds": 34480
+    },
+    {
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 585,
+      "adds": 31302
     },
     {
       "id": "650",
@@ -4343,29 +4354,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 32850
-    },
-    {
-      "id": "5970",
-      "name": "Greg Dortch",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 585,
-      "adds": 30912
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 30272
+      "adds": 30036
     },
     {
       "id": "2747",
@@ -4376,7 +4365,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 28865
+      "adds": 27055
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 26888
     },
     {
       "id": "11783",
@@ -4387,18 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25928
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 24272
+      "adds": 24896
     },
     {
       "id": "13274",
@@ -4409,7 +4398,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 24137
+      "adds": 24463
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 22160
     },
     {
       "id": "5995",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 21411
+      "adds": 15120
     },
     {
       "id": "6865",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 13746
+      "adds": 13644
     }
   ]
 }
