@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T16:04:16.682Z",
+  "generated_at": "2026-10-13T16:24:38.202Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -404,14 +404,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "11560",
-          "name": "Caleb Williams",
+          "id": "9758",
+          "name": "C.J. Stroud",
           "pos": "QB",
-          "team": "CHI",
-          "injury": "Out",
+          "team": "HOU",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 20
+          "rank": 102
         },
         {
           "id": "9509",
@@ -1831,16 +1831,6 @@
       },
       "starters": [
         {
-          "id": "11560",
-          "name": "Caleb Williams",
-          "pos": "QB",
-          "team": "CHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 20
-        },
-        {
           "id": "12519",
           "name": "Luther Burden",
           "pos": "WR",
@@ -1911,6 +1901,16 @@
           "rank": 1
         },
         {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 102
+        },
+        {
           "id": "9997",
           "name": "Zay Flowers",
           "pos": "WR",
@@ -1932,6 +1932,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "11560",
+          "name": "Caleb Williams",
+          "pos": "QB",
+          "team": "CHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 20
+        },
         {
           "id": "1479",
           "name": "Keenan Allen",
@@ -1981,16 +1991,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 203
-        },
-        {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "pos": "QB",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 102
         }
       ],
       "reserve": [
@@ -3290,16 +3290,6 @@
         "rank": 190
       },
       {
-        "id": "11569",
-        "name": "Jarquez Hunter",
-        "pos": "RB",
-        "team": "MIA",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
-        "rank": 191
-      },
-      {
         "id": "5995",
         "name": "Justice Hill",
         "pos": "RB",
@@ -3318,6 +3308,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 222
+      },
+      {
+        "id": "11273",
+        "name": "Ben VanSumeren",
+        "pos": "RB",
+        "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 228
       }
     ],
     "WR": [
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1355616
+      "adds": 1423128
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 361215
+      "adds": 372060
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 308930
+      "adds": 321740
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 240870
+      "adds": 252921
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 201384
+      "adds": 209064
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 179952
+      "adds": 189720
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 174332
+      "adds": 182872
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 151151
+      "adds": 158288
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 109996
+      "adds": 117146
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 92364
+      "adds": 98072
     },
     {
       "id": "4147",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 90452
+      "adds": 92580
     },
     {
       "id": "12472",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 88296
+      "adds": 91304
     },
     {
       "id": "12718",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85716
+      "adds": 85959
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 77704
+      "adds": 81120
     },
     {
       "id": "2747",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 74950
+      "adds": 77540
     },
     {
       "id": "6039",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 74862
+      "adds": 76986
     },
     {
       "id": "7042",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 71910
+      "adds": 76790
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 63990
+      "adds": 67275
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 51720
+      "adds": 53928
     },
     {
       "id": "2197",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 41864
+      "adds": 45116
     }
   ]
 }
