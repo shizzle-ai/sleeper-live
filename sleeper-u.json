@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T11:09:12.770Z",
+  "generated_at": "2026-10-13T11:29:29.161Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 687416
+      "adds": 717624
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 273726
+      "adds": 279135
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 195990
+      "adds": 202315
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 127305
+      "adds": 131169
     },
     {
       "id": "IND",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 115197
+      "adds": 122211
     },
     {
       "id": "12542",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 92492
+      "adds": 96616
     },
     {
       "id": "650",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 89994
+      "adds": 94896
     },
     {
       "id": "12718",
@@ -3896,18 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85374
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 78108
+      "adds": 85482
     },
     {
       "id": "13274",
@@ -3918,7 +3907,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 77327
+      "adds": 81282
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 79264
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 62744
+      "adds": 64456
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 53160
+      "adds": 54318
     },
     {
       "id": "2747",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 51065
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 46064
+      "adds": 52795
     },
     {
       "id": "9757",
@@ -3973,7 +3962,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 45902
+      "adds": 49012
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 47712
     },
     {
       "id": "13545",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 35136
+      "adds": 38272
     },
     {
       "id": "13402",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33950
+      "adds": 33965
     },
     {
       "id": "6650",
@@ -4006,18 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 31784
-    },
-    {
-      "id": "5970",
-      "name": "Greg Dortch",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 585,
-      "adds": 31464
+      "adds": 33104
     },
     {
       "id": "2505",
@@ -4028,7 +4017,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 30798
+      "adds": 32346
+    },
+    {
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 585,
+      "adds": 31530
     }
   ]
 }
