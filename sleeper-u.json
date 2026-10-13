@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T13:20:01.434Z",
+  "generated_at": "2026-10-13T13:46:06.728Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 929256
+      "adds": 993400
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 309546
+      "adds": 314442
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 239515
+      "adds": 247405
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 165945
+      "adds": 176316
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 155715
+      "adds": 161379
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 125040
+      "adds": 131928
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 122968
+      "adds": 129268
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 108014
+      "adds": 114092
     },
     {
       "id": "12718",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85572
+      "adds": 85437
     },
     {
       "id": "4147",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 85556
+      "adds": 85424
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 74504
+      "adds": 75688
     },
     {
       "id": "9757",
@@ -3940,18 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 69404
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 61875
+      "adds": 74980
     },
     {
       "id": "6039",
@@ -3962,18 +3951,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 61782
+      "adds": 63414
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 58456
+      "depth": 1,
+      "rank": 125,
+      "adds": 63200
     },
     {
       "id": "13545",
@@ -3984,18 +3973,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 57420
+      "adds": 62244
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 359,
-      "adds": 43785
+      "depth": 3,
+      "rank": 199,
+      "adds": 60984
     },
     {
       "id": "7042",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 42275
+      "adds": 46500
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 359,
+      "adds": 46485
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 40472
+      "adds": 41944
     },
     {
       "id": "13402",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33975
+      "adds": 33880
     }
   ]
 }
