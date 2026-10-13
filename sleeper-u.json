@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T12:03:46.370Z",
+  "generated_at": "2026-10-13T12:29:47.037Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -404,14 +404,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
+          "id": "9228",
+          "name": "Bryce Young",
           "pos": "QB",
-          "team": "HOU",
+          "team": "CAR",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 102
+          "rank": 133
         },
         {
           "id": "9509",
@@ -474,14 +474,14 @@
           "rank": 40
         },
         {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": "Questionable",
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "team": "HOU",
+          "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 77
+          "depth": 1,
+          "rank": 102
         },
         {
           "id": "6083",
@@ -1851,16 +1851,6 @@
           "rank": 39
         },
         {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 77
-        },
-        {
           "id": "6083",
           "name": "Matt Gay",
           "pos": "K",
@@ -1889,6 +1879,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 22
+        },
+        {
+          "id": "9228",
+          "name": "Bryce Young",
+          "pos": "QB",
+          "team": "CAR",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 133
         },
         {
           "id": "9509",
@@ -1963,6 +1963,16 @@
           "rank": 145
         },
         {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "pos": "WR",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 77
+        },
+        {
           "id": "8136",
           "name": "Rachaad White",
           "pos": "RB",
@@ -1971,16 +1981,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 125
-        },
-        {
-          "id": "9228",
-          "name": "Bryce Young",
-          "pos": "QB",
-          "team": "CAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 133
         },
         {
           "id": "9486",
@@ -2805,6 +2805,16 @@
       },
       "starters": [
         {
+          "id": "11559",
+          "name": "Michael Penix",
+          "pos": "QB",
+          "team": "ATL",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 228
+        },
+        {
           "id": "11576",
           "name": "Braelon Allen",
           "pos": "RB",
@@ -2813,6 +2823,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 135
+        },
+        {
+          "id": "11620",
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 65
         },
         {
           "id": "11792",
@@ -2845,16 +2865,6 @@
           "rank": 46
         },
         {
-          "id": "3163",
-          "name": "Jared Goff",
-          "pos": "QB",
-          "team": "DET",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 62
-        },
-        {
           "id": "5022",
           "name": "Dallas Goedert",
           "pos": "TE",
@@ -2863,16 +2873,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 94
-        },
-        {
-          "id": "6794",
-          "name": "Justin Jefferson",
-          "pos": "WR",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 12
         },
         {
           "id": "6904",
@@ -2907,26 +2907,6 @@
       ],
       "bench": [
         {
-          "id": "11559",
-          "name": "Michael Penix",
-          "pos": "QB",
-          "team": "ATL",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 228
-        },
-        {
-          "id": "11620",
-          "name": "Rome Odunze",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 65
-        },
-        {
           "id": "13330",
           "name": "Kenyon Sadiq",
           "pos": "TE",
@@ -2945,6 +2925,26 @@
           "status": "Active",
           "depth": 1,
           "rank": 211
+        },
+        {
+          "id": "3163",
+          "name": "Jared Goff",
+          "pos": "QB",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 62
+        },
+        {
+          "id": "6794",
+          "name": "Justin Jefferson",
+          "pos": "WR",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 12
         },
         {
           "id": "6806",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 771864
+      "adds": 821112
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 286767
+      "adds": 295272
     },
     {
       "id": "11647",
@@ -3841,18 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 212125
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 137712
+      "adds": 221905
     },
     {
       "id": "IND",
@@ -3863,18 +3852,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 133923
+      "adds": 144861
     },
     {
-      "id": "12542",
-      "name": "Efton Chism",
+      "id": "4454",
+      "name": "Kendrick Bourne",
       "pos": "WR",
-      "team": "NE",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 103544
+      "depth": 2,
+      "rank": 673,
+      "adds": 144090
     },
     {
       "id": "650",
@@ -3885,7 +3874,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 102990
+      "adds": 110466
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 110304
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 88494
+      "adds": 95120
     },
     {
       "id": "12718",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85392
+      "adds": 85554
     },
     {
       "id": "4147",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 80820
+      "adds": 82876
     },
     {
       "id": "12472",
@@ -3929,29 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 67216
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 56436
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 55165
+      "adds": 69720
     },
     {
       "id": "9757",
@@ -3962,7 +3940,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 54722
+      "adds": 59608
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 58206
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 57535
     },
     {
       "id": "11783",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 50416
+      "adds": 53024
     },
     {
       "id": "13545",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 43648
+      "adds": 48304
     },
     {
       "id": "2505",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 35343
+      "adds": 38349
     },
     {
       "id": "6650",
@@ -4006,7 +4006,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 35056
+      "adds": 37000
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 34390
     },
     {
       "id": "13402",
@@ -4017,18 +4028,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33975
-    },
-    {
-      "id": "5970",
-      "name": "Greg Dortch",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 585,
-      "adds": 31584
+      "adds": 34005
     }
   ]
 }
