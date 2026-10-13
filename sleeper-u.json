@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T23:20:02.174Z",
+  "generated_at": "2026-10-13T23:45:02.795Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2068952
+      "adds": 2102104
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 455270
+      "adds": 460955
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 452349
+      "adds": 407205
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 365925
+      "adds": 371847
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 298614
+      "adds": 303204
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 289287
+      "adds": 292950
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 269832
+      "adds": 274776
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 257446
+      "adds": 263383
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 193740
+      "adds": 198404
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 162516
+      "adds": 165668
     },
     {
       "id": "7042",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 134460
+      "adds": 136940
     },
     {
       "id": "12491",
@@ -3940,18 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 128412
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 127568
+      "adds": 135432
     },
     {
       "id": "11439",
@@ -3962,7 +3951,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 698,
-      "adds": 118795
+      "adds": 133590
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 130456
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 102208
+      "adds": 106308
     },
     {
       "id": "2505",
@@ -3984,29 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 101448
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 100752
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 95276
+      "adds": 102753
     },
     {
       "id": "2747",
@@ -4017,7 +3995,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 95060
+      "adds": 95495
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 94212
     },
     {
       "id": "12472",
@@ -4028,7 +4017,18 @@
       "status": "Inactive",
       "depth": 2,
       "rank": 690,
-      "adds": 91800
+      "adds": 89904
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 87648
     }
   ]
 }
