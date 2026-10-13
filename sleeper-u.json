@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T07:03:48.381Z",
+  "generated_at": "2026-10-13T07:27:11.547Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 514648
+      "adds": 532552
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 245997
+      "adds": 249849
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 164085
+      "adds": 168065
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 105711
+      "adds": 108327
     },
     {
       "id": "12718",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85275
+      "adds": 85347
     },
     {
       "id": "IND",
@@ -3874,18 +3874,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 78858
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 71944
+      "adds": 83436
     },
     {
       "id": "12542",
@@ -3896,7 +3885,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 70936
+      "adds": 73248
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 72904
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 63306
+      "adds": 66882
     },
     {
       "id": "13274",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 54559
+      "adds": 56946
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 52984
+      "adds": 54248
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 47208
+      "adds": 47820
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 42165
+      "adds": 43535
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 37656
+      "adds": 38632
     },
     {
       "id": "13402",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33985
+      "adds": 34020
     },
     {
       "id": "5970",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31170
+      "adds": 31200
     },
     {
       "id": "9757",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 28826
+      "adds": 30600
     },
     {
       "id": "6650",
@@ -4006,18 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 24544
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 20944
+      "adds": 25768
     },
     {
       "id": "2505",
@@ -4028,7 +4017,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 20781
+      "adds": 22050
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 21216
     }
   ]
 }
