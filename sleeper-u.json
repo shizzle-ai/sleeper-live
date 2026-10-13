@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T10:36:09.445Z",
+  "generated_at": "2026-10-13T10:55:28.331Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 666,
-      "adds": 646680
+      "adds": 669152
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 266193
+      "adds": 270504
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 187465
+      "adds": 192150
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 122055
+      "adds": 124902
     },
     {
       "id": "IND",
@@ -3863,7 +3863,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 105906
+      "adds": 111021
     },
     {
       "id": "12542",
@@ -3874,18 +3874,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 87184
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85158
+      "adds": 90076
     },
     {
       "id": "650",
@@ -3896,7 +3885,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 83280
+      "adds": 87066
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85293
     },
     {
       "id": "4147",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 76276
+      "adds": 77280
     },
     {
       "id": "13274",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 72064
+      "adds": 74985
     },
     {
       "id": "12472",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 60216
+      "adds": 61584
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 51432
+      "adds": 52476
     },
     {
       "id": "2747",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 48885
+      "adds": 50115
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 43928
+      "adds": 45168
     },
     {
       "id": "9757",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 41790
+      "adds": 44070
     },
     {
       "id": "13402",
@@ -3984,18 +3984,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 387,
-      "adds": 33910
-    },
-    {
-      "id": "5970",
-      "name": "Greg Dortch",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 585,
-      "adds": 31374
+      "adds": 33940
     },
     {
       "id": "13545",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 31068
+      "adds": 33372
+    },
+    {
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 585,
+      "adds": 31416
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 29968
+      "adds": 30904
     },
     {
       "id": "2505",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 28539
+      "adds": 29781
     }
   ]
 }
