@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T17:37:26.395Z",
+  "generated_at": "2026-10-13T17:53:34.130Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1540648
+      "adds": 1571976
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 385587
+      "adds": 390393
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 343480
+      "adds": 349705
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 277215
+      "adds": 282771
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 223608
+      "adds": 227619
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 210876
+      "adds": 217188
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 199252
+      "adds": 203072
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 176021
+      "adds": 180001
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 133262
+      "adds": 136642
     },
     {
       "id": "13545",
@@ -3918,29 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 112160
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 90056
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 89728
+      "adds": 115660
     },
     {
       "id": "7042",
@@ -3951,7 +3929,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 89100
+      "adds": 92680
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 91072
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 90832
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 88072
+      "adds": 90080
     },
     {
       "id": "12718",
@@ -3973,18 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85266
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 80886
+      "adds": 85329
     },
     {
       "id": "2747",
@@ -3995,7 +3984,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 80575
+      "adds": 81965
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 81918
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 73656
+      "adds": 75276
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 57592
+      "adds": 58800
     },
     {
       "id": "2197",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 56320
+      "adds": 58620
     }
   ]
 }
