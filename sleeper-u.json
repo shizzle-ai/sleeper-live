@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-12T23:56:13.650Z",
+  "generated_at": "2026-10-13T00:12:55.125Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 225048
+      "adds": 230624
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 186444
+      "adds": 191943
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 123570
+      "adds": 125640
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 82431
+      "adds": 87336
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 70632
+      "adds": 71826
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 54748
+      "adds": 55616
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 47200
+      "adds": 47940
     },
     {
       "id": "IND",
@@ -4299,18 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44550
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 35952
+      "adds": 44976
     },
     {
       "id": "6039",
@@ -4321,18 +4310,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 34944
+      "adds": 36678
     },
     {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 32388
+      "depth": 2,
+      "rank": 690,
+      "adds": 36576
     },
     {
       "id": "13402",
@@ -4343,29 +4332,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 31020
+      "adds": 34400
     },
     {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 30112
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
+      "id": "650",
+      "name": "Nick Folk",
       "pos": "K",
-      "team": "SEA",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 125,
-      "adds": 28540
+      "rank": 249,
+      "adds": 32850
     },
     {
       "id": "5970",
@@ -4376,7 +4354,29 @@
       "status": "Active",
       "depth": 5,
       "rank": 585,
-      "adds": 26508
+      "adds": 30912
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 30272
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 28865
     },
     {
       "id": "11783",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 25584
+      "adds": 25928
     },
     {
       "id": "6650",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 24064
+      "adds": 24272
     },
     {
       "id": "13274",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 23556
+      "adds": 24137
     },
     {
       "id": "5995",
@@ -4420,18 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 21249
+      "adds": 21411
     },
     {
-      "id": "11623",
-      "name": "Jordan Whittington",
-      "pos": "WR",
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
       "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 648,
-      "adds": 13113
+      "depth": 2,
+      "rank": 136,
+      "adds": 13746
     }
   ]
 }
