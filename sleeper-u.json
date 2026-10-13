@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T15:27:54.020Z",
+  "generated_at": "2026-10-13T15:47:57.090Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -127,14 +127,24 @@
         "rank": 128
       },
       {
-        "id": "4199",
-        "name": "Aaron Jones",
+        "id": "4035",
+        "name": "Alvin Kamara",
         "pos": "RB",
-        "team": "MIN",
+        "team": "NO",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 119
+      },
+      {
+        "id": "4046",
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "team": "KC",
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 85
+        "rank": 39
       },
       {
         "id": "4217",
@@ -145,16 +155,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 79
-      },
-      {
-        "id": "6770",
-        "name": "Joe Burrow",
-        "pos": "QB",
-        "team": "CIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 15
       },
       {
         "id": "8150",
@@ -229,24 +229,24 @@
         "rank": 206
       },
       {
-        "id": "4035",
-        "name": "Alvin Kamara",
+        "id": "4199",
+        "name": "Aaron Jones",
         "pos": "RB",
-        "team": "NO",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 119
-      },
-      {
-        "id": "4046",
-        "name": "Patrick Mahomes",
-        "pos": "QB",
-        "team": "KC",
+        "team": "MIN",
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 39
+        "rank": 85
+      },
+      {
+        "id": "6770",
+        "name": "Joe Burrow",
+        "pos": "QB",
+        "team": "CIN",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 15
       }
     ],
     "reserve": [],
@@ -265,14 +265,14 @@
       "points": 0,
       "starters": [
         {
-          "id": "6770",
-          "name": "Joe Burrow",
+          "id": "4046",
+          "name": "Patrick Mahomes",
           "pos": "QB",
-          "team": "CIN",
-          "injury": null,
+          "team": "KC",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 15
+          "rank": 39
         },
         {
           "id": "8150",
@@ -325,14 +325,14 @@
           "rank": 79
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
+          "id": "4035",
+          "name": "Alvin Kamara",
           "pos": "RB",
-          "team": "MIN",
-          "injury": "Questionable",
+          "team": "NO",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 119
         },
         {
           "id": "1166",
@@ -2665,14 +2665,24 @@
           "rank": 128
         },
         {
-          "id": "4199",
-          "name": "Aaron Jones",
+          "id": "4035",
+          "name": "Alvin Kamara",
           "pos": "RB",
-          "team": "MIN",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 119
+        },
+        {
+          "id": "4046",
+          "name": "Patrick Mahomes",
+          "pos": "QB",
+          "team": "KC",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 85
+          "rank": 39
         },
         {
           "id": "4217",
@@ -2683,16 +2693,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 79
-        },
-        {
-          "id": "6770",
-          "name": "Joe Burrow",
-          "pos": "QB",
-          "team": "CIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 15
         },
         {
           "id": "8150",
@@ -2767,24 +2767,24 @@
           "rank": 206
         },
         {
-          "id": "4035",
-          "name": "Alvin Kamara",
+          "id": "4199",
+          "name": "Aaron Jones",
           "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 119
-        },
-        {
-          "id": "4046",
-          "name": "Patrick Mahomes",
-          "pos": "QB",
-          "team": "KC",
+          "team": "MIN",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 85
+        },
+        {
+          "id": "6770",
+          "name": "Joe Burrow",
+          "pos": "QB",
+          "team": "CIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 15
         }
       ],
       "reserve": [],
@@ -3200,6 +3200,16 @@
         "rank": 167
       },
       {
+        "id": "12476",
+        "name": "Devin Neal",
+        "pos": "RB",
+        "team": "WAS",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 169
+      },
+      {
         "id": "7528",
         "name": "Najee Harris",
         "pos": "RB",
@@ -3308,16 +3318,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 222
-      },
-      {
-        "id": "11273",
-        "name": "Ben VanSumeren",
-        "pos": "RB",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 228
       }
     ],
     "WR": [
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1250264
+      "adds": 1297760
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 348030
+      "adds": 351783
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 292355
+      "adds": 298420
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 220815
+      "adds": 230226
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 190317
+      "adds": 194607
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 164490
+      "adds": 171594
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 160712
+      "adds": 166724
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 140032
+      "adds": 145431
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 98550
+      "adds": 104334
     },
     {
       "id": "4147",
@@ -3918,29 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 90828
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 85952
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85752
+      "adds": 88836
     },
     {
       "id": "13545",
@@ -3951,7 +3929,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 81964
+      "adds": 87312
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 85912
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85572
     },
     {
       "id": "11783",
@@ -3962,18 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 73208
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 71490
+      "adds": 75224
     },
     {
       "id": "6039",
@@ -3984,7 +3973,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 71448
+      "adds": 72894
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 72665
     },
     {
       "id": "7042",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 64105
+      "adds": 67895
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 58653
+      "adds": 61344
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 48928
+      "adds": 50048
     },
     {
       "id": "2197",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 36668
+      "adds": 39144
     }
   ]
 }
