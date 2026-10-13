@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T05:00:30.290Z",
+  "generated_at": "2026-10-13T05:18:52.950Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 423808
+      "adds": 443624
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 233676
+      "adds": 237924
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 153425
+      "adds": 156555
     },
     {
       "id": "4454",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 93204
+      "adds": 96237
     },
     {
       "id": "12718",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85527
+      "adds": 85572
     },
     {
       "id": "4147",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 68652
+      "adds": 69760
     },
     {
       "id": "IND",
@@ -3885,7 +3885,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64074
+      "adds": 67650
     },
     {
       "id": "12542",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 61144
+      "adds": 63728
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 52962
+      "adds": 55500
     },
     {
       "id": "12472",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 48024
+      "adds": 49056
     },
     {
       "id": "6039",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 44796
+      "adds": 45534
     },
     {
       "id": "13274",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 42064
+      "adds": 44788
     },
     {
       "id": "2747",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 38165
-    },
-    {
-      "id": "13402",
-      "name": "Skyler Bell",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 388,
-      "adds": 34070
+      "adds": 39255
     },
     {
       "id": "11783",
@@ -3973,7 +3962,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 33152
+      "adds": 34368
+    },
+    {
+      "id": "13402",
+      "name": "Skyler Bell",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 388,
+      "adds": 34090
     },
     {
       "id": "5970",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31062
+      "adds": 31098
     },
     {
       "id": "6650",
@@ -3995,18 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 22616
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 21280
+      "adds": 23512
     },
     {
       "id": "9757",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 21086
+      "adds": 22824
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 21600
     },
     {
       "id": "2505",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 16344
+      "adds": 17397
     }
   ]
 }
