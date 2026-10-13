@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T18:06:03.258Z",
+  "generated_at": "2026-10-13T18:30:32.765Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1594768
+      "adds": 1618136
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 393912
+      "adds": 395451
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 354765
+      "adds": 357555
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 286632
+      "adds": 292221
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 230625
+      "adds": 232104
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 222324
+      "adds": 229674
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 205836
+      "adds": 209096
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 182865
+      "adds": 186863
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 139050
+      "adds": 142848
     },
     {
       "id": "13545",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 118340
+      "adds": 122776
     },
     {
       "id": "7042",
@@ -3929,29 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 95080
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 91852
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 690,
-      "adds": 91640
+      "adds": 99305
     },
     {
       "id": "11783",
@@ -3962,7 +3940,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 91584
+      "adds": 93272
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 89888
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 89616
     },
     {
       "id": "12718",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 85356
+      "adds": 85023
     },
     {
       "id": "2747",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 82965
+      "adds": 83535
     },
     {
       "id": "6039",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 82698
+      "adds": 83226
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 76212
+      "adds": 77913
     },
     {
       "id": "2197",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 60324
+      "adds": 63512
     },
     {
       "id": "6650",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 59800
+      "adds": 60816
     }
   ]
 }
