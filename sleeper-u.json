@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T15:06:56.904Z",
+  "generated_at": "2026-10-13T15:27:54.020Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 1191792
+      "adds": 1250264
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 339255
+      "adds": 348030
     },
     {
       "id": "11647",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 281760
+      "adds": 292355
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 210384
+      "adds": 220815
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 183213
+      "adds": 190317
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 156186
+      "adds": 164490
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 153260
+      "adds": 160712
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 134019
+      "adds": 140032
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 93080
+      "adds": 98550
     },
     {
       "id": "4147",
@@ -3918,18 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 89116
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 85626
+      "adds": 90828
     },
     {
       "id": "12472",
@@ -3940,7 +3929,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 83304
+      "adds": 85952
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 85752
     },
     {
       "id": "13545",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 77252
+      "adds": 81964
     },
     {
       "id": "11783",
@@ -3962,18 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 70624
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 69666
+      "adds": 73208
     },
     {
       "id": "2747",
@@ -3984,7 +3973,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 69475
+      "adds": 71490
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 71448
     },
     {
       "id": "7042",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 59700
+      "adds": 64105
     },
     {
       "id": "2505",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 55629
+      "adds": 58653
     },
     {
       "id": "6650",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 47320
+      "adds": 48928
     },
     {
       "id": "2197",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 531,
-      "adds": 34196
+      "adds": 36668
     }
   ]
 }
