@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T04:03:27.736Z",
+  "generated_at": "2026-10-13T04:23:08.063Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 354832
+      "adds": 382928
     },
     {
       "id": "3271",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 224046
+      "adds": 232740
     },
     {
       "id": "11647",
@@ -3841,18 +3841,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 146370
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 678,
-      "adds": 86103
+      "adds": 152305
     },
     {
       "id": "4454",
@@ -3863,7 +3852,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 83985
+      "adds": 89025
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 678,
+      "adds": 86211
     },
     {
       "id": "4147",
@@ -3874,18 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 65660
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 54356
+      "adds": 67920
     },
     {
       "id": "IND",
@@ -3896,7 +3885,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 52653
+      "adds": 58182
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 58100
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 44718
+      "adds": 48966
     },
     {
       "id": "12472",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 43992
+      "adds": 45808
     },
     {
       "id": "6039",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 43050
+      "adds": 44262
     },
     {
       "id": "2747",
@@ -3940,18 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 34650
-    },
-    {
-      "id": "13402",
-      "name": "Skyler Bell",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 388,
-      "adds": 34250
+      "adds": 36990
     },
     {
       "id": "13274",
@@ -3962,18 +3951,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 33399
+      "adds": 36586
     },
     {
-      "id": "5970",
-      "name": "Greg Dortch",
+      "id": "13402",
+      "name": "Skyler Bell",
       "pos": "WR",
       "team": "BUF",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 585,
-      "adds": 31074
+      "depth": 4,
+      "rank": 388,
+      "adds": 34290
     },
     {
       "id": "11783",
@@ -3984,18 +3973,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 29776
+      "adds": 31656
     },
     {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
+      "id": "5970",
+      "name": "Greg Dortch",
+      "pos": "WR",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 22240
+      "depth": 3,
+      "rank": 585,
+      "adds": 31146
     },
     {
       "id": "6650",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 21720
+      "adds": 23400
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 22936
     },
     {
       "id": "9757",
@@ -4017,18 +4017,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 15154
+      "adds": 17658
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 13608
+      "depth": 1,
+      "rank": 358,
+      "adds": 15093
     }
   ]
 }
