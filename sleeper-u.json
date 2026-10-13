@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T02:55:55.033Z",
+  "generated_at": "2026-10-13T03:08:38.428Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 6,
-      "points": 181.92,
+      "points": 182.12,
       "starters": [
         {
           "id": "6770",
@@ -367,9 +367,9 @@
       ],
       "starters_points": [
         24.6,
-        8.2,
+        8.5,
         31.5,
-        30.6,
+        30.5,
         17.2,
         7.4,
         18.7,
@@ -385,8 +385,8 @@
         "4199": 18.7,
         "4217": 7.4,
         "6770": 24.6,
-        "8150": 8.2,
-        "9493": 30.6,
+        "8150": 8.5,
+        "9493": 30.5,
         "10236": 3.7,
         "11584": 31.5,
         "11610": 12.1,
@@ -4222,7 +4222,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 302592
+      "adds": 312392
     },
     {
       "id": "3271",
@@ -4233,7 +4233,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 181899
+      "adds": 206694
     },
     {
       "id": "11647",
@@ -4244,7 +4244,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 135580
+      "adds": 138650
     },
     {
       "id": "12718",
@@ -4255,7 +4255,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 86427
+      "adds": 86454
     },
     {
       "id": "4454",
@@ -4266,7 +4266,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 76632
+      "adds": 78393
     },
     {
       "id": "4147",
@@ -4277,7 +4277,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 60980
+      "adds": 62268
     },
     {
       "id": "12542",
@@ -4288,7 +4288,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 49708
+      "adds": 51072
     },
     {
       "id": "IND",
@@ -4299,7 +4299,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46632
+      "adds": 47838
     },
     {
       "id": "12472",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 41040
+      "adds": 41792
     },
     {
       "id": "6039",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 40014
+      "adds": 40584
     },
     {
       "id": "650",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 37074
+      "adds": 38124
     },
     {
       "id": "13402",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 388,
-      "adds": 34400
+      "adds": 34420
     },
     {
       "id": "5970",
@@ -4354,7 +4354,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 585,
-      "adds": 31104
+      "adds": 31128
     },
     {
       "id": "2747",
@@ -4365,7 +4365,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 29805
+      "adds": 30740
     },
     {
       "id": "13274",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 194,
-      "adds": 29479
+      "adds": 30222
     },
     {
       "id": "11783",
@@ -4387,7 +4387,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 27488
+      "adds": 28136
     },
     {
       "id": "10235",
@@ -4398,7 +4398,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 23304
+      "adds": 23576
     },
     {
       "id": "6650",
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 20568
+      "adds": 21112
     },
     {
       "id": "5995",
@@ -4420,7 +4420,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 13743
+      "adds": 14031
     },
     {
       "id": "6865",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 13326
+      "adds": 13368
     }
   ]
 }
