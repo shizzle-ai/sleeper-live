@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T20:40:21.317Z",
+  "generated_at": "2026-10-14T21:07:55.212Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1957,7 +1957,7 @@
           "name": "Keenan Allen",
           "pos": "WR",
           "team": "IND",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 180
@@ -2188,7 +2188,7 @@
           "name": "Tony Pollard",
           "pos": "RB",
           "team": "TEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 63
@@ -3441,7 +3441,7 @@
         "name": "Sean Tucker",
         "pos": "RB",
         "team": "TB",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 155
@@ -3823,7 +3823,7 @@
         "name": "Darnell Mooney",
         "pos": "WR",
         "team": "NYG",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 194
@@ -3915,7 +3915,7 @@
         "name": "Theo Johnson",
         "pos": "TE",
         "team": "NYG",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 144
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 587745
+      "adds": 594162
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 402255
+      "adds": 407448
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 353646
+      "adds": 356868
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 271080
+      "adds": 276008
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 248160
+      "adds": 251935
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 233592
+      "adds": 236104
     },
     {
       "id": "11058",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 167472
+      "adds": 170487
     },
     {
       "id": "2505",
@@ -4203,18 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 167076
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 132765
+      "adds": 168858
     },
     {
       "id": "NO",
@@ -4225,7 +4214,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132400
+      "adds": 134840
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 134646
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 120006
+      "adds": 121776
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 118968
+      "adds": 120280
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104424
+      "adds": 105912
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 99141
+      "adds": 100877
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 89972
+      "adds": 90676
     },
     {
       "id": "NYG",
@@ -4291,7 +4291,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69228
+      "adds": 70240
     },
     {
       "id": "8116",
@@ -4302,7 +4302,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 66573
+      "adds": 67383
     },
     {
       "id": "12469",
@@ -4313,7 +4313,7 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 64160
+      "adds": 66715
     },
     {
       "id": "10235",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 60504
+      "adds": 61320
     },
     {
       "id": "13414",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 58541
+      "adds": 59374
     }
   ]
 }
