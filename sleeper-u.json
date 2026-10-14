@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T20:12:39.260Z",
+  "generated_at": "2026-10-14T20:40:21.317Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1162,7 +1162,7 @@
           "name": "Chris Olave",
           "pos": "WR",
           "team": "NO",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 29
@@ -1395,7 +1395,7 @@
           "name": "Jalen Coker",
           "pos": "WR",
           "team": "CAR",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 132
@@ -1605,7 +1605,7 @@
           "name": "Tyjae Spears",
           "pos": "RB",
           "team": "TEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 122
@@ -3118,7 +3118,7 @@
             "name": "Tyjae Spears",
             "pos": "RB",
             "team": "TEN",
-            "injury": null,
+            "injury": "Questionable",
             "status": "Active",
             "depth": 2,
             "rank": 122
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 597987
+      "adds": 587745
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 410904
+      "adds": 402255
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 363186
+      "adds": 353646
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 274912
+      "adds": 271080
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 252035
+      "adds": 248160
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 238904
+      "adds": 233592
     },
     {
       "id": "11058",
@@ -4192,18 +4192,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 170802
+      "adds": 167472
     },
     {
       "id": "2505",
       "name": "Darren Waller",
       "pos": "TE",
       "team": "CAR",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 170235
+      "adds": 167076
     },
     {
       "id": "5189",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 135099
+      "adds": 132765
     },
     {
       "id": "NO",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 132405
+      "adds": 132400
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 121860
+      "adds": 120006
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 121056
+      "adds": 118968
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 105624
+      "adds": 104424
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 100366
+      "adds": 99141
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 92976
+      "adds": 89972
     },
     {
       "id": "NYG",
@@ -4291,7 +4291,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69660
+      "adds": 69228
     },
     {
       "id": "8116",
@@ -4302,7 +4302,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 68004
+      "adds": 66573
     },
     {
       "id": "12469",
@@ -4313,7 +4313,7 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 62345
+      "adds": 64160
     },
     {
       "id": "10235",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 62000
+      "adds": 60504
     },
     {
       "id": "13414",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 59514
+      "adds": 58541
     }
   ]
 }
