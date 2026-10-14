@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T16:36:08.791Z",
+  "generated_at": "2026-10-14T17:08:32.057Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -213,7 +213,7 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": "Doubtful",
         "status": "Active",
         "depth": 2,
         "rank": 162
@@ -2751,7 +2751,7 @@
           "name": "Adonai Mitchell",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 2,
           "rank": 162
@@ -2983,7 +2983,7 @@
           "name": "Breece Hall",
           "pos": "RB",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 1,
           "rank": 27
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 600105
+      "adds": 612249
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 422712
+      "adds": 431370
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 372948
+      "adds": 378510
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 267860
+      "adds": 276264
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 250820
+      "adds": 257445
     },
     {
       "id": "2197",
@@ -4181,18 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 244300
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 166968
+      "adds": 248356
     },
     {
       "id": "11058",
@@ -4203,7 +4192,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 166959
+      "adds": 171558
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 171081
     },
     {
       "id": "5189",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 133116
+      "adds": 136593
     },
     {
       "id": "6039",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 121806
+      "adds": 124578
     },
     {
       "id": "4227",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 121576
+      "adds": 123792
     },
     {
       "id": "NO",
@@ -4247,7 +4247,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118890
+      "adds": 123410
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104792
+      "adds": 107288
     },
     {
       "id": "4147",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 99428
+      "adds": 100576
     },
     {
       "id": "2020",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 92183
+      "adds": 95410
     },
     {
       "id": "8116",
@@ -4291,7 +4291,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 68382
+      "adds": 69750
     },
     {
       "id": "NYG",
@@ -4302,7 +4302,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 65912
+      "adds": 67840
     },
     {
       "id": "10235",
@@ -4313,7 +4313,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 58872
+      "adds": 60120
     },
     {
       "id": "13414",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 57393
+      "adds": 58723
     },
     {
       "id": "3214",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 92,
-      "adds": 47589
+      "adds": 49038
     }
   ]
 }
