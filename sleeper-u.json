@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T02:07:44.134Z",
+  "generated_at": "2026-10-14T02:34:50.650Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2454,6 +2454,26 @@
           "rank": 34
         },
         {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 91
+        },
+        {
+          "id": "1466",
+          "name": "Travis Kelce",
+          "pos": "TE",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 89
+        },
+        {
           "id": "3198",
           "name": "Derrick Henry",
           "pos": "RB",
@@ -2474,6 +2494,16 @@
           "rank": 64
         },
         {
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 48
+        },
+        {
           "id": "5849",
           "name": "Kyler Murray",
           "pos": "QB",
@@ -2492,36 +2522,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 46
-        },
-        {
-          "id": "7564",
-          "name": "Ja'Marr Chase",
-          "pos": "WR",
-          "team": "CIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 3
-        },
-        {
-          "id": "8154",
-          "name": "Brian Robinson",
-          "pos": "RB",
-          "team": "ATL",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 80
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "pos": "TE",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 465
         },
         {
           "id": "MIN",
@@ -2556,16 +2556,6 @@
           "rank": 628
         },
         {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 91
-        },
-        {
           "id": "13305",
           "name": "Mike Washington",
           "pos": "RB",
@@ -2576,24 +2566,34 @@
           "rank": 123
         },
         {
-          "id": "1466",
-          "name": "Travis Kelce",
-          "pos": "TE",
-          "team": "KC",
-          "injury": null,
+          "id": "7564",
+          "name": "Ja'Marr Chase",
+          "pos": "WR",
+          "team": "CIN",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 3
         },
         {
-          "id": "4983",
-          "name": "DJ Moore",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": "Out",
+          "id": "8154",
+          "name": "Brian Robinson",
+          "pos": "RB",
+          "team": "ATL",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 48
+          "depth": 2,
+          "rank": 80
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 465
         }
       ],
       "reserve": [
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2465008
+      "adds": 2528728
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 548060
+      "adds": 560690
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 438435
+      "adds": 444879
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 427905
+      "adds": 437139
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 347076
+      "adds": 355740
     },
     {
       "id": "650",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 338706
+      "adds": 342774
     },
     {
       "id": "13274",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 324017
+      "adds": 335794
     },
     {
       "id": "12542",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 322512
+      "adds": 330976
     },
     {
       "id": "11439",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 264500
+      "adds": 295855
     },
     {
       "id": "9757",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 238862
+      "adds": 246174
     },
     {
       "id": "12491",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 193326
+      "adds": 206454
     },
     {
       "id": "13545",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 186408
+      "adds": 189676
     },
     {
       "id": "11783",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 164272
+      "adds": 170448
     },
     {
       "id": "7042",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 156300
+      "adds": 159990
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 140776
+      "adds": 148688
     },
     {
       "id": "2505",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 120780
+      "adds": 124110
     },
     {
       "id": "4147",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 102712
+      "adds": 102344
     },
     {
       "id": "2747",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 101385
+      "adds": 100890
     },
     {
       "id": "6039",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 98610
+      "adds": 98838
     },
     {
       "id": "12472",
@@ -4028,7 +4028,7 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 690,
-      "adds": 87536
+      "adds": 85432
     }
   ]
 }
