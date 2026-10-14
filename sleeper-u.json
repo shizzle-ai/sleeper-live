@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T22:30:24.899Z",
+  "generated_at": "2026-10-14T22:56:35.189Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1363,7 +1363,7 @@
           "name": "Jaxon Smith-Njigba",
           "pos": "WR",
           "team": "SEA",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 6
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 579759
+      "adds": 585834
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 392085
+      "adds": 397053
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 333738
+      "adds": 336660
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 273432
+      "adds": 277624
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 248355
+      "adds": 251720
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 224992
+      "adds": 227312
     },
     {
       "id": "11058",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 166239
+      "adds": 168831
     },
     {
       "id": "2505",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 163404
+      "adds": 164826
     },
     {
       "id": "NO",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 136685
+      "adds": 138940
     },
     {
       "id": "5189",
@@ -4225,18 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 131898
-    },
-    {
-      "id": "4227",
-      "name": "Harrison Butker",
-      "pos": "K",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 117576
+      "adds": 133629
     },
     {
       "id": "6039",
@@ -4247,7 +4236,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 117444
+      "adds": 118998
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "pos": "K",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 118648
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104336
+      "adds": 105656
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 100702
+      "adds": 102459
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 84264
+      "adds": 84932
     },
     {
       "id": "12469",
@@ -4291,7 +4291,7 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 71405
+      "adds": 72830
     },
     {
       "id": "NYG",
@@ -4302,7 +4302,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70348
+      "adds": 71228
     },
     {
       "id": "8116",
@@ -4313,7 +4313,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 64161
+      "adds": 64989
     },
     {
       "id": "13414",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 57820
+      "adds": 58471
     },
     {
       "id": "10235",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 56568
+      "adds": 56968
     }
   ]
 }
