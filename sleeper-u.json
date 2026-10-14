@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T16:04:15.019Z",
+  "generated_at": "2026-10-14T16:36:08.791Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1200,14 +1200,24 @@
           "rank": 95
         },
         {
-          "id": "13301",
-          "name": "Antonio Williams",
+          "id": "12542",
+          "name": "Efton Chism",
           "pos": "WR",
-          "team": "WAS",
+          "team": "NE",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 156
+          "depth": 4,
+          "rank": 572
+        },
+        {
+          "id": "4866",
+          "name": "Saquon Barkley",
+          "pos": "RB",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 11
         },
         {
           "id": "5870",
@@ -1228,16 +1238,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 56
-        },
-        {
-          "id": "9756",
-          "name": "Jordan Addison",
-          "pos": "WR",
-          "team": "MIN",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 99
         }
       ],
       "reserve": [
@@ -1252,14 +1252,14 @@
           "rank": 52
         },
         {
-          "id": "4866",
-          "name": "Saquon Barkley",
-          "pos": "RB",
-          "team": "PHI",
-          "injury": "Questionable",
+          "id": "9756",
+          "name": "Jordan Addison",
+          "pos": "WR",
+          "team": "MIN",
+          "injury": "Out",
           "status": "Active",
-          "depth": 1,
-          "rank": 11
+          "depth": 6,
+          "rank": 99
         }
       ],
       "taxi": [],
@@ -2556,16 +2556,6 @@
           "rank": 127
         },
         {
-          "id": "13264",
-          "name": "Dohnte Meyers",
-          "pos": "WR",
-          "team": "CIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 628
-        },
-        {
           "id": "13305",
           "name": "Mike Washington",
           "pos": "RB",
@@ -3005,6 +2995,75 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1416133125544652801",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791994956912,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "13264",
+            "name": "Dohnte Meyers",
+            "pos": "WR",
+            "team": "CIN",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 628
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416131020729716736",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791994455086,
+      "adds": [
+        {
+          "player": {
+            "id": "12542",
+            "name": "Efton Chism",
+            "pos": "WR",
+            "team": "NE",
+            "injury": null,
+            "status": "Active",
+            "depth": 4,
+            "rank": 572
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "13301",
+            "name": "Antonio Williams",
+            "pos": "WR",
+            "team": "WAS",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 156
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1416100851570806784",
       "type": "free_agent",
@@ -3620,6 +3679,16 @@
         "rank": 150
       },
       {
+        "id": "13301",
+        "name": "Antonio Williams",
+        "pos": "WR",
+        "team": "WAS",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 156
+      },
+      {
         "id": "6783",
         "name": "Jerry Jeudy",
         "pos": "WR",
@@ -3758,16 +3827,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 194
-      },
-      {
-        "id": "4039",
-        "name": "Cooper Kupp",
-        "pos": "WR",
-        "team": "SEA",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 195
       }
     ],
     "TE": [
@@ -3904,16 +3963,6 @@
         "rank": 118
       },
       {
-        "id": "12015",
-        "name": "Harrison Mevis",
-        "pos": "K",
-        "team": "LAR",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
-        "rank": 154
-      },
-      {
         "id": "4227",
         "name": "Harrison Butker",
         "pos": "K",
@@ -3972,6 +4021,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 190
+      },
+      {
+        "id": "13545",
+        "name": "Trey Smack",
+        "pos": "K",
+        "team": "GB",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 194
       }
     ],
     "DEF": [
@@ -4067,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 623964
+      "adds": 600105
     },
     {
       "id": "3271",
@@ -4078,18 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 446886
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 572,
-      "adds": 400632
+      "adds": 422712
     },
     {
       "id": "12491",
@@ -4100,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 380136
+      "adds": 372948
     },
     {
       "id": "13545",
@@ -4111,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 276980
+      "adds": 267860
     },
     {
       "id": "7042",
@@ -4122,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 257635
+      "adds": 250820
     },
     {
       "id": "2197",
@@ -4133,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 249908
+      "adds": 244300
     },
     {
       "id": "2505",
@@ -4144,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 172431
+      "adds": 166968
     },
     {
       "id": "11058",
@@ -4155,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 162486
+      "adds": 166959
     },
     {
       "id": "5189",
@@ -4166,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 135084
+      "adds": 133116
     },
     {
       "id": "6039",
@@ -4177,7 +4225,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 126564
+      "adds": 121806
     },
     {
       "id": "4227",
@@ -4188,7 +4236,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 124100
+      "adds": 121576
     },
     {
       "id": "NO",
@@ -4199,7 +4247,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 118120
+      "adds": 118890
     },
     {
       "id": "6650",
@@ -4210,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 108304
+      "adds": 104792
     },
     {
       "id": "4147",
@@ -4221,7 +4269,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 104140
+      "adds": 99428
     },
     {
       "id": "2020",
@@ -4232,7 +4280,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 93184
+      "adds": 92183
     },
     {
       "id": "8116",
@@ -4243,7 +4291,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 70821
+      "adds": 68382
     },
     {
       "id": "NYG",
@@ -4254,7 +4302,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66176
+      "adds": 65912
     },
     {
       "id": "10235",
@@ -4265,7 +4313,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 58880
+      "adds": 58872
     },
     {
       "id": "13414",
@@ -4276,7 +4324,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 57148
+      "adds": 57393
+    },
+    {
+      "id": "3214",
+      "name": "Hunter Henry",
+      "pos": "TE",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 92,
+      "adds": 47589
     }
   ]
 }
