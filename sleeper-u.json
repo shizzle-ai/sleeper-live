@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T10:16:50.190Z",
+  "generated_at": "2026-10-14T10:50:29.988Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2184,6 +2184,16 @@
           "rank": 63
         },
         {
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
+        },
+        {
           "id": "8126",
           "name": "Wan'Dale Robinson",
           "pos": "WR",
@@ -2204,16 +2214,6 @@
           "status": "Inactive",
           "depth": 6,
           "rank": 118
-        },
-        {
-          "id": "7525",
-          "name": "DeVonta Smith",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 34
         }
       ],
       "taxi": [],
@@ -3946,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 549192
+      "adds": 556995
     },
     {
       "id": "3271",
@@ -3957,7 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 446553
+      "adds": 445122
     },
     {
       "id": "13274",
@@ -3968,7 +3968,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 416855
+      "adds": 413477
     },
     {
       "id": "12542",
@@ -3979,7 +3979,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 406796
+      "adds": 406412
     },
     {
       "id": "12491",
@@ -3990,7 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 328452
+      "adds": 333990
     },
     {
       "id": "13545",
@@ -4001,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 227364
+      "adds": 230600
     },
     {
       "id": "2197",
@@ -4012,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 224124
+      "adds": 226120
     },
     {
       "id": "7042",
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 208435
+      "adds": 213270
     },
     {
       "id": "2505",
@@ -4034,7 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 158193
+      "adds": 159759
     },
     {
       "id": "6039",
@@ -4045,7 +4045,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 124776
+      "adds": 124998
     },
     {
       "id": "4147",
@@ -4056,7 +4056,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 112960
+      "adds": 111968
     },
     {
       "id": "11058",
@@ -4067,7 +4067,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 106659
+      "adds": 110592
     },
     {
       "id": "5189",
@@ -4078,7 +4078,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 105042
+      "adds": 107556
     },
     {
       "id": "4227",
@@ -4089,7 +4089,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 100112
+      "adds": 102368
     },
     {
       "id": "6650",
@@ -4100,18 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 90392
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 71694
+      "adds": 91512
     },
     {
       "id": "NO",
@@ -4122,18 +4111,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71420
+      "adds": 73905
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
+      "id": "8116",
+      "name": "Pierre Strong",
       "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 4,
-      "rank": 690,
-      "adds": 69104
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 71910
     },
     {
       "id": "2020",
@@ -4144,7 +4133,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 66668
+      "adds": 68719
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 4,
+      "rank": 690,
+      "adds": 66552
     },
     {
       "id": "NYG",
@@ -4155,7 +4155,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50456
+      "adds": 51492
     }
   ]
 }
