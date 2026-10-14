@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T00:40:52.102Z",
+  "generated_at": "2026-10-14T01:15:58.614Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2233,14 +2233,14 @@
       },
       "starters": [
         {
-          "id": "12495",
-          "name": "Ollie Gordon",
-          "pos": "RB",
-          "team": "MIA",
-          "injury": "Questionable",
+          "id": "11628",
+          "name": "Marvin Harrison",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": "Out",
           "status": "Active",
-          "depth": 1,
-          "rank": 465
+          "depth": 5,
+          "rank": 74
         },
         {
           "id": "12506",
@@ -2253,14 +2253,14 @@
           "rank": 63
         },
         {
-          "id": "12509",
-          "name": "Tre' Harris",
+          "id": "12526",
+          "name": "Tetairoa McMillan",
           "pos": "WR",
-          "team": "LAC",
-          "injury": "Questionable",
+          "team": "CAR",
+          "injury": null,
           "status": "Active",
-          "depth": 6,
-          "rank": 179
+          "depth": 1,
+          "rank": 38
         },
         {
           "id": "3294",
@@ -2273,14 +2273,14 @@
           "rank": 38
         },
         {
-          "id": "3634",
-          "name": "Kalif Raymond",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "pos": "QB",
+          "team": "BAL",
+          "injury": "Out",
           "status": "Active",
-          "depth": 3,
-          "rank": 645
+          "depth": 1,
+          "rank": 10
         },
         {
           "id": "5846",
@@ -2303,6 +2303,16 @@
           "rank": 41
         },
         {
+          "id": "7021",
+          "name": "Rico Dowdle",
+          "pos": "RB",
+          "team": "PIT",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 65
+        },
+        {
           "id": "7839",
           "name": "Evan McPherson",
           "pos": "K",
@@ -2311,16 +2321,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 153
-        },
-        {
-          "id": "8161",
-          "name": "Malik Willis",
-          "pos": "QB",
-          "team": "MIA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 122
         },
         {
           "id": "PIT",
@@ -2335,34 +2335,34 @@
       ],
       "bench": [
         {
-          "id": "11628",
-          "name": "Marvin Harrison",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": "Out",
+          "id": "12495",
+          "name": "Ollie Gordon",
+          "pos": "RB",
+          "team": "MIA",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 5,
-          "rank": 74
+          "depth": 1,
+          "rank": 465
         },
         {
-          "id": "12526",
-          "name": "Tetairoa McMillan",
+          "id": "12509",
+          "name": "Tre' Harris",
           "pos": "WR",
-          "team": "CAR",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 6,
+          "rank": 179
+        },
+        {
+          "id": "3634",
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "team": "CHI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 38
-        },
-        {
-          "id": "4881",
-          "name": "Lamar Jackson",
-          "pos": "QB",
-          "team": "BAL",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 10
+          "depth": 3,
+          "rank": 645
         },
         {
           "id": "5012",
@@ -2375,16 +2375,6 @@
           "rank": 96
         },
         {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 2,
-          "rank": 65
-        },
-        {
           "id": "7083",
           "name": "Tyler Huntley",
           "pos": "QB",
@@ -2393,6 +2383,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 690
+        },
+        {
+          "id": "8161",
+          "name": "Malik Willis",
+          "pos": "QB",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 122
         }
       ],
       "reserve": [
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2225136
+      "adds": 2328544
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 490100
+      "adds": 516150
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 410301
+      "adds": 422397
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 391848
+      "adds": 406791
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 317022
+      "adds": 327300
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 311085
+      "adds": 326919
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 290864
+      "adds": 304420
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 284140
+      "adds": 300242
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 212918
+      "adds": 223546
     },
     {
       "id": "11439",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 177495
+      "adds": 210060
     },
     {
       "id": "13545",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 173752
+      "adds": 179404
     },
     {
       "id": "12491",
@@ -3940,18 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 155838
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 144140
+      "adds": 170514
     },
     {
       "id": "11783",
@@ -3962,7 +3951,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 141984
+      "adds": 152016
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 149180
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 118144
+      "adds": 127112
     },
     {
       "id": "2505",
@@ -3984,18 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 109323
-    },
-    {
-      "id": "2747",
-      "name": "Jason Myers",
-      "pos": "K",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 125,
-      "adds": 97860
+      "adds": 114192
     },
     {
       "id": "4147",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 97140
+      "adds": 101076
+    },
+    {
+      "id": "2747",
+      "name": "Jason Myers",
+      "pos": "K",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 125,
+      "adds": 100325
     },
     {
       "id": "6039",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 89772
+      "adds": 94362
     },
     {
       "id": "12472",
@@ -4028,7 +4028,7 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 690,
-      "adds": 88464
+      "adds": 89152
     }
   ]
 }
