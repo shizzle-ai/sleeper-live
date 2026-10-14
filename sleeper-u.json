@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T09:17:31.369Z",
+  "generated_at": "2026-10-14T09:50:50.812Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -430,7 +430,7 @@
           "team": "NE",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 39
         },
         {
@@ -804,7 +804,7 @@
           "team": "CLE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 110
         },
         {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 12,
+          "depth": 11,
           "rank": 111
         },
         {
@@ -1057,7 +1057,7 @@
           "team": "HOU",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 4,
           "rank": 187
         }
       ],
@@ -1236,7 +1236,7 @@
           "team": "MIN",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 5,
           "rank": 99
         }
       ],
@@ -1248,7 +1248,7 @@
           "team": "SEA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 8,
           "rank": 52
         },
         {
@@ -1577,7 +1577,7 @@
           "team": "GB",
           "injury": "NA",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 20
         },
         {
@@ -1847,7 +1847,7 @@
           "team": "NE",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 39
         },
         {
@@ -1957,7 +1957,7 @@
           "name": "Tyreek Hill",
           "pos": "WR",
           "team": null,
-          "injury": "Out",
+          "injury": null,
           "status": "Active",
           "depth": null,
           "rank": 145
@@ -2011,7 +2011,7 @@
           "team": "MIN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 91
         }
       ],
@@ -2975,7 +2975,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 8,
           "rank": 62
         },
         {
@@ -3114,7 +3114,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 394
       }
     ],
@@ -3266,7 +3266,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -3378,7 +3378,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 160
       },
       {
@@ -3428,7 +3428,7 @@
         "team": "LAC",
         "injury": "Doubtful",
         "status": "Active",
-        "depth": 6,
+        "depth": 3,
         "rank": 179
       },
       {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 582405
+      "adds": 592925
     },
     {
       "id": "IND",
@@ -3830,7 +3830,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 533049
+      "adds": 537612
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 442395
+      "adds": 441603
     },
     {
       "id": "13274",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 417016
+      "adds": 414858
     },
     {
       "id": "12542",
@@ -3861,9 +3861,9 @@
       "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 4,
       "rank": 572,
-      "adds": 403328
+      "adds": 402960
     },
     {
       "id": "12491",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 321180
+      "adds": 324966
     },
     {
       "id": "11783",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 234520
+      "adds": 236136
     },
     {
       "id": "13545",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 220344
+      "adds": 222292
     },
     {
       "id": "2197",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 220324
+      "adds": 221516
     },
     {
       "id": "7042",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 200160
+      "adds": 203650
     },
     {
       "id": "2505",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 155403
+      "adds": 155808
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 123396
+      "adds": 123492
     },
     {
       "id": "4147",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 112840
+      "adds": 112212
     },
     {
       "id": "11058",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 101277
+      "adds": 104013
     },
     {
       "id": "5189",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 101115
+      "adds": 102588
     },
     {
       "id": "4227",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 96188
+      "adds": 97684
     },
     {
       "id": "6650",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 88120
+      "adds": 88416
     },
     {
       "id": "8116",
@@ -4009,17 +4009,6 @@
       "adds": 71064
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 690,
-      "adds": 70800
-    },
-    {
       "id": "NO",
       "name": "New Orleans Saints",
       "pos": "DEF",
@@ -4028,7 +4017,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67655
+      "adds": 69245
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 4,
+      "rank": 690,
+      "adds": 69048
     }
   ]
 }
