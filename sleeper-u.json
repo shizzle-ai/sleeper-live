@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T04:01:59.043Z",
+  "generated_at": "2026-10-14T04:32:32.054Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2773912
+      "adds": 2788720
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 621075
+      "adds": 625565
     },
     {
       "id": "IND",
@@ -3841,29 +3841,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 471048
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 432900
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 673,
-      "adds": 392739
+      "adds": 469839
     },
     {
       "id": "11439",
@@ -3874,7 +3852,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 392675
+      "adds": 421425
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 414774
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 673,
+      "adds": 393306
     },
     {
       "id": "13274",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 377149
+      "adds": 383176
     },
     {
       "id": "12542",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 366040
+      "adds": 368104
     },
     {
       "id": "650",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 358764
+      "adds": 352914
     },
     {
       "id": "9757",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 271174
+      "adds": 274114
     },
     {
       "id": "12491",
@@ -3929,18 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 247590
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 199736
+      "adds": 259236
     },
     {
       "id": "11783",
@@ -3951,7 +3940,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 198208
+      "adds": 200952
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 198772
     },
     {
       "id": "2197",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 175340
+      "adds": 182112
     },
     {
       "id": "7042",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 171885
+      "adds": 171970
     },
     {
       "id": "2505",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 137484
+      "adds": 138267
     },
     {
       "id": "6039",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 113016
+      "adds": 112344
     },
     {
       "id": "4147",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 110964
+      "adds": 107636
     },
     {
       "id": "2747",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 103825
+      "adds": 98595
     },
     {
       "id": "5189",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 85647
+      "adds": 85989
     }
   ]
 }
