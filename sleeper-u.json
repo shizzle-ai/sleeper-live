@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T03:30:05.113Z",
+  "generated_at": "2026-10-14T04:01:59.043Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2673920
+      "adds": 2773912
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 595015
+      "adds": 621075
     },
     {
       "id": "IND",
@@ -3841,7 +3841,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 458115
+      "adds": 471048
     },
     {
       "id": "3271",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 420192
+      "adds": 432900
     },
     {
       "id": "4454",
@@ -3863,18 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 376584
-    },
-    {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 194,
-      "adds": 361534
+      "adds": 392739
     },
     {
       "id": "11439",
@@ -3885,18 +3874,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 358010
+      "adds": 392675
     },
     {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 352110
+      "depth": 2,
+      "rank": 194,
+      "adds": 377149
     },
     {
       "id": "12542",
@@ -3907,7 +3896,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 351876
+      "adds": 366040
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 358764
     },
     {
       "id": "9757",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 261830
+      "adds": 271174
     },
     {
       "id": "12491",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 233544
+      "adds": 247590
     },
     {
       "id": "13545",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 195932
+      "adds": 199736
     },
     {
       "id": "11783",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 187904
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 167960
+      "adds": 198208
     },
     {
       "id": "2197",
@@ -3973,7 +3962,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 164936
+      "adds": 175340
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 171885
     },
     {
       "id": "2505",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 132399
+      "adds": 137484
     },
     {
       "id": "6039",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 106614
+      "adds": 113016
     },
     {
       "id": "4147",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 106164
+      "adds": 110964
     },
     {
       "id": "2747",
@@ -4017,18 +4017,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 101645
+      "adds": 103825
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 690,
-      "adds": 83416
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 85647
     }
   ]
 }
