@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T11:48:13.500Z",
+  "generated_at": "2026-10-14T12:14:08.619Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3946,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 578529
+      "adds": 597546
     },
     {
       "id": "3271",
@@ -3957,18 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 448605
-    },
-    {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 194,
-      "adds": 409744
+      "adds": 457893
     },
     {
       "id": "12542",
@@ -3979,7 +3968,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 409488
+      "adds": 416212
+    },
+    {
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 194,
+      "adds": 412847
     },
     {
       "id": "12491",
@@ -3990,7 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 345090
+      "adds": 350604
     },
     {
       "id": "13545",
@@ -4001,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 240228
+      "adds": 249252
     },
     {
       "id": "2197",
@@ -4012,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 231340
+      "adds": 235412
     },
     {
       "id": "7042",
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 224435
+      "adds": 233060
     },
     {
       "id": "2505",
@@ -4034,7 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 163404
+      "adds": 167553
     },
     {
       "id": "6039",
@@ -4045,7 +4045,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 125970
+      "adds": 128004
     },
     {
       "id": "11058",
@@ -4056,7 +4056,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 119484
+      "adds": 124155
     },
     {
       "id": "5189",
@@ -4067,7 +4067,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 113838
+      "adds": 118278
     },
     {
       "id": "4147",
@@ -4078,7 +4078,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 111300
+      "adds": 112612
     },
     {
       "id": "4227",
@@ -4089,7 +4089,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 107900
+      "adds": 111740
     },
     {
       "id": "6650",
@@ -4100,7 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 95744
+      "adds": 99416
     },
     {
       "id": "NO",
@@ -4111,7 +4111,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80290
+      "adds": 84335
     },
     {
       "id": "2020",
@@ -4122,7 +4122,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 73598
+      "adds": 77014
     },
     {
       "id": "8116",
@@ -4133,7 +4133,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 72387
+      "adds": 73395
     },
     {
       "id": "12472",
@@ -4144,7 +4144,7 @@
       "status": "Inactive",
       "depth": 4,
       "rank": 690,
-      "adds": 62240
+      "adds": 62320
     },
     {
       "id": "NYG",
@@ -4155,7 +4155,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54496
+      "adds": 56904
     }
   ]
 }
