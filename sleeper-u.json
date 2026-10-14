@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T09:50:50.812Z",
+  "generated_at": "2026-10-14T10:16:50.190Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2233,14 +2233,14 @@
       },
       "starters": [
         {
-          "id": "11628",
-          "name": "Marvin Harrison",
-          "pos": "WR",
-          "team": "HOU",
+          "id": "11439",
+          "name": "Jaleel McLaughlin",
+          "pos": "RB",
+          "team": "CLE",
           "injury": null,
           "status": "Active",
-          "depth": 5,
-          "rank": 74
+          "depth": 2,
+          "rank": 698
         },
         {
           "id": "12506",
@@ -2263,6 +2263,16 @@
           "rank": 38
         },
         {
+          "id": "2747",
+          "name": "Jason Myers",
+          "pos": "K",
+          "team": "SEA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 125
+        },
+        {
           "id": "3294",
           "name": "Dak Prescott",
           "pos": "QB",
@@ -2271,6 +2281,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 38
+        },
+        {
+          "id": "4454",
+          "name": "Kendrick Bourne",
+          "pos": "WR",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 673
         },
         {
           "id": "4881",
@@ -2291,16 +2311,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 73
-        },
-        {
-          "id": "5892",
-          "name": "David Montgomery",
-          "pos": "RB",
-          "team": "HOU",
-          "injury": "Doubtful",
-          "status": "Active",
-          "depth": 3,
-          "rank": 43
         },
         {
           "id": "7021",
@@ -2325,6 +2335,26 @@
       ],
       "bench": [
         {
+          "id": "11628",
+          "name": "Marvin Harrison",
+          "pos": "WR",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 5,
+          "rank": 74
+        },
+        {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "pos": "WR",
+          "team": "DAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 199
+        },
+        {
           "id": "12495",
           "name": "Ollie Gordon",
           "pos": "RB",
@@ -2333,36 +2363,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 463
-        },
-        {
-          "id": "2747",
-          "name": "Jason Myers",
-          "pos": "K",
-          "team": "SEA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 125
-        },
-        {
-          "id": "3634",
-          "name": "Kalif Raymond",
-          "pos": "WR",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 645
-        },
-        {
-          "id": "4454",
-          "name": "Kendrick Bourne",
-          "pos": "WR",
-          "team": "ARI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 673
         },
         {
           "id": "5012",
@@ -2375,14 +2375,14 @@
           "rank": 96
         },
         {
-          "id": "7083",
-          "name": "Tyler Huntley",
-          "pos": "QB",
-          "team": "BAL",
-          "injury": null,
+          "id": "5892",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "team": "HOU",
+          "injury": "Doubtful",
           "status": "Active",
-          "depth": 2,
-          "rank": 690
+          "depth": 3,
+          "rank": 43
         },
         {
           "id": "8161",
@@ -2994,7 +2994,134 @@
       "faab_used": 0
     }
   ],
-  "recent_transactions": [],
+  "recent_transactions": [
+    {
+      "transaction_id": "1416040942196076544",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791972978689,
+      "adds": [
+        {
+          "player": {
+            "id": "11439",
+            "name": "Jaleel McLaughlin",
+            "pos": "RB",
+            "team": "CLE",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 698
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "6039",
+            "name": "Ty Johnson",
+            "pos": "RB",
+            "team": "BUF",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 534
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416040460425629696",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791972863827,
+      "adds": [
+        {
+          "player": {
+            "id": "6039",
+            "name": "Ty Johnson",
+            "pos": "RB",
+            "team": "BUF",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 534
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "7083",
+            "name": "Tyler Huntley",
+            "pos": "QB",
+            "team": "BAL",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 690
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416039835637960704",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791972714866,
+      "adds": [
+        {
+          "player": {
+            "id": "11783",
+            "name": "Ryan Flournoy",
+            "pos": "WR",
+            "team": "DAL",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 199
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "3634",
+            "name": "Kalif Raymond",
+            "pos": "WR",
+            "team": "CHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 645
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    }
+  ],
   "free_agents": {
     "QB": [
       {
@@ -3811,17 +3938,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "11439",
-      "name": "Jaleel McLaughlin",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 698,
-      "adds": 592925
-    },
-    {
       "id": "IND",
       "name": "Indianapolis Colts",
       "pos": "DEF",
@@ -3830,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 537612
+      "adds": 549192
     },
     {
       "id": "3271",
@@ -3841,7 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 441603
+      "adds": 446553
     },
     {
       "id": "13274",
@@ -3852,7 +3968,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 414858
+      "adds": 416855
     },
     {
       "id": "12542",
@@ -3863,7 +3979,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 402960
+      "adds": 406796
     },
     {
       "id": "12491",
@@ -3874,18 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 324966
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 236136
+      "adds": 328452
     },
     {
       "id": "13545",
@@ -3896,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 222292
+      "adds": 227364
     },
     {
       "id": "2197",
@@ -3907,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 221516
+      "adds": 224124
     },
     {
       "id": "7042",
@@ -3918,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 203650
+      "adds": 208435
     },
     {
       "id": "2505",
@@ -3929,7 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 155808
+      "adds": 158193
     },
     {
       "id": "6039",
@@ -3940,7 +4045,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 123492
+      "adds": 124776
     },
     {
       "id": "4147",
@@ -3951,7 +4056,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 112212
+      "adds": 112960
     },
     {
       "id": "11058",
@@ -3962,7 +4067,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 104013
+      "adds": 106659
     },
     {
       "id": "5189",
@@ -3973,7 +4078,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 102588
+      "adds": 105042
     },
     {
       "id": "4227",
@@ -3984,7 +4089,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 97684
+      "adds": 100112
     },
     {
       "id": "6650",
@@ -3995,7 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 88416
+      "adds": 90392
     },
     {
       "id": "8116",
@@ -4006,7 +4111,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 71064
+      "adds": 71694
     },
     {
       "id": "NO",
@@ -4017,7 +4122,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69245
+      "adds": 71420
     },
     {
       "id": "12472",
@@ -4028,7 +4133,29 @@
       "status": "Inactive",
       "depth": 4,
       "rank": 690,
-      "adds": 69048
+      "adds": 69104
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 66668
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 50456
     }
   ]
 }
