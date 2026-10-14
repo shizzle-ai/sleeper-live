@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T21:07:55.212Z",
+  "generated_at": "2026-10-14T21:36:01.140Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -428,7 +428,7 @@
           "name": "TreVeyon Henderson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Doubtful",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 4,
           "rank": 39
@@ -1684,7 +1684,7 @@
           "name": "CeeDee Lamb",
           "pos": "WR",
           "team": "DAL",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -1855,7 +1855,7 @@
           "name": "TreVeyon Henderson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Doubtful",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 4,
           "rank": 39
@@ -2809,7 +2809,7 @@
           "name": "Michael Penix",
           "pos": "QB",
           "team": "ATL",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 228
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 594162
+      "adds": 585009
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 407448
+      "adds": 397971
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 356868
+      "adds": 341988
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 276008
+      "adds": 272960
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 251935
+      "adds": 248660
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 236104
+      "adds": 229592
     },
     {
       "id": "11058",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 170487
+      "adds": 167436
     },
     {
       "id": "2505",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 168858
+      "adds": 165690
     },
     {
       "id": "NO",
@@ -4214,7 +4214,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 134840
+      "adds": 134780
     },
     {
       "id": "5189",
@@ -4225,7 +4225,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 134646
+      "adds": 132474
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 121776
+      "adds": 119016
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 120280
+      "adds": 118456
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 105912
+      "adds": 104448
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 100877
+      "adds": 100037
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 90676
+      "adds": 87044
     },
     {
       "id": "NYG",
@@ -4291,18 +4291,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70240
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 67383
+      "adds": 70012
     },
     {
       "id": "12469",
@@ -4313,7 +4302,18 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 66715
+      "adds": 68475
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 65313
     },
     {
       "id": "10235",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 61320
+      "adds": 58472
     },
     {
       "id": "13414",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 59374
+      "adds": 58282
     }
   ]
 }
