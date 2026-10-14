@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T13:58:51.647Z",
+  "generated_at": "2026-10-14T14:26:01.378Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -812,7 +812,7 @@
           "name": "Baker Mayfield",
           "pos": "QB",
           "team": "TB",
-          "injury": "Out",
+          "injury": "Doubtful",
           "status": "Active",
           "depth": 2,
           "rank": 74
@@ -1489,6 +1489,16 @@
           "rank": 28
         },
         {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 44
+        },
+        {
           "id": "12545",
           "name": "Tyler Shough",
           "pos": "QB",
@@ -1517,16 +1527,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 249
-        },
-        {
-          "id": "6801",
-          "name": "Tee Higgins",
-          "pos": "WR",
-          "team": "CIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 36
         },
         {
           "id": "7594",
@@ -1561,16 +1561,6 @@
       ],
       "bench": [
         {
-          "id": "12490",
-          "name": "Bhayshul Tuten",
-          "pos": "RB",
-          "team": "JAX",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 44
-        },
-        {
           "id": "13274",
           "name": "Germie Bernard",
           "pos": "WR",
@@ -1591,6 +1581,16 @@
           "rank": 20
         },
         {
+          "id": "6801",
+          "name": "Tee Higgins",
+          "pos": "WR",
+          "team": "CIN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 36
+        },
+        {
           "id": "7553",
           "name": "Kyle Pitts",
           "pos": "TE",
@@ -1601,10 +1601,20 @@
           "rank": 68
         },
         {
-          "id": "CIN",
-          "name": "Cincinnati Bengals",
+          "id": "9508",
+          "name": "Tyjae Spears",
+          "pos": "RB",
+          "team": "TEN",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 122
+        },
+        {
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "pos": "DEF",
-          "team": "CIN",
+          "team": "KC",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2996,6 +3006,75 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1416100851570806784",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791987262198,
+      "adds": [
+        {
+          "player": {
+            "id": "KC",
+            "name": "Kansas City Chiefs",
+            "pos": "DEF",
+            "team": "KC",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "CIN",
+            "name": "Cincinnati Bengals",
+            "pos": "DEF",
+            "team": "CIN",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416100609462943744",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791987204475,
+      "adds": [
+        {
+          "player": {
+            "id": "9508",
+            "name": "Tyjae Spears",
+            "pos": "RB",
+            "team": "TEN",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 122
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1416093562004623360",
       "type": "free_agent",
       "status": "complete",
@@ -3299,16 +3378,6 @@
         "rank": 110
       },
       {
-        "id": "9508",
-        "name": "Tyjae Spears",
-        "pos": "RB",
-        "team": "TEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 122
-      },
-      {
         "id": "9506",
         "name": "Sean Tucker",
         "pos": "RB",
@@ -3487,6 +3556,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 326
+      },
+      {
+        "id": "3309",
+        "name": "Wendell Smallwood",
+        "pos": "RB",
+        "team": "WAS",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 334
       }
     ],
     "WR": [
@@ -3988,7 +4067,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 617718
+      "adds": 635076
     },
     {
       "id": "3271",
@@ -3999,7 +4078,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 454932
+      "adds": 464436
     },
     {
       "id": "12542",
@@ -4010,7 +4089,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 412072
+      "adds": 419168
     },
     {
       "id": "12491",
@@ -4021,7 +4100,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 370812
+      "adds": 376740
     },
     {
       "id": "13545",
@@ -4032,7 +4111,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 264152
+      "adds": 273780
     },
     {
       "id": "7042",
@@ -4043,7 +4122,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 247625
+      "adds": 255975
     },
     {
       "id": "2197",
@@ -4054,7 +4133,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 243912
+      "adds": 248172
     },
     {
       "id": "2505",
@@ -4065,7 +4144,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 170496
+      "adds": 174870
     },
     {
       "id": "11058",
@@ -4076,7 +4155,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 143199
+      "adds": 148662
     },
     {
       "id": "5189",
@@ -4087,7 +4166,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 127821
+      "adds": 132039
     },
     {
       "id": "6039",
@@ -4098,7 +4177,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 127446
+      "adds": 129822
     },
     {
       "id": "4227",
@@ -4109,7 +4188,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 119180
+      "adds": 122756
     },
     {
       "id": "4147",
@@ -4120,7 +4199,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 108564
+      "adds": 109956
     },
     {
       "id": "6650",
@@ -4131,7 +4210,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104144
+      "adds": 107728
     },
     {
       "id": "NO",
@@ -4142,7 +4221,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99865
+      "adds": 105150
     },
     {
       "id": "2020",
@@ -4153,7 +4232,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 85344
+      "adds": 88900
     },
     {
       "id": "8116",
@@ -4164,7 +4243,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 72234
+      "adds": 73737
     },
     {
       "id": "NYG",
@@ -4175,7 +4254,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61932
+      "adds": 64336
     },
     {
       "id": "10235",
@@ -4186,7 +4265,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 55224
+      "adds": 56848
     },
     {
       "id": "13414",
@@ -4197,7 +4276,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 53984
+      "adds": 55279
     }
   ]
 }
