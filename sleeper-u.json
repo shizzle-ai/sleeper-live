@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T18:08:00.529Z",
+  "generated_at": "2026-10-14T18:43:43.003Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1957,7 +1957,7 @@
           "name": "Keenan Allen",
           "pos": "WR",
           "team": "IND",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 180
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 606861
+      "adds": 596322
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 422955
+      "adds": 412506
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 374940
+      "adds": 365670
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 276924
+      "adds": 270664
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 257565
+      "adds": 250300
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 244676
+      "adds": 239388
     },
     {
       "id": "11058",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 177696
+      "adds": 174285
     },
     {
       "id": "2505",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 170865
+      "adds": 168534
     },
     {
       "id": "5189",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 137400
+      "adds": 134331
     },
     {
       "id": "NO",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 127290
+      "adds": 127855
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 124206
+      "adds": 122472
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 123324
+      "adds": 120620
     },
     {
       "id": "6650",
@@ -4258,18 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 106960
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 97752
+      "adds": 104560
     },
     {
       "id": "2020",
@@ -4280,18 +4269,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 97293
+      "adds": 96922
     },
     {
-      "id": "8116",
-      "name": "Pierre Strong",
+      "id": "4147",
+      "name": "Samaje Perine",
       "pos": "RB",
-      "team": "GB",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 631,
-      "adds": 69336
+      "rank": 456,
+      "adds": 94608
     },
     {
       "id": "NYG",
@@ -4302,7 +4291,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68684
+      "adds": 68296
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 68076
     },
     {
       "id": "10235",
@@ -4313,7 +4313,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 60984
+      "adds": 60968
     },
     {
       "id": "13414",
@@ -4324,18 +4324,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 59346
+      "adds": 58877
     },
     {
-      "id": "3214",
-      "name": "Hunter Henry",
-      "pos": "TE",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 92,
-      "adds": 49590
+      "id": "12469",
+      "name": "Dylan Sampson",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 6,
+      "rank": 129,
+      "adds": 52130
     }
   ]
 }
