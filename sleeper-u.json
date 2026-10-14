@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T19:16:09.882Z",
+  "generated_at": "2026-10-14T19:47:03.987Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -804,7 +804,7 @@
           "team": "CLE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 110
         },
         {
@@ -2222,7 +2222,7 @@
           "team": "DEN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 5,
           "rank": 118
         }
       ],
@@ -3695,7 +3695,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 160
       },
       {
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 603963
+      "adds": 592581
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 418014
+      "adds": 406575
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 369534
+      "adds": 360462
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 275840
+      "adds": 271160
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 254305
+      "adds": 248885
     },
     {
       "id": "2197",
@@ -4181,18 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 241928
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 177669
+      "adds": 236728
     },
     {
       "id": "2505",
@@ -4203,7 +4192,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 171324
+      "adds": 168354
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 168228
     },
     {
       "id": "5189",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 135870
+      "adds": 133554
     },
     {
       "id": "NO",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 130595
+      "adds": 130310
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 124134
+      "adds": 120588
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 122112
+      "adds": 119968
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 106272
+      "adds": 104328
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 99785
+      "adds": 98735
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 95368
+      "adds": 92372
     },
     {
       "id": "NYG",
@@ -4291,7 +4291,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 69404
+      "adds": 68796
     },
     {
       "id": "8116",
@@ -4302,7 +4302,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 68985
+      "adds": 67320
     },
     {
       "id": "10235",
@@ -4313,18 +4313,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 61840
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 59815
+      "adds": 61368
     },
     {
       "id": "12469",
@@ -4335,7 +4324,18 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 56600
+      "adds": 59545
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 58877
     }
   ]
 }
