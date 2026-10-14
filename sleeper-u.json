@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T17:08:32.057Z",
+  "generated_at": "2026-10-14T17:37:26.991Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2188,7 +2188,7 @@
           "name": "Tony Pollard",
           "pos": "RB",
           "team": "TEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 63
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 612249
+      "adds": 598545
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 431370
+      "adds": 417222
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 378510
+      "adds": 370968
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 276264
+      "adds": 271480
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 257445
+      "adds": 252995
     },
     {
       "id": "2197",
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 248356
+      "adds": 241844
     },
     {
       "id": "11058",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 171558
+      "adds": 174033
     },
     {
       "id": "2505",
@@ -4203,7 +4203,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 171081
+      "adds": 168111
     },
     {
       "id": "5189",
@@ -4214,29 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 136593
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 124578
-    },
-    {
-      "id": "4227",
-      "name": "Harrison Butker",
-      "pos": "K",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 123792
+      "adds": 135075
     },
     {
       "id": "NO",
@@ -4247,7 +4225,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 123410
+      "adds": 124020
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 122190
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "pos": "K",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 121664
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 107288
+      "adds": 105216
     },
     {
       "id": "4147",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 100576
+      "adds": 97052
     },
     {
       "id": "2020",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 95410
+      "adds": 95088
     },
     {
       "id": "8116",
@@ -4291,7 +4291,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 69750
+      "adds": 68499
     },
     {
       "id": "NYG",
@@ -4302,7 +4302,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 67840
+      "adds": 67428
     },
     {
       "id": "10235",
@@ -4313,7 +4313,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 60120
+      "adds": 60168
     },
     {
       "id": "13414",
@@ -4324,7 +4324,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 58723
+      "adds": 58499
     },
     {
       "id": "3214",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 92,
-      "adds": 49038
+      "adds": 48561
     }
   ]
 }
