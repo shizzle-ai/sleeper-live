@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T00:04:00.626Z",
+  "generated_at": "2026-10-14T00:40:52.102Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -794,7 +794,7 @@
           "team": "CHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 546
         },
         {
@@ -1015,7 +1015,7 @@
           "team": "PIT",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 688
         },
         {
@@ -1248,7 +1248,7 @@
           "team": "SEA",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 8,
+          "depth": 7,
           "rank": 52
         },
         {
@@ -1788,7 +1788,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 164
         },
         {
@@ -2108,7 +2108,7 @@
           "team": "BUF",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 120
         },
         {
@@ -2259,7 +2259,7 @@
           "team": "LAC",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 6,
           "rank": 179
         },
         {
@@ -2299,7 +2299,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 41
         },
         {
@@ -2592,7 +2592,7 @@
           "team": "BUF",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 48
         }
       ],
@@ -3034,7 +3034,7 @@
         "team": "ATL",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 237
       },
       {
@@ -3286,7 +3286,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 6,
+        "depth": 5,
         "rank": 190
       },
       {
@@ -3620,7 +3620,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 212
       },
       {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2146624
+      "adds": 2225136
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 471645
+      "adds": 490100
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 412416
+      "adds": 410301
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 378693
+      "adds": 391848
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 308220
+      "adds": 317022
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 299619
+      "adds": 311085
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 280536
+      "adds": 290864
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 270175
+      "adds": 284140
     },
     {
       "id": "9757",
@@ -3907,7 +3907,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 203078
+      "adds": 212918
+    },
+    {
+      "id": "11439",
+      "name": "Jaleel McLaughlin",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 698,
+      "adds": 177495
     },
     {
       "id": "13545",
@@ -3918,18 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 168392
-    },
-    {
-      "id": "11439",
-      "name": "Jaleel McLaughlin",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 698,
-      "adds": 146455
+      "adds": 173752
     },
     {
       "id": "12491",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 142050
+      "adds": 155838
     },
     {
       "id": "7042",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 139375
+      "adds": 144140
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 134104
+      "adds": 141984
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 110328
+      "adds": 118144
     },
     {
       "id": "2505",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 104769
+      "adds": 109323
     },
     {
       "id": "2747",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 96580
+      "adds": 97860
     },
     {
       "id": "4147",
@@ -4006,18 +4006,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 95924
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 2,
-      "rank": 690,
-      "adds": 90200
+      "adds": 97140
     },
     {
       "id": "6039",
@@ -4028,7 +4017,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 89298
+      "adds": 89772
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 690,
+      "adds": 88464
     }
   ]
 }
