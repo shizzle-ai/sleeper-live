@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T19:47:03.987Z",
+  "generated_at": "2026-10-14T20:12:39.260Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4126,7 +4126,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 592581
+      "adds": 597987
     },
     {
       "id": "3271",
@@ -4137,7 +4137,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 406575
+      "adds": 410904
     },
     {
       "id": "12491",
@@ -4148,7 +4148,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 360462
+      "adds": 363186
     },
     {
       "id": "13545",
@@ -4159,7 +4159,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 271160
+      "adds": 274912
     },
     {
       "id": "7042",
@@ -4170,7 +4170,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 248885
+      "adds": 252035
     },
     {
       "id": "2197",
@@ -4181,18 +4181,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 236728
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 168354
+      "adds": 238904
     },
     {
       "id": "11058",
@@ -4203,7 +4192,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 168228
+      "adds": 170802
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 170235
     },
     {
       "id": "5189",
@@ -4214,7 +4214,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 133554
+      "adds": 135099
     },
     {
       "id": "NO",
@@ -4225,7 +4225,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 130310
+      "adds": 132405
     },
     {
       "id": "6039",
@@ -4236,7 +4236,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 120588
+      "adds": 121860
     },
     {
       "id": "4227",
@@ -4247,7 +4247,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 119968
+      "adds": 121056
     },
     {
       "id": "6650",
@@ -4258,7 +4258,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104328
+      "adds": 105624
     },
     {
       "id": "2020",
@@ -4269,7 +4269,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 98735
+      "adds": 100366
     },
     {
       "id": "4147",
@@ -4280,7 +4280,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 92372
+      "adds": 92976
     },
     {
       "id": "NYG",
@@ -4291,7 +4291,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 68796
+      "adds": 69660
     },
     {
       "id": "8116",
@@ -4302,18 +4302,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 67320
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 681,
-      "adds": 61368
+      "adds": 68004
     },
     {
       "id": "12469",
@@ -4324,7 +4313,18 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 59545
+      "adds": 62345
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 681,
+      "adds": 62000
     },
     {
       "id": "13414",
@@ -4335,7 +4335,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 58877
+      "adds": 59514
     }
   ]
 }
