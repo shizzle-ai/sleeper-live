@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T13:24:57.416Z",
+  "generated_at": "2026-10-14T13:58:51.647Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1509,6 +1509,16 @@
           "rank": 4
         },
         {
+          "id": "650",
+          "name": "Nick Folk",
+          "pos": "K",
+          "team": "ATL",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 249
+        },
+        {
           "id": "6801",
           "name": "Tee Higgins",
           "pos": "WR",
@@ -1561,14 +1571,14 @@
           "rank": 44
         },
         {
-          "id": "4177",
-          "name": "Mack Hollins",
+          "id": "13274",
+          "name": "Germie Bernard",
           "pos": "WR",
-          "team": "NE",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 5,
-          "rank": 697
+          "team": "PIT",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 194
         },
         {
           "id": "5850",
@@ -1579,16 +1589,6 @@
           "status": "Active",
           "depth": 3,
           "rank": 20
-        },
-        {
-          "id": "650",
-          "name": "Nick Folk",
-          "pos": "K",
-          "team": "ATL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 249
         },
         {
           "id": "7553",
@@ -2996,6 +2996,48 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1416093562004623360",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791985524230,
+      "adds": [
+        {
+          "player": {
+            "id": "13274",
+            "name": "Germie Bernard",
+            "pos": "WR",
+            "team": "PIT",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 194
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "4177",
+            "name": "Mack Hollins",
+            "pos": "WR",
+            "team": "NE",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 5,
+            "rank": 697
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1416040942196076544",
       "type": "free_agent",
       "status": "complete",
@@ -3629,16 +3671,6 @@
         "rank": 192
       },
       {
-        "id": "13274",
-        "name": "Germie Bernard",
-        "pos": "WR",
-        "team": "PIT",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 194
-      },
-      {
         "id": "7090",
         "name": "Darnell Mooney",
         "pos": "WR",
@@ -3647,6 +3679,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 194
+      },
+      {
+        "id": "4039",
+        "name": "Cooper Kupp",
+        "pos": "WR",
+        "team": "SEA",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 195
       }
     ],
     "TE": [
@@ -3946,7 +3988,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 622698
+      "adds": 617718
     },
     {
       "id": "3271",
@@ -3957,7 +3999,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 464616
+      "adds": 454932
     },
     {
       "id": "12542",
@@ -3968,18 +4010,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 420412
-    },
-    {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 194,
-      "adds": 407059
+      "adds": 412072
     },
     {
       "id": "12491",
@@ -3990,7 +4021,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 364542
+      "adds": 370812
     },
     {
       "id": "13545",
@@ -4001,7 +4032,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 263844
+      "adds": 264152
     },
     {
       "id": "7042",
@@ -4012,7 +4043,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 247030
+      "adds": 247625
     },
     {
       "id": "2197",
@@ -4023,7 +4054,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 243348
+      "adds": 243912
     },
     {
       "id": "2505",
@@ -4034,7 +4065,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 172386
+      "adds": 170496
     },
     {
       "id": "11058",
@@ -4045,18 +4076,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 137151
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 129666
+      "adds": 143199
     },
     {
       "id": "5189",
@@ -4067,7 +4087,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 126225
+      "adds": 127821
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 127446
     },
     {
       "id": "4227",
@@ -4078,7 +4109,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 118576
+      "adds": 119180
     },
     {
       "id": "4147",
@@ -4089,7 +4120,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 111588
+      "adds": 108564
     },
     {
       "id": "6650",
@@ -4100,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104784
+      "adds": 104144
     },
     {
       "id": "NO",
@@ -4111,7 +4142,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95445
+      "adds": 99865
     },
     {
       "id": "2020",
@@ -4122,7 +4153,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 83601
+      "adds": 85344
     },
     {
       "id": "8116",
@@ -4133,7 +4164,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 73836
+      "adds": 72234
     },
     {
       "id": "NYG",
@@ -4144,18 +4175,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 61124
+      "adds": 61932
     },
     {
-      "id": "12472",
-      "name": "Raheim Sanders",
+      "id": "10235",
+      "name": "Roschon Johnson",
       "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 4,
-      "rank": 690,
-      "adds": 57112
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 681,
+      "adds": 55224
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 53984
     }
   ]
 }
