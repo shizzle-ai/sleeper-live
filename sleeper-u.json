@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T10:50:29.988Z",
+  "generated_at": "2026-10-14T11:15:37.253Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3946,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 556995
+      "adds": 573594
     },
     {
       "id": "3271",
@@ -3957,7 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 445122
+      "adds": 452709
     },
     {
       "id": "13274",
@@ -3968,7 +3968,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 413477
+      "adds": 416169
     },
     {
       "id": "12542",
@@ -3979,7 +3979,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 406412
+      "adds": 412004
     },
     {
       "id": "12491",
@@ -3990,7 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 333990
+      "adds": 338904
     },
     {
       "id": "13545",
@@ -4001,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 230600
+      "adds": 237744
     },
     {
       "id": "2197",
@@ -4012,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 226120
+      "adds": 229520
     },
     {
       "id": "7042",
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 213270
+      "adds": 220350
     },
     {
       "id": "2505",
@@ -4034,7 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 159759
+      "adds": 163143
     },
     {
       "id": "6039",
@@ -4045,18 +4045,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 124998
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 111968
+      "adds": 126690
     },
     {
       "id": "11058",
@@ -4067,7 +4056,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 110592
+      "adds": 114183
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 113036
     },
     {
       "id": "5189",
@@ -4078,7 +4078,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 107556
+      "adds": 111342
     },
     {
       "id": "4227",
@@ -4089,7 +4089,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 102368
+      "adds": 105696
     },
     {
       "id": "6650",
@@ -4100,7 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 91512
+      "adds": 94888
     },
     {
       "id": "NO",
@@ -4111,7 +4111,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 73905
+      "adds": 76970
     },
     {
       "id": "8116",
@@ -4122,7 +4122,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 71910
+      "adds": 72774
     },
     {
       "id": "2020",
@@ -4133,7 +4133,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 68719
+      "adds": 71337
     },
     {
       "id": "12472",
@@ -4144,7 +4144,7 @@
       "status": "Inactive",
       "depth": 4,
       "rank": 690,
-      "adds": 66552
+      "adds": 66688
     },
     {
       "id": "NYG",
@@ -4155,7 +4155,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 51492
+      "adds": 53320
     }
   ]
 }
