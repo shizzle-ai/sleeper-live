@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T11:15:37.253Z",
+  "generated_at": "2026-10-14T11:48:13.500Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3946,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 573594
+      "adds": 578529
     },
     {
       "id": "3271",
@@ -3957,7 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 452709
+      "adds": 448605
     },
     {
       "id": "13274",
@@ -3968,7 +3968,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 416169
+      "adds": 409744
     },
     {
       "id": "12542",
@@ -3979,7 +3979,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 412004
+      "adds": 409488
     },
     {
       "id": "12491",
@@ -3990,7 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 338904
+      "adds": 345090
     },
     {
       "id": "13545",
@@ -4001,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 237744
+      "adds": 240228
     },
     {
       "id": "2197",
@@ -4012,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 229520
+      "adds": 231340
     },
     {
       "id": "7042",
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 220350
+      "adds": 224435
     },
     {
       "id": "2505",
@@ -4034,7 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 163143
+      "adds": 163404
     },
     {
       "id": "6039",
@@ -4045,7 +4045,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 126690
+      "adds": 125970
     },
     {
       "id": "11058",
@@ -4056,18 +4056,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 114183
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 113036
+      "adds": 119484
     },
     {
       "id": "5189",
@@ -4078,7 +4067,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 111342
+      "adds": 113838
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 111300
     },
     {
       "id": "4227",
@@ -4089,7 +4089,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 105696
+      "adds": 107900
     },
     {
       "id": "6650",
@@ -4100,7 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 94888
+      "adds": 95744
     },
     {
       "id": "NO",
@@ -4111,18 +4111,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 76970
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 72774
+      "adds": 80290
     },
     {
       "id": "2020",
@@ -4133,7 +4122,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 71337
+      "adds": 73598
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 72387
     },
     {
       "id": "12472",
@@ -4144,7 +4144,7 @@
       "status": "Inactive",
       "depth": 4,
       "rank": 690,
-      "adds": 66688
+      "adds": 62240
     },
     {
       "id": "NYG",
@@ -4155,7 +4155,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 53320
+      "adds": 54496
     }
   ]
 }
