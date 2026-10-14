@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-13T23:45:02.795Z",
+  "generated_at": "2026-10-14T00:04:00.626Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2102104
+      "adds": 2146624
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 460955
+      "adds": 471645
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 407205
+      "adds": 412416
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 371847
+      "adds": 378693
     },
     {
       "id": "650",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 303204
+      "adds": 308220
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 292950
+      "adds": 299619
     },
     {
       "id": "12542",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 274776
+      "adds": 280536
     },
     {
       "id": "13274",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 263383
+      "adds": 270175
     },
     {
       "id": "9757",
@@ -3907,7 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 198404
+      "adds": 203078
     },
     {
       "id": "13545",
@@ -3918,29 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 165668
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 136940
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 135432
+      "adds": 168392
     },
     {
       "id": "11439",
@@ -3951,7 +3929,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 698,
-      "adds": 133590
+      "adds": 146455
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 142050
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 139375
     },
     {
       "id": "11783",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 130456
+      "adds": 134104
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 106308
+      "adds": 110328
     },
     {
       "id": "2505",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 102753
+      "adds": 104769
     },
     {
       "id": "2747",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 95495
+      "adds": 96580
     },
     {
       "id": "4147",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 94212
+      "adds": 95924
     },
     {
       "id": "12472",
@@ -4017,7 +4017,7 @@
       "status": "Inactive",
       "depth": 2,
       "rank": 690,
-      "adds": 89904
+      "adds": 90200
     },
     {
       "id": "6039",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 87648
+      "adds": 89298
     }
   ]
 }
