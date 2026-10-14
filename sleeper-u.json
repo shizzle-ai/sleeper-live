@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T05:59:01.691Z",
+  "generated_at": "2026-10-14T06:29:30.681Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -703,7 +703,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 45
+          "rank": 46
         },
         {
           "id": "12711",
@@ -825,7 +825,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 75
+          "rank": 74
         },
         {
           "id": "9221",
@@ -944,7 +944,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 33
+          "rank": 34
         },
         {
           "id": "7569",
@@ -974,7 +974,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 187
+          "rank": 188
         },
         {
           "id": "DEN",
@@ -1145,7 +1145,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 480
+          "rank": 477
         },
         {
           "id": "7611",
@@ -1306,7 +1306,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 93
         },
         {
           "id": "6813",
@@ -1346,7 +1346,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 56
+          "rank": 55
         },
         {
           "id": "9487",
@@ -1496,7 +1496,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 88
         },
         {
           "id": "4034",
@@ -1940,7 +1940,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 20
+          "rank": 22
         },
         {
           "id": "1479",
@@ -2342,7 +2342,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 465
+          "rank": 463
         },
         {
           "id": "12509",
@@ -2392,7 +2392,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 122
+          "rank": 121
         }
       ],
       "reserve": [
@@ -2511,7 +2511,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 87
+          "rank": 86
         },
         {
           "id": "6790",
@@ -2593,7 +2593,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 465
+          "rank": 466
         }
       ],
       "reserve": [
@@ -2882,7 +2882,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 27
+          "rank": 28
         },
         {
           "id": "8138",
@@ -2934,7 +2934,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 62
+          "rank": 61
         },
         {
           "id": "6794",
@@ -3005,7 +3005,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 110
+        "rank": 109
       },
       {
         "id": "138",
@@ -3055,7 +3055,7 @@
         "injury": "Out",
         "status": "Active",
         "depth": 3,
-        "rank": 289
+        "rank": 287
       },
       {
         "id": "13310",
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2899832
+      "adds": 2949064
     },
     {
       "id": "11647",
@@ -3830,7 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 660385
+      "adds": 672650
     },
     {
       "id": "11439",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 484625
+      "adds": 501895
     },
     {
       "id": "IND",
@@ -3852,7 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 481476
+      "adds": 487482
     },
     {
       "id": "3271",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 420948
+      "adds": 426564
     },
     {
       "id": "4454",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 411789
+      "adds": 419487
     },
     {
       "id": "13274",
@@ -3885,7 +3885,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 403628
+      "adds": 411675
     },
     {
       "id": "12542",
@@ -3896,7 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 382892
+      "adds": 388952
     },
     {
       "id": "650",
@@ -3907,18 +3907,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 249,
-      "adds": 356760
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 285404
+      "adds": 359940
     },
     {
       "id": "12491",
@@ -3929,7 +3918,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 285282
+      "adds": 292860
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 289842
     },
     {
       "id": "11783",
@@ -3940,7 +3940,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 212824
+      "adds": 216928
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 530,
+      "adds": 203388
     },
     {
       "id": "13545",
@@ -3951,18 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 200336
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 531,
-      "adds": 198700
+      "adds": 201780
     },
     {
       "id": "7042",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 176095
+      "adds": 177945
     },
     {
       "id": "2505",
@@ -3983,8 +3983,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 359,
-      "adds": 143280
+      "rank": 358,
+      "adds": 145413
     },
     {
       "id": "6039",
@@ -3995,7 +3995,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 117420
+      "adds": 119334
     },
     {
       "id": "4147",
@@ -4006,7 +4006,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 110588
+      "adds": 112244
     },
     {
       "id": "2747",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 98705
+      "adds": 99710
     },
     {
       "id": "5189",
@@ -4028,7 +4028,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 88602
+      "adds": 89745
     }
   ]
 }
