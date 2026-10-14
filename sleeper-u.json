@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T12:14:08.619Z",
+  "generated_at": "2026-10-14T12:54:07.095Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -897,6 +897,16 @@
           "rank": 209
         },
         {
+          "id": "12474",
+          "name": "Woody Marks",
+          "pos": "RB",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 105
+        },
+        {
           "id": "12507",
           "name": "Omarion Hampton",
           "pos": "RB",
@@ -905,16 +915,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 12
-        },
-        {
-          "id": "12512",
-          "name": "Quinshon Judkins",
-          "pos": "RB",
-          "team": "CLE",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 45
         },
         {
           "id": "1945",
@@ -1019,14 +1019,14 @@
           "rank": 141
         },
         {
-          "id": "12474",
-          "name": "Woody Marks",
+          "id": "12512",
+          "name": "Quinshon Judkins",
           "pos": "RB",
-          "team": "HOU",
-          "injury": null,
+          "team": "CLE",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 45
         },
         {
           "id": "7547",
@@ -3946,7 +3946,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 597546
+      "adds": 601854
     },
     {
       "id": "3271",
@@ -3957,7 +3957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 457893
+      "adds": 453636
     },
     {
       "id": "12542",
@@ -3968,7 +3968,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 416212
+      "adds": 412324
     },
     {
       "id": "13274",
@@ -3979,7 +3979,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 412847
+      "adds": 403536
     },
     {
       "id": "12491",
@@ -3990,7 +3990,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 350604
+      "adds": 358026
     },
     {
       "id": "13545",
@@ -4001,7 +4001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 249252
+      "adds": 253332
     },
     {
       "id": "2197",
@@ -4012,7 +4012,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 235412
+      "adds": 238396
     },
     {
       "id": "7042",
@@ -4023,7 +4023,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 233060
+      "adds": 237425
     },
     {
       "id": "2505",
@@ -4034,18 +4034,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 167553
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 128004
+      "adds": 167670
     },
     {
       "id": "11058",
@@ -4056,7 +4045,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 124155
+      "adds": 131598
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 126996
     },
     {
       "id": "5189",
@@ -4067,18 +4067,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 118278
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 112612
+      "adds": 121428
     },
     {
       "id": "4227",
@@ -4089,7 +4078,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 111740
+      "adds": 114116
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 110108
     },
     {
       "id": "6650",
@@ -4100,7 +4100,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 99416
+      "adds": 100800
     },
     {
       "id": "NO",
@@ -4111,7 +4111,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84335
+      "adds": 89700
     },
     {
       "id": "2020",
@@ -4122,7 +4122,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 77014
+      "adds": 79618
     },
     {
       "id": "8116",
@@ -4133,18 +4133,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 73395
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 4,
-      "rank": 690,
-      "adds": 62320
+      "adds": 72531
     },
     {
       "id": "NYG",
@@ -4155,7 +4144,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 56904
+      "adds": 58376
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 4,
+      "rank": 690,
+      "adds": 56952
     }
   ]
 }
