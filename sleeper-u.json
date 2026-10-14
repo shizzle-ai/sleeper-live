@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T03:02:42.009Z",
+  "generated_at": "2026-10-14T03:30:05.113Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 666,
-      "adds": 2623992
+      "adds": 2673920
     },
     {
       "id": "11647",
@@ -3830,18 +3830,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 141,
-      "adds": 585300
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 457110
+      "adds": 595015
     },
     {
       "id": "IND",
@@ -3852,7 +3841,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 450540
+      "adds": 458115
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 420192
     },
     {
       "id": "4454",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 673,
-      "adds": 370425
+      "adds": 376584
     },
     {
       "id": "13274",
@@ -3874,29 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 350646
-    },
-    {
-      "id": "650",
-      "name": "Nick Folk",
-      "pos": "K",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 249,
-      "adds": 350220
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 344692
+      "adds": 361534
     },
     {
       "id": "11439",
@@ -3907,7 +3885,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 328025
+      "adds": 358010
+    },
+    {
+      "id": "650",
+      "name": "Nick Folk",
+      "pos": "K",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 249,
+      "adds": 352110
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 351876
     },
     {
       "id": "9757",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 180,
-      "adds": 255130
+      "adds": 261830
     },
     {
       "id": "12491",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 220464
+      "adds": 233544
     },
     {
       "id": "13545",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 193824
+      "adds": 195932
     },
     {
       "id": "11783",
@@ -3951,7 +3951,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 181064
+      "adds": 187904
     },
     {
       "id": "7042",
@@ -3962,7 +3962,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 164140
+      "adds": 167960
     },
     {
       "id": "2197",
@@ -3973,7 +3973,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 531,
-      "adds": 157328
+      "adds": 164936
     },
     {
       "id": "2505",
@@ -3984,18 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 128718
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 106712
+      "adds": 132399
     },
     {
       "id": "6039",
@@ -4006,7 +3995,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 104022
+      "adds": 106614
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 106164
     },
     {
       "id": "2747",
@@ -4017,7 +4017,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 125,
-      "adds": 103195
+      "adds": 101645
     },
     {
       "id": "12472",
@@ -4028,7 +4028,7 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 690,
-      "adds": 85768
+      "adds": 83416
     }
   ]
 }
