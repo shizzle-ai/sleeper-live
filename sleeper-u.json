@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T08:51:04.113Z",
+  "generated_at": "2026-10-14T09:17:31.369Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -3819,7 +3819,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 698,
-      "adds": 574440
+      "adds": 582405
     },
     {
       "id": "IND",
@@ -3830,7 +3830,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 526122
+      "adds": 533049
     },
     {
       "id": "3271",
@@ -3841,7 +3841,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 438912
+      "adds": 442395
     },
     {
       "id": "13274",
@@ -3852,7 +3852,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 194,
-      "adds": 415523
+      "adds": 417016
     },
     {
       "id": "12542",
@@ -3863,7 +3863,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 400476
+      "adds": 403328
     },
     {
       "id": "12491",
@@ -3874,7 +3874,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 318516
+      "adds": 321180
     },
     {
       "id": "11783",
@@ -3885,18 +3885,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 232248
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 530,
-      "adds": 218492
+      "adds": 234520
     },
     {
       "id": "13545",
@@ -3907,7 +3896,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 217308
+      "adds": 220344
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 530,
+      "adds": 220324
     },
     {
       "id": "7042",
@@ -3918,7 +3918,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 196985
+      "adds": 200160
     },
     {
       "id": "2505",
@@ -3929,7 +3929,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 153828
+      "adds": 155403
     },
     {
       "id": "6039",
@@ -3940,7 +3940,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 122736
+      "adds": 123396
     },
     {
       "id": "4147",
@@ -3951,18 +3951,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 112324
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 99414
+      "adds": 112840
     },
     {
       "id": "11058",
@@ -3973,7 +3962,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 99405
+      "adds": 101277
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 101115
     },
     {
       "id": "4227",
@@ -3984,7 +3984,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 94520
+      "adds": 96188
     },
     {
       "id": "6650",
@@ -3995,18 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 86712
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 690,
-      "adds": 70760
+      "adds": 88120
     },
     {
       "id": "8116",
@@ -4017,7 +4006,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 70623
+      "adds": 71064
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 690,
+      "adds": 70800
     },
     {
       "id": "NO",
@@ -4028,7 +4028,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66325
+      "adds": 67655
     }
   ]
 }
