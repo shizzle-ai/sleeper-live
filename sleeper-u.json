@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T21:30:31.957Z",
+  "generated_at": "2026-10-15T23:46:24.294Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1244,7 +1244,7 @@
           "name": "Terry McLaurin",
           "pos": "WR",
           "team": "WAS",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 55
@@ -2052,6 +2052,16 @@
       },
       "starters": [
         {
+          "id": "10229",
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "team": "KC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 29
+        },
+        {
           "id": "11533",
           "name": "Brandon Aubrey",
           "pos": "K",
@@ -2122,24 +2132,14 @@
           "rank": 4
         },
         {
-          "id": "8134",
-          "name": "Khalil Shakir",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 120
-        },
-        {
-          "id": "8148",
-          "name": "Jameson Williams",
-          "pos": "WR",
-          "team": "DET",
+          "id": "5967",
+          "name": "Tony Pollard",
+          "pos": "RB",
+          "team": "TEN",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 53
+          "depth": 1,
+          "rank": 63
         },
         {
           "id": "LAR",
@@ -2153,16 +2153,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "10229",
-          "name": "Rashee Rice",
-          "pos": "WR",
-          "team": "KC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 29
-        },
         {
           "id": "12522",
           "name": "Cam Ward",
@@ -2184,26 +2174,6 @@
           "rank": 113
         },
         {
-          "id": "13425",
-          "name": "Jalon Daniels",
-          "pos": "QB",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 647
-        },
-        {
-          "id": "5967",
-          "name": "Tony Pollard",
-          "pos": "RB",
-          "team": "TEN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 63
-        },
-        {
           "id": "7525",
           "name": "DeVonta Smith",
           "pos": "WR",
@@ -2214,14 +2184,24 @@
           "rank": 34
         },
         {
-          "id": "8126",
-          "name": "Wan'Dale Robinson",
+          "id": "8134",
+          "name": "Khalil Shakir",
           "pos": "WR",
-          "team": "TEN",
+          "team": "BUF",
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 105
+          "rank": 120
+        },
+        {
+          "id": "8148",
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 53
         }
       ],
       "reserve": [
@@ -2399,7 +2379,7 @@
           "name": "David Montgomery",
           "pos": "RB",
           "team": "HOU",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 3,
           "rank": 43
@@ -3016,6 +2996,60 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1416579491592953856",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792101378871,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "13425",
+            "name": "Jalon Daniels",
+            "pos": "QB",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 647
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416578924896411648",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792101243760,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "8126",
+            "name": "Wan'Dale Robinson",
+            "pos": "WR",
+            "team": "TEN",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 105
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1416508709361782784",
       "type": "free_agent",
       "status": "complete",
@@ -3537,7 +3571,7 @@
         "name": "Sam Ehlinger",
         "pos": "QB",
         "team": "DEN",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 377
@@ -3787,6 +3821,16 @@
         "rank": 103
       },
       {
+        "id": "8126",
+        "name": "Wan'Dale Robinson",
+        "pos": "WR",
+        "team": "TEN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 2,
+        "rank": 105
+      },
+      {
         "id": "7049",
         "name": "Jauan Jennings",
         "pos": "WR",
@@ -3945,16 +3989,6 @@
         "status": "Active",
         "depth": 4,
         "rank": 192
-      },
-      {
-        "id": "7090",
-        "name": "Darnell Mooney",
-        "pos": "WR",
-        "team": "NYG",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 194
       }
     ],
     "TE": [
@@ -4254,18 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 196152
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 164835
+      "adds": 222318
     },
     {
       "id": "13545",
@@ -4276,7 +4299,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 141532
+      "adds": 185872
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 184671
     },
     {
       "id": "7042",
@@ -4287,29 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 113680
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 101370
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 530,
-      "adds": 92876
+      "adds": 145490
     },
     {
       "id": "11058",
@@ -4320,7 +4332,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 87462
+      "adds": 115038
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 530,
+      "adds": 106108
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 96330
     },
     {
       "id": "NO",
@@ -4331,18 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81545
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 59815
+      "adds": 94300
     },
     {
       "id": "5189",
@@ -4353,18 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 57696
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 53694
+      "adds": 75789
     },
     {
       "id": "CAR",
@@ -4375,18 +4387,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46068
+      "adds": 64756
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 61668
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 41835
+      "depth": 1,
+      "rank": 190,
+      "adds": 60109
     },
     {
       "id": "8116",
@@ -4397,40 +4420,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 39168
+      "adds": 53496
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 38352
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
+      "id": "7528",
+      "name": "Najee Harris",
       "pos": "RB",
-      "team": "BUF",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 37056
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
       "team": "NYG",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 34892
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 46360
     },
     {
       "id": "13335",
@@ -4441,18 +4442,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 34746
+      "adds": 43002
     },
     {
-      "id": "4227",
-      "name": "Harrison Butker",
+      "id": "6650",
+      "name": "Chase McLaughlin",
       "pos": "K",
-      "team": "KC",
+      "team": "TB",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 155,
-      "adds": 33928
+      "rank": 199,
+      "adds": 40656
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 38874
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38584
     },
     {
       "id": "5995",
@@ -4463,7 +4486,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31761
+      "adds": 37755
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "pos": "K",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 36524
     }
   ]
 }
