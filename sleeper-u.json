@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T14:13:12.475Z",
+  "generated_at": "2026-10-15T18:18:07.831Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2875,6 +2875,16 @@
           "rank": 56
         },
         {
+          "id": "1373",
+          "name": "Geno Smith",
+          "pos": "QB",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 212
+        },
+        {
           "id": "2133",
           "name": "Davante Adams",
           "pos": "WR",
@@ -2893,16 +2903,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 94
-        },
-        {
-          "id": "6904",
-          "name": "Jalen Hurts",
-          "pos": "QB",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 26
         },
         {
           "id": "8138",
@@ -2926,16 +2926,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "1373",
-          "name": "Geno Smith",
-          "pos": "QB",
-          "team": "NYJ",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 212
-        },
         {
           "id": "3163",
           "name": "Jared Goff",
@@ -2985,6 +2975,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 27
+        },
+        {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 677
         }
       ],
       "reserve": [
@@ -2997,6 +2997,16 @@
           "status": "Inactive",
           "depth": 10,
           "rank": 62
+        },
+        {
+          "id": "6904",
+          "name": "Jalen Hurts",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 26
         }
       ],
       "taxi": [],
@@ -3005,6 +3015,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1416508709361782784",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792084503073,
+      "adds": [
+        {
+          "player": {
+            "id": "9230",
+            "name": "Tanner McKee",
+            "pos": "QB",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 677
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1416273955869802496",
       "type": "free_agent",
@@ -4217,7 +4254,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 288507
+      "adds": 219861
     },
     {
       "id": "3271",
@@ -4228,7 +4265,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 215784
+      "adds": 179298
     },
     {
       "id": "13545",
@@ -4239,7 +4276,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 190260
+      "adds": 155668
     },
     {
       "id": "7042",
@@ -4250,7 +4287,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 158020
+      "adds": 124350
     },
     {
       "id": "12491",
@@ -4261,7 +4298,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 142314
+      "adds": 121476
     },
     {
       "id": "11058",
@@ -4272,18 +4309,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 115101
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 109095
+      "adds": 97515
     },
     {
       "id": "2197",
@@ -4294,29 +4320,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 106592
+      "adds": 94516
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 83232
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 77805
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 88320
     },
     {
       "id": "2020",
@@ -4327,7 +4342,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 76069
+      "adds": 66416
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 63450
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 61410
     },
     {
       "id": "6650",
@@ -4338,29 +4375,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 61624
-    },
-    {
-      "id": "4227",
-      "name": "Harrison Butker",
-      "pos": "K",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 57260
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 55710
+      "adds": 46152
     },
     {
       "id": "7528",
@@ -4371,7 +4386,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 48565
+      "adds": 45435
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 45012
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "pos": "K",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 40832
     },
     {
       "id": "NYG",
@@ -4382,7 +4419,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 46792
+      "adds": 38148
     },
     {
       "id": "13276",
@@ -4393,7 +4430,7 @@
       "status": "Inactive",
       "depth": 9,
       "rank": 151,
-      "adds": 35480
+      "adds": 34736
     },
     {
       "id": "8116",
@@ -4404,18 +4441,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 35271
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 34839
+      "adds": 34641
     },
     {
       "id": "11631",
@@ -4426,7 +4452,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 74,
-      "adds": 34090
+      "adds": 32455
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 32382
     }
   ]
 }
