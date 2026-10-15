@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T18:18:07.831Z",
+  "generated_at": "2026-10-15T21:30:31.957Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1299,6 +1299,16 @@
           "rank": 20
         },
         {
+          "id": "11646",
+          "name": "Jalen Coker",
+          "pos": "WR",
+          "team": "CAR",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 132
+        },
+        {
           "id": "11786",
           "name": "Cam Little",
           "pos": "K",
@@ -1307,16 +1317,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 133
-        },
-        {
-          "id": "4943",
-          "name": "Sam Darnold",
-          "pos": "QB",
-          "team": "SEA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 92
         },
         {
           "id": "6813",
@@ -1401,16 +1401,6 @@
           "rank": 68
         },
         {
-          "id": "11646",
-          "name": "Jalen Coker",
-          "pos": "WR",
-          "team": "CAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 132
-        },
-        {
           "id": "4017",
           "name": "Deshaun Watson",
           "pos": "QB",
@@ -1419,6 +1409,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 296
+        },
+        {
+          "id": "4943",
+          "name": "Sam Darnold",
+          "pos": "QB",
+          "team": "SEA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 92
         },
         {
           "id": "7002",
@@ -2337,7 +2337,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -3951,7 +3951,7 @@
         "name": "Darnell Mooney",
         "pos": "WR",
         "team": "NYG",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 194
@@ -4254,7 +4254,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 219861
+      "adds": 196152
     },
     {
       "id": "3271",
@@ -4265,7 +4265,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 179298
+      "adds": 164835
     },
     {
       "id": "13545",
@@ -4276,7 +4276,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 155668
+      "adds": 141532
     },
     {
       "id": "7042",
@@ -4287,7 +4287,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 124350
+      "adds": 113680
     },
     {
       "id": "12491",
@@ -4298,18 +4298,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 121476
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 97515
+      "adds": 101370
     },
     {
       "id": "2197",
@@ -4320,7 +4309,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 94516
+      "adds": 92876
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 87462
     },
     {
       "id": "NO",
@@ -4331,7 +4331,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 88320
+      "adds": 81545
     },
     {
       "id": "2020",
@@ -4342,18 +4342,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 66416
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 63450
+      "adds": 59815
     },
     {
       "id": "5189",
@@ -4364,18 +4353,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 61410
+      "adds": 57696
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
-      "rank": 199,
-      "adds": 46152
+      "rank": 358,
+      "adds": 53694
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 46068
     },
     {
       "id": "7528",
@@ -4386,51 +4386,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 45435
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 45012
-    },
-    {
-      "id": "4227",
-      "name": "Harrison Butker",
-      "pos": "K",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 40832
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38148
-    },
-    {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 9,
-      "rank": 151,
-      "adds": 34736
+      "adds": 41835
     },
     {
       "id": "8116",
@@ -4441,18 +4397,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 34641
+      "adds": 39168
     },
     {
-      "id": "11631",
-      "name": "Brian Thomas",
-      "pos": "WR",
-      "team": "JAX",
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 38352
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 37056
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 34892
+    },
+    {
+      "id": "13335",
+      "name": "Cole Payton",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 74,
-      "adds": 32455
+      "rank": 652,
+      "adds": 34746
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "pos": "K",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 33928
     },
     {
       "id": "5995",
@@ -4463,7 +4463,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 32382
+      "adds": 31761
     }
   ]
 }
