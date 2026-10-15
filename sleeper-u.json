@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T09:18:15.113Z",
+  "generated_at": "2026-10-15T14:13:12.475Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1808,7 +1808,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 5,
           "rank": 164
         },
         {
@@ -2361,7 +2361,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 5,
+          "depth": 4,
           "rank": 74
         },
         {
@@ -3896,7 +3896,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -4217,7 +4217,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 425181
+      "adds": 288507
     },
     {
       "id": "3271",
@@ -4228,7 +4228,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 272970
+      "adds": 215784
     },
     {
       "id": "13545",
@@ -4239,7 +4239,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 246860
+      "adds": 190260
     },
     {
       "id": "7042",
@@ -4250,7 +4250,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 214335
+      "adds": 158020
     },
     {
       "id": "12491",
@@ -4261,7 +4261,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 176916
+      "adds": 142314
     },
     {
       "id": "11058",
@@ -4272,18 +4272,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 144036
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 530,
-      "adds": 131572
+      "adds": 115101
     },
     {
       "id": "NO",
@@ -4294,7 +4283,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 131480
+      "adds": 109095
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 530,
+      "adds": 106592
     },
     {
       "id": "2505",
@@ -4305,7 +4305,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 111483
+      "adds": 83232
     },
     {
       "id": "5189",
@@ -4316,7 +4316,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 107790
+      "adds": 77805
     },
     {
       "id": "2020",
@@ -4327,7 +4327,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 94563
+      "adds": 76069
     },
     {
       "id": "6650",
@@ -4338,7 +4338,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 87136
+      "adds": 61624
     },
     {
       "id": "4227",
@@ -4349,7 +4349,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 86600
+      "adds": 57260
     },
     {
       "id": "6039",
@@ -4360,18 +4360,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 68934
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 60884
+      "adds": 55710
     },
     {
       "id": "7528",
@@ -4382,29 +4371,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 54200
+      "adds": 48565
     },
     {
-      "id": "3214",
-      "name": "Hunter Henry",
-      "pos": "TE",
-      "team": "NE",
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 92,
-      "adds": 43353
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 46792
     },
     {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 41209
+      "id": "13276",
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 9,
+      "rank": 151,
+      "adds": 35480
     },
     {
       "id": "8116",
@@ -4415,7 +4404,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 40284
+      "adds": 35271
     },
     {
       "id": "5995",
@@ -4426,7 +4415,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 39384
+      "adds": 34839
+    },
+    {
+      "id": "11631",
+      "name": "Brian Thomas",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 74,
+      "adds": 34090
     }
   ]
 }
