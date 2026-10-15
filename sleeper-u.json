@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T01:10:03.724Z",
+  "generated_at": "2026-10-15T01:37:09.755Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4143,7 +4143,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 572988
+      "adds": 552984
     },
     {
       "id": "3271",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 384489
+      "adds": 367713
     },
     {
       "id": "12491",
@@ -4165,7 +4165,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 313746
+      "adds": 292086
     },
     {
       "id": "13545",
@@ -4176,7 +4176,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 280088
+      "adds": 274296
     },
     {
       "id": "7042",
@@ -4187,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 252495
+      "adds": 246660
     },
     {
       "id": "2197",
@@ -4198,7 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 216736
+      "adds": 204164
     },
     {
       "id": "11058",
@@ -4209,7 +4209,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 169650
+      "adds": 166095
     },
     {
       "id": "2505",
@@ -4220,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 158949
+      "adds": 152262
     },
     {
       "id": "NO",
@@ -4231,7 +4231,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 143570
+      "adds": 141980
     },
     {
       "id": "5189",
@@ -4242,7 +4242,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 132498
+      "adds": 128928
     },
     {
       "id": "4227",
@@ -4253,7 +4253,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 116456
+      "adds": 112356
     },
     {
       "id": "6039",
@@ -4264,7 +4264,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 112296
+      "adds": 105912
     },
     {
       "id": "6650",
@@ -4275,7 +4275,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 105768
+      "adds": 103592
     },
     {
       "id": "2020",
@@ -4286,18 +4286,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 104615
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 76744
+      "adds": 102949
     },
     {
       "id": "12469",
@@ -4308,7 +4297,18 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 75645
+      "adds": 75075
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 70560
     },
     {
       "id": "NYG",
@@ -4319,7 +4319,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71684
+      "adds": 70068
     },
     {
       "id": "8116",
@@ -4330,18 +4330,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 62649
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 56952
+      "adds": 58959
     },
     {
       "id": "7528",
@@ -4352,7 +4341,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 55765
+      "adds": 55330
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 54544
     }
   ]
 }
