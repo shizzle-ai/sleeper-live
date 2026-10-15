@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T23:42:15.181Z",
+  "generated_at": "2026-10-15T00:00:09.012Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1283,7 +1283,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 20
@@ -2957,14 +2957,14 @@
           "rank": 68
         },
         {
-          "id": "PHI",
-          "name": "Philadelphia Eagles",
-          "pos": "DEF",
-          "team": "PHI",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": "Doubtful",
+          "status": "Active",
+          "depth": 1,
+          "rank": 27
         }
       ],
       "reserve": [
@@ -2977,16 +2977,6 @@
           "status": "Inactive",
           "depth": 9,
           "rank": 62
-        },
-        {
-          "id": "8155",
-          "name": "Breece Hall",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Doubtful",
-          "status": "Active",
-          "depth": 1,
-          "rank": 27
         }
       ],
       "taxi": [],
@@ -2995,6 +2985,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1416246940185755648",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792022092438,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "PHI",
+            "name": "Philadelphia Eagles",
+            "pos": "DEF",
+            "team": "PHI",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1416133125544652801",
       "type": "free_agent",
@@ -4126,7 +4143,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 577359
+      "adds": 581277
     },
     {
       "id": "3271",
@@ -4137,7 +4154,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 388350
+      "adds": 391581
     },
     {
       "id": "12491",
@@ -4148,7 +4165,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 324858
+      "adds": 326724
     },
     {
       "id": "13545",
@@ -4159,7 +4176,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 275832
+      "adds": 278552
     },
     {
       "id": "7042",
@@ -4170,7 +4187,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 249635
+      "adds": 251980
     },
     {
       "id": "2197",
@@ -4181,7 +4198,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 221548
+      "adds": 223192
     },
     {
       "id": "11058",
@@ -4192,7 +4209,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 167175
+      "adds": 169038
     },
     {
       "id": "2505",
@@ -4203,7 +4220,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 161739
+      "adds": 162729
     },
     {
       "id": "NO",
@@ -4214,7 +4231,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 139985
+      "adds": 141270
     },
     {
       "id": "5189",
@@ -4225,7 +4242,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 132108
+      "adds": 133122
     },
     {
       "id": "4227",
@@ -4236,7 +4253,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 117076
+      "adds": 117860
     },
     {
       "id": "6039",
@@ -4247,7 +4264,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 116148
+      "adds": 116844
     },
     {
       "id": "6650",
@@ -4258,7 +4275,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104912
+      "adds": 105776
     },
     {
       "id": "2020",
@@ -4269,7 +4286,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 102641
+      "adds": 103621
     },
     {
       "id": "4147",
@@ -4280,7 +4297,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 81528
+      "adds": 81740
     },
     {
       "id": "12469",
@@ -4291,7 +4308,7 @@
       "status": "Inactive",
       "depth": 6,
       "rank": 129,
-      "adds": 73740
+      "adds": 74535
     },
     {
       "id": "NYG",
@@ -4302,7 +4319,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71004
+      "adds": 71620
     },
     {
       "id": "8116",
@@ -4313,7 +4330,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 63603
+      "adds": 63954
     },
     {
       "id": "13414",
@@ -4324,7 +4341,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 57358
+      "adds": 57813
     },
     {
       "id": "10235",
@@ -4335,7 +4352,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 681,
-      "adds": 54624
+      "adds": 54928
     }
   ]
 }
