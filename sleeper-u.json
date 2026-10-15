@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T03:29:23.946Z",
+  "generated_at": "2026-10-15T04:01:44.217Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4217,7 +4217,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 544497
+      "adds": 519969
     },
     {
       "id": "3271",
@@ -4228,7 +4228,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 359739
+      "adds": 337752
     },
     {
       "id": "13545",
@@ -4239,7 +4239,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 277756
+      "adds": 271868
     },
     {
       "id": "12491",
@@ -4250,7 +4250,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 275694
+      "adds": 249060
     },
     {
       "id": "7042",
@@ -4261,7 +4261,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 248650
+      "adds": 241985
     },
     {
       "id": "2197",
@@ -4272,7 +4272,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 196812
+      "adds": 180836
     },
     {
       "id": "11058",
@@ -4283,18 +4283,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 168111
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 148734
+      "adds": 163701
     },
     {
       "id": "NO",
@@ -4305,7 +4294,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 144940
+      "adds": 142470
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 140058
     },
     {
       "id": "5189",
@@ -4316,7 +4316,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 128880
+      "adds": 124761
     },
     {
       "id": "4227",
@@ -4327,7 +4327,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 110820
+      "adds": 106292
     },
     {
       "id": "2020",
@@ -4338,7 +4338,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 104993
+      "adds": 102970
     },
     {
       "id": "6650",
@@ -4349,7 +4349,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104416
+      "adds": 101616
     },
     {
       "id": "6039",
@@ -4360,7 +4360,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 102222
+      "adds": 91848
     },
     {
       "id": "NYG",
@@ -4371,18 +4371,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71060
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 64408
+      "adds": 69108
     },
     {
       "id": "7528",
@@ -4393,7 +4382,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 58160
+      "adds": 57300
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 55184
     },
     {
       "id": "8116",
@@ -4404,7 +4404,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 56772
+      "adds": 52002
     },
     {
       "id": "13414",
@@ -4415,7 +4415,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 53718
+      "adds": 50897
     },
     {
       "id": "3214",
@@ -4426,7 +4426,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 92,
-      "adds": 51477
+      "adds": 49803
     }
   ]
 }
