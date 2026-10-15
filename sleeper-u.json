@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T01:37:09.755Z",
+  "generated_at": "2026-10-15T02:05:21.814Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1037,6 +1037,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 7
+        },
+        {
+          "id": "7600",
+          "name": "Pat Freiermuth",
+          "pos": "TE",
+          "team": "PIT",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 230
         }
       ],
       "reserve": [
@@ -2598,6 +2608,16 @@
       ],
       "reserve": [
         {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "pos": "RB",
+          "team": "CLE",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 6,
+          "rank": 129
+        },
+        {
           "id": "9225",
           "name": "Tank Bigsby",
           "pos": "RB",
@@ -2985,6 +3005,60 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1416273955869802496",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792028533479,
+      "adds": [
+        {
+          "player": {
+            "id": "7600",
+            "name": "Pat Freiermuth",
+            "pos": "TE",
+            "team": "PIT",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 230
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        2
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416272851085856768",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792028270078,
+      "adds": [
+        {
+          "player": {
+            "id": "12469",
+            "name": "Dylan Sampson",
+            "pos": "RB",
+            "team": "CLE",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 6,
+            "rank": 129
+          },
+          "roster_id": 10,
+          "team": "CHASEing Dubs"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        10
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1416246940185755648",
       "type": "free_agent",
@@ -4143,7 +4217,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 552984
+      "adds": 558513
     },
     {
       "id": "3271",
@@ -4154,7 +4228,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 367713
+      "adds": 371952
     },
     {
       "id": "12491",
@@ -4165,7 +4239,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 292086
+      "adds": 295008
     },
     {
       "id": "13545",
@@ -4176,7 +4250,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 274296
+      "adds": 277952
     },
     {
       "id": "7042",
@@ -4187,7 +4261,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 246660
+      "adds": 249755
     },
     {
       "id": "2197",
@@ -4198,7 +4272,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 204164
+      "adds": 206864
     },
     {
       "id": "11058",
@@ -4209,7 +4283,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 166095
+      "adds": 168525
     },
     {
       "id": "2505",
@@ -4220,7 +4294,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 152262
+      "adds": 153603
     },
     {
       "id": "NO",
@@ -4231,7 +4305,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 141980
+      "adds": 143980
     },
     {
       "id": "5189",
@@ -4242,7 +4316,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 128928
+      "adds": 130560
     },
     {
       "id": "4227",
@@ -4253,7 +4327,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 112356
+      "adds": 113372
     },
     {
       "id": "6039",
@@ -4264,7 +4338,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 105912
+      "adds": 106950
     },
     {
       "id": "6650",
@@ -4275,7 +4349,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 103592
+      "adds": 104608
     },
     {
       "id": "2020",
@@ -4286,29 +4360,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 102949
-    },
-    {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 6,
-      "rank": 129,
-      "adds": 75075
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 456,
-      "adds": 70560
+      "adds": 104447
     },
     {
       "id": "NYG",
@@ -4319,7 +4371,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 70068
+      "adds": 71084
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 456,
+      "adds": 70892
     },
     {
       "id": "8116",
@@ -4330,7 +4393,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 58959
+      "adds": 59841
     },
     {
       "id": "7528",
@@ -4341,7 +4404,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 55330
+      "adds": 56500
     },
     {
       "id": "13414",
@@ -4352,7 +4415,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 54544
+      "adds": 55237
+    },
+    {
+      "id": "3214",
+      "name": "Hunter Henry",
+      "pos": "TE",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 92,
+      "adds": 51594
     }
   ]
 }
