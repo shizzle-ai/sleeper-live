@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T02:05:21.814Z",
+  "generated_at": "2026-10-15T02:33:13.085Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4217,7 +4217,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 558513
+      "adds": 535398
     },
     {
       "id": "3271",
@@ -4228,18 +4228,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 371952
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 295008
+      "adds": 352134
     },
     {
       "id": "13545",
@@ -4250,7 +4239,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 277952
+      "adds": 271820
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 269934
     },
     {
       "id": "7042",
@@ -4261,7 +4261,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 249755
+      "adds": 243500
     },
     {
       "id": "2197",
@@ -4272,7 +4272,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 206864
+      "adds": 192264
     },
     {
       "id": "11058",
@@ -4283,7 +4283,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 168525
+      "adds": 164016
     },
     {
       "id": "2505",
@@ -4294,7 +4294,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 153603
+      "adds": 146160
     },
     {
       "id": "NO",
@@ -4305,7 +4305,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 143980
+      "adds": 141665
     },
     {
       "id": "5189",
@@ -4316,7 +4316,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 130560
+      "adds": 126522
     },
     {
       "id": "4227",
@@ -4327,18 +4327,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 113372
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 106950
+      "adds": 109092
     },
     {
       "id": "6650",
@@ -4349,7 +4338,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 104608
+      "adds": 102472
     },
     {
       "id": "2020",
@@ -4360,7 +4349,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 104447
+      "adds": 102333
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 100398
     },
     {
       "id": "NYG",
@@ -4371,7 +4371,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71084
+      "adds": 69260
     },
     {
       "id": "4147",
@@ -4382,18 +4382,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 70892
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 59841
+      "adds": 63784
     },
     {
       "id": "7528",
@@ -4404,7 +4393,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 56500
+      "adds": 56010
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 55197
     },
     {
       "id": "13414",
@@ -4415,7 +4415,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 55237
+      "adds": 52465
     },
     {
       "id": "3214",
@@ -4426,7 +4426,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 92,
-      "adds": 51594
+      "adds": 50367
     }
   ]
 }
