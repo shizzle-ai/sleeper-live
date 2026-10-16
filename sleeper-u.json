@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-15T23:46:24.294Z",
+  "generated_at": "2026-10-16T01:41:55.752Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Bijan Mustard",
       "is_me": false,
       "matchup_id": 5,
-      "points": 0,
+      "points": 4.5,
       "starters": [
         {
           "id": "9758",
@@ -430,7 +430,7 @@
           "team": "NE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 39
         },
         {
@@ -509,18 +509,18 @@
         0,
         0,
         0,
+        3.5,
         0,
         0,
         0,
         0,
-        0,
-        0
+        1
       ],
       "players_points": {
         "1479": 0,
         "3321": 0,
         "6083": 0,
-        "7526": 0,
+        "7526": 3.5,
         "8130": 0,
         "8136": 0,
         "8408": 0,
@@ -534,7 +534,7 @@
         "12519": 0,
         "12529": 0,
         "12534": 0,
-        "SEA": 0
+        "SEA": 1
       }
     }
   },
@@ -1226,7 +1226,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 658
         },
         {
@@ -1293,7 +1293,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 20
@@ -1867,7 +1867,7 @@
           "team": "NE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 39
         },
         {
@@ -2341,7 +2341,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 74
         },
         {
@@ -2460,7 +2460,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 89
         },
         {
@@ -2963,7 +2963,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 677
         }
       ],
@@ -2985,7 +2985,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 26
         }
       ],
@@ -3063,7 +3063,7 @@
             "team": "PHI",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 677
           },
           "roster_id": 12,
@@ -3967,7 +3967,7 @@
         "team": "ATL",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 185
       },
       {
@@ -3977,7 +3977,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 222318
+      "adds": 227259
     },
     {
       "id": "13545",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 185872
+      "adds": 196560
     },
     {
       "id": "3271",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 184671
+      "adds": 188658
     },
     {
       "id": "7042",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 145490
+      "adds": 156145
     },
     {
       "id": "11058",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 115038
+      "adds": 122634
     },
     {
       "id": "2197",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 530,
-      "adds": 106108
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 96330
+      "adds": 109260
     },
     {
       "id": "NO",
@@ -4365,7 +4354,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 94300
+      "adds": 99110
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 86772
     },
     {
       "id": "5189",
@@ -4376,7 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 75789
+      "adds": 80661
     },
     {
       "id": "CAR",
@@ -4387,7 +4387,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 64756
+      "adds": 74582
     },
     {
       "id": "2505",
@@ -4398,18 +4398,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 61668
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 60109
+      "adds": 63612
     },
     {
       "id": "8116",
@@ -4420,18 +4409,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 53496
+      "adds": 61731
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 46360
+      "depth": 1,
+      "rank": 190,
+      "adds": 56875
     },
     {
       "id": "13335",
@@ -4442,40 +4431,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 43002
+      "adds": 47550
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 40656
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
+      "id": "7528",
+      "name": "Najee Harris",
       "pos": "RB",
-      "team": "BUF",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 38874
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
       "team": "NYG",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38584
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 46800
     },
     {
       "id": "5995",
@@ -4486,7 +4453,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 37755
+      "adds": 40653
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39564
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 39330
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 39032
     },
     {
       "id": "4227",
@@ -4497,7 +4497,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 36524
+      "adds": 35288
     }
   ]
 }
