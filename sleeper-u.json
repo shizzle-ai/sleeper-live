@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T11:39:24.468Z",
+  "generated_at": "2026-10-16T15:31:55.063Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -213,7 +213,7 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Doubtful",
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 162
@@ -2751,7 +2751,7 @@
           "name": "Adonai Mitchell",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 4,
           "rank": 162
@@ -2951,7 +2951,7 @@
           "name": "Breece Hall",
           "pos": "RB",
           "team": "NYJ",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 27
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 202455
+      "adds": 179940
     },
     {
       "id": "13545",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 185600
+      "adds": 170116
     },
     {
       "id": "3271",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 645,
-      "adds": 176265
+      "adds": 169605
     },
     {
       "id": "7042",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 152550
+      "adds": 143245
     },
     {
       "id": "11058",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 116019
+      "adds": 108702
     },
     {
       "id": "2197",
@@ -4343,18 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 103676
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 92165
+      "adds": 100208
     },
     {
       "id": "CAR",
@@ -4365,18 +4354,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82620
+      "adds": 85196
     },
     {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 75909
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 83035
     },
     {
       "id": "8116",
@@ -4387,7 +4376,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 69327
+      "adds": 73116
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 70125
     },
     {
       "id": "13335",
@@ -4398,18 +4398,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 62676
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 58296
+      "adds": 70038
     },
     {
       "id": "2505",
@@ -4420,29 +4409,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 58230
+      "adds": 53874
     },
     {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
+      "id": "11557",
+      "name": "Joe Milton",
+      "pos": "QB",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 45675
+      "depth": null,
+      "rank": 503,
+      "adds": 50296
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
+      "id": "12491",
+      "name": "Corey Kiner",
       "pos": "RB",
-      "team": "NYG",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 41230
+      "depth": 3,
+      "rank": 487,
+      "adds": 42888
     },
     {
       "id": "5995",
@@ -4453,18 +4442,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 39519
+      "adds": 38169
     },
     {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 36960
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
       "team": "NYG",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 34460
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 36460
     },
     {
       "id": "6039",
@@ -4475,7 +4475,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 34416
+      "adds": 31368
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 30316
     },
     {
       "id": "6650",
@@ -4486,18 +4497,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 32600
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 77,
-      "adds": 29472
+      "adds": 28512
     }
   ]
 }
