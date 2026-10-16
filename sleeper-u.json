@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T01:41:55.752Z",
+  "generated_at": "2026-10-16T06:23:04.383Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -104,7 +104,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 267
+        "rank": 266
       },
       {
         "id": "12514",
@@ -206,7 +206,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 177
+        "rank": 176
       },
       {
         "id": "11625",
@@ -342,7 +342,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 267
+          "rank": 266
         },
         {
           "id": "3451",
@@ -401,7 +401,7 @@
       "team": "Bijan Mustard",
       "is_me": false,
       "matchup_id": 5,
-      "points": 4.5,
+      "points": 9.4,
       "starters": [
         {
           "id": "9758",
@@ -411,7 +411,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "9509",
@@ -448,7 +448,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -481,7 +481,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 134
         },
         {
           "id": "6083",
@@ -509,18 +509,18 @@
         0,
         0,
         0,
-        3.5,
+        6.4,
         0,
         0,
         0,
         0,
-        1
+        3
       ],
       "players_points": {
         "1479": 0,
         "3321": 0,
         "6083": 0,
-        "7526": 3.5,
+        "7526": 6.4,
         "8130": 0,
         "8136": 0,
         "8408": 0,
@@ -534,7 +534,7 @@
         "12519": 0,
         "12529": 0,
         "12534": 0,
-        "SEA": 1
+        "SEA": 3
       }
     }
   },
@@ -743,7 +743,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 666
+          "rank": 488
         },
         {
           "id": "8131",
@@ -1145,7 +1145,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 475
+          "rank": 473
         },
         {
           "id": "4866",
@@ -1237,7 +1237,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 132
+          "rank": 131
         },
         {
           "id": "5927",
@@ -1296,7 +1296,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 20
+          "rank": 21
         },
         {
           "id": "11646",
@@ -1316,7 +1316,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "6813",
@@ -1336,7 +1336,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "8167",
@@ -1376,7 +1376,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1408,7 +1408,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 296
+          "rank": 293
         },
         {
           "id": "4943",
@@ -1418,7 +1418,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 93
         },
         {
           "id": "7002",
@@ -1496,7 +1496,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
+          "rank": 28
         },
         {
           "id": "12490",
@@ -1516,7 +1516,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 88
         },
         {
           "id": "4034",
@@ -1640,7 +1640,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 8,
-          "rank": 130
+          "rank": 131
         },
         {
           "id": "7543",
@@ -1707,7 +1707,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 69
+          "rank": 68
         },
         {
           "id": "7523",
@@ -1885,7 +1885,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -1908,7 +1908,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 134
         },
         {
           "id": "9509",
@@ -1928,7 +1928,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "9997",
@@ -2161,7 +2161,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 115
+          "rank": 116
         },
         {
           "id": "13337",
@@ -2260,7 +2260,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 37
         },
         {
           "id": "2747",
@@ -2280,7 +2280,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "4454",
@@ -2300,7 +2300,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 8
+          "rank": 10
         },
         {
           "id": "5846",
@@ -2362,7 +2362,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 463
+          "rank": 461
         },
         {
           "id": "5012",
@@ -2382,7 +2382,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 3,
-          "rank": 43
+          "rank": 41
         },
         {
           "id": "8161",
@@ -2471,7 +2471,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 90
         },
         {
           "id": "3198",
@@ -2491,7 +2491,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "4983",
@@ -2511,7 +2511,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "9482",
@@ -2521,7 +2521,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 465
+          "rank": 464
         },
         {
           "id": "MIN",
@@ -2563,7 +2563,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 86
+          "rank": 87
         },
         {
           "id": "7564",
@@ -2642,7 +2642,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 267
+          "rank": 266
         },
         {
           "id": "12514",
@@ -2744,7 +2744,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 177
+          "rank": 176
         },
         {
           "id": "11625",
@@ -2862,7 +2862,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 212
+          "rank": 211
         },
         {
           "id": "2133",
@@ -2934,7 +2934,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "6806",
@@ -2986,7 +2986,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 26
+          "rank": 28
         }
       ],
       "taxi": [],
@@ -3766,7 +3766,7 @@
         "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 229
+        "rank": 228
       },
       {
         "id": "11186",
@@ -3798,7 +3798,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 74
+        "rank": 75
       },
       {
         "id": "5947",
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 227259
+      "adds": 213474
     },
     {
       "id": "13545",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 196560
+      "adds": 191300
     },
     {
       "id": "3271",
@@ -4309,8 +4309,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 652,
-      "adds": 188658
+      "rank": 645,
+      "adds": 181251
     },
     {
       "id": "7042",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 156145
+      "adds": 156530
     },
     {
       "id": "11058",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 122634
+      "adds": 119601
     },
     {
       "id": "2197",
@@ -4342,8 +4342,8 @@
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 530,
-      "adds": 109260
+      "rank": 528,
+      "adds": 106644
     },
     {
       "id": "NO",
@@ -4354,29 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 99110
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 86772
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 80661
+      "adds": 96380
     },
     {
       "id": "CAR",
@@ -4387,18 +4365,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 74582
+      "adds": 80798
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 358,
-      "adds": 63612
+      "rank": 174,
+      "adds": 78555
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 69186
     },
     {
       "id": "8116",
@@ -4409,18 +4398,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 61731
+      "adds": 67383
     },
     {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
-      "rank": 190,
-      "adds": 56875
+      "rank": 358,
+      "adds": 60813
     },
     {
       "id": "13335",
@@ -4431,7 +4420,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 47550
+      "adds": 57852
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 49931
     },
     {
       "id": "7528",
@@ -4442,7 +4442,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 46800
+      "adds": 43680
     },
     {
       "id": "5995",
@@ -4453,7 +4453,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 40653
+      "adds": 40734
     },
     {
       "id": "NYG",
@@ -4464,7 +4464,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39564
+      "adds": 36648
     },
     {
       "id": "6039",
@@ -4475,7 +4475,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 39330
+      "adds": 36492
     },
     {
       "id": "6650",
@@ -4486,7 +4486,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 39032
+      "adds": 35152
     },
     {
       "id": "4227",
@@ -4497,7 +4497,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 155,
-      "adds": 35288
+      "adds": 31348
     }
   ]
 }
