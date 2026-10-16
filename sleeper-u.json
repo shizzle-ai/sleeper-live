@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-16T06:23:04.383Z",
+  "generated_at": "2026-10-16T11:39:24.468Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -742,7 +742,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 488
         },
         {
@@ -1154,7 +1154,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 11
         },
         {
@@ -1226,7 +1226,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 658
         },
         {
@@ -1999,7 +1999,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 203
         },
         {
@@ -2180,7 +2180,7 @@
           "team": "PHI",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 34
         },
         {
@@ -3755,7 +3755,7 @@
         "team": "SF",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 222
       },
       {
@@ -4288,7 +4288,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 213474
+      "adds": 202455
     },
     {
       "id": "13545",
@@ -4299,7 +4299,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 191300
+      "adds": 185600
     },
     {
       "id": "3271",
@@ -4310,7 +4310,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 645,
-      "adds": 181251
+      "adds": 176265
     },
     {
       "id": "7042",
@@ -4321,7 +4321,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 156530
+      "adds": 152550
     },
     {
       "id": "11058",
@@ -4332,7 +4332,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 119601
+      "adds": 116019
     },
     {
       "id": "2197",
@@ -4343,7 +4343,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 106644
+      "adds": 103676
     },
     {
       "id": "NO",
@@ -4354,7 +4354,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 96380
+      "adds": 92165
     },
     {
       "id": "CAR",
@@ -4365,7 +4365,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 80798
+      "adds": 82620
     },
     {
       "id": "5189",
@@ -4376,18 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 78555
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 69186
+      "adds": 75909
     },
     {
       "id": "8116",
@@ -4398,18 +4387,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 67383
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 60813
+      "adds": 69327
     },
     {
       "id": "13335",
@@ -4420,7 +4398,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 652,
-      "adds": 57852
+      "adds": 62676
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 58296
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 58230
     },
     {
       "id": "2020",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 49931
+      "adds": 45675
     },
     {
       "id": "7528",
@@ -4442,7 +4442,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 43680
+      "adds": 41230
     },
     {
       "id": "5995",
@@ -4453,7 +4453,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 40734
+      "adds": 39519
     },
     {
       "id": "NYG",
@@ -4464,7 +4464,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 36648
+      "adds": 34460
     },
     {
       "id": "6039",
@@ -4475,7 +4475,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 36492
+      "adds": 34416
     },
     {
       "id": "6650",
@@ -4486,18 +4486,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 35152
+      "adds": 32600
     },
     {
-      "id": "4227",
-      "name": "Harrison Butker",
-      "pos": "K",
-      "team": "KC",
-      "injury": null,
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 31348
+      "depth": 2,
+      "rank": 77,
+      "adds": 29472
     }
   ]
 }
