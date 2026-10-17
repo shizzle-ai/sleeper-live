@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T15:43:50.987Z",
+  "generated_at": "2026-10-17T17:56:13.528Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1043,7 +1043,7 @@
           "name": "Pat Freiermuth",
           "pos": "TE",
           "team": "PIT",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 230
@@ -1214,7 +1214,7 @@
           "name": "Jacory Croskey-Merritt",
           "pos": "RB",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 95
@@ -1730,14 +1730,14 @@
           "rank": 19
         },
         {
-          "id": "8121",
-          "name": "Romeo Doubs",
-          "pos": "WR",
-          "team": "NE",
+          "id": "8151",
+          "name": "Kenneth Walker",
+          "pos": "RB",
+          "team": "KC",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 117
+          "rank": 19
         },
         {
           "id": "8228",
@@ -1792,14 +1792,14 @@
           "rank": 105
         },
         {
-          "id": "8151",
-          "name": "Kenneth Walker",
-          "pos": "RB",
-          "team": "KC",
+          "id": "8121",
+          "name": "Romeo Doubs",
+          "pos": "WR",
+          "team": "NE",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 19
+          "rank": 117
         },
         {
           "id": "9504",
@@ -3300,7 +3300,7 @@
             "name": "Pat Freiermuth",
             "pos": "TE",
             "team": "PIT",
-            "injury": null,
+            "injury": "Questionable",
             "status": "Active",
             "depth": 1,
             "rank": 230
@@ -4492,17 +4492,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 503,
-      "adds": 141940
-    },
-    {
       "id": "10235",
       "name": "Roschon Johnson",
       "pos": "RB",
@@ -4511,18 +4500,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 105768
+      "adds": 148688
     },
     {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
+      "id": "11557",
+      "name": "Joe Milton",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 529,
-      "adds": 71604
+      "rank": 503,
+      "adds": 95908
     },
     {
       "id": "13413",
@@ -4533,7 +4522,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 69444
+      "adds": 79320
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 529,
+      "adds": 72788
     },
     {
       "id": "8116",
@@ -4544,7 +4544,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 63153
+      "adds": 62721
     },
     {
       "id": "5995",
@@ -4555,29 +4555,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 48240
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 45025
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 44877
+      "adds": 51831
     },
     {
       "id": "2505",
@@ -4588,29 +4566,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 42579
+      "adds": 47502
     },
     {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 9,
-      "rank": 151,
-      "adds": 37584
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
+      "id": "7042",
+      "name": "Tyler Bass",
       "pos": "K",
-      "team": "LAR",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 689,
-      "adds": 33030
+      "rank": 288,
+      "adds": 45740
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 45282
     },
     {
       "id": "6039",
@@ -4621,7 +4599,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 30126
+      "adds": 34836
+    },
+    {
+      "id": "13276",
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 9,
+      "rank": 151,
+      "adds": 34816
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 32922
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 632,
+      "adds": 23232
     },
     {
       "id": "CAR",
@@ -4632,7 +4643,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23622
+      "adds": 23178
     },
     {
       "id": "11616",
@@ -4643,7 +4654,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 20874
+      "adds": 23178
     },
     {
       "id": "13414",
@@ -4654,7 +4665,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 20272
+      "adds": 20860
     },
     {
       "id": "7528",
@@ -4665,29 +4676,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 19275
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 17787
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 17415
+      "adds": 20850
     },
     {
       "id": "3155",
@@ -4698,18 +4687,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 16725
+      "adds": 20490
     },
     {
-      "id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 103,
-      "adds": 15771
+      "rank": 474,
+      "adds": 19350
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 17592
     }
   ]
 }
