@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T19:57:39.559Z",
+  "generated_at": "2026-10-17T21:57:54.986Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -871,7 +871,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 8,
       "faab_used": 0
     },
     {
@@ -1072,7 +1072,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 0
     },
     {
@@ -1654,7 +1654,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 9,
       "faab_used": 0
     },
     {
@@ -2036,7 +2036,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -2154,16 +2154,6 @@
       ],
       "bench": [
         {
-          "id": "10229",
-          "name": "Rashee Rice",
-          "pos": "WR",
-          "team": "KC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 7,
-          "rank": 29
-        },
-        {
           "id": "12522",
           "name": "Cam Ward",
           "pos": "QB",
@@ -2204,6 +2194,16 @@
           "rank": 98
         },
         {
+          "id": "8126",
+          "name": "Wan'Dale Robinson",
+          "pos": "WR",
+          "team": "TEN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 105
+        },
+        {
           "id": "8148",
           "name": "Jameson Williams",
           "pos": "WR",
@@ -2216,6 +2216,16 @@
       ],
       "reserve": [
         {
+          "id": "10229",
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "team": "KC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 7,
+          "rank": 29
+        },
+        {
           "id": "13345",
           "name": "Jonah Coleman",
           "pos": "RB",
@@ -2227,7 +2237,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 6,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -2293,16 +2303,6 @@
           "rank": 39
         },
         {
-          "id": "4454",
-          "name": "Kendrick Bourne",
-          "pos": "WR",
-          "team": "ARI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 673
-        },
-        {
           "id": "5846",
           "name": "DK Metcalf",
           "pos": "WR",
@@ -2311,6 +2311,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 73
+        },
+        {
+          "id": "5859",
+          "name": "A.J. Brown",
+          "pos": "WR",
+          "team": "NE",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 6,
+          "rank": 18
         },
         {
           "id": "7021",
@@ -2355,16 +2365,6 @@
           "rank": 74
         },
         {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "pos": "WR",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 199
-        },
-        {
           "id": "12495",
           "name": "Ollie Gordon",
           "pos": "RB",
@@ -2373,6 +2373,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 462
+        },
+        {
+          "id": "4454",
+          "name": "Kendrick Bourne",
+          "pos": "WR",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 673
         },
         {
           "id": "4881",
@@ -2407,16 +2417,6 @@
       ],
       "reserve": [
         {
-          "id": "5859",
-          "name": "A.J. Brown",
-          "pos": "WR",
-          "team": "NE",
-          "injury": "IR",
-          "status": "Active",
-          "depth": 6,
-          "rank": 18
-        },
-        {
           "id": "9226",
           "name": "De'Von Achane",
           "pos": "RB",
@@ -2428,7 +2428,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2993,8 +2993,8 @@
           "name": "Jalen Hurts",
           "pos": "QB",
           "team": "PHI",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 2,
           "rank": 28
         },
@@ -3010,11 +3010,65 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 0
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1417278780526882816",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1792268102346,
+      "adds": [
+        {
+          "player": {
+            "id": "8126",
+            "name": "Wan'Dale Robinson",
+            "pos": "WR",
+            "team": "TEN",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 105
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1417277474227695616",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792267790899,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "11783",
+            "name": "Ryan Flournoy",
+            "pos": "WR",
+            "team": "DAL",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 199
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1417170973848842240",
       "type": "free_agent",
@@ -3135,6 +3189,33 @@
       ],
       "roster_ids": [
         3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1416904071591256064",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1792178764774,
+      "adds": [
+        {
+          "player": {
+            "id": "8126",
+            "name": "Wan'Dale Robinson",
+            "pos": "WR",
+            "team": "TEN",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 105
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
       ],
       "waiver_bid": null
     },
@@ -4033,16 +4114,6 @@
         "rank": 103
       },
       {
-        "id": "8126",
-        "name": "Wan'Dale Robinson",
-        "pos": "WR",
-        "team": "TEN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 105
-      },
-      {
         "id": "7049",
         "name": "Jauan Jennings",
         "pos": "WR",
@@ -4051,6 +4122,16 @@
         "status": "Active",
         "depth": 2,
         "rank": 123
+      },
+      {
+        "id": "13293",
+        "name": "Ja'Kobi Lane",
+        "pos": "WR",
+        "team": "BAL",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 8,
+        "rank": 147
       },
       {
         "id": "8676",
@@ -4500,7 +4581,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 172248
+      "adds": 200608
     },
     {
       "id": "13413",
@@ -4511,7 +4592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 79092
+      "adds": 84108
     },
     {
       "id": "11557",
@@ -4522,7 +4603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 503,
-      "adds": 76124
+      "adds": 83008
     },
     {
       "id": "2197",
@@ -4533,40 +4614,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 63860
+      "adds": 60100
     },
     {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 46791
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 44388
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 43605
+      "depth": 3,
+      "rank": 199,
+      "adds": 56112
     },
     {
       "id": "7042",
@@ -4577,29 +4636,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 42665
+      "adds": 42740
     },
     {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41595
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 33036
+      "depth": 1,
+      "rank": 358,
+      "adds": 42255
     },
     {
       "id": "4663",
@@ -4610,29 +4658,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 31476
+      "adds": 41620
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39186
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 36144
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 35442
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 33264
     },
     {
       "id": "13276",
       "name": "Omar Cooper",
       "pos": "WR",
       "team": "NYJ",
-      "injury": "IR",
+      "injury": "Questionable",
       "status": "Inactive",
       "depth": 9,
       "rank": 151,
-      "adds": 31464
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 29871
+      "adds": 31736
     },
     {
       "id": "3155",
@@ -4643,7 +4724,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 23700
+      "adds": 29160
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 28674
     },
     {
       "id": "11616",
@@ -4654,7 +4746,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 23244
+      "adds": 25176
     },
     {
       "id": "9479",
@@ -4665,7 +4757,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 21085
+      "adds": 23560
     },
     {
       "id": "CAR",
@@ -4676,7 +4768,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 20446
+      "adds": 19633
     },
     {
       "id": "13414",
@@ -4687,7 +4779,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 18018
+      "adds": 16513
     },
     {
       "id": "7528",
@@ -4698,18 +4790,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 17695
-    },
-    {
-      "id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 103,
-      "adds": 16163
+      "adds": 16250
     }
   ]
 }
