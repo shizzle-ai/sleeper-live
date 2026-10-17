@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T12:21:04.057Z",
+  "generated_at": "2026-10-17T15:43:50.987Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2052,16 +2052,6 @@
       },
       "starters": [
         {
-          "id": "10229",
-          "name": "Rashee Rice",
-          "pos": "WR",
-          "team": "KC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 7,
-          "rank": 29
-        },
-        {
           "id": "11533",
           "name": "Brandon Aubrey",
           "pos": "K",
@@ -2132,6 +2122,16 @@
           "rank": 63
         },
         {
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 34
+        },
+        {
           "id": "8134",
           "name": "Khalil Shakir",
           "pos": "WR",
@@ -2153,6 +2153,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "10229",
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "team": "KC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 7,
+          "rank": 29
+        },
         {
           "id": "12522",
           "name": "Cam Ward",
@@ -2184,14 +2194,14 @@
           "rank": 113
         },
         {
-          "id": "7525",
-          "name": "DeVonta Smith",
-          "pos": "WR",
-          "team": "PHI",
+          "id": "5001",
+          "name": "Dalton Schultz",
+          "pos": "TE",
+          "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 34
+          "depth": 1,
+          "rank": 98
         },
         {
           "id": "8148",
@@ -2402,7 +2412,7 @@
           "pos": "WR",
           "team": "NE",
           "injury": "IR",
-          "status": "Inactive",
+          "status": "Active",
           "depth": 6,
           "rank": 18
         },
@@ -2845,16 +2855,6 @@
           "rank": 64
         },
         {
-          "id": "11792",
-          "name": "Will Reichard",
-          "pos": "K",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 170
-        },
-        {
           "id": "12489",
           "name": "RJ Harvey",
           "pos": "RB",
@@ -2863,6 +2863,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 56
+        },
+        {
+          "id": "13545",
+          "name": "Trey Smack",
+          "pos": "K",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 194
         },
         {
           "id": "1373",
@@ -2917,6 +2927,16 @@
       ],
       "bench": [
         {
+          "id": "11792",
+          "name": "Will Reichard",
+          "pos": "K",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 170
+        },
+        {
           "id": "3163",
           "name": "Jared Goff",
           "pos": "QB",
@@ -2957,16 +2977,6 @@
           "rank": 68
         },
         {
-          "id": "8155",
-          "name": "Breece Hall",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 5,
-          "rank": 27
-        },
-        {
           "id": "9230",
           "name": "Tanner McKee",
           "pos": "QB",
@@ -2979,16 +2989,6 @@
       ],
       "reserve": [
         {
-          "id": "13281",
-          "name": "Jordyn Tyson",
-          "pos": "WR",
-          "team": "NO",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 10,
-          "rank": 62
-        },
-        {
           "id": "6904",
           "name": "Jalen Hurts",
           "pos": "QB",
@@ -2997,6 +2997,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 28
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 5,
+          "rank": 27
         }
       ],
       "taxi": [],
@@ -3005,6 +3015,87 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1417170973848842240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792242399230,
+      "adds": [
+        {
+          "player": {
+            "id": "5001",
+            "name": "Dalton Schultz",
+            "pos": "TE",
+            "team": "HOU",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 98
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1417167304139030528",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792241524304,
+      "adds": [
+        {
+          "player": {
+            "id": "13545",
+            "name": "Trey Smack",
+            "pos": "K",
+            "team": "GB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 194
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1417166612133363712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792241359316,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "13281",
+            "name": "Jordyn Tyson",
+            "pos": "WR",
+            "team": "NO",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 10,
+            "rank": 62
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1416982747850784768",
       "type": "free_agent",
@@ -4124,16 +4215,6 @@
         "rank": 83
       },
       {
-        "id": "5001",
-        "name": "Dalton Schultz",
-        "pos": "TE",
-        "team": "HOU",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 98
-      },
-      {
         "id": "13330",
         "name": "Kenyon Sadiq",
         "pos": "TE",
@@ -4232,6 +4313,16 @@
         "status": "Active",
         "depth": null,
         "rank": 212
+      },
+      {
+        "id": "8172",
+        "name": "Greg Dulcich",
+        "pos": "TE",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 230
       }
     ],
     "K": [
@@ -4306,14 +4397,14 @@
         "rank": 190
       },
       {
-        "id": "13545",
-        "name": "Trey Smack",
+        "id": "6650",
+        "name": "Chase McLaughlin",
         "pos": "K",
-        "team": "GB",
+        "team": "TB",
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 194
+        "rank": 199
       }
     ],
     "DEF": [
@@ -4409,7 +4500,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 503,
-      "adds": 182624
+      "adds": 141940
     },
     {
       "id": "10235",
@@ -4420,7 +4511,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 84216
+      "adds": 105768
     },
     {
       "id": "2197",
@@ -4431,18 +4522,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 73036
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 68643
+      "adds": 71604
     },
     {
       "id": "13413",
@@ -4453,29 +4533,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 59454
+      "adds": 69444
     },
     {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 48267
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 47365
+      "depth": 2,
+      "rank": 631,
+      "adds": 63153
     },
     {
       "id": "5995",
@@ -4486,7 +4555,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 47151
+      "adds": 48240
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 45025
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 44877
     },
     {
       "id": "2505",
@@ -4497,7 +4588,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 41598
+      "adds": 42579
     },
     {
       "id": "13276",
@@ -4508,18 +4599,7 @@
       "status": "Inactive",
       "depth": 9,
       "rank": 151,
-      "adds": 40656
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 38556
+      "adds": 37584
     },
     {
       "id": "11058",
@@ -4530,7 +4610,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 35307
+      "adds": 33030
     },
     {
       "id": "6039",
@@ -4541,7 +4621,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 27858
+      "adds": 30126
     },
     {
       "id": "CAR",
@@ -4552,51 +4632,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 26022
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 21420
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 20937
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 20495
-    },
-    {
-      "id": "13335",
-      "name": "Cole Payton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 652,
-      "adds": 19326
+      "adds": 23622
     },
     {
       "id": "11616",
@@ -4607,7 +4643,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 19278
+      "adds": 20874
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 20272
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 19275
     },
     {
       "id": "5189",
@@ -4618,7 +4676,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 18984
+      "adds": 17787
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17415
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 674,
+      "adds": 16725
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 103,
+      "adds": 15771
     }
   ]
 }
