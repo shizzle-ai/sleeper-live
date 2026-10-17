@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T08:31:41.029Z",
+  "generated_at": "2026-10-17T12:21:04.057Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 12,
           "rank": 111
         },
         {
@@ -1236,7 +1236,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 11
         },
         {
@@ -1639,7 +1639,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 8,
           "rank": 131
         },
         {
@@ -2021,7 +2021,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 61
         },
         {
@@ -3736,7 +3736,7 @@
         "team": "MIA",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 6,
         "rank": 157
       },
       {
@@ -4028,7 +4028,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 8,
+        "depth": 9,
         "rank": 177
       },
       {
@@ -4038,7 +4038,7 @@
         "team": "LAC",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 8,
         "rank": 179
       },
       {
@@ -4190,7 +4190,7 @@
         "team": "NYG",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 144
       },
       {
@@ -4409,7 +4409,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 503,
-      "adds": 178400
+      "adds": 182624
     },
     {
       "id": "10235",
@@ -4418,9 +4418,9 @@
       "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 681,
-      "adds": 76336
+      "adds": 84216
     },
     {
       "id": "2197",
@@ -4431,7 +4431,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 72684
+      "adds": 73036
     },
     {
       "id": "8116",
@@ -4442,7 +4442,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 69417
+      "adds": 68643
     },
     {
       "id": "13413",
@@ -4453,7 +4453,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 55410
+      "adds": 59454
     },
     {
       "id": "IND",
@@ -4464,7 +4464,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49554
+      "adds": 48267
     },
     {
       "id": "7042",
@@ -4475,7 +4475,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 48385
+      "adds": 47365
     },
     {
       "id": "5995",
@@ -4486,7 +4486,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 46413
+      "adds": 47151
     },
     {
       "id": "2505",
@@ -4497,7 +4497,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 40779
+      "adds": 41598
     },
     {
       "id": "13276",
@@ -4508,7 +4508,7 @@
       "status": "Inactive",
       "depth": 9,
       "rank": 151,
-      "adds": 39800
+      "adds": 40656
     },
     {
       "id": "13545",
@@ -4519,7 +4519,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 39768
+      "adds": 38556
     },
     {
       "id": "11058",
@@ -4530,18 +4530,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 35847
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26781
+      "adds": 35307
     },
     {
       "id": "6039",
@@ -4552,7 +4541,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 26700
+      "adds": 27858
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 26022
     },
     {
       "id": "NO",
@@ -4563,18 +4563,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22725
-    },
-    {
-      "id": "13335",
-      "name": "Cole Payton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 652,
-      "adds": 21246
+      "adds": 21420
     },
     {
       "id": "13414",
@@ -4585,7 +4574,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 20706
+      "adds": 20937
     },
     {
       "id": "7528",
@@ -4596,18 +4585,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 20630
+      "adds": 20495
     },
     {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
+      "id": "13335",
+      "name": "Cole Payton",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 19446
+      "depth": 3,
+      "rank": 652,
+      "adds": 19326
     },
     {
       "id": "11616",
@@ -4618,7 +4607,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 17676
+      "adds": 19278
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 18984
     }
   ]
 }
