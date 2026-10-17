@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T17:56:13.528Z",
+  "generated_at": "2026-10-17T19:57:39.559Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1152,7 +1152,7 @@
           "name": "Terry McLaurin",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 55
@@ -1216,7 +1216,7 @@
           "team": "WAS",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 6,
           "rank": 95
         },
         {
@@ -1989,7 +1989,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 125
         },
         {
@@ -4500,18 +4500,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 148688
-    },
-    {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 503,
-      "adds": 95908
+      "adds": 172248
     },
     {
       "id": "13413",
@@ -4522,7 +4511,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 79320
+      "adds": 79092
+    },
+    {
+      "id": "11557",
+      "name": "Joe Milton",
+      "pos": "QB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 503,
+      "adds": 76124
     },
     {
       "id": "2197",
@@ -4533,7 +4533,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 72788
+      "adds": 63860
     },
     {
       "id": "8116",
@@ -4544,18 +4544,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 62721
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 51831
+      "adds": 46791
     },
     {
       "id": "2505",
@@ -4566,7 +4555,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 47502
+      "adds": 44388
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 43605
     },
     {
       "id": "7042",
@@ -4577,7 +4577,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 45740
+      "adds": 42665
     },
     {
       "id": "IND",
@@ -4588,7 +4588,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45282
+      "adds": 41595
     },
     {
       "id": "6039",
@@ -4599,7 +4599,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 34836
+      "adds": 33036
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 31476
     },
     {
       "id": "13276",
@@ -4610,7 +4621,7 @@
       "status": "Inactive",
       "depth": 9,
       "rank": 151,
-      "adds": 34816
+      "adds": 31464
     },
     {
       "id": "11058",
@@ -4621,62 +4632,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 32922
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 632,
-      "adds": 23232
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 23178
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 23178
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 20860
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 20850
+      "adds": 29871
     },
     {
       "id": "3155",
@@ -4687,7 +4643,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 20490
+      "adds": 23700
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 694,
+      "adds": 23244
     },
     {
       "id": "9479",
@@ -4698,18 +4665,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 19350
+      "adds": 21085
     },
     {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 20446
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 17592
+      "depth": 2,
+      "rank": 161,
+      "adds": 18018
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 17695
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 103,
+      "adds": 16163
     }
   ]
 }
