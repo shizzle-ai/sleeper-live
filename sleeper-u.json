@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T21:57:54.986Z",
+  "generated_at": "2026-10-17T23:45:06.782Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4144,6 +4144,16 @@
         "rank": 150
       },
       {
+        "id": "13276",
+        "name": "Omar Cooper",
+        "pos": "WR",
+        "team": "NYJ",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 9,
+        "rank": 151
+      },
+      {
         "id": "13301",
         "name": "Antonio Williams",
         "pos": "WR",
@@ -4272,16 +4282,6 @@
         "status": "Active",
         "depth": 4,
         "rank": 190
-      },
-      {
-        "id": "9494",
-        "name": "Marvin Mims",
-        "pos": "WR",
-        "team": "DEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 192
       }
     ],
     "TE": [
@@ -4581,7 +4581,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 200608
+      "adds": 197784
     },
     {
       "id": "13413",
@@ -4592,7 +4592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 84108
+      "adds": 85374
     },
     {
       "id": "11557",
@@ -4603,7 +4603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 503,
-      "adds": 83008
+      "adds": 75932
     },
     {
       "id": "2197",
@@ -4614,7 +4614,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 60100
+      "adds": 57184
     },
     {
       "id": "11783",
@@ -4625,29 +4625,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 56112
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 42740
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 358,
-      "adds": 42255
+      "adds": 50664
     },
     {
       "id": "4663",
@@ -4658,7 +4636,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 41620
+      "adds": 46988
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 42905
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 358,
+      "adds": 41139
     },
     {
       "id": "IND",
@@ -4669,7 +4669,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39186
+      "adds": 37626
     },
     {
       "id": "8116",
@@ -4680,18 +4680,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 36144
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 35442
+      "adds": 32769
     },
     {
       "id": "6039",
@@ -4702,7 +4691,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 33264
+      "adds": 32760
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 32643
     },
     {
       "id": "13276",
@@ -4710,10 +4710,10 @@
       "pos": "WR",
       "team": "NYJ",
       "injury": "Questionable",
-      "status": "Inactive",
+      "status": "Active",
       "depth": 9,
       "rank": 151,
-      "adds": 31736
+      "adds": 31824
     },
     {
       "id": "3155",
@@ -4724,7 +4724,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 29160
+      "adds": 29560
     },
     {
       "id": "11058",
@@ -4735,7 +4735,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 28674
+      "adds": 27675
     },
     {
       "id": "11616",
@@ -4746,7 +4746,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 25176
+      "adds": 26754
     },
     {
       "id": "9479",
@@ -4757,7 +4757,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 23560
+      "adds": 25825
     },
     {
       "id": "CAR",
@@ -4768,18 +4768,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 19633
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 16513
+      "adds": 18873
     },
     {
       "id": "7528",
@@ -4790,7 +4779,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 16250
+      "adds": 16105
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 15589
     }
   ]
 }
