@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T11:36:27.067Z",
+  "generated_at": "2026-10-18T14:46:41.639Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 0,
+      "points": 4,
       "starters": [
         {
           "id": "4046",
@@ -374,12 +374,12 @@
         0,
         0,
         0,
-        0,
+        4,
         0
       ],
       "players_points": {
         "1166": 0,
-        "3451": 0,
+        "3451": 4,
         "4035": 0,
         "4046": 0,
         "4199": 0,
@@ -424,14 +424,14 @@
           "rank": 1
         },
         {
-          "id": "9757",
-          "name": "Kendre Miller",
+          "id": "8136",
+          "name": "Rachaad White",
           "pos": "RB",
-          "team": "NO",
-          "injury": null,
+          "team": "WAS",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
-          "rank": 180
+          "depth": 1,
+          "rank": 125
         },
         {
           "id": "9997",
@@ -528,7 +528,7 @@
         "9486": 0,
         "9509": 0,
         "9757": 0,
-        "9758": 0,
+        "9758": 8.36,
         "9997": 0,
         "11560": 0,
         "12519": 0,
@@ -1901,6 +1901,16 @@
           "rank": 22
         },
         {
+          "id": "8136",
+          "name": "Rachaad White",
+          "pos": "RB",
+          "team": "WAS",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 125
+        },
+        {
           "id": "9228",
           "name": "Bryce Young",
           "pos": "QB",
@@ -1919,16 +1929,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 1
-        },
-        {
-          "id": "9757",
-          "name": "Kendre Miller",
-          "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 180
         },
         {
           "id": "9997",
@@ -1983,16 +1983,6 @@
           "rank": 145
         },
         {
-          "id": "8136",
-          "name": "Rachaad White",
-          "pos": "RB",
-          "team": "WAS",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 125
-        },
-        {
           "id": "9486",
           "name": "Dontayvion Wicks",
           "pos": "WR",
@@ -2001,6 +1991,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 204
+        },
+        {
+          "id": "9757",
+          "name": "Kendre Miller",
+          "pos": "RB",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 180
         },
         {
           "id": "9758",
@@ -2403,7 +2403,9 @@
           "status": "Active",
           "depth": 1,
           "rank": 96
-        },
+        }
+      ],
+      "reserve": [
         {
           "id": "5892",
           "name": "David Montgomery",
@@ -2413,9 +2415,7 @@
           "status": "Active",
           "depth": 4,
           "rank": 43
-        }
-      ],
-      "reserve": [
+        },
         {
           "id": "9226",
           "name": "De'Von Achane",
@@ -2875,16 +2875,6 @@
           "rank": 194
         },
         {
-          "id": "1373",
-          "name": "Geno Smith",
-          "pos": "QB",
-          "team": "NYJ",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 211
-        },
-        {
           "id": "2133",
           "name": "Davante Adams",
           "pos": "WR",
@@ -2915,6 +2905,16 @@
           "rank": 5
         },
         {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 677
+        },
+        {
           "id": "NE",
           "name": "New England Patriots",
           "pos": "DEF",
@@ -2935,6 +2935,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 170
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith",
+          "pos": "QB",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 211
         },
         {
           "id": "3163",
@@ -2975,16 +2985,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 68
-        },
-        {
-          "id": "9230",
-          "name": "Tanner McKee",
-          "pos": "QB",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 677
         }
       ],
       "reserve": [
@@ -4581,7 +4581,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 235840
+      "adds": 300096
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 163375
     },
     {
       "id": "13413",
@@ -4592,7 +4603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 104598
+      "adds": 122100
     },
     {
       "id": "4663",
@@ -4603,7 +4614,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 75428
+      "adds": 95192
     },
     {
       "id": "2197",
@@ -4614,18 +4625,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 68256
-    },
-    {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 503,
-      "adds": 62156
+      "adds": 85184
     },
     {
       "id": "7042",
@@ -4636,7 +4636,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 55575
+      "adds": 82830
     },
     {
       "id": "2505",
@@ -4647,7 +4647,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 50769
+      "adds": 68202
     },
     {
       "id": "11783",
@@ -4658,18 +4658,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 48240
+      "adds": 61784
     },
     {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
+      "id": "11557",
+      "name": "Joe Milton",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 44994
+      "depth": 3,
+      "rank": 503,
+      "adds": 61164
     },
     {
       "id": "IND",
@@ -4680,7 +4680,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 44931
+      "adds": 60522
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 694,
+      "adds": 59604
     },
     {
       "id": "9479",
@@ -4691,29 +4702,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 43765
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 39198
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 674,
-      "adds": 37215
+      "adds": 57035
     },
     {
       "id": "11058",
@@ -4724,18 +4713,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 36342
+      "adds": 53865
     },
     {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "Questionable",
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 151,
-      "adds": 35424
+      "depth": 2,
+      "rank": 534,
+      "adds": 47196
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 674,
+      "adds": 44090
     },
     {
       "id": "5995",
@@ -4746,7 +4746,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 33687
+      "adds": 39402
+    },
+    {
+      "id": "13276",
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 4,
+      "rank": 151,
+      "adds": 39344
     },
     {
       "id": "8116",
@@ -4757,18 +4768,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 33363
-    },
-    {
-      "id": "12457",
-      "name": "Jaydon Blue",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 189,
-      "adds": 24384
+      "adds": 37836
     },
     {
       "id": "CAR",
@@ -4779,7 +4779,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 23316
+      "adds": 31316
     },
     {
       "id": "TB",
@@ -4790,7 +4790,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21370
+      "adds": 31060
     }
   ]
 }
