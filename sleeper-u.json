@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T19:35:58.398Z",
+  "generated_at": "2026-10-18T21:48:37.183Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 58,
+      "points": 79.64,
       "starters": [
         {
           "id": "4046",
@@ -366,33 +366,33 @@
         }
       ],
       "starters_points": [
-        0,
-        0,
-        5.7,
-        0,
-        16.4,
+        6.4,
+        4,
+        6.9,
+        3.6,
+        17.8,
         0,
         14.9,
-        0,
+        5.04,
         11,
         10
       ],
       "players_points": {
-        "1166": 0,
+        "1166": 5.04,
         "3451": 11,
         "4035": 14.9,
-        "4046": 0,
+        "4046": 6.4,
         "4199": 0,
         "4217": 0,
         "6770": 0,
-        "8150": 0,
-        "9493": 0,
-        "10236": 0,
-        "11584": 5.7,
+        "8150": 4,
+        "9493": 3.6,
+        "10236": 5.6,
+        "11584": 6.9,
         "11610": 0,
         "11625": 0,
-        "11637": 0,
-        "12514": 16.4,
+        "11637": 3.1,
+        "12514": 17.8,
         "CLE": 10
       }
     },
@@ -401,7 +401,7 @@
       "team": "Bijan Mustard",
       "is_me": false,
       "matchup_id": 5,
-      "points": 72.78,
+      "points": 100.34,
       "starters": [
         {
           "id": "11560",
@@ -505,33 +505,33 @@
         }
       ],
       "starters_points": [
-        15.24,
-        6.9,
+        16.5,
+        7.3,
         0,
         12.7,
         6.4,
-        0,
-        15.5,
-        13.04,
-        0,
+        10.1,
+        17.5,
+        19.84,
+        7,
         3
       ],
       "players_points": {
-        "1479": 13.3,
+        "1479": 16.2,
         "3321": 0,
-        "6083": 0,
+        "6083": 7,
         "7526": 6.4,
-        "8130": 0,
+        "8130": 10.1,
         "8136": 0,
         "8408": 0,
-        "9228": 13.04,
-        "9486": 1.7,
-        "9509": 6.9,
-        "9757": 7.5,
+        "9228": 19.84,
+        "9486": 4.4,
+        "9509": 7.3,
+        "9757": 9,
         "9758": 23.98,
         "9997": 12.7,
-        "11560": 15.24,
-        "12519": 15.5,
+        "11560": 16.5,
+        "12519": 17.5,
         "12529": 3,
         "12534": 0,
         "SEA": 3
@@ -1987,7 +1987,7 @@
           "name": "Dontayvion Wicks",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 204
@@ -2458,7 +2458,7 @@
           "name": "Ladd McConkey",
           "pos": "WR",
           "team": "LAC",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -2468,7 +2468,7 @@
           "name": "Makai Lemon",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 91
@@ -4692,7 +4692,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 394855
+      "adds": 402045
     },
     {
       "id": "10235",
@@ -4703,18 +4703,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 348280
-    },
-    {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 181,
-      "adds": 160098
+      "adds": 326128
     },
     {
       "id": "11783",
@@ -4725,7 +4714,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 138824
+      "adds": 163864
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 181,
+      "adds": 157104
     },
     {
       "id": "2197",
@@ -4736,7 +4736,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 135088
+      "adds": 140120
     },
     {
       "id": "7042",
@@ -4747,7 +4747,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 130900
+      "adds": 134380
     },
     {
       "id": "4663",
@@ -4758,51 +4758,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 120728
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 111400
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 90900
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 86544
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 71874
+      "adds": 121876
     },
     {
       "id": "13276",
@@ -4813,18 +4769,40 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 70352
+      "adds": 113928
     },
     {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 534,
-      "adds": 63726
+      "rank": 474,
+      "adds": 110960
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 90495
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 694,
+      "adds": 89424
     },
     {
       "id": "12530",
@@ -4835,29 +4813,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 103,
-      "adds": 62136
+      "adds": 71160
     },
     {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": "Out",
-      "status": "Active",
-      "depth": 3,
-      "rank": 503,
-      "adds": 55724
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
       "team": "IND",
       "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 66207
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 674,
-      "adds": 48755
+      "depth": 2,
+      "rank": 534,
+      "adds": 65250
     },
     {
       "id": "11579",
@@ -4868,29 +4846,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 44154
+      "adds": 45405
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 41553
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41195
+      "depth": 3,
+      "rank": 674,
+      "adds": 43310
     },
     {
       "id": "5189",
@@ -4901,7 +4868,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 39312
+      "adds": 41424
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 38990
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 37431
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 37422
     }
   ]
 }
