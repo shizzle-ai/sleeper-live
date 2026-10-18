@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-17T23:45:06.782Z",
+  "generated_at": "2026-10-18T01:33:20.265Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 7,
         "rank": 162
       },
       {
@@ -794,7 +794,7 @@
           "team": "PHI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 686
         },
         {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 12,
+          "depth": 10,
           "rank": 111
         },
         {
@@ -1226,7 +1226,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 658
         },
         {
@@ -1236,7 +1236,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 11
         },
         {
@@ -1639,7 +1639,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 8,
+          "depth": 7,
           "rank": 131
         },
         {
@@ -1798,7 +1798,7 @@
           "team": "NE",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 117
         },
         {
@@ -1830,7 +1830,7 @@
           "team": "GB",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 7,
           "rank": 99
         }
       ],
@@ -1999,7 +1999,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 203
         },
         {
@@ -2128,7 +2128,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 1,
           "rank": 34
         },
         {
@@ -2319,7 +2319,7 @@
           "team": "NE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 6,
+          "depth": 1,
           "rank": 18
         },
         {
@@ -2411,7 +2411,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 41
         }
       ],
@@ -2624,7 +2624,7 @@
           "team": "PHI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 4,
+          "depth": 5,
           "rank": 147
         }
       ],
@@ -2773,7 +2773,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 7,
           "rank": 162
         },
         {
@@ -3138,7 +3138,7 @@
             "team": "NO",
             "injury": "IR",
             "status": "Inactive",
-            "depth": 10,
+            "depth": 7,
             "rank": 62
           },
           "roster_id": 12,
@@ -3180,7 +3180,7 @@
             "team": "NE",
             "injury": null,
             "status": "Active",
-            "depth": 3,
+            "depth": 4,
             "rank": 572
           },
           "roster_id": 3,
@@ -3491,7 +3491,7 @@
             "team": "NE",
             "injury": null,
             "status": "Active",
-            "depth": 3,
+            "depth": 4,
             "rank": 572
           },
           "roster_id": 3,
@@ -3618,7 +3618,7 @@
             "team": "NE",
             "injury": "IR",
             "status": "Inactive",
-            "depth": 5,
+            "depth": 6,
             "rank": 697
           },
           "roster_id": 5,
@@ -4008,7 +4008,7 @@
         "team": "PHI",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 3,
         "rank": 189
       },
       {
@@ -4130,7 +4130,7 @@
         "team": "BAL",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 8,
+        "depth": 4,
         "rank": 147
       },
       {
@@ -4150,7 +4150,7 @@
         "team": "NYJ",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 9,
+        "depth": 4,
         "rank": 151
       },
       {
@@ -4210,7 +4210,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 9,
+        "depth": 8,
         "rank": 177
       },
       {
@@ -4220,7 +4220,7 @@
         "team": "LAC",
         "injury": "Out",
         "status": "Active",
-        "depth": 8,
+        "depth": 7,
         "rank": 179
       },
       {
@@ -4581,7 +4581,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 197784
+      "adds": 199656
     },
     {
       "id": "13413",
@@ -4592,7 +4592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 85374
+      "adds": 88092
     },
     {
       "id": "11557",
@@ -4603,7 +4603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 503,
-      "adds": 75932
+      "adds": 71516
     },
     {
       "id": "2197",
@@ -4614,18 +4614,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 57184
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 50664
+      "adds": 56708
     },
     {
       "id": "4663",
@@ -4636,7 +4625,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 46988
+      "adds": 52760
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 47328
     },
     {
       "id": "7042",
@@ -4647,7 +4647,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 42905
+      "adds": 43265
     },
     {
       "id": "2505",
@@ -4658,7 +4658,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 358,
-      "adds": 41139
+      "adds": 41661
     },
     {
       "id": "IND",
@@ -4669,18 +4669,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37626
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 32769
+      "adds": 37296
     },
     {
       "id": "6039",
@@ -4691,7 +4680,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 32760
+      "adds": 32832
+    },
+    {
+      "id": "13276",
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 4,
+      "rank": 151,
+      "adds": 31696
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 31464
     },
     {
       "id": "5995",
@@ -4702,18 +4713,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 32643
-    },
-    {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 9,
-      "rank": 151,
-      "adds": 31824
+      "adds": 31410
     },
     {
       "id": "3155",
@@ -4724,29 +4724,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 29560
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 27675
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 26754
+      "adds": 30465
     },
     {
       "id": "9479",
@@ -4757,7 +4735,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 25825
+      "adds": 29355
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 694,
+      "adds": 29118
+    },
+    {
+      "id": "11058",
+      "name": "Blake Grupe",
+      "pos": "K",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 689,
+      "adds": 27828
     },
     {
       "id": "CAR",
@@ -4768,7 +4768,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18873
+      "adds": 18936
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 16815
     },
     {
       "id": "7528",
@@ -4779,18 +4790,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 16105
-    },
-    {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 161,
-      "adds": 15589
+      "adds": 16360
     }
   ]
 }
