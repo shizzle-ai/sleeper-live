@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T06:31:43.231Z",
+  "generated_at": "2026-10-18T11:36:27.067Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 12,
           "rank": 111
         },
         {
@@ -1639,7 +1639,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 8,
           "rank": 131
         },
         {
@@ -3138,7 +3138,7 @@
             "team": "NO",
             "injury": "IR",
             "status": "Inactive",
-            "depth": 7,
+            "depth": 10,
             "rank": 62
           },
           "roster_id": 12,
@@ -4078,7 +4078,7 @@
         "team": "PIT",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 326
       }
     ],
@@ -4130,7 +4130,7 @@
         "team": "BAL",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 147
       },
       {
@@ -4210,7 +4210,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 8,
+        "depth": 9,
         "rank": 177
       },
       {
@@ -4220,7 +4220,7 @@
         "team": "LAC",
         "injury": "Out",
         "status": "Active",
-        "depth": 7,
+        "depth": 8,
         "rank": 179
       },
       {
@@ -4581,7 +4581,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 220968
+      "adds": 235840
     },
     {
       "id": "13413",
@@ -4592,7 +4592,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 181,
-      "adds": 97992
+      "adds": 104598
     },
     {
       "id": "4663",
@@ -4603,18 +4603,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 67720
-    },
-    {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 503,
-      "adds": 64224
+      "adds": 75428
     },
     {
       "id": "2197",
@@ -4625,7 +4614,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 63892
+      "adds": 68256
+    },
+    {
+      "id": "11557",
+      "name": "Joe Milton",
+      "pos": "QB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 503,
+      "adds": 62156
     },
     {
       "id": "7042",
@@ -4636,18 +4636,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 50100
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 46536
+      "adds": 55575
     },
     {
       "id": "2505",
@@ -4658,18 +4647,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 359,
-      "adds": 46422
+      "adds": 50769
     },
     {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41301
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 48240
     },
     {
       "id": "11616",
@@ -4680,7 +4669,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 39678
+      "adds": 44994
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 44931
     },
     {
       "id": "9479",
@@ -4691,7 +4691,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 38415
+      "adds": 43765
     },
     {
       "id": "6039",
@@ -4702,7 +4702,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 36714
+      "adds": 39198
     },
     {
       "id": "3155",
@@ -4713,40 +4713,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 674,
-      "adds": 34935
-    },
-    {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 4,
-      "rank": 151,
-      "adds": 33736
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 32535
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 32535
+      "adds": 37215
     },
     {
       "id": "11058",
@@ -4757,7 +4724,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 32508
+      "adds": 36342
+    },
+    {
+      "id": "13276",
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 4,
+      "rank": 151,
+      "adds": 35424
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 33687
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 631,
+      "adds": 33363
     },
     {
       "id": "12457",
@@ -4768,7 +4768,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 189,
-      "adds": 21704
+      "adds": 24384
     },
     {
       "id": "CAR",
@@ -4779,7 +4779,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21220
+      "adds": 23316
     },
     {
       "id": "TB",
@@ -4790,7 +4790,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 19240
+      "adds": 21370
     }
   ]
 }
