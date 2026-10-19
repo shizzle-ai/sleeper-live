@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-19T19:48:24.588Z",
+  "generated_at": "2026-10-19T23:07:09.779Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1214,8 +1214,8 @@
           "name": "Jacory Croskey-Merritt",
           "pos": "RB",
           "team": "WAS",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 6,
           "rank": 95
         },
@@ -1786,7 +1786,7 @@
           "name": "Stefon Diggs",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 104
@@ -1796,8 +1796,8 @@
           "name": "Romeo Doubs",
           "pos": "WR",
           "team": "NE",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 2,
           "rank": 117
         },
@@ -2889,7 +2889,7 @@
           "name": "Davante Adams",
           "pos": "WR",
           "team": "LAR",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 46
@@ -4692,18 +4692,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 581496
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 106152
+      "adds": 792528
     },
     {
       "id": "10235",
@@ -4714,51 +4703,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 104056
+      "adds": 118808
     },
     {
-      "id": "2197",
-      "name": "Brandin Cooks",
+      "id": "12718",
+      "name": "Konata Mumpfield",
       "pos": "WR",
-      "team": "SF",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 529,
-      "adds": 74760
-    },
-    {
-      "id": "11655",
-      "name": "Tyrone Tracy",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 110,
-      "adds": 64270
-    },
-    {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 61704
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 55953
+      "rank": 678,
+      "adds": 92151
     },
     {
       "id": "4663",
@@ -4769,51 +4725,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 50484
+      "adds": 90200
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 86048
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
       "pos": "RB",
-      "team": "NYG",
+      "team": "GB",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 170,
-      "adds": 49610
+      "rank": 631,
+      "adds": 65907
     },
     {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 42655
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
+      "id": "2197",
+      "name": "Brandin Cooks",
       "pos": "WR",
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 40884
+      "depth": 3,
+      "rank": 529,
+      "adds": 65808
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 35554
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 62982
+    },
+    {
+      "id": "11655",
+      "name": "Tyrone Tracy",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 110,
+      "adds": 59944
     },
     {
       "id": "6650",
@@ -4824,7 +4791,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 33264
+      "adds": 44224
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 41560
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 40335
     },
     {
       "id": "12482",
@@ -4835,29 +4824,40 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 31640
+      "adds": 37415
     },
     {
-      "id": "5189",
-      "name": "Eddy Pineiro",
+      "id": "7042",
+      "name": "Tyler Bass",
       "pos": "K",
-      "team": "SF",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 174,
-      "adds": 26640
+      "rank": 288,
+      "adds": 36625
     },
     {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 474,
-      "adds": 23120
+      "rank": 694,
+      "adds": 35292
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 33216
     },
     {
       "id": "13414",
@@ -4868,18 +4868,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 23023
+      "adds": 29323
     },
     {
-      "id": "7694",
-      "name": "Tommy Tremble",
-      "pos": "TE",
-      "team": "CAR",
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 597,
-      "adds": 21420
+      "depth": 1,
+      "rank": 174,
+      "adds": 24315
     },
     {
       "id": "12536",
@@ -4890,18 +4890,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 190,
-      "adds": 19615
+      "adds": 22446
     },
     {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 17724
+      "depth": 2,
+      "rank": 474,
+      "adds": 20665
     }
   ]
 }
