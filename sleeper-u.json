@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-19T06:52:26.001Z",
+  "generated_at": "2026-10-19T14:04:59.190Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4684,17 +4684,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 420980
-    },
-    {
       "id": "13276",
       "name": "Omar Cooper",
       "pos": "WR",
@@ -4703,7 +4692,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 294824
+      "adds": 383024
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 375740
     },
     {
       "id": "10235",
@@ -4714,7 +4714,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 291496
+      "adds": 236296
     },
     {
       "id": "11783",
@@ -4725,7 +4725,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 184008
+      "adds": 181336
     },
     {
       "id": "2197",
@@ -4736,7 +4736,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 148440
+      "adds": 134504
     },
     {
       "id": "7042",
@@ -4747,40 +4747,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 125785
-    },
-    {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 116634
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 115524
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 101395
+      "adds": 107150
     },
     {
       "id": "12530",
@@ -4791,7 +4758,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 97170
+      "adds": 105798
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 99184
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 474,
+      "adds": 89305
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 180,
+      "adds": 87930
     },
     {
       "id": "11616",
@@ -4802,7 +4802,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 89508
+      "adds": 75438
     },
     {
       "id": "11058",
@@ -4813,7 +4813,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 75951
+      "adds": 59742
     },
     {
       "id": "8116",
@@ -4824,40 +4824,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 56862
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 52242
-    },
-    {
-      "id": "11579",
-      "name": "Audric Estime",
-      "pos": "RB",
-      "team": "CLE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 190,
-      "adds": 49842
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 48780
+      "adds": 56646
     },
     {
       "id": "11655",
@@ -4868,7 +4835,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 110,
-      "adds": 48182
+      "adds": 56096
+    },
+    {
+      "id": "11579",
+      "name": "Audric Estime",
+      "pos": "RB",
+      "team": "CLE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 190,
+      "adds": 51078
     },
     {
       "id": "5189",
@@ -4879,7 +4857,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 46473
+      "adds": 41304
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 40902
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 32433
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 190,
+      "adds": 29383
     },
     {
       "id": "9754",
@@ -4890,18 +4901,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 103,
-      "adds": 33285
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 32095
+      "adds": 29337
     }
   ]
 }
