@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-19T14:04:59.190Z",
+  "generated_at": "2026-10-19T19:48:24.588Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4692,29 +4692,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 383024
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 375740
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 236296
+      "adds": 581496
     },
     {
       "id": "11783",
@@ -4725,7 +4703,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 181336
+      "adds": 106152
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 104056
     },
     {
       "id": "2197",
@@ -4736,95 +4725,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 134504
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 107150
-    },
-    {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 105798
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 99184
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 474,
-      "adds": 89305
-    },
-    {
-      "id": "13413",
-      "name": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 180,
-      "adds": 87930
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 75438
-    },
-    {
-      "id": "11058",
-      "name": "Blake Grupe",
-      "pos": "K",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 689,
-      "adds": 59742
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 631,
-      "adds": 56646
+      "adds": 74760
     },
     {
       "id": "11655",
@@ -4835,18 +4736,106 @@
       "status": "Active",
       "depth": 3,
       "rank": 110,
-      "adds": 56096
+      "adds": 64270
     },
     {
-      "id": "11579",
-      "name": "Audric Estime",
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 61704
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
       "pos": "RB",
-      "team": "CLE",
+      "team": "GB",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 190,
-      "adds": 51078
+      "rank": 631,
+      "adds": 55953
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 50484
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 49610
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 42655
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 694,
+      "adds": 40884
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 35554
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 33264
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 679,
+      "adds": 31640
     },
     {
       "id": "5189",
@@ -4857,29 +4846,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 41304
+      "adds": 26640
     },
     {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 534,
-      "adds": 40902
+      "rank": 474,
+      "adds": 23120
     },
     {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
+      "id": "13414",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "team": "SF",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 32433
+      "status": "Active",
+      "depth": 2,
+      "rank": 161,
+      "adds": 23023
+    },
+    {
+      "id": "7694",
+      "name": "Tommy Tremble",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 597,
+      "adds": 21420
     },
     {
       "id": "12536",
@@ -4890,18 +4890,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 190,
-      "adds": 29383
+      "adds": 19615
     },
     {
-      "id": "9754",
-      "name": "Quentin Johnston",
+      "id": "13413",
+      "name": "Cyrus Allen",
       "pos": "WR",
-      "team": "LAC",
+      "team": "KC",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 103,
-      "adds": 29337
+      "depth": 3,
+      "rank": 180,
+      "adds": 17724
     }
   ]
 }
