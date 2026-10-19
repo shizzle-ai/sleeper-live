@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-18T23:43:03.028Z",
+  "generated_at": "2026-10-19T01:43:24.721Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4692,7 +4692,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 170,
-      "adds": 408610
+      "adds": 414220
     },
     {
       "id": "10235",
@@ -4703,18 +4703,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 318648
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 176464
+      "adds": 312288
     },
     {
       "id": "13276",
@@ -4725,18 +4714,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 149824
+      "adds": 189480
     },
     {
-      "id": "13413",
-      "name": "Cyrus Allen",
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "KC",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 181,
-      "adds": 148446
+      "rank": 199,
+      "adds": 180976
     },
     {
       "id": "2197",
@@ -4747,7 +4736,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 528,
-      "adds": 145064
+      "adds": 148836
+    },
+    {
+      "id": "13413",
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 181,
+      "adds": 138900
     },
     {
       "id": "7042",
@@ -4758,7 +4758,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 133350
+      "adds": 131925
     },
     {
       "id": "4663",
@@ -4769,7 +4769,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 123320
+      "adds": 122584
     },
     {
       "id": "9479",
@@ -4780,7 +4780,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 109860
+      "adds": 107740
     },
     {
       "id": "11616",
@@ -4791,7 +4791,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 694,
-      "adds": 91686
+      "adds": 93102
     },
     {
       "id": "11058",
@@ -4802,7 +4802,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 689,
-      "adds": 87642
+      "adds": 84591
     },
     {
       "id": "12530",
@@ -4813,18 +4813,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 103,
-      "adds": 77592
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 62535
+      "adds": 84510
     },
     {
       "id": "6039",
@@ -4835,7 +4824,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 62430
+      "adds": 59610
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 58569
     },
     {
       "id": "11579",
@@ -4846,7 +4846,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 46545
+      "adds": 47826
     },
     {
       "id": "5189",
@@ -4857,18 +4857,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 44028
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 674,
-      "adds": 39975
+      "adds": 46224
     },
     {
       "id": "8116",
@@ -4879,7 +4868,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 37953
+      "adds": 46179
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 674,
+      "adds": 36585
+    },
+    {
+      "id": "11655",
+      "name": "Tyrone Tracy",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 110,
+      "adds": 36312
     },
     {
       "id": "TB",
@@ -4890,18 +4901,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 37665
-    },
-    {
-      "id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 103,
-      "adds": 35987
+      "adds": 36210
     }
   ]
 }
