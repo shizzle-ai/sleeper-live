@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-19T23:07:09.779Z",
+  "generated_at": "2026-10-20T01:44:44.234Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": "Out",
         "status": "Active",
-        "depth": 7,
+        "depth": 6,
         "rank": 162
       },
       {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 5,
-      "points": 115.3,
+      "points": 128.7,
       "starters": [
         {
           "id": "4046",
@@ -371,7 +371,7 @@
         6.9,
         14,
         17.8,
-        0,
+        13.4,
         14.9,
         19.52,
         11,
@@ -383,7 +383,7 @@
         "4035": 14.9,
         "4046": 11.48,
         "4199": 0,
-        "4217": 0,
+        "4217": 13.4,
         "6770": 0,
         "8150": 9.7,
         "9493": 14,
@@ -401,7 +401,7 @@
       "team": "Bijan Mustard",
       "is_me": false,
       "matchup_id": 5,
-      "points": 107.54,
+      "points": 109.24,
       "starters": [
         {
           "id": "11560",
@@ -507,7 +507,7 @@
       "starters_points": [
         16.5,
         7.3,
-        0,
+        1.7,
         12.7,
         6.4,
         12.3,
@@ -522,7 +522,7 @@
         "6083": 12,
         "7526": 6.4,
         "8130": 12.3,
-        "8136": 0,
+        "8136": 1.7,
         "8408": 0,
         "9228": 19.84,
         "9486": 4.4,
@@ -856,7 +856,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 12,
+          "depth": 11,
           "rank": 113
         },
         {
@@ -1152,7 +1152,7 @@
           "name": "Terry McLaurin",
           "pos": "WR",
           "team": "WAS",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 55
@@ -1216,7 +1216,7 @@
           "team": "WAS",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 4,
           "rank": 95
         },
         {
@@ -2021,7 +2021,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 4,
           "rank": 61
         },
         {
@@ -2222,7 +2222,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 6,
           "rank": 29
         },
         {
@@ -2317,7 +2317,7 @@
           "name": "A.J. Brown",
           "pos": "WR",
           "team": "NE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 18
@@ -2413,7 +2413,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 43
         },
         {
@@ -2773,7 +2773,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 6,
           "rank": 162
         },
         {
@@ -3987,7 +3987,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 395
       }
     ],
@@ -4692,18 +4692,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 792528
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 118808
+      "adds": 940112
     },
     {
       "id": "12718",
@@ -4714,7 +4703,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 678,
-      "adds": 92151
+      "adds": 133416
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 127120
     },
     {
       "id": "4663",
@@ -4725,7 +4725,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 90200
+      "adds": 92956
     },
     {
       "id": "11783",
@@ -4736,7 +4736,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 86048
+      "adds": 81104
     },
     {
       "id": "8116",
@@ -4747,18 +4747,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 65907
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 529,
-      "adds": 65808
+      "adds": 65763
     },
     {
       "id": "12530",
@@ -4769,7 +4758,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 62982
+      "adds": 63510
     },
     {
       "id": "11655",
@@ -4780,7 +4769,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 110,
-      "adds": 59944
+      "adds": 58942
     },
     {
       "id": "6650",
@@ -4791,62 +4780,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 44224
-    },
-    {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 41560
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 170,
-      "adds": 40335
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 37415
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 36625
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 694,
-      "adds": 35292
+      "adds": 58224
     },
     {
       "id": "12487",
@@ -4857,7 +4791,40 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 33216
+      "adds": 54480
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 529,
+      "adds": 53912
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 44008
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 35895
     },
     {
       "id": "13414",
@@ -4868,18 +4835,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 161,
-      "adds": 29323
+      "adds": 34223
     },
     {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 170,
+      "adds": 30805
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 24315
+      "depth": 2,
+      "rank": 694,
+      "adds": 27804
     },
     {
       "id": "12536",
@@ -4890,7 +4868,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 190,
-      "adds": 22446
+      "adds": 23804
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 679,
+      "adds": 22743
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 19617
     },
     {
       "id": "9479",
@@ -4901,7 +4901,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 20665
+      "adds": 18625
     }
   ]
 }
