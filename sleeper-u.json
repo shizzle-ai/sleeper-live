@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T20:16:11.010Z",
+  "generated_at": "2026-10-20T23:12:23.196Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1064,7 +1064,7 @@
           "pos": "WR",
           "team": "HOU",
           "injury": "IR",
-          "status": "Inactive",
+          "status": "Active",
           "depth": 6,
           "rank": 187
         }
@@ -2452,26 +2452,6 @@
           "rank": 149
         },
         {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 35
-        },
-        {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 3,
-          "rank": 89
-        },
-        {
           "id": "1466",
           "name": "Travis Kelce",
           "pos": "TE",
@@ -2492,16 +2472,6 @@
           "rank": 7
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "pos": "TE",
-          "team": "LAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 647
-        },
-        {
           "id": "421",
           "name": "Matthew Stafford",
           "pos": "QB",
@@ -2510,6 +2480,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 64
+        },
+        {
+          "id": "5849",
+          "name": "Kyler Murray",
+          "pos": "QB",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 87
         },
         {
           "id": "6790",
@@ -2522,14 +2502,24 @@
           "rank": 46
         },
         {
-          "id": "8154",
-          "name": "Brian Robinson",
-          "pos": "RB",
-          "team": "ATL",
+          "id": "7564",
+          "name": "Ja'Marr Chase",
+          "pos": "WR",
+          "team": "CIN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 3
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "team": "LV",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 80
+          "rank": 464
         },
         {
           "id": "MIN",
@@ -2554,6 +2544,26 @@
           "rank": 125
         },
         {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 35
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 3,
+          "rank": 89
+        },
+        {
           "id": "13305",
           "name": "Mike Washington",
           "pos": "RB",
@@ -2562,6 +2572,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 123
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "pos": "TE",
+          "team": "LAR",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 647
         },
         {
           "id": "4983",
@@ -2574,34 +2594,14 @@
           "rank": 50
         },
         {
-          "id": "5849",
-          "name": "Kyler Murray",
-          "pos": "QB",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 87
-        },
-        {
-          "id": "7564",
-          "name": "Ja'Marr Chase",
-          "pos": "WR",
-          "team": "CIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 3
-        },
-        {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "pos": "TE",
-          "team": "LV",
+          "id": "8154",
+          "name": "Brian Robinson",
+          "pos": "RB",
+          "team": "ATL",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 464
+          "rank": 80
         }
       ],
       "reserve": [
@@ -2971,8 +2971,8 @@
           "name": "Davante Adams",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 5,
           "rank": 46
         },
@@ -3817,7 +3817,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 3554864
+      "adds": 3947496
     },
     {
       "id": "12718",
@@ -3828,7 +3828,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 945855
+      "adds": 1058832
     },
     {
       "id": "12487",
@@ -3839,7 +3839,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 414104
+      "adds": 466832
     },
     {
       "id": "10235",
@@ -3850,7 +3850,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 404968
+      "adds": 450736
     },
     {
       "id": "6650",
@@ -3861,7 +3861,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 396296
+      "adds": 437808
     },
     {
       "id": "11655",
@@ -3872,7 +3872,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 110,
-      "adds": 361808
+      "adds": 417528
     },
     {
       "id": "NYJ",
@@ -3883,7 +3883,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 283244
+      "adds": 322644
     },
     {
       "id": "8135",
@@ -3894,7 +3894,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 237118
+      "adds": 298851
     },
     {
       "id": "11783",
@@ -3905,7 +3905,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 181560
+      "adds": 185720
     },
     {
       "id": "8116",
@@ -3916,7 +3916,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 164997
+      "adds": 180630
     },
     {
       "id": "12530",
@@ -3927,7 +3927,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 120306
+      "adds": 124392
     },
     {
       "id": "4147",
@@ -3938,7 +3938,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 88432
+      "adds": 105724
     },
     {
       "id": "13545",
@@ -3949,18 +3949,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 84380
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 76248
+      "adds": 93184
     },
     {
       "id": "12491",
@@ -3971,7 +3960,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 75948
+      "adds": 93120
     },
     {
       "id": "13296",
@@ -3982,7 +3971,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 198,
-      "adds": 68520
+      "adds": 90592
     },
     {
       "id": "6865",
@@ -3993,29 +3982,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 65064
-    },
-    {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 190,
-      "adds": 57810
-    },
-    {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 109,
-      "adds": 53703
+      "adds": 73410
     },
     {
       "id": "13293",
@@ -4026,7 +3993,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 147,
-      "adds": 48020
+      "adds": 63726
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 660,
+      "adds": 61614
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 190,
+      "adds": 59749
+    },
+    {
+      "id": "13330",
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 109,
+      "adds": 57753
     }
   ]
 }
