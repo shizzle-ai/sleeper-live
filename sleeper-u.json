@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T16:56:44.536Z",
+  "generated_at": "2026-10-20T20:16:11.010Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1214,7 +1214,7 @@
           "team": "WAS",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 4,
           "rank": 95
         },
         {
@@ -3124,7 +3124,7 @@
         "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 110
       },
       {
@@ -3184,7 +3184,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 6,
         "rank": 167
       },
       {
@@ -3817,7 +3817,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 2989120
+      "adds": 3554864
     },
     {
       "id": "12718",
@@ -3828,29 +3828,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 765486
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 681,
-      "adds": 343512
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 334320
+      "adds": 945855
     },
     {
       "id": "12487",
@@ -3861,7 +3839,29 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 320968
+      "adds": 414104
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 681,
+      "adds": 404968
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 396296
     },
     {
       "id": "11655",
@@ -3870,9 +3870,9 @@
       "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": 2,
       "rank": 110,
-      "adds": 283892
+      "adds": 361808
     },
     {
       "id": "NYJ",
@@ -3883,18 +3883,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 234116
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 166256
+      "adds": 283244
     },
     {
       "id": "8135",
@@ -3905,7 +3894,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 165326
+      "adds": 237118
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 181560
     },
     {
       "id": "8116",
@@ -3916,7 +3916,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 139518
+      "adds": 164997
     },
     {
       "id": "12530",
@@ -3927,29 +3927,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 107658
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 79392
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 70908
+      "adds": 120306
     },
     {
       "id": "4147",
@@ -3960,7 +3938,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 67756
+      "adds": 88432
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 84380
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 76248
     },
     {
       "id": "12491",
@@ -3971,29 +3971,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 58086
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 53070
-    },
-    {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 190,
-      "adds": 51855
+      "adds": 75948
     },
     {
       "id": "13296",
@@ -4004,18 +3982,29 @@
       "status": "Active",
       "depth": 9,
       "rank": 198,
-      "adds": 50352
+      "adds": 68520
     },
     {
-      "id": "13414",
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "team": "SF",
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 161,
-      "adds": 44233
+      "rank": 136,
+      "adds": 65064
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 190,
+      "adds": 57810
     },
     {
       "id": "13330",
@@ -4026,7 +4015,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 109,
-      "adds": 42678
+      "adds": 53703
+    },
+    {
+      "id": "13293",
+      "name": "Ja'Kobi Lane",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 147,
+      "adds": 48020
     }
   ]
 }
