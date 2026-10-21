@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-20T23:12:23.196Z",
+  "generated_at": "2026-10-21T01:34:39.738Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -792,7 +792,7 @@
           "team": "PHI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 4,
           "rank": 686
         },
         {
@@ -1214,7 +1214,7 @@
           "team": "WAS",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 4,
+          "depth": 6,
           "rank": 95
         },
         {
@@ -1234,7 +1234,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 2,
           "rank": 11
         },
         {
@@ -2130,14 +2130,14 @@
           "rank": 34
         },
         {
-          "id": "8134",
-          "name": "Khalil Shakir",
+          "id": "8148",
+          "name": "Jameson Williams",
           "pos": "WR",
-          "team": "BUF",
-          "injury": "Questionable",
+          "team": "DET",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 120
+          "depth": 2,
+          "rank": 53
         },
         {
           "id": "LAR",
@@ -2172,16 +2172,6 @@
           "rank": 116
         },
         {
-          "id": "13287",
-          "name": "Jeremiyah Love",
-          "pos": "RB",
-          "team": "ARI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 7,
-          "rank": 15
-        },
-        {
           "id": "13337",
           "name": "Emmett Johnson",
           "pos": "RB",
@@ -2190,6 +2180,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 113
+        },
+        {
+          "id": "13345",
+          "name": "Jonah Coleman",
+          "pos": "RB",
+          "team": "DEN",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 6,
+          "rank": 118
         },
         {
           "id": "8126",
@@ -2202,14 +2202,14 @@
           "rank": 105
         },
         {
-          "id": "8148",
-          "name": "Jameson Williams",
+          "id": "8134",
+          "name": "Khalil Shakir",
           "pos": "WR",
-          "team": "DET",
-          "injury": null,
+          "team": "BUF",
+          "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
-          "rank": 53
+          "depth": 1,
+          "rank": 120
         }
       ],
       "reserve": [
@@ -2224,14 +2224,14 @@
           "rank": 29
         },
         {
-          "id": "13345",
-          "name": "Jonah Coleman",
+          "id": "13287",
+          "name": "Jeremiyah Love",
           "pos": "RB",
-          "team": "DEN",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 6,
-          "rank": 118
+          "team": "ARI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 7,
+          "rank": 15
         }
       ],
       "taxi": [],
@@ -2622,7 +2622,7 @@
           "team": "PHI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 3,
           "rank": 147
         }
       ],
@@ -3244,7 +3244,7 @@
         "team": "PHI",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": null,
         "rank": 189
       },
       {
@@ -3817,7 +3817,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 151,
-      "adds": 3947496
+      "adds": 4367552
     },
     {
       "id": "12718",
@@ -3828,18 +3828,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 1058832
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 466832
+      "adds": 1199601
     },
     {
       "id": "10235",
@@ -3850,18 +3839,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 681,
-      "adds": 450736
+      "adds": 507840
     },
     {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 437808
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 488168
     },
     {
       "id": "11655",
@@ -3872,7 +3861,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 110,
-      "adds": 417528
+      "adds": 480346
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 468296
     },
     {
       "id": "NYJ",
@@ -3883,7 +3883,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 322644
+      "adds": 366476
     },
     {
       "id": "8135",
@@ -3894,18 +3894,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 298851
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 185720
+      "adds": 365015
     },
     {
       "id": "8116",
@@ -3916,7 +3905,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 180630
+      "adds": 199125
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 199,
+      "adds": 192296
     },
     {
       "id": "12530",
@@ -3927,7 +3927,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 124392
+      "adds": 129972
     },
     {
       "id": "4147",
@@ -3938,29 +3938,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 456,
-      "adds": 105724
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 93184
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 93120
+      "adds": 125776
     },
     {
       "id": "13296",
@@ -3971,7 +3949,29 @@
       "status": "Active",
       "depth": 9,
       "rank": 198,
-      "adds": 90592
+      "adds": 116136
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 115722
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 98644
     },
     {
       "id": "6865",
@@ -3982,7 +3982,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 73410
+      "adds": 84720
     },
     {
       "id": "13293",
@@ -3993,7 +3993,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 147,
-      "adds": 63726
+      "adds": 80400
     },
     {
       "id": "6130",
@@ -4004,7 +4004,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 61614
+      "adds": 77418
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 999,
+      "adds": 67208
     },
     {
       "id": "12536",
@@ -4015,18 +4026,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 190,
-      "adds": 59749
-    },
-    {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 109,
-      "adds": 57753
+      "adds": 62674
     }
   ]
 }
