@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T17:13:10.751Z",
+  "generated_at": "2026-10-21T20:37:53.709Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -91,7 +91,7 @@
         "name": "Bucky Irving",
         "pos": "RB",
         "team": "TB",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 32
@@ -289,7 +289,7 @@
           "name": "Bucky Irving",
           "pos": "RB",
           "team": "TB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 32
@@ -448,7 +448,7 @@
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -718,7 +718,7 @@
           "name": "Denzel Boston",
           "pos": "WR",
           "team": "CLE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 153
@@ -800,7 +800,7 @@
           "name": "KC Concepcion",
           "pos": "WR",
           "team": "CLE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 110
@@ -1341,7 +1341,7 @@
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -1487,16 +1487,6 @@
           "rank": 88
         },
         {
-          "id": "13274",
-          "name": "Germie Bernard",
-          "pos": "WR",
-          "team": "PIT",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 194
-        },
-        {
           "id": "4034",
           "name": "Christian McCaffrey",
           "pos": "RB",
@@ -1505,6 +1495,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 4
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs",
+          "pos": "RB",
+          "team": "GB",
+          "injury": "NA",
+          "status": "Active",
+          "depth": 4,
+          "rank": 20
         },
         {
           "id": "6650",
@@ -1579,14 +1579,14 @@
           "rank": 44
         },
         {
-          "id": "5850",
-          "name": "Josh Jacobs",
-          "pos": "RB",
-          "team": "GB",
-          "injury": "NA",
+          "id": "13274",
+          "name": "Germie Bernard",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": null,
           "status": "Active",
-          "depth": 4,
-          "rank": 20
+          "depth": 2,
+          "rank": 194
         },
         {
           "id": "8110",
@@ -1702,7 +1702,7 @@
           "name": "Jordan Love",
           "pos": "QB",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 69
@@ -1955,7 +1955,7 @@
           "name": "Kyle Monangai",
           "pos": "RB",
           "team": "CHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 6,
           "rank": 61
@@ -2044,7 +2044,7 @@
           "name": "Matthew Golden",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 118
@@ -2295,7 +2295,7 @@
           "name": "A.J. Brown",
           "pos": "WR",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 18
@@ -2607,7 +2607,7 @@
           "name": "Bucky Irving",
           "pos": "RB",
           "team": "TB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 32
@@ -3283,7 +3283,7 @@
         "name": "Sean Tucker",
         "pos": "RB",
         "team": "TB",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 155
@@ -3595,7 +3595,7 @@
         "name": "Calvin Ridley",
         "pos": "WR",
         "team": "TEN",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 180
@@ -3938,7 +3938,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 1390302
+      "adds": 1238400
     },
     {
       "id": "8135",
@@ -3949,7 +3949,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 566426
+      "adds": 525791
     },
     {
       "id": "NYJ",
@@ -3960,7 +3960,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 488844
+      "adds": 452918
     },
     {
       "id": "12487",
@@ -3971,7 +3971,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 460824
+      "adds": 363192
     },
     {
       "id": "13296",
@@ -3982,7 +3982,7 @@
       "status": "Active",
       "depth": 9,
       "rank": 199,
-      "adds": 281976
+      "adds": 282800
     },
     {
       "id": "8116",
@@ -3993,7 +3993,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 249795
+      "adds": 230877
     },
     {
       "id": "11783",
@@ -4004,7 +4004,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 221224
+      "adds": 209632
     },
     {
       "id": "12634",
@@ -4015,7 +4015,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 999,
-      "adds": 193364
+      "adds": 195612
     },
     {
       "id": "12491",
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 174912
+      "adds": 161256
     },
     {
       "id": "6130",
@@ -4037,7 +4037,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 160317
+      "adds": 153234
     },
     {
       "id": "13293",
@@ -4048,18 +4048,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 147,
-      "adds": 149846
-    },
-    {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 134646
+      "adds": 140028
     },
     {
       "id": "13424",
@@ -4070,29 +4059,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 386,
-      "adds": 128304
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 124704
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 118464
+      "adds": 134776
     },
     {
       "id": "2197",
@@ -4103,7 +4070,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 529,
-      "adds": 118356
+      "adds": 127208
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 123200
+    },
+    {
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 118446
     },
     {
       "id": "1433",
@@ -4114,7 +4103,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 99264
+      "adds": 117712
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 114210
     },
     {
       "id": "4993",
@@ -4125,18 +4125,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 82256
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 74595
+      "adds": 79908
     },
     {
       "id": "8122",
@@ -4147,7 +4136,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 68758
+      "adds": 71280
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 70842
     }
   ]
 }
