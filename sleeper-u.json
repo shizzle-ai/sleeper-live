@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-21T20:37:53.709Z",
+  "generated_at": "2026-10-21T23:36:21.498Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -128,7 +128,7 @@
       },
       {
         "id": "4199",
-        "name": "Aaron Jones",
+        "name": "Aaron Jones Sr.",
         "pos": "RB",
         "team": "MIN",
         "injury": null,
@@ -220,7 +220,7 @@
       },
       {
         "id": "13276",
-        "name": "Omar Cooper",
+        "name": "Omar Cooper Jr.",
         "pos": "WR",
         "team": "NYJ",
         "injury": null,
@@ -233,7 +233,7 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "team": "NO",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 119
@@ -326,7 +326,7 @@
         },
         {
           "id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "pos": "RB",
           "team": "MIN",
           "injury": null,
@@ -458,7 +458,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -797,7 +797,7 @@
         },
         {
           "id": "13298",
-          "name": "KC Concepcion",
+          "name": "KC Concepcion Jr.",
           "pos": "WR",
           "team": "CLE",
           "injury": "Questionable",
@@ -1254,7 +1254,7 @@
           "name": "Jordan Addison",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 6,
           "rank": 99
@@ -1281,7 +1281,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -1390,7 +1390,7 @@
         },
         {
           "id": "11655",
-          "name": "Tyrone Tracy",
+          "name": "Tyrone Tracy Jr.",
           "pos": "RB",
           "team": "NYG",
           "injury": null,
@@ -1528,7 +1528,7 @@
         },
         {
           "id": "7553",
-          "name": "Kyle Pitts",
+          "name": "Kyle Pitts Sr.",
           "pos": "TE",
           "team": "ATL",
           "injury": null,
@@ -1622,7 +1622,7 @@
       "reserve": [
         {
           "id": "5872",
-          "name": "Deebo Samuel",
+          "name": "Deebo Samuel Sr.",
           "pos": "WR",
           "team": "SF",
           "injury": "Out",
@@ -1632,7 +1632,7 @@
         },
         {
           "id": "7543",
-          "name": "Travis Etienne",
+          "name": "Travis Etienne Jr.",
           "pos": "RB",
           "team": "NO",
           "injury": "IR",
@@ -1719,7 +1719,7 @@
         },
         {
           "id": "8151",
-          "name": "Kenneth Walker",
+          "name": "Kenneth Walker III",
           "pos": "RB",
           "team": "KC",
           "injury": null,
@@ -1850,7 +1850,7 @@
         },
         {
           "id": "12519",
-          "name": "Luther Burden",
+          "name": "Luther Burden III",
           "pos": "WR",
           "team": "CHI",
           "injury": "Questionable",
@@ -1873,7 +1873,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -2084,7 +2084,7 @@
           "name": "Dalton Schultz",
           "pos": "TE",
           "team": "HOU",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 98
@@ -2222,7 +2222,7 @@
       "starters": [
         {
           "id": "12495",
-          "name": "Ollie Gordon",
+          "name": "Ollie Gordon II",
           "pos": "RB",
           "team": "MIA",
           "injury": null,
@@ -2232,7 +2232,7 @@
         },
         {
           "id": "12506",
-          "name": "Harold Fannin",
+          "name": "Harold Fannin Jr.",
           "pos": "TE",
           "team": "CLE",
           "injury": null,
@@ -2305,7 +2305,7 @@
           "name": "Rico Dowdle",
           "pos": "RB",
           "team": "PIT",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 65
@@ -2324,7 +2324,7 @@
       "bench": [
         {
           "id": "11628",
-          "name": "Marvin Harrison",
+          "name": "Marvin Harrison Jr.",
           "pos": "WR",
           "team": "HOU",
           "injury": null,
@@ -2416,7 +2416,7 @@
           "name": "Travis Kelce",
           "pos": "TE",
           "team": "KC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 90
@@ -2525,7 +2525,7 @@
         },
         {
           "id": "13305",
-          "name": "Mike Washington",
+          "name": "Mike Washington Jr.",
           "pos": "RB",
           "team": "LV",
           "injury": null,
@@ -2545,10 +2545,10 @@
         },
         {
           "id": "8154",
-          "name": "Brian Robinson",
+          "name": "Brian Robinson Jr.",
           "pos": "RB",
           "team": "ATL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 80
@@ -2644,7 +2644,7 @@
         },
         {
           "id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "pos": "RB",
           "team": "MIN",
           "injury": null,
@@ -2736,7 +2736,7 @@
         },
         {
           "id": "13276",
-          "name": "Omar Cooper",
+          "name": "Omar Cooper Jr.",
           "pos": "WR",
           "team": "NYJ",
           "injury": null,
@@ -2749,7 +2749,7 @@
           "name": "Alvin Kamara",
           "pos": "RB",
           "team": "NO",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 119
@@ -2847,7 +2847,7 @@
           "name": "Justin Jefferson",
           "pos": "WR",
           "team": "MIN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 12
@@ -2886,7 +2886,7 @@
       "bench": [
         {
           "id": "11559",
-          "name": "Michael Penix",
+          "name": "Michael Penix Jr.",
           "pos": "QB",
           "team": "ATL",
           "injury": null,
@@ -2916,7 +2916,7 @@
         },
         {
           "id": "4037",
-          "name": "Chris Godwin",
+          "name": "Chris Godwin Jr.",
           "pos": "WR",
           "team": "TB",
           "injury": null,
@@ -2926,7 +2926,7 @@
         },
         {
           "id": "8138",
-          "name": "James Cook",
+          "name": "James Cook III",
           "pos": "RB",
           "team": "BUF",
           "injury": null,
@@ -2975,7 +2975,7 @@
             "name": "Dalton Schultz",
             "pos": "TE",
             "team": "HOU",
-            "injury": null,
+            "injury": "Questionable",
             "status": "Active",
             "depth": 1,
             "rank": 98
@@ -3260,7 +3260,7 @@
       },
       {
         "id": "10219",
-        "name": "Chris Rodriguez",
+        "name": "Chris Rodriguez Jr.",
         "pos": "RB",
         "team": "JAX",
         "injury": null,
@@ -3343,7 +3343,7 @@
         "name": "Jaylen Wright",
         "pos": "RB",
         "team": "MIA",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 174
@@ -3420,7 +3420,7 @@
       },
       {
         "id": "11186",
-        "name": "Carlos Washington",
+        "name": "Carlos Washington Jr.",
         "pos": "RB",
         "team": "MIA",
         "injury": null,
@@ -3442,7 +3442,7 @@
     "WR": [
       {
         "id": "11631",
-        "name": "Brian Thomas",
+        "name": "Brian Thomas Jr.",
         "pos": "WR",
         "team": "JAX",
         "injury": null,
@@ -3505,7 +3505,7 @@
         "name": "Rashid Shaheed",
         "pos": "WR",
         "team": "SEA",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 150
@@ -3938,7 +3938,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 678,
-      "adds": 1238400
+      "adds": 1098450
     },
     {
       "id": "8135",
@@ -3949,7 +3949,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 525791
+      "adds": 494242
     },
     {
       "id": "NYJ",
@@ -3960,7 +3960,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 452918
+      "adds": 427108
     },
     {
       "id": "12487",
@@ -3971,7 +3971,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 363192
+      "adds": 303800
     },
     {
       "id": "13296",
@@ -3982,18 +3982,18 @@
       "status": "Active",
       "depth": 9,
       "rank": 199,
-      "adds": 282800
+      "adds": 267856
     },
     {
       "id": "8116",
-      "name": "Pierre Strong",
+      "name": "Pierre Strong Jr.",
       "pos": "RB",
       "team": "GB",
       "injury": null,
       "status": "Active",
       "depth": 2,
       "rank": 631,
-      "adds": 230877
+      "adds": 218223
     },
     {
       "id": "11783",
@@ -4004,7 +4004,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 209632
+      "adds": 202000
     },
     {
       "id": "12634",
@@ -4015,7 +4015,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 999,
-      "adds": 195612
+      "adds": 185796
     },
     {
       "id": "12491",
@@ -4026,7 +4026,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 161256
+      "adds": 147384
     },
     {
       "id": "6130",
@@ -4037,18 +4037,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 153234
-    },
-    {
-      "id": "13293",
-      "name": "Ja'Kobi Lane",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 147,
-      "adds": 140028
+      "adds": 144468
     },
     {
       "id": "13424",
@@ -4059,40 +4048,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 386,
-      "adds": 134776
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 529,
-      "adds": 127208
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 123200
-    },
-    {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 118446
+      "adds": 139000
     },
     {
       "id": "1433",
@@ -4103,7 +4059,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 117712
+      "adds": 128504
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 529,
+      "adds": 127576
+    },
+    {
+      "id": "13293",
+      "name": "Ja'Kobi Lane",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 147,
+      "adds": 125458
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 124936
+    },
+    {
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 108360
     },
     {
       "id": "6865",
@@ -4114,18 +4114,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 114210
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 79908
+      "adds": 108216
     },
     {
       "id": "8122",
@@ -4136,7 +4125,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 71280
+      "adds": 89540
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 77724
     },
     {
       "id": "8119",
@@ -4147,7 +4147,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 70842
+      "adds": 66090
     }
   ]
 }
