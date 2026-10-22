@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-22T20:36:58.485Z",
+  "generated_at": "2026-10-22T23:34:11.376Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -458,7 +458,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -738,7 +738,7 @@
           "name": "George Pickens",
           "pos": "WR",
           "team": "DAL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 22
@@ -1281,7 +1281,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -2015,7 +2015,7 @@
           "name": "Dontayvion Wicks",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 203
@@ -2124,7 +2124,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 34
@@ -2857,7 +2857,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 94
@@ -2867,7 +2867,7 @@
           "name": "Justin Jefferson",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 12
@@ -3737,6 +3737,16 @@
         "rank": 182
       },
       {
+        "id": "12457",
+        "name": "Jaydon Blue",
+        "pos": "RB",
+        "team": "PHI",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 189
+      },
+      {
         "id": "11579",
         "name": "Audric Estime",
         "pos": "RB",
@@ -3795,16 +3805,6 @@
         "status": "Active",
         "depth": null,
         "rank": 270
-      },
-      {
-        "id": "6012",
-        "name": "Travis Homer",
-        "pos": "RB",
-        "team": "PIT",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 326
       }
     ],
     "WR": [
@@ -4306,7 +4306,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 162911
+      "adds": 162666
     },
     {
       "id": "13424",
@@ -4317,7 +4317,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 385,
-      "adds": 104968
+      "adds": 135568
     },
     {
       "id": "9230",
@@ -4328,7 +4328,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 677,
-      "adds": 96048
+      "adds": 104928
     },
     {
       "id": "2197",
@@ -4339,7 +4339,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 527,
-      "adds": 78368
+      "adds": 90820
     },
     {
       "id": "12634",
@@ -4350,7 +4350,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 999,
-      "adds": 65892
+      "adds": 70224
     },
     {
       "id": "4037",
@@ -4361,29 +4361,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 88,
-      "adds": 53682
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 50344
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 9,
-      "rank": 199,
-      "adds": 45408
+      "adds": 59982
     },
     {
       "id": "6865",
@@ -4394,40 +4372,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 38640
+      "adds": 52014
     },
     {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 660,
-      "adds": 35406
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 35262
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
+      "id": "12487",
+      "name": "Terrance Ferguson",
       "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 35168
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 51896
     },
     {
       "id": "2020",
@@ -4438,7 +4394,51 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 28168
+      "adds": 43533
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 9,
+      "rank": 199,
+      "adds": 40816
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 38692
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 660,
+      "adds": 35658
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 35172
     },
     {
       "id": "4039",
@@ -4449,7 +4449,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 25770
+      "adds": 28752
     },
     {
       "id": "8119",
@@ -4460,7 +4460,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 23838
+      "adds": 24750
     },
     {
       "id": "7567",
@@ -4471,18 +4471,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 22784
+      "adds": 24456
     },
     {
-      "id": "13293",
-      "name": "Ja'Kobi Lane",
-      "pos": "WR",
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
       "team": "BAL",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 147,
-      "adds": 22696
+      "depth": 2,
+      "rank": 220,
+      "adds": 23184
     }
   ]
 }
