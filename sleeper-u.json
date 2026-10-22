@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-22T12:22:26.132Z",
+  "generated_at": "2026-10-22T17:21:12.751Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -251,7 +251,7 @@
     ],
     "reserve": [],
     "taxi": [],
-    "waiver_position": 6,
+    "waiver_position": 5,
     "faab_used": 0
   },
   "my_matchup": {
@@ -484,14 +484,14 @@
           "rank": 293
         },
         {
-          "id": "11786",
-          "name": "Cam Little",
+          "id": "13545",
+          "name": "Trey Smack",
           "pos": "K",
-          "team": "JAX",
+          "team": "GB",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 194
         },
         {
           "id": "HOU",
@@ -526,12 +526,12 @@
         "8183": 0,
         "9487": 0,
         "9488": 0,
-        "9500": 0,
         "11586": 0,
         "11604": 0,
         "11646": 0,
         "11655": 0,
         "11786": 0,
+        "13545": 0,
         "HOU": 0
       }
     }
@@ -869,7 +869,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 9,
       "faab_used": 0
     },
     {
@@ -1060,7 +1060,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 8,
       "faab_used": 0
     },
     {
@@ -1166,10 +1166,10 @@
           "rank": 99
         },
         {
-          "id": "CHI",
-          "name": "Chicago Bears",
+          "id": "TEN",
+          "name": "Tennessee Titans",
           "pos": "DEF",
-          "team": "CHI",
+          "team": "TEN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1297,14 +1297,14 @@
           "rank": 132
         },
         {
-          "id": "11786",
-          "name": "Cam Little",
+          "id": "13545",
+          "name": "Trey Smack",
           "pos": "K",
-          "team": "JAX",
+          "team": "GB",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 194
         },
         {
           "id": "4017",
@@ -1399,6 +1399,16 @@
           "rank": 110
         },
         {
+          "id": "11786",
+          "name": "Cam Little",
+          "pos": "K",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 133
+        },
+        {
           "id": "4943",
           "name": "Sam Darnold",
           "pos": "QB",
@@ -1427,21 +1437,11 @@
           "status": "Active",
           "depth": 1,
           "rank": 68
-        },
-        {
-          "id": "9500",
-          "name": "Josh Downs",
-          "pos": "WR",
-          "team": "IND",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 111
         }
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 5,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -1642,7 +1642,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -1951,16 +1951,6 @@
           "rank": 39
         },
         {
-          "id": "12534",
-          "name": "Kyle Monangai",
-          "pos": "RB",
-          "team": "CHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 61
-        },
-        {
           "id": "1479",
           "name": "Keenan Allen",
           "pos": "WR",
@@ -1979,6 +1969,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 125
+        },
+        {
+          "id": "8408",
+          "name": "Jordan Mason",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 5,
+          "rank": 91
         },
         {
           "id": "9228",
@@ -2003,14 +2003,14 @@
       ],
       "reserve": [
         {
-          "id": "8408",
-          "name": "Jordan Mason",
+          "id": "12534",
+          "name": "Kyle Monangai",
           "pos": "RB",
-          "team": "MIN",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 5,
-          "rank": 91
+          "team": "CHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 6,
+          "rank": 61
         }
       ],
       "taxi": [],
@@ -2386,7 +2386,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -2587,7 +2587,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 0
     },
     {
@@ -2767,7 +2767,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 6,
+      "waiver_position": 5,
       "faab_used": 0
     },
     {
@@ -2873,10 +2873,10 @@
           "rank": 27
         },
         {
-          "id": "NE",
-          "name": "New England Patriots",
+          "id": "NYJ",
+          "name": "New York Jets",
           "pos": "DEF",
-          "team": "NE",
+          "team": "NYJ",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2915,14 +2915,14 @@
           "rank": 161
         },
         {
-          "id": "4037",
-          "name": "Chris Godwin Jr.",
-          "pos": "WR",
-          "team": "TB",
+          "id": "8122",
+          "name": "Zonovan Knight",
+          "pos": "RB",
+          "team": "ARI",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 88
+          "rank": 669
         },
         {
           "id": "8138",
@@ -2935,14 +2935,14 @@
           "rank": 5
         },
         {
-          "id": "9230",
-          "name": "Tanner McKee",
-          "pos": "QB",
-          "team": "PHI",
+          "id": "NE",
+          "name": "New England Patriots",
+          "pos": "DEF",
+          "team": "NE",
           "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 677
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -2958,11 +2958,137 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 0
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1419033388274270208",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792686433431,
+      "adds": [
+        {
+          "player": {
+            "id": "TEN",
+            "name": "Tennessee Titans",
+            "pos": "DEF",
+            "team": "TEN",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "CHI",
+            "name": "Chicago Bears",
+            "pos": "DEF",
+            "team": "CHI",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1418974366871441408",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792672361632,
+      "adds": [
+        {
+          "player": {
+            "id": "NYJ",
+            "name": "New York Jets",
+            "pos": "DEF",
+            "team": "NYJ",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "4037",
+            "name": "Chris Godwin Jr.",
+            "pos": "WR",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 88
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1418972635982827520",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792671948956,
+      "adds": [
+        {
+          "player": {
+            "id": "8122",
+            "name": "Zonovan Knight",
+            "pos": "RB",
+            "team": "ARI",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 669
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "9230",
+            "name": "Tanner McKee",
+            "pos": "QB",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 677
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1418805835152306176",
       "type": "free_agent",
@@ -3044,6 +3170,48 @@
       ],
       "roster_ids": [
         3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1418667050506653696",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1792599091702,
+      "adds": [
+        {
+          "player": {
+            "id": "13545",
+            "name": "Trey Smack",
+            "pos": "K",
+            "team": "GB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 194
+          },
+          "roster_id": 4,
+          "team": "4th and beer"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "9500",
+            "name": "Josh Downs",
+            "pos": "WR",
+            "team": "IND",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 1,
+            "rank": 111
+          },
+          "roster_id": 4,
+          "team": "4th and beer"
+        }
+      ],
+      "roster_ids": [
+        4
       ],
       "waiver_bid": null
     },
@@ -3555,6 +3723,16 @@
         "rank": 77
       },
       {
+        "id": "4037",
+        "name": "Chris Godwin Jr.",
+        "pos": "WR",
+        "team": "TB",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 88
+      },
+      {
         "id": "9754",
         "name": "Quentin Johnston",
         "pos": "WR",
@@ -3573,6 +3751,16 @@
         "status": "Active",
         "depth": 2,
         "rank": 105
+      },
+      {
+        "id": "9500",
+        "name": "Josh Downs",
+        "pos": "WR",
+        "team": "IND",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 111
       },
       {
         "id": "7049",
@@ -3703,26 +3891,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 181
-      },
-      {
-        "id": "12535",
-        "name": "Isaac TeSlaa",
-        "pos": "WR",
-        "team": "DET",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 184
-      },
-      {
-        "id": "12499",
-        "name": "Elic Ayomanor",
-        "pos": "WR",
-        "team": "TEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
-        "rank": 185
       }
     ],
     "TE": [
@@ -3919,14 +4087,14 @@
         "rank": 190
       },
       {
-        "id": "13545",
-        "name": "Trey Smack",
+        "id": "4195",
+        "name": "Jake Elliott",
         "pos": "K",
-        "team": "GB",
+        "team": "PHI",
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 194
+        "rank": 214
       }
     ],
     "DEF": [
@@ -3955,16 +4123,6 @@
         "name": "Las Vegas Raiders",
         "pos": "DEF",
         "team": "LV",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
-      },
-      {
-        "id": "NYJ",
-        "name": "New York Jets",
-        "pos": "DEF",
-        "team": "NYJ",
         "injury": null,
         "status": null,
         "depth": null,
@@ -4009,6 +4167,16 @@
         "status": null,
         "depth": null,
         "rank": null
+      },
+      {
+        "id": "ATL",
+        "name": "Atlanta Falcons",
+        "pos": "DEF",
+        "team": "ATL",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
       }
     ]
   },
@@ -4022,51 +4190,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 270417
+      "adds": 196798
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 224768
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "team": "DAL",
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 199,
-      "adds": 134296
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 9,
-      "rank": 199,
-      "adds": 133856
-    },
-    {
-      "id": "1433",
-      "name": "Brandon McManus",
-      "pos": "K",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 674,
-      "adds": 119088
+      "depth": 1,
+      "rank": 677,
+      "adds": 114040
     },
     {
       "id": "13424",
@@ -4077,51 +4212,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 385,
-      "adds": 113704
+      "adds": 107816
     },
     {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
+      "id": "1433",
+      "name": "Brandon McManus",
+      "pos": "K",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 669,
-      "adds": 112456
+      "rank": 674,
+      "adds": 106024
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 111736
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
+      "id": "11783",
+      "name": "Ryan Flournoy",
       "pos": "WR",
-      "team": "SF",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 999,
-      "adds": 107136
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 107092
+      "depth": 3,
+      "rank": 199,
+      "adds": 102504
     },
     {
       "id": "2197",
@@ -4132,7 +4245,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 527,
-      "adds": 105016
+      "adds": 87720
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 999,
+      "adds": 78940
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 9,
+      "rank": 199,
+      "adds": 71264
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 66432
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 61692
     },
     {
       "id": "6130",
@@ -4143,18 +4300,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 78840
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 61884
+      "adds": 48915
     },
     {
       "id": "6865",
@@ -4165,7 +4311,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 61068
+      "adds": 47202
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 43584
     },
     {
       "id": "4993",
@@ -4176,29 +4333,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 52776
-    },
-    {
-      "id": "13293",
-      "name": "Ja'Kobi Lane",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 147,
-      "adds": 47830
-    },
-    {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 45726
+      "adds": 39504
     },
     {
       "id": "2020",
@@ -4209,18 +4344,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 38444
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 38403
+      "adds": 30149
     },
     {
       "id": "7567",
@@ -4231,7 +4355,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 38048
+      "adds": 29936
+    },
+    {
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 29010
+    },
+    {
+      "id": "13293",
+      "name": "Ja'Kobi Lane",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 147,
+      "adds": 28726
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 195,
+      "adds": 28686
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 27876
     }
   ]
 }
