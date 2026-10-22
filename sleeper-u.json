@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-22T06:38:32.875Z",
+  "generated_at": "2026-10-22T12:22:26.132Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -714,14 +714,14 @@
           "rank": 61
         },
         {
-          "id": "13346",
-          "name": "Denzel Boston",
-          "pos": "WR",
-          "team": "CLE",
+          "id": "4892",
+          "name": "Baker Mayfield",
+          "pos": "QB",
+          "team": "TB",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
-          "rank": 153
+          "depth": 2,
+          "rank": 75
         },
         {
           "id": "8131",
@@ -806,14 +806,14 @@
           "rank": 110
         },
         {
-          "id": "4892",
-          "name": "Baker Mayfield",
-          "pos": "QB",
-          "team": "TB",
+          "id": "13346",
+          "name": "Denzel Boston",
+          "pos": "WR",
+          "team": "CLE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
-          "rank": 75
+          "depth": 1,
+          "rank": 153
         },
         {
           "id": "8129",
@@ -885,6 +885,16 @@
       },
       "starters": [
         {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "pos": "QB",
+          "team": "NYG",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 224
+        },
+        {
           "id": "11624",
           "name": "Xavier Worthy",
           "pos": "WR",
@@ -893,16 +903,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 122
-        },
-        {
-          "id": "11834",
-          "name": "Devaughn Vele",
-          "pos": "WR",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 209
         },
         {
           "id": "12474",
@@ -997,14 +997,14 @@
           "rank": 681
         },
         {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "pos": "QB",
-          "team": "NYG",
+          "id": "11834",
+          "name": "Devaughn Vele",
+          "pos": "WR",
+          "team": "NO",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 224
+          "depth": 2,
+          "rank": 209
         },
         {
           "id": "12507",
@@ -2200,7 +2200,7 @@
           "team": "DEN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": null,
+          "depth": 6,
           "rank": 118
         }
       ],
@@ -4022,7 +4022,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 331919
+      "adds": 270417
     },
     {
       "id": "NYJ",
@@ -4033,29 +4033,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 311314
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 9,
-      "rank": 199,
-      "adds": 190928
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 171864
+      "adds": 224768
     },
     {
       "id": "11783",
@@ -4066,7 +4044,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 199,
-      "adds": 164808
+      "adds": 134296
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 9,
+      "rank": 199,
+      "adds": 133856
     },
     {
       "id": "1433",
@@ -4077,29 +4066,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 674,
-      "adds": 133168
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 999,
-      "adds": 130988
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 125096
+      "adds": 119088
     },
     {
       "id": "13424",
@@ -4110,18 +4077,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 385,
-      "adds": 120168
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 527,
-      "adds": 115348
+      "adds": 113704
     },
     {
       "id": "8122",
@@ -4132,7 +4088,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 103196
+      "adds": 112456
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 111736
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 999,
+      "adds": 107136
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 107092
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 527,
+      "adds": 105016
     },
     {
       "id": "6130",
@@ -4143,7 +4143,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 101016
+      "adds": 78840
     },
     {
       "id": "12491",
@@ -4154,7 +4154,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 79854
+      "adds": 61884
     },
     {
       "id": "6865",
@@ -4165,18 +4165,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 74364
-    },
-    {
-      "id": "13293",
-      "name": "Ja'Kobi Lane",
-      "pos": "WR",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 147,
-      "adds": 68858
+      "adds": 61068
     },
     {
       "id": "4993",
@@ -4187,7 +4176,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 65216
+      "adds": 52776
+    },
+    {
+      "id": "13293",
+      "name": "Ja'Kobi Lane",
+      "pos": "WR",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 147,
+      "adds": 47830
     },
     {
       "id": "12530",
@@ -4198,18 +4198,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 104,
-      "adds": 61926
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 46665
+      "adds": 45726
     },
     {
       "id": "2020",
@@ -4220,18 +4209,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 45703
+      "adds": 38444
     },
     {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 508,
-      "adds": 45498
+      "rank": 220,
+      "adds": 38403
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 38048
     }
   ]
 }
