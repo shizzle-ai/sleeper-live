@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T06:35:58.879Z",
+  "generated_at": "2026-10-23T12:01:32.178Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4306,7 +4306,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 384,
-      "adds": 213568
+      "adds": 229440
     },
     {
       "id": "8135",
@@ -4317,7 +4317,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 143605
+      "adds": 136577
     },
     {
       "id": "9230",
@@ -4328,7 +4328,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 677,
-      "adds": 101120
+      "adds": 97744
     },
     {
       "id": "2197",
@@ -4339,7 +4339,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 527,
-      "adds": 96224
+      "adds": 94348
     },
     {
       "id": "12634",
@@ -4350,18 +4350,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 999,
-      "adds": 66508
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin Jr.",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 88,
-      "adds": 63900
+      "adds": 63888
     },
     {
       "id": "6865",
@@ -4372,7 +4361,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 63228
+      "adds": 63744
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 88,
+      "adds": 63330
     },
     {
       "id": "2020",
@@ -4383,7 +4383,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 45654
+      "adds": 44226
     },
     {
       "id": "12487",
@@ -4394,7 +4394,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 44368
+      "adds": 42160
     },
     {
       "id": "4993",
@@ -4405,29 +4405,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 39564
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 9,
-      "rank": 197,
-      "adds": 31272
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 31206
+      "adds": 38988
     },
     {
       "id": "4039",
@@ -4438,7 +4416,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 31062
+      "adds": 30372
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 487,
+      "adds": 29202
     },
     {
       "id": "6130",
@@ -4449,7 +4438,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 30843
+      "adds": 29070
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 9,
+      "rank": 197,
+      "adds": 28576
     },
     {
       "id": "5995",
@@ -4460,7 +4460,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 28026
+      "adds": 28053
     },
     {
       "id": "7567",
@@ -4471,18 +4471,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 26112
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 23196
+      "adds": 25904
     },
     {
       "id": "7562",
@@ -4493,7 +4482,29 @@
       "status": "Active",
       "depth": 4,
       "rank": 691,
-      "adds": 22834
+      "adds": 23247
+    },
+    {
+      "id": "11623",
+      "name": "Jordan Whittington",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 648,
+      "adds": 23031
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 22518
     }
   ]
 }
