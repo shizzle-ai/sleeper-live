@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-23T20:09:55.990Z",
+  "generated_at": "2026-10-23T23:06:35.784Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -448,7 +448,7 @@
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -738,7 +738,7 @@
           "name": "George Pickens",
           "pos": "WR",
           "team": "DAL",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 22
@@ -840,7 +840,7 @@
           "name": "Zach Charbonnet",
           "pos": "RB",
           "team": "SEA",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 101
@@ -1031,7 +1031,7 @@
           "name": "T.J. Hockenson",
           "pos": "TE",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 128
@@ -1202,7 +1202,7 @@
           "name": "Mike Evans",
           "pos": "WR",
           "team": "SF",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 3,
           "rank": 60
@@ -1341,7 +1341,7 @@
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -1893,7 +1893,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -2064,7 +2064,7 @@
           "name": "Matthew Golden",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 118
@@ -2104,7 +2104,7 @@
           "name": "Dalton Schultz",
           "pos": "TE",
           "team": "HOU",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 98
@@ -2387,7 +2387,7 @@
           "name": "David Montgomery",
           "pos": "RB",
           "team": "HOU",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 3,
           "rank": 43
@@ -3385,7 +3385,7 @@
             "name": "Dalton Schultz",
             "pos": "TE",
             "team": "HOU",
-            "injury": "Questionable",
+            "injury": null,
             "status": "Active",
             "depth": 1,
             "rank": 98
@@ -3763,7 +3763,7 @@
         "name": "Jaylen Wright",
         "pos": "RB",
         "team": "MIA",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 174
@@ -3965,7 +3965,7 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 162
@@ -4117,7 +4117,7 @@
         "name": "Theo Johnson",
         "pos": "TE",
         "team": "NYG",
-        "injury": "Questionable",
+        "injury": "Doubtful",
         "status": "Active",
         "depth": 2,
         "rank": 144
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 384,
-      "adds": 317960
+      "adds": 354504
     },
     {
       "id": "4037",
@@ -4359,18 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 88,
-      "adds": 124974
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 111664
+      "adds": 165966
     },
     {
       "id": "2197",
@@ -4381,29 +4370,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 527,
-      "adds": 87896
+      "adds": 99648
     },
     {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 83400
-    },
-    {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 677,
-      "adds": 81416
+      "depth": 4,
+      "rank": 679,
+      "adds": 98994
     },
     {
       "id": "13317",
@@ -4414,7 +4392,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 59094
+      "adds": 88014
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 84522
+    },
+    {
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 677,
+      "adds": 70224
     },
     {
       "id": "12634",
@@ -4425,7 +4425,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 57972
+      "adds": 60220
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 197,
+      "adds": 53768
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 53616
     },
     {
       "id": "4993",
@@ -4436,51 +4458,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 45504
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 197,
-      "adds": 43032
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 38200
-    },
-    {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 38016
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 33565
+      "adds": 46284
     },
     {
       "id": "5995",
@@ -4491,7 +4469,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31014
+      "adds": 36612
     },
     {
       "id": "8111",
@@ -4502,7 +4480,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 29538
+      "adds": 36054
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 33424
     },
     {
       "id": "4039",
@@ -4513,29 +4502,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 28314
+      "adds": 25542
     },
     {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 691,
-      "adds": 26229
+      "depth": 1,
+      "rank": 190,
+      "adds": 24633
     },
     {
-      "id": "11623",
-      "name": "Jordan Whittington",
-      "pos": "WR",
-      "team": "LAR",
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 648,
-      "adds": 26010
+      "depth": 2,
+      "rank": 364,
+      "adds": 23765
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 473,
+      "adds": 22000
     },
     {
       "id": "7567",
@@ -4546,7 +4546,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 23416
+      "adds": 21728
     },
     {
       "id": "6130",
@@ -4557,7 +4557,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 23148
+      "adds": 21177
     }
   ]
 }
