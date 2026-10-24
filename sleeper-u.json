@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T17:33:50.447Z",
+  "generated_at": "2026-10-24T19:43:17.632Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2291,16 +2291,6 @@
           "rank": 38
         },
         {
-          "id": "4881",
-          "name": "Lamar Jackson",
-          "pos": "QB",
-          "team": "BAL",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 9
-        },
-        {
           "id": "5846",
           "name": "DK Metcalf",
           "pos": "WR",
@@ -2329,6 +2319,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 65
+        },
+        {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 677
         },
         {
           "id": "PIT",
@@ -2373,6 +2373,16 @@
           "rank": 673
         },
         {
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "pos": "QB",
+          "team": "BAL",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 9
+        },
+        {
           "id": "5012",
           "name": "Mark Andrews",
           "pos": "TE",
@@ -2391,16 +2401,6 @@
           "status": "Active",
           "depth": 3,
           "rank": 41
-        },
-        {
-          "id": "9230",
-          "name": "Tanner McKee",
-          "pos": "QB",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 677
         }
       ],
       "reserve": [
@@ -2602,7 +2602,7 @@
           "team": "CLE",
           "injury": null,
           "status": "Active",
-          "depth": 6,
+          "depth": 2,
           "rank": 129
         },
         {
@@ -3808,7 +3808,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 394
       },
       {
@@ -3954,16 +3954,6 @@
         "rank": 176
       },
       {
-        "id": "12455",
-        "name": "Brashard Smith",
-        "pos": "RB",
-        "team": "KC",
-        "injury": "IR",
-        "status": "Active",
-        "depth": 5,
-        "rank": 182
-      },
-      {
         "id": "12457",
         "name": "Jaydon Blue",
         "pos": "RB",
@@ -3980,7 +3970,7 @@
         "team": "CLE",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 190
       },
       {
@@ -4022,6 +4012,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 228
+      },
+      {
+        "id": "11186",
+        "name": "Carlos Washington Jr.",
+        "pos": "RB",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 270
       }
     ],
     "WR": [
@@ -4294,7 +4294,7 @@
         "team": "NYG",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 4,
         "rank": 144
       },
       {
@@ -4523,18 +4523,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 136482
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 92994
+      "adds": 115626
     },
     {
       "id": "2197",
@@ -4545,18 +4534,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 598,
-      "adds": 91488
+      "adds": 90036
     },
     {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 67192
+      "depth": 2,
+      "rank": 669,
+      "adds": 80240
     },
     {
       "id": "12634",
@@ -4567,7 +4556,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 999,
-      "adds": 65360
+      "adds": 64640
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 59952
     },
     {
       "id": "13296",
@@ -4578,29 +4578,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 61648
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 49428
-    },
-    {
-      "id": "10220",
-      "name": "Will Mallory",
-      "pos": "TE",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 681,
-      "adds": 43353
+      "adds": 56224
     },
     {
       "id": "5995",
@@ -4611,7 +4589,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 41904
+      "adds": 42867
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 40992
+    },
+    {
+      "id": "10220",
+      "name": "Will Mallory",
+      "pos": "TE",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 681,
+      "adds": 40707
     },
     {
       "id": "8111",
@@ -4622,29 +4622,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 40848
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 31402
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 30280
+      "adds": 33312
     },
     {
       "id": "12536",
@@ -4655,7 +4633,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 25232
+      "adds": 26549
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 26428
     },
     {
       "id": "11631",
@@ -4666,7 +4655,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 74,
-      "adds": 21640
+      "adds": 25620
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 679,
+      "adds": 24318
     },
     {
       "id": "7608",
@@ -4677,7 +4677,7 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 20673
+      "adds": 21456
     },
     {
       "id": "9479",
@@ -4688,7 +4688,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 18060
+      "adds": 16640
     },
     {
       "id": "12487",
@@ -4699,29 +4699,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 17408
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 660,
-      "adds": 11574
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 10446
+      "adds": 14728
     },
     {
       "id": "13150",
@@ -4732,7 +4710,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 9772
+      "adds": 11284
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 660,
+      "adds": 10044
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 8925
     }
   ]
 }
