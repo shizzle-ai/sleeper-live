@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T01:31:17.377Z",
+  "generated_at": "2026-10-24T06:21:50.500Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -441,7 +441,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "8167",
@@ -481,7 +481,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 292
+          "rank": 291
         },
         {
           "id": "13545",
@@ -691,7 +691,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "12711",
@@ -1314,7 +1314,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 292
+          "rank": 291
         },
         {
           "id": "6813",
@@ -1364,7 +1364,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1406,7 +1406,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "4943",
@@ -1474,7 +1474,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
+          "rank": 28
         },
         {
           "id": "12545",
@@ -2248,7 +2248,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 452
+          "rank": 451
         },
         {
           "id": "12506",
@@ -2360,7 +2360,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 457
+          "rank": 455
         },
         {
           "id": "4454",
@@ -2390,7 +2390,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 3,
-          "rank": 43
+          "rank": 41
         }
       ],
       "reserve": [
@@ -2469,7 +2469,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 87
+          "rank": 88
         },
         {
           "id": "6790",
@@ -2479,7 +2479,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "7564",
@@ -2499,7 +2499,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 461
+          "rank": 462
         },
         {
           "id": "9501",
@@ -2840,7 +2840,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 211
+          "rank": 212
         },
         {
           "id": "3163",
@@ -2870,7 +2870,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "6806",
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 384,
-      "adds": 310128
+      "adds": 311264
     },
     {
       "id": "4037",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 88,
-      "adds": 170148
+      "adds": 187710
     },
     {
       "id": "13317",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 98826
+      "adds": 115656
     },
     {
       "id": "2197",
@@ -4380,30 +4380,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 527,
-      "adds": 84300
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 66143
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 64236
+      "rank": 598,
+      "adds": 88000
     },
     {
       "id": "11625",
@@ -4414,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 58544
+      "adds": 66520
     },
     {
       "id": "13296",
@@ -4425,7 +4403,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 54232
+      "adds": 60520
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 60210
     },
     {
       "id": "12634",
@@ -4436,29 +4425,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 53796
+      "adds": 59376
     },
     {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "team": "PHI",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 677,
-      "adds": 39752
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 38048
+      "depth": 4,
+      "rank": 679,
+      "adds": 51058
     },
     {
       "id": "8111",
@@ -4469,7 +4447,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 36762
+      "adds": 40524
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 36524
     },
     {
       "id": "5995",
@@ -4480,29 +4469,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 31302
+      "adds": 33651
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 23960
-    },
-    {
-      "id": "13421",
-      "name": "Eli Raridon",
-      "pos": "TE",
-      "team": "NE",
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 364,
-      "adds": 22302
+      "depth": 1,
+      "rank": 677,
+      "adds": 30472
     },
     {
       "id": "10220",
@@ -4513,18 +4491,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 20799
+      "adds": 29088
     },
     {
-      "id": "9479",
-      "name": "Darnell Washington",
+      "id": "12487",
+      "name": "Terrance Ferguson",
       "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 473,
-      "adds": 19200
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 21656
     },
     {
       "id": "12536",
@@ -4535,18 +4513,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 17857
+      "adds": 19894
     },
     {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 17178
+      "depth": 2,
+      "rank": 473,
+      "adds": 19280
+    },
+    {
+      "id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 689,
+      "adds": 14598
     },
     {
       "id": "6130",
@@ -4557,7 +4546,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 15804
+      "adds": 14076
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 195,
+      "adds": 13602
     }
   ]
 }
