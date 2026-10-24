@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T19:43:17.632Z",
+  "generated_at": "2026-10-24T21:54:33.222Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2005,7 +2005,7 @@
           "name": "Jordan Mason",
           "pos": "RB",
           "team": "MIN",
-          "injury": "IR",
+          "injury": null,
           "status": "Inactive",
           "depth": 4,
           "rank": 91
@@ -2124,7 +2124,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 34
@@ -2218,8 +2218,8 @@
           "name": "Jonah Coleman",
           "pos": "RB",
           "team": "DEN",
-          "injury": "IR",
-          "status": "Inactive",
+          "injury": "Questionable",
+          "status": "Active",
           "depth": 6,
           "rank": 118
         }
@@ -2377,7 +2377,7 @@
           "name": "Lamar Jackson",
           "pos": "QB",
           "team": "BAL",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 9
@@ -2867,7 +2867,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 94
@@ -3117,7 +3117,7 @@
             "name": "Dontayvion Wicks",
             "pos": "WR",
             "team": "PHI",
-            "injury": "Questionable",
+            "injury": "Out",
             "status": "Active",
             "depth": 2,
             "rank": 203
@@ -4515,6 +4515,17 @@
   },
   "trending_unrostered_adds": [
     {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 128088
+    },
+    {
       "id": "13317",
       "name": "Ted Hurst III",
       "pos": "WR",
@@ -4523,7 +4534,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 115626
+      "adds": 116958
     },
     {
       "id": "2197",
@@ -4534,7 +4545,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 598,
-      "adds": 90036
+      "adds": 90244
     },
     {
       "id": "8122",
@@ -4545,7 +4556,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 80240
+      "adds": 69636
     },
     {
       "id": "12634",
@@ -4556,7 +4567,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 999,
-      "adds": 64640
+      "adds": 63020
     },
     {
       "id": "11625",
@@ -4567,7 +4578,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 59952
+      "adds": 57912
     },
     {
       "id": "13296",
@@ -4578,29 +4589,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 56224
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 42867
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 40992
+      "adds": 54320
     },
     {
       "id": "10220",
@@ -4611,18 +4600,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 40707
+      "adds": 42408
     },
     {
-      "id": "8111",
-      "name": "Cade Otton",
+      "id": "6865",
+      "name": "Colby Parkinson",
       "pos": "TE",
-      "team": "TB",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 148,
-      "adds": 33312
+      "depth": 2,
+      "rank": 136,
+      "adds": 38004
     },
     {
       "id": "12536",
@@ -4633,73 +4622,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 26549
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 26428
-    },
-    {
-      "id": "11631",
-      "name": "Brian Thomas Jr.",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 74,
-      "adds": 25620
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 24318
-    },
-    {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 689,
-      "adds": 21456
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 473,
-      "adds": 16640
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 14728
+      "adds": 32626
     },
     {
       "id": "13150",
@@ -4710,7 +4633,95 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 11284
+      "adds": 32578
+    },
+    {
+      "id": "8111",
+      "name": "Cade Otton",
+      "pos": "TE",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 148,
+      "adds": 31758
+    },
+    {
+      "id": "11631",
+      "name": "Brian Thomas Jr.",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 74,
+      "adds": 29395
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 25268
+    },
+    {
+      "id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 689,
+      "adds": 20835
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 679,
+      "adds": 19761
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 473,
+      "adds": 16825
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 14600
+    },
+    {
+      "id": "7083",
+      "name": "Tyler Huntley",
+      "pos": "QB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 690,
+      "adds": 9822
     },
     {
       "id": "6130",
@@ -4721,18 +4732,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 10044
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 8925
+      "adds": 9630
     }
   ]
 }
