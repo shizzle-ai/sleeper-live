@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T21:54:33.222Z",
+  "generated_at": "2026-10-24T23:51:27.600Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2006,7 +2006,7 @@
           "pos": "RB",
           "team": "MIN",
           "injury": null,
-          "status": "Inactive",
+          "status": "Active",
           "depth": 4,
           "rank": 91
         },
@@ -2120,16 +2120,6 @@
           "rank": 63
         },
         {
-          "id": "7525",
-          "name": "DeVonta Smith",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 34
-        },
-        {
           "id": "8148",
           "name": "Jameson Williams",
           "pos": "WR",
@@ -2138,6 +2128,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 53
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs",
+          "pos": "WR",
+          "team": "IND",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 111
         },
         {
           "id": "LAR",
@@ -2151,26 +2151,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "10229",
-          "name": "Rashee Rice",
-          "pos": "WR",
-          "team": "KC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 8,
-          "rank": 29
-        },
-        {
-          "id": "12518",
-          "name": "Tyler Warren",
-          "pos": "TE",
-          "team": "IND",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 5,
-          "rank": 48
-        },
         {
           "id": "13287",
           "name": "Jeremiyah Love",
@@ -2192,6 +2172,16 @@
           "rank": 113
         },
         {
+          "id": "13345",
+          "name": "Jonah Coleman",
+          "pos": "RB",
+          "team": "DEN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 6,
+          "rank": 118
+        },
+        {
           "id": "4984",
           "name": "Josh Allen",
           "pos": "QB",
@@ -2200,6 +2190,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 3
+        },
+        {
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
         },
         {
           "id": "8134",
@@ -2214,14 +2214,24 @@
       ],
       "reserve": [
         {
-          "id": "13345",
-          "name": "Jonah Coleman",
-          "pos": "RB",
-          "team": "DEN",
-          "injury": "Questionable",
+          "id": "10229",
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "team": "KC",
+          "injury": "Out",
           "status": "Active",
-          "depth": 6,
-          "rank": 118
+          "depth": 8,
+          "rank": 29
+        },
+        {
+          "id": "12518",
+          "name": "Tyler Warren",
+          "pos": "TE",
+          "team": "IND",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 5,
+          "rank": 48
         }
       ],
       "taxi": [],
@@ -2993,6 +3003,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1419844232587309056",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792879753780,
+      "adds": [
+        {
+          "player": {
+            "id": "9500",
+            "name": "Josh Downs",
+            "pos": "WR",
+            "team": "IND",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 111
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1419685918045966336",
       "type": "free_agent",
@@ -4066,16 +4103,6 @@
         "rank": 103
       },
       {
-        "id": "9500",
-        "name": "Josh Downs",
-        "pos": "WR",
-        "team": "IND",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 111
-      },
-      {
         "id": "7049",
         "name": "Jauan Jennings",
         "pos": "WR",
@@ -4224,6 +4251,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 184
+      },
+      {
+        "id": "12499",
+        "name": "Elic Ayomanor",
+        "pos": "WR",
+        "team": "TEN",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 185
       }
     ],
     "TE": [
@@ -4523,7 +4560,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 128088
+      "adds": 129492
     },
     {
       "id": "13317",
@@ -4534,95 +4571,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 116958
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 598,
-      "adds": 90244
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 69636
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 999,
-      "adds": 63020
-    },
-    {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 57912
-    },
-    {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 197,
-      "adds": 54320
-    },
-    {
-      "id": "10220",
-      "name": "Will Mallory",
-      "pos": "TE",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 681,
-      "adds": 42408
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 38004
-    },
-    {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 190,
-      "adds": 32626
+      "adds": 112728
     },
     {
       "id": "13150",
@@ -4633,7 +4582,95 @@
       "status": "Active",
       "depth": 3,
       "rank": 658,
-      "adds": 32578
+      "adds": 87766
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 598,
+      "adds": 80368
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 64232
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 999,
+      "adds": 59640
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 53992
+    },
+    {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 197,
+      "adds": 51984
+    },
+    {
+      "id": "10220",
+      "name": "Will Mallory",
+      "pos": "TE",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 681,
+      "adds": 42426
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 35868
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 190,
+      "adds": 31667
     },
     {
       "id": "8111",
@@ -4644,7 +4681,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 31758
+      "adds": 31062
     },
     {
       "id": "11631",
@@ -4655,7 +4692,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 74,
-      "adds": 29395
+      "adds": 30925
     },
     {
       "id": "4993",
@@ -4666,7 +4703,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 25268
+      "adds": 23400
     },
     {
       "id": "7608",
@@ -4677,7 +4714,7 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 20835
+      "adds": 21051
     },
     {
       "id": "8135",
@@ -4688,7 +4725,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 19761
+      "adds": 16380
     },
     {
       "id": "9479",
@@ -4699,18 +4736,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 16825
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 14600
+      "adds": 16210
     },
     {
       "id": "7083",
@@ -4721,7 +4747,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 690,
-      "adds": 9822
+      "adds": 14214
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 13912
     },
     {
       "id": "6130",
@@ -4732,7 +4769,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 9630
+      "adds": 9153
     }
   ]
 }
