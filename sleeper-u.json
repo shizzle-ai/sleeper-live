@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T06:21:50.500Z",
+  "generated_at": "2026-10-24T11:17:28.488Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1997,7 +1997,7 @@
           "team": "MIN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 91
         },
         {
@@ -4348,7 +4348,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 384,
-      "adds": 311264
+      "adds": 315744
     },
     {
       "id": "4037",
@@ -4359,7 +4359,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 88,
-      "adds": 187710
+      "adds": 195060
     },
     {
       "id": "13317",
@@ -4370,7 +4370,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 115656
+      "adds": 123090
     },
     {
       "id": "2197",
@@ -4379,9 +4379,9 @@
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 1,
+      "depth": 2,
       "rank": 598,
-      "adds": 88000
+      "adds": 90400
     },
     {
       "id": "11625",
@@ -4392,7 +4392,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 66520
+      "adds": 69888
     },
     {
       "id": "13296",
@@ -4403,7 +4403,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 60520
+      "adds": 63744
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 999,
+      "adds": 61892
     },
     {
       "id": "6865",
@@ -4414,18 +4425,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 60210
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 999,
-      "adds": 59376
+      "adds": 59346
     },
     {
       "id": "8135",
@@ -4436,7 +4436,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 679,
-      "adds": 51058
+      "adds": 47775
     },
     {
       "id": "8111",
@@ -4447,7 +4447,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 40524
+      "adds": 41928
     },
     {
       "id": "4993",
@@ -4458,7 +4458,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 449,
-      "adds": 36524
+      "adds": 36612
     },
     {
       "id": "5995",
@@ -4469,18 +4469,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 33651
-    },
-    {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 677,
-      "adds": 30472
+      "adds": 34911
     },
     {
       "id": "10220",
@@ -4491,18 +4480,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 29088
+      "adds": 33345
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 21656
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 677,
+      "adds": 28520
     },
     {
       "id": "12536",
@@ -4513,7 +4502,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 19894
+      "adds": 20755
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 20688
     },
     {
       "id": "9479",
@@ -4524,7 +4524,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 19280
+      "adds": 19360
     },
     {
       "id": "7608",
@@ -4535,7 +4535,7 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 14598
+      "adds": 16596
     },
     {
       "id": "6130",
@@ -4546,7 +4546,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 14076
+      "adds": 13635
     },
     {
       "id": "4039",
@@ -4557,7 +4557,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 13602
+      "adds": 12870
     }
   ]
 }
