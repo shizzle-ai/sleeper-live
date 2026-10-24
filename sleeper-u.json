@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-24T11:17:28.488Z",
+  "generated_at": "2026-10-24T14:37:39.902Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -251,7 +251,7 @@
     ],
     "reserve": [],
     "taxi": [],
-    "waiver_position": 4,
+    "waiver_position": 3,
     "faab_used": 0
   },
   "my_matchup": {
@@ -869,7 +869,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 0
     },
     {
@@ -1060,7 +1060,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 0
     },
     {
@@ -1261,7 +1261,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 9,
       "faab_used": 0
     },
     {
@@ -1642,7 +1642,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 8,
       "faab_used": 0
     },
     {
@@ -1981,6 +1981,16 @@
           "rank": 180
         },
         {
+          "id": "4037",
+          "name": "Chris Godwin Jr.",
+          "pos": "WR",
+          "team": "TB",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 88
+        },
+        {
           "id": "8136",
           "name": "Rachaad White",
           "pos": "RB",
@@ -2009,16 +2019,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 133
-        },
-        {
-          "id": "9486",
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 203
         }
       ],
       "reserve": [
@@ -2034,7 +2034,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 2,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -2225,7 +2225,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 3,
+      "waiver_position": 2,
       "faab_used": 0
     },
     {
@@ -2391,6 +2391,16 @@
           "status": "Active",
           "depth": 3,
           "rank": 41
+        },
+        {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 677
         }
       ],
       "reserve": [
@@ -2406,7 +2416,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2607,7 +2617,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 5,
+      "waiver_position": 4,
       "faab_used": 0
     },
     {
@@ -2787,7 +2797,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 4,
+      "waiver_position": 3,
       "faab_used": 0
     },
     {
@@ -2935,14 +2945,14 @@
           "rank": 161
         },
         {
-          "id": "8122",
-          "name": "Zonovan Knight",
+          "id": "13424",
+          "name": "Seth McGowan",
           "pos": "RB",
-          "team": "ARI",
+          "team": "IND",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 669
+          "rank": 384
         },
         {
           "id": "8138",
@@ -2978,11 +2988,149 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 6,
+      "waiver_position": 5,
       "faab_used": 0
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1419685918045966336",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792842008652,
+      "adds": [
+        {
+          "player": {
+            "id": "13424",
+            "name": "Seth McGowan",
+            "pos": "RB",
+            "team": "IND",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 384
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "8122",
+            "name": "Zonovan Knight",
+            "pos": "RB",
+            "team": "ARI",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 669
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1419683256118353920",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1792841373999,
+      "adds": [
+        {
+          "player": {
+            "id": "4037",
+            "name": "Chris Godwin Jr.",
+            "pos": "WR",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 88
+          },
+          "roster_id": 12,
+          "team": "Hakuna Mailata"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        12
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1419528636830121984",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1792804509888,
+      "adds": [
+        {
+          "player": {
+            "id": "9230",
+            "name": "Tanner McKee",
+            "pos": "QB",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 677
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1419408431386783744",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1792775850678,
+      "adds": [
+        {
+          "player": {
+            "id": "4037",
+            "name": "Chris Godwin Jr.",
+            "pos": "WR",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 88
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "9486",
+            "name": "Dontayvion Wicks",
+            "pos": "WR",
+            "team": "PHI",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 2,
+            "rank": 203
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1419065362875478016",
       "type": "free_agent",
@@ -3116,6 +3264,33 @@
           "team": "D’s Nuts"
         }
       ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1419033142848761856",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1792686374917,
+      "adds": [
+        {
+          "player": {
+            "id": "9230",
+            "name": "Tanner McKee",
+            "pos": "QB",
+            "team": "PHI",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 677
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [],
       "roster_ids": [
         3
       ],
@@ -3881,16 +4056,6 @@
         "rank": 77
       },
       {
-        "id": "4037",
-        "name": "Chris Godwin Jr.",
-        "pos": "WR",
-        "team": "TB",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 88
-      },
-      {
         "id": "9754",
         "name": "Quentin Johnston",
         "pos": "WR",
@@ -4049,6 +4214,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 180
+      },
+      {
+        "id": "12535",
+        "name": "Isaac TeSlaa",
+        "pos": "WR",
+        "team": "DET",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 184
       }
     ],
     "TE": [
@@ -4340,28 +4515,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13424",
-      "name": "Seth McGowan",
-      "pos": "RB",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 384,
-      "adds": 315744
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin Jr.",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 88,
-      "adds": 195060
-    },
-    {
       "id": "13317",
       "name": "Ted Hurst III",
       "pos": "WR",
@@ -4370,7 +4523,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 123090
+      "adds": 134580
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 99164
     },
     {
       "id": "2197",
@@ -4381,7 +4545,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 598,
-      "adds": 90400
+      "adds": 92348
     },
     {
       "id": "11625",
@@ -4392,7 +4556,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 69888
+      "adds": 75712
     },
     {
       "id": "13296",
@@ -4403,7 +4567,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 63744
+      "adds": 68144
     },
     {
       "id": "12634",
@@ -4414,7 +4578,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 999,
-      "adds": 61892
+      "adds": 64968
     },
     {
       "id": "6865",
@@ -4425,18 +4589,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 59346
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 47775
+      "adds": 58542
     },
     {
       "id": "8111",
@@ -4447,29 +4600,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 41928
+      "adds": 44574
     },
     {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 36612
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 34911
+      "depth": 4,
+      "rank": 679,
+      "adds": 41209
     },
     {
       "id": "10220",
@@ -4480,18 +4622,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 33345
+      "adds": 38673
     },
     {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "team": "PHI",
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 38367
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 677,
-      "adds": 28520
+      "rank": 449,
+      "adds": 36984
     },
     {
       "id": "12536",
@@ -4502,18 +4655,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 20755
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 20688
+      "adds": 22754
     },
     {
       "id": "9479",
@@ -4524,7 +4666,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 473,
-      "adds": 19360
+      "adds": 19945
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 19808
     },
     {
       "id": "7608",
@@ -4535,7 +4688,7 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 16596
+      "adds": 18729
     },
     {
       "id": "6130",
@@ -4546,7 +4699,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 13635
+      "adds": 12582
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 12102
     },
     {
       "id": "4039",
@@ -4557,7 +4721,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 12870
+      "adds": 11892
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 357,
+      "adds": 11691
     }
   ]
 }
