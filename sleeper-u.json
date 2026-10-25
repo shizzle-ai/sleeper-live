@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T06:57:30.234Z",
+  "generated_at": "2026-10-25T12:20:00.369Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -864,7 +864,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 12,
           "rank": 111
         }
       ],
@@ -1616,7 +1616,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 8,
           "rank": 131
         },
         {
@@ -2147,7 +2147,7 @@
           "team": "ARI",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 7,
           "rank": 15
         },
         {
@@ -4040,7 +4040,7 @@
         "team": "MIN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 176
       },
       {
@@ -4262,7 +4262,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 8,
+        "depth": 9,
         "rank": 177
       },
       {
@@ -4613,7 +4613,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 133722
+      "adds": 139050
     },
     {
       "id": "13317",
@@ -4624,7 +4624,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 106770
+      "adds": 109044
     },
     {
       "id": "2197",
@@ -4635,7 +4635,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 598,
-      "adds": 68032
+      "adds": 68944
     },
     {
       "id": "8122",
@@ -4646,7 +4646,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 61826
+      "adds": 65966
     },
     {
       "id": "13296",
@@ -4657,7 +4657,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 50856
+      "adds": 55792
     },
     {
       "id": "11625",
@@ -4668,18 +4668,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 49840
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 999,
-      "adds": 45468
+      "adds": 50256
     },
     {
       "id": "10220",
@@ -4690,18 +4679,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 45126
+      "adds": 46728
     },
     {
-      "id": "11631",
-      "name": "Brian Thomas Jr.",
+      "id": "12634",
+      "name": "Jordan Watkins",
       "pos": "WR",
-      "team": "JAX",
+      "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 74,
-      "adds": 35710
+      "depth": 2,
+      "rank": 999,
+      "adds": 44032
     },
     {
       "id": "6865",
@@ -4712,7 +4701,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 35550
+      "adds": 38058
     },
     {
       "id": "8111",
@@ -4723,7 +4712,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 33912
+      "adds": 37692
+    },
+    {
+      "id": "11631",
+      "name": "Brian Thomas Jr.",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 74,
+      "adds": 37480
     },
     {
       "id": "12536",
@@ -4734,7 +4734,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 31060
+      "adds": 32631
     },
     {
       "id": "7083",
@@ -4745,7 +4745,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 690,
-      "adds": 25994
+      "adds": 30898
     },
     {
       "id": "7608",
@@ -4756,7 +4756,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 689,
-      "adds": 24732
+      "adds": 27252
     },
     {
       "id": "4993",
@@ -4767,7 +4767,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 23352
+      "adds": 25368
     },
     {
       "id": "9479",
@@ -4778,7 +4778,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 474,
-      "adds": 16760
+      "adds": 18460
     },
     {
       "id": "5844",
@@ -4789,7 +4789,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 15002
+      "adds": 16180
     },
     {
       "id": "12487",
@@ -4800,18 +4800,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 13816
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 679,
-      "adds": 11354
+      "adds": 14416
     },
     {
       "id": "6130",
@@ -4822,7 +4811,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 9882
+      "adds": 10800
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 10736
     }
   ]
 }
