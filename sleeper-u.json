@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T21:47:24.818Z",
+  "generated_at": "2026-10-25T23:36:02.857Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 4,
-      "points": 124.54,
+      "points": 155.08,
       "starters": [
         {
           "id": "6770",
@@ -367,26 +367,26 @@
       ],
       "starters_points": [
         28.88,
-        7.6,
+        18.1,
         24,
-        20,
+        21.8,
         6.5,
         14.8,
         3.6,
-        2.16,
+        20.4,
         11,
         6
       ],
       "players_points": {
-        "1166": 2.16,
+        "1166": 20.4,
         "3451": 11,
         "4035": 13.2,
         "4046": 0,
         "4199": 3.6,
         "4217": 14.8,
         "6770": 28.88,
-        "8150": 7.6,
-        "9493": 20,
+        "8150": 18.1,
+        "9493": 21.8,
         "10236": 0,
         "11584": 24,
         "11610": 6.5,
@@ -401,7 +401,7 @@
       "team": "4th and beer",
       "is_me": false,
       "matchup_id": 4,
-      "points": 68.54,
+      "points": 85.14,
       "starters": [
         {
           "id": "8183",
@@ -509,11 +509,11 @@
         19,
         0,
         0,
-        7.3,
-        4.1,
+        10.7,
+        13.3,
         1.9,
         19.22,
-        0,
+        4,
         3
       ],
       "players_points": {
@@ -522,16 +522,16 @@
         "6813": 19,
         "7002": 1.7,
         "7588": 0,
-        "8167": 7.3,
+        "8167": 10.7,
         "8183": 14.02,
         "9487": 0,
         "9488": 0,
-        "11586": 6.3,
-        "11604": 4.1,
+        "11586": 17.1,
+        "11604": 13.3,
         "11646": 1.9,
         "11655": 8.7,
         "11786": 0,
-        "13545": 0,
+        "13545": 4,
         "HOU": 3
       }
     }
@@ -1882,7 +1882,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -4125,7 +4125,7 @@
         "name": "Ben VanSumeren",
         "pos": "RB",
         "team": "KC",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 228
@@ -4622,17 +4622,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 159291
-    },
-    {
       "id": "13296",
       "name": "Caleb Douglas",
       "pos": "WR",
@@ -4641,7 +4630,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 139056
+      "adds": 167272
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 147501
     },
     {
       "id": "8122",
@@ -4652,7 +4652,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 109196
+      "adds": 104306
     },
     {
       "id": "13317",
@@ -4663,7 +4663,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 94212
+      "adds": 84060
     },
     {
       "id": "8111",
@@ -4674,7 +4674,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 62130
+      "adds": 59214
     },
     {
       "id": "2197",
@@ -4685,7 +4685,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 598,
-      "adds": 61308
+      "adds": 55424
     },
     {
       "id": "6865",
@@ -4696,7 +4696,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 49404
+      "adds": 47910
     },
     {
       "id": "12634",
@@ -4707,7 +4707,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 48860
+      "adds": 46540
     },
     {
       "id": "10220",
@@ -4718,7 +4718,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 48780
+      "adds": 44658
     },
     {
       "id": "7083",
@@ -4729,18 +4729,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 690,
-      "adds": 43402
-    },
-    {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 40080
+      "adds": 39190
     },
     {
       "id": "4993",
@@ -4751,7 +4740,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 39160
+      "adds": 39164
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 35992
     },
     {
       "id": "7608",
@@ -4762,40 +4762,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 689,
-      "adds": 37917
-    },
-    {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 190,
-      "adds": 30010
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 28936
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 26064
+      "adds": 35406
     },
     {
       "id": "4039",
@@ -4806,29 +4773,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 25446
+      "adds": 29706
     },
     {
-      "id": "12961",
-      "name": "Ryan Fitzgerald",
-      "pos": "K",
-      "team": "CAR",
-      "injury": null,
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 1,
-      "rank": 327,
-      "adds": 24470
+      "depth": 2,
+      "rank": 86,
+      "adds": 28792
     },
     {
-      "id": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "team": "MIN",
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 190,
+      "adds": 27186
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 128,
-      "adds": 22888
+      "depth": 2,
+      "rank": 518,
+      "adds": 26415
     },
     {
       "id": "6130",
@@ -4839,7 +4817,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 20394
+      "adds": 25299
+    },
+    {
+      "id": "12961",
+      "name": "Ryan Fitzgerald",
+      "pos": "K",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 327,
+      "adds": 23895
+    },
+    {
+      "id": "5844",
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 128,
+      "adds": 22787
     }
   ]
 }
