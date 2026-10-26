@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-25T23:36:02.857Z",
+  "generated_at": "2026-10-26T01:38:12.607Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -381,7 +381,7 @@
         "1166": 20.4,
         "3451": 11,
         "4035": 13.2,
-        "4046": 0,
+        "4046": 1.72,
         "4199": 3.6,
         "4217": 14.8,
         "6770": 28.88,
@@ -401,7 +401,7 @@
       "team": "4th and beer",
       "is_me": false,
       "matchup_id": 4,
-      "points": 85.14,
+      "points": 107.54,
       "starters": [
         {
           "id": "8183",
@@ -508,7 +508,7 @@
         14.02,
         19,
         0,
-        0,
+        22.4,
         10.7,
         13.3,
         1.9,
@@ -518,14 +518,14 @@
       ],
       "players_points": {
         "4017": 19.22,
-        "4943": 0,
+        "4943": 10.34,
         "6813": 19,
         "7002": 1.7,
         "7588": 0,
         "8167": 10.7,
         "8183": 14.02,
         "9487": 0,
-        "9488": 0,
+        "9488": 22.4,
         "11586": 17.1,
         "11604": 13.3,
         "11646": 1.9,
@@ -2982,7 +2982,7 @@
           "team": "LAR",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 46
         }
       ],
@@ -4047,7 +4047,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 173
       },
       {
@@ -4441,7 +4441,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 212
       },
       {
@@ -4630,7 +4630,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 167272
+      "adds": 201448
     },
     {
       "id": "5995",
@@ -4641,7 +4641,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 147501
+      "adds": 144252
     },
     {
       "id": "8122",
@@ -4652,7 +4652,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 104306
+      "adds": 99888
     },
     {
       "id": "13317",
@@ -4663,7 +4663,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 84060
+      "adds": 76476
     },
     {
       "id": "8111",
@@ -4674,7 +4674,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 59214
+      "adds": 56154
     },
     {
       "id": "2197",
@@ -4685,7 +4685,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 598,
-      "adds": 55424
+      "adds": 51100
     },
     {
       "id": "6865",
@@ -4696,7 +4696,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 47910
+      "adds": 46842
     },
     {
       "id": "12634",
@@ -4707,7 +4707,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 46540
+      "adds": 44732
     },
     {
       "id": "10220",
@@ -4718,18 +4718,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 681,
-      "adds": 44658
-    },
-    {
-      "id": "7083",
-      "name": "Tyler Huntley",
-      "pos": "QB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 690,
-      "adds": 39190
+      "adds": 40185
     },
     {
       "id": "4993",
@@ -4740,18 +4729,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 39164
+      "adds": 38980
     },
     {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
+      "id": "7083",
+      "name": "Tyler Huntley",
+      "pos": "QB",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 35992
+      "depth": 1,
+      "rank": 690,
+      "adds": 35464
     },
     {
       "id": "7608",
@@ -4762,7 +4751,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 689,
-      "adds": 35406
+      "adds": 32850
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 32376
     },
     {
       "id": "4039",
@@ -4773,40 +4773,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 29706
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 28792
-    },
-    {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 190,
-      "adds": 27186
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 26415
+      "adds": 31908
     },
     {
       "id": "6130",
@@ -4817,7 +4784,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 25299
+      "adds": 29844
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 28240
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 518,
+      "adds": 26721
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 190,
+      "adds": 24958
     },
     {
       "id": "12961",
@@ -4828,7 +4828,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 327,
-      "adds": 23895
+      "adds": 23275
     },
     {
       "id": "5844",
@@ -4839,7 +4839,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 22787
+      "adds": 22732
     }
   ]
 }
