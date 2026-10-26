@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-26T06:55:22.132Z",
+  "generated_at": "2026-10-26T13:45:45.991Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1966,7 +1966,7 @@
           "team": "IND",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 180
         },
         {
@@ -2125,7 +2125,7 @@
           "team": "IND",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 111
         },
         {
@@ -2818,7 +2818,7 @@
           "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 135
         },
         {
@@ -2960,7 +2960,7 @@
           "team": "NYJ",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 1,
           "rank": 27
         },
         {
@@ -2982,7 +2982,7 @@
           "team": "LAR",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 7,
           "rank": 46
         }
       ],
@@ -3087,7 +3087,7 @@
             "team": "IND",
             "injury": "Questionable",
             "status": "Active",
-            "depth": 1,
+            "depth": 2,
             "rank": 111
           },
           "roster_id": 8,
@@ -3643,7 +3643,7 @@
             "team": "IND",
             "injury": "Questionable",
             "status": "Active",
-            "depth": 1,
+            "depth": 2,
             "rank": 111
           },
           "roster_id": 4,
@@ -3967,7 +3967,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 2,
         "rank": 122
       },
       {
@@ -4027,7 +4027,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 4,
         "rank": 167
       },
       {
@@ -4047,7 +4047,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 173
       },
       {
@@ -4067,7 +4067,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 176
       },
       {
@@ -4087,7 +4087,7 @@
         "team": "CLE",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 5,
         "rank": 190
       },
       {
@@ -4127,7 +4127,7 @@
         "team": "KC",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 228
       }
     ],
@@ -4269,7 +4269,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 175
       },
       {
@@ -4299,7 +4299,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 180
       },
       {
@@ -4441,7 +4441,7 @@
         "team": "LAR",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 212
       },
       {
@@ -4630,7 +4630,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 259776
+      "adds": 285464
     },
     {
       "id": "5995",
@@ -4641,7 +4641,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 136395
+      "adds": 117396
     },
     {
       "id": "8122",
@@ -4652,73 +4652,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 88592
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 196,
-      "adds": 61266
-    },
-    {
-      "id": "8111",
-      "name": "Cade Otton",
-      "pos": "TE",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 148,
-      "adds": 48600
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 43104
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 598,
-      "adds": 40952
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 999,
-      "adds": 40588
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 37756
+      "adds": 69244
     },
     {
       "id": "6130",
@@ -4729,29 +4663,62 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 36315
+      "adds": 40104
     },
     {
-      "id": "4039",
-      "name": "Cooper Kupp",
+      "id": "13317",
+      "name": "Ted Hurst III",
       "pos": "WR",
-      "team": "SEA",
+      "team": "TB",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 30558
+      "depth": 2,
+      "rank": 196,
+      "adds": 39294
     },
     {
-      "id": "10220",
-      "name": "Will Mallory",
+      "id": "8111",
+      "name": "Cade Otton",
       "pos": "TE",
-      "team": "IND",
+      "team": "TB",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 681,
-      "adds": 29745
+      "rank": 148,
+      "adds": 35664
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 35316
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 999,
+      "adds": 34888
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 31760
     },
     {
       "id": "4195",
@@ -4762,73 +4729,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 214,
-      "adds": 27937
-    },
-    {
-      "id": "7083",
-      "name": "Tyler Huntley",
-      "pos": "QB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 690,
-      "adds": 27642
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 518,
-      "adds": 27135
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 26712
-    },
-    {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 689,
-      "adds": 26253
-    },
-    {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 24480
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 138,
-      "adds": 21970
+      "adds": 31570
     },
     {
       "id": "TB",
@@ -4839,7 +4740,106 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 21750
+      "adds": 28725
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 195,
+      "adds": 27972
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 598,
+      "adds": 26040
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 138,
+      "adds": 25810
+    },
+    {
+      "id": "11571",
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 518,
+      "adds": 23769
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 22368
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 357,
+      "adds": 18801
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 18432
+    },
+    {
+      "id": "10220",
+      "name": "Will Mallory",
+      "pos": "TE",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 681,
+      "adds": 18225
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 18193
     }
   ]
 }
