@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-26T19:35:14.098Z",
+  "generated_at": "2026-10-26T23:18:00.209Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -468,7 +468,7 @@
           "name": "Jalen Coker",
           "pos": "WR",
           "team": "CAR",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 132
@@ -939,7 +939,7 @@
           "name": "Amon-Ra St. Brown",
           "pos": "WR",
           "team": "DET",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 7
@@ -1109,7 +1109,7 @@
           "name": "Saquon Barkley",
           "pos": "RB",
           "team": "PHI",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -1280,7 +1280,7 @@
           "name": "Jalen Coker",
           "pos": "WR",
           "team": "CAR",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 132
@@ -2053,7 +2053,7 @@
           "name": "Matthew Golden",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 118
@@ -2358,7 +2358,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 658
         },
         {
@@ -2569,7 +2569,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 91
         },
         {
@@ -3060,7 +3060,7 @@
             "team": "PHI",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 658
           },
           "roster_id": 9,
@@ -3559,7 +3559,7 @@
             "team": "PHI",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 658
           },
           "roster_id": 3,
@@ -4405,6 +4405,16 @@
         "rank": 138
       },
       {
+        "id": "13349",
+        "name": "Eli Stowers",
+        "pos": "TE",
+        "team": "PHI",
+        "injury": null,
+        "status": "Active",
+        "depth": 5,
+        "rank": 140
+      },
+      {
         "id": "11597",
         "name": "Theo Johnson",
         "pos": "TE",
@@ -4442,16 +4452,6 @@
         "injury": "Out",
         "status": "Active",
         "depth": 5,
-        "rank": 212
-      },
-      {
-        "id": "13401",
-        "name": "Michael Trigg",
-        "pos": "TE",
-        "team": "DAL",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
         "rank": 212
       }
     ],
@@ -4630,7 +4630,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 341784
+      "adds": 344840
     },
     {
       "id": "6130",
@@ -4641,7 +4641,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 51462
+      "adds": 49212
     },
     {
       "id": "TB",
@@ -4652,7 +4652,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39655
+      "adds": 45165
     },
     {
       "id": "4195",
@@ -4663,7 +4663,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 214,
-      "adds": 36197
+      "adds": 34468
     },
     {
       "id": "12498",
@@ -4674,7 +4674,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 32755
+      "adds": 30015
     },
     {
       "id": "2020",
@@ -4685,7 +4685,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 20104
+      "adds": 19215
     },
     {
       "id": "6865",
@@ -4696,62 +4696,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 16530
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 15882
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 14596
-    },
-    {
-      "id": "10214",
-      "name": "Davis Allen",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 661,
-      "adds": 14385
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 199,
-      "adds": 13890
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 12744
+      "adds": 15054
     },
     {
       "id": "13269",
@@ -4762,40 +4707,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 109,
-      "adds": 12744
+      "adds": 14464
     },
     {
-      "id": "12634",
-      "name": "Jordan Watkins",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 13796
+    },
+    {
+      "id": "13285",
+      "name": "Malachi Fields",
       "pos": "WR",
-      "team": "SF",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 999,
-      "adds": 12556
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 12397
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 12292
+      "rank": 199,
+      "adds": 11555
     },
     {
       "id": "5947",
@@ -4806,29 +4740,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 11616
+      "adds": 11232
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 11394
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
+      "id": "5844",
+      "name": "T.J. Hockenson",
       "pos": "TE",
-      "team": "CAR",
+      "team": "MIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 357,
-      "adds": 11088
+      "rank": 128,
+      "adds": 10613
     },
     {
       "id": "8207",
@@ -4839,7 +4762,84 @@
       "status": "Active",
       "depth": 2,
       "rank": 480,
-      "adds": 10863
+      "adds": 10530
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 10512
+    },
+    {
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 364,
+      "adds": 10283
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 999,
+      "adds": 10124
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 357,
+      "adds": 10017
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 9624
+    },
+    {
+      "id": "10214",
+      "name": "Davis Allen",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 661,
+      "adds": 9282
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 195,
+      "adds": 9060
     }
   ]
 }
