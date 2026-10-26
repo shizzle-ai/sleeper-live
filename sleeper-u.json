@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-26T01:38:12.607Z",
+  "generated_at": "2026-10-26T06:55:22.132Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -114,7 +114,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 265
+        "rank": 267
       },
       {
         "id": "3451",
@@ -342,7 +342,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 265
+          "rank": 267
         },
         {
           "id": "3451",
@@ -381,7 +381,7 @@
         "1166": 20.4,
         "3451": 11,
         "4035": 13.2,
-        "4046": 1.72,
+        "4046": 7,
         "4199": 3.6,
         "4217": 14.8,
         "6770": 28.88,
@@ -401,7 +401,7 @@
       "team": "4th and beer",
       "is_me": false,
       "matchup_id": 4,
-      "points": 107.54,
+      "points": 116.44,
       "starters": [
         {
           "id": "8183",
@@ -508,7 +508,7 @@
         14.02,
         19,
         0,
-        22.4,
+        31.3,
         10.7,
         13.3,
         1.9,
@@ -518,14 +518,14 @@
       ],
       "players_points": {
         "4017": 19.22,
-        "4943": 10.34,
+        "4943": 14.98,
         "6813": 19,
         "7002": 1.7,
         "7588": 0,
         "8167": 10.7,
         "8183": 14.02,
         "9487": 0,
-        "9488": 22.4,
+        "9488": 31.3,
         "11586": 17.1,
         "11604": 13.3,
         "11646": 1.9,
@@ -691,7 +691,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 46
+          "rank": 45
         },
         {
           "id": "12711",
@@ -721,7 +721,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 75
+          "rank": 74
         },
         {
           "id": "8131",
@@ -731,7 +731,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 106
         },
         {
           "id": "8137",
@@ -942,7 +942,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "7569",
@@ -972,7 +972,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 187
+          "rank": 186
         },
         {
           "id": "DEN",
@@ -1122,7 +1122,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 132
+          "rank": 131
         },
         {
           "id": "7611",
@@ -1405,7 +1405,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 93
         },
         {
           "id": "7002",
@@ -1473,7 +1473,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 88
+          "rank": 87
         },
         {
           "id": "4034",
@@ -1595,7 +1595,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 122
+          "rank": 123
         },
         {
           "id": "BAL",
@@ -1617,7 +1617,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 8,
-          "rank": 131
+          "rank": 130
         },
         {
           "id": "7543",
@@ -1704,7 +1704,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 69
+          "rank": 68
         },
         {
           "id": "8112",
@@ -1766,7 +1766,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 105
+          "rank": 104
         },
         {
           "id": "7523",
@@ -1855,7 +1855,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 21
+          "rank": 22
         },
         {
           "id": "12519",
@@ -2066,7 +2066,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 115
+          "rank": 116
         },
         {
           "id": "12527",
@@ -2247,7 +2247,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 452
+          "rank": 451
         },
         {
           "id": "12506",
@@ -2287,7 +2287,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "5846",
@@ -2369,7 +2369,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 456
+          "rank": 457
         },
         {
           "id": "4454",
@@ -2411,7 +2411,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 3,
-          "rank": 41
+          "rank": 43
         },
         {
           "id": "9226",
@@ -2478,7 +2478,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 63
         },
         {
           "id": "5849",
@@ -2488,7 +2488,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 89
+          "rank": 87
         },
         {
           "id": "6790",
@@ -2518,7 +2518,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 462
+          "rank": 461
         },
         {
           "id": "9501",
@@ -2550,7 +2550,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "12469",
@@ -2600,7 +2600,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 6,
-          "rank": 48
+          "rank": 50
         }
       ],
       "reserve": [
@@ -2659,7 +2659,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 265
+          "rank": 267
         },
         {
           "id": "3451",
@@ -2829,7 +2829,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "11792",
@@ -2941,7 +2941,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 385
+          "rank": 383
         },
         {
           "id": "8138",
@@ -3115,7 +3115,7 @@
             "injury": null,
             "status": "Active",
             "depth": 2,
-            "rank": 385
+            "rank": 383
           },
           "roster_id": 12,
           "team": "Hakuna Mailata"
@@ -3978,7 +3978,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 125
+        "rank": 127
       },
       {
         "id": "11647",
@@ -4197,7 +4197,7 @@
         "name": "Rashid Shaheed",
         "pos": "WR",
         "team": "SEA",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 150
@@ -4467,20 +4467,20 @@
         "rank": 118
       },
       {
-        "id": "7839",
-        "name": "Evan McPherson",
-        "pos": "K",
-        "team": "CIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 153
-      },
-      {
         "id": "4227",
         "name": "Harrison Butker",
         "pos": "K",
         "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 155
+      },
+      {
+        "id": "7839",
+        "name": "Evan McPherson",
+        "pos": "K",
+        "team": "CIN",
         "injury": null,
         "status": "Active",
         "depth": 1,
@@ -4630,7 +4630,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 201448
+      "adds": 259776
     },
     {
       "id": "5995",
@@ -4641,7 +4641,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 144252
+      "adds": 136395
     },
     {
       "id": "8122",
@@ -4652,7 +4652,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 99888
+      "adds": 88592
     },
     {
       "id": "13317",
@@ -4663,7 +4663,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 76476
+      "adds": 61266
     },
     {
       "id": "8111",
@@ -4674,18 +4674,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 148,
-      "adds": 56154
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 598,
-      "adds": 51100
+      "adds": 48600
     },
     {
       "id": "6865",
@@ -4696,7 +4685,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 46842
+      "adds": 43104
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 598,
+      "adds": 40952
     },
     {
       "id": "12634",
@@ -4707,18 +4707,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 44732
-    },
-    {
-      "id": "10220",
-      "name": "Will Mallory",
-      "pos": "TE",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 681,
-      "adds": 40185
+      "adds": 40588
     },
     {
       "id": "4993",
@@ -4729,51 +4718,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 38980
-    },
-    {
-      "id": "7083",
-      "name": "Tyler Huntley",
-      "pos": "QB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 690,
-      "adds": 35464
-    },
-    {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 689,
-      "adds": 32850
-    },
-    {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 162,
-      "adds": 32376
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 31908
+      "adds": 37756
     },
     {
       "id": "6130",
@@ -4784,18 +4729,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 29844
+      "adds": 36315
     },
     {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": "Questionable",
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 28240
+      "depth": 3,
+      "rank": 195,
+      "adds": 30558
+    },
+    {
+      "id": "10220",
+      "name": "Will Mallory",
+      "pos": "TE",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 681,
+      "adds": 29745
+    },
+    {
+      "id": "4195",
+      "name": "Jake Elliott",
+      "pos": "K",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 214,
+      "adds": 27937
+    },
+    {
+      "id": "7083",
+      "name": "Tyler Huntley",
+      "pos": "QB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 690,
+      "adds": 27642
     },
     {
       "id": "11571",
@@ -4806,40 +4784,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 26721
+      "adds": 27135
     },
     {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
       "injury": "Questionable",
       "status": "Active",
       "depth": 2,
-      "rank": 190,
-      "adds": 24958
+      "rank": 86,
+      "adds": 26712
     },
     {
-      "id": "12961",
-      "name": "Ryan Fitzgerald",
-      "pos": "K",
-      "team": "CAR",
+      "id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 327,
-      "adds": 23275
+      "depth": 2,
+      "rank": 689,
+      "adds": 26253
     },
     {
-      "id": "5844",
-      "name": "T.J. Hockenson",
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 162,
+      "adds": 24480
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
       "pos": "TE",
-      "team": "MIN",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 128,
-      "adds": 22732
+      "depth": 2,
+      "rank": 138,
+      "adds": 21970
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 21750
     }
   ]
 }
