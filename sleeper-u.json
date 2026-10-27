@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-26T23:18:00.209Z",
+  "generated_at": "2026-10-27T02:08:30.017Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "4th and beer",
       "is_me": false,
       "matchup_id": 4,
-      "points": 116.44,
+      "points": 123.14,
       "starters": [
         {
           "id": "8183",
@@ -507,7 +507,7 @@
       "starters_points": [
         14.02,
         19,
-        0,
+        6.7,
         31.3,
         10.7,
         13.3,
@@ -521,7 +521,7 @@
         "4943": 14.98,
         "6813": 19,
         "7002": 1.7,
-        "7588": 0,
+        "7588": 6.7,
         "8167": 10.7,
         "8183": 14.02,
         "9487": 0,
@@ -4411,7 +4411,7 @@
         "team": "PHI",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 140
       },
       {
@@ -4630,18 +4630,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 344840
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 660,
-      "adds": 49212
+      "adds": 377872
     },
     {
       "id": "TB",
@@ -4652,18 +4641,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45165
+      "adds": 54180
     },
     {
-      "id": "4195",
-      "name": "Jake Elliott",
-      "pos": "K",
-      "team": "PHI",
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 214,
-      "adds": 34468
+      "depth": 3,
+      "rank": 660,
+      "adds": 52902
     },
     {
       "id": "12498",
@@ -4674,7 +4663,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 30015
+      "adds": 32360
+    },
+    {
+      "id": "4195",
+      "name": "Jake Elliott",
+      "pos": "K",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 214,
+      "adds": 27699
     },
     {
       "id": "2020",
@@ -4685,18 +4685,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 19215
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 15054
+      "adds": 18634
     },
     {
       "id": "13269",
@@ -4707,7 +4696,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 109,
-      "adds": 14464
+      "adds": 15368
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 14166
     },
     {
       "id": "4993",
@@ -4718,40 +4718,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 13796
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 199,
-      "adds": 11555
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 77,
-      "adds": 11232
-    },
-    {
-      "id": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 128,
-      "adds": 10613
+      "adds": 13384
     },
     {
       "id": "8207",
@@ -4762,7 +4729,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 480,
-      "adds": 10530
+      "adds": 12453
+    },
+    {
+      "id": "13285",
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 199,
+      "adds": 12020
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 77,
+      "adds": 11994
+    },
+    {
+      "id": "5844",
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 128,
+      "adds": 10900
     },
     {
       "id": "5995",
@@ -4773,7 +4773,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 10512
+      "adds": 10098
     },
     {
       "id": "13421",
@@ -4784,7 +4784,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 10283
+      "adds": 9961
     },
     {
       "id": "12634",
@@ -4795,7 +4795,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 10124
+      "adds": 9800
     },
     {
       "id": "2505",
@@ -4806,40 +4806,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 357,
-      "adds": 10017
+      "adds": 9756
     },
     {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 9624
+      "depth": 3,
+      "rank": 679,
+      "adds": 9618
     },
     {
-      "id": "10214",
-      "name": "Davis Allen",
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 8806
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
       "pos": "TE",
       "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 661,
-      "adds": 9282
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 9060
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 4,
+      "rank": 141,
+      "adds": 8624
     }
   ]
 }
