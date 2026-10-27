@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T18:55:55.464Z",
+  "generated_at": "2026-10-27T22:47:55.666Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1205,7 +1205,7 @@
           "team": "GB",
           "injury": null,
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 631
         },
         {
@@ -1384,8 +1384,8 @@
           "name": "Tyrone Tracy Jr.",
           "pos": "RB",
           "team": "NYG",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 2,
           "rank": 110
         },
@@ -1659,34 +1659,24 @@
           "rank": 58
         },
         {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "pos": "WR",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 199
-        },
-        {
-          "id": "12481",
-          "name": "Cam Skattebo",
-          "pos": "RB",
-          "team": "NYG",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
-          "id": "1433",
-          "name": "Brandon McManus",
+          "id": "13968",
+          "name": "Drew Stevens",
           "pos": "K",
-          "team": "LAR",
+          "team": "WAS",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 674
+          "rank": 630
+        },
+        {
+          "id": "2449",
+          "name": "Stefon Diggs",
+          "pos": "WR",
+          "team": "WAS",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 105
         },
         {
           "id": "6786",
@@ -1707,6 +1697,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 68
+        },
+        {
+          "id": "7523",
+          "name": "Trevor Lawrence",
+          "pos": "QB",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 41
         },
         {
           "id": "8112",
@@ -1739,10 +1739,10 @@
           "rank": 52
         },
         {
-          "id": "CAR",
-          "name": "Carolina Panthers",
+          "id": "JAX",
+          "name": "Jacksonville Jaguars",
           "pos": "DEF",
-          "team": "CAR",
+          "team": "JAX",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1751,34 +1751,34 @@
       ],
       "bench": [
         {
-          "id": "13968",
-          "name": "Drew Stevens",
-          "pos": "K",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 630
-        },
-        {
-          "id": "2449",
-          "name": "Stefon Diggs",
+          "id": "11783",
+          "name": "Ryan Flournoy",
           "pos": "WR",
-          "team": "WAS",
+          "team": "DAL",
           "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 105
+          "depth": 3,
+          "rank": 199
         },
         {
-          "id": "7523",
-          "name": "Trevor Lawrence",
-          "pos": "QB",
-          "team": "JAX",
+          "id": "12481",
+          "name": "Cam Skattebo",
+          "pos": "RB",
+          "team": "NYG",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
+        {
+          "id": "1433",
+          "name": "Brandon McManus",
+          "pos": "K",
+          "team": "LAR",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 41
+          "rank": 674
         },
         {
           "id": "9480",
@@ -1801,10 +1801,10 @@
           "rank": 148
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "pos": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "injury": null,
           "status": null,
           "depth": null,
@@ -3206,7 +3206,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 173
       },
       {
@@ -3358,7 +3358,7 @@
         "team": "SEA",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 150
       },
       {
@@ -3789,29 +3789,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 1125680
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 251740
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 216566
+      "adds": 1288144
     },
     {
       "id": "6130",
@@ -3822,7 +3800,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 189990
+      "adds": 304758
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 288375
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 275198
     },
     {
       "id": "7561",
@@ -3833,7 +3833,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 176211
+      "adds": 250407
     },
     {
       "id": "12498",
@@ -3844,7 +3844,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 127075
+      "adds": 151265
     },
     {
       "id": "7042",
@@ -3855,7 +3855,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 114900
+      "adds": 143665
     },
     {
       "id": "5947",
@@ -3866,7 +3866,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 113844
+      "adds": 139362
     },
     {
       "id": "12482",
@@ -3877,7 +3877,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 94178
+      "adds": 127253
     },
     {
       "id": "8135",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 76692
+      "adds": 102067
     },
     {
       "id": "4993",
@@ -3899,7 +3899,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 63372
+      "adds": 72908
     },
     {
       "id": "5844",
@@ -3910,7 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 57132
+      "adds": 68359
     },
     {
       "id": "6865",
@@ -3921,29 +3921,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 50934
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 45773
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 42708
+      "adds": 61074
     },
     {
       "id": "10219",
@@ -3954,7 +3932,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 39654
+      "adds": 53595
     },
     {
       "id": "13301",
@@ -3965,29 +3943,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 36710
+      "adds": 51631
     },
     {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 50004
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 126,
-      "adds": 35520
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 357,
-      "adds": 35028
+      "rank": 190,
+      "adds": 47992
     },
     {
       "id": "13421",
@@ -3998,7 +3976,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 33957
+      "adds": 43995
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 42726
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 357,
+      "adds": 41688
     }
   ]
 }
