@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T07:44:46.228Z",
+  "generated_at": "2026-10-27T13:37:13.825Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -205,7 +205,7 @@
         "team": "BUF",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 206
       },
       {
@@ -215,7 +215,7 @@
         "team": "TB",
         "injury": "Out",
         "status": "Active",
-        "depth": 7,
+        "depth": 1,
         "rank": 39
       },
       {
@@ -454,14 +454,14 @@
           "rank": 118
         },
         {
-          "id": "5001",
-          "name": "Dalton Schultz",
-          "pos": "TE",
-          "team": "HOU",
+          "id": "0",
+          "name": "0",
+          "pos": "",
+          "team": null,
           "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 98
+          "status": null,
+          "depth": null,
+          "rank": null
         },
         {
           "id": "9500",
@@ -519,7 +519,6 @@
       "players_points": {
         "3257": 0,
         "4984": 0,
-        "5001": 0,
         "5967": 0,
         "7525": 0,
         "8134": 0,
@@ -794,7 +793,7 @@
           "team": "SEA",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 161
         },
         {
@@ -834,7 +833,7 @@
           "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 89
         },
         {
@@ -844,7 +843,7 @@
           "team": "SEA",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 1,
           "rank": 101
         }
       ],
@@ -893,7 +892,7 @@
           "team": "CHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 681
         },
         {
@@ -995,7 +994,7 @@
           "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 122
         },
         {
@@ -1215,7 +1214,7 @@
           "team": "GB",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 631
         },
         {
@@ -1767,7 +1766,7 @@
           "team": "WAS",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 105
         },
         {
@@ -1797,7 +1796,7 @@
           "team": "LAC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 148
         },
         {
@@ -1910,6 +1909,16 @@
           "rank": 91
         },
         {
+          "id": "9228",
+          "name": "Bryce Young",
+          "pos": "QB",
+          "team": "CAR",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 133
+        },
+        {
           "id": "9509",
           "name": "Bijan Robinson",
           "pos": "RB",
@@ -1918,16 +1927,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 1
-        },
-        {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "pos": "QB",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 101
         },
         {
           "id": "9997",
@@ -1978,7 +1977,7 @@
           "team": "TB",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 88
         },
         {
@@ -1992,16 +1991,6 @@
           "rank": 125
         },
         {
-          "id": "9228",
-          "name": "Bryce Young",
-          "pos": "QB",
-          "team": "CAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 133
-        },
-        {
           "id": "9757",
           "name": "Kendre Miller",
           "pos": "RB",
@@ -2010,6 +1999,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 180
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "team": "HOU",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 101
         }
       ],
       "reserve": [
@@ -2020,7 +2019,7 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
+          "depth": 2,
           "rank": 61
         }
       ],
@@ -2091,16 +2090,6 @@
           "rank": 203
         },
         {
-          "id": "5001",
-          "name": "Dalton Schultz",
-          "pos": "TE",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 98
-        },
-        {
           "id": "5967",
           "name": "Tony Pollard",
           "pos": "RB",
@@ -2149,7 +2138,7 @@
           "team": "ARI",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 1,
           "rank": 15
         },
         {
@@ -2169,7 +2158,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 118
         },
         {
@@ -2199,7 +2188,7 @@
           "team": "BUF",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 120
         }
       ],
@@ -2211,7 +2200,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 8,
+          "depth": 1,
           "rank": 29
         },
         {
@@ -2221,7 +2210,7 @@
           "team": "IND",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 1,
           "rank": 48
         }
       ],
@@ -2360,7 +2349,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 658
         },
         {
@@ -2390,7 +2379,7 @@
           "team": "BAL",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 9
         },
         {
@@ -2453,6 +2442,26 @@
           "rank": 149
         },
         {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "team": "LAC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 35
+        },
+        {
+          "id": "1466",
+          "name": "Travis Kelce",
+          "pos": "TE",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 90
+        },
+        {
           "id": "3198",
           "name": "Derrick Henry",
           "pos": "RB",
@@ -2463,16 +2472,6 @@
           "rank": 7
         },
         {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "pos": "TE",
-          "team": "LAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 634
-        },
-        {
           "id": "421",
           "name": "Matthew Stafford",
           "pos": "QB",
@@ -2481,6 +2480,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 65
+        },
+        {
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 50
         },
         {
           "id": "5849",
@@ -2513,6 +2522,58 @@
           "rank": 3
         },
         {
+          "id": "MIN",
+          "name": "Minnesota Vikings",
+          "pos": "DEF",
+          "team": "MIN",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
+        }
+      ],
+      "bench": [
+        {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "pos": "RB",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 129
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 89
+        },
+        {
+          "id": "13305",
+          "name": "Mike Washington Jr.",
+          "pos": "RB",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 123
+        },
+        {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "pos": "TE",
+          "team": "LAR",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 634
+        },
+        {
           "id": "9482",
           "name": "Michael Mayer",
           "pos": "TE",
@@ -2531,78 +2592,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 490
-        },
-        {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
-          "pos": "DEF",
-          "team": "MIN",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        }
-      ],
-      "bench": [
-        {
-          "id": "11635",
-          "name": "Ladd McConkey",
-          "pos": "WR",
-          "team": "LAC",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 1,
-          "rank": 35
-        },
-        {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "pos": "RB",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 129
-        },
-        {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "pos": "WR",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 89
-        },
-        {
-          "id": "13305",
-          "name": "Mike Washington Jr.",
-          "pos": "RB",
-          "team": "LV",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 123
-        },
-        {
-          "id": "1466",
-          "name": "Travis Kelce",
-          "pos": "TE",
-          "team": "KC",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 90
-        },
-        {
-          "id": "4983",
-          "name": "DJ Moore",
-          "pos": "WR",
-          "team": "BUF",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 50
         }
       ],
       "reserve": [
@@ -2752,7 +2741,7 @@
           "team": "BUF",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 206
         },
         {
@@ -2762,7 +2751,7 @@
           "team": "TB",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 1,
           "rank": 39
         },
         {
@@ -2820,7 +2809,7 @@
           "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 135
         },
         {
@@ -2850,7 +2839,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 56
         },
         {
@@ -2902,16 +2891,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 68
-        },
-        {
-          "id": "NYJ",
-          "name": "New York Jets",
-          "pos": "DEF",
-          "team": "NYJ",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "bench": [
@@ -2956,16 +2935,6 @@
           "rank": 5
         },
         {
-          "id": "8155",
-          "name": "Breece Hall",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 4,
-          "rank": 27
-        },
-        {
           "id": "NE",
           "name": "New England Patriots",
           "pos": "DEF",
@@ -2986,6 +2955,16 @@
           "status": "Inactive",
           "depth": 6,
           "rank": 46
+        },
+        {
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 27
         }
       ],
       "taxi": [],
@@ -3125,7 +3104,7 @@
         "team": "ATL",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 2,
         "rank": 80
       },
       {
@@ -3155,7 +3134,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 2,
         "rank": 122
       },
       {
@@ -3175,7 +3154,7 @@
         "team": "LAC",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 141
       },
       {
@@ -3195,7 +3174,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 157
       },
       {
@@ -3215,7 +3194,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 3,
         "rank": 167
       },
       {
@@ -3235,7 +3214,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 173
       },
       {
@@ -3255,7 +3234,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 3,
         "rank": 176
       },
       {
@@ -3275,7 +3254,7 @@
         "team": "CLE",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 4,
         "rank": 190
       },
       {
@@ -3327,7 +3306,7 @@
         "team": "WAS",
         "injury": "Out",
         "status": "Active",
-        "depth": 1,
+        "depth": 6,
         "rank": 56
       },
       {
@@ -3397,7 +3376,7 @@
         "team": "WAS",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 156
       },
       {
@@ -3457,7 +3436,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 175
       },
       {
@@ -3471,6 +3450,16 @@
         "rank": 177
       },
       {
+        "id": "12509",
+        "name": "Tre' Harris",
+        "pos": "WR",
+        "team": "LAC",
+        "injury": "Out",
+        "status": "Active",
+        "depth": 3,
+        "rank": 179
+      },
+      {
         "id": "13413",
         "name": "Cyrus Allen",
         "pos": "WR",
@@ -3481,23 +3470,13 @@
         "rank": 179
       },
       {
-        "id": "12509",
-        "name": "Tre' Harris",
-        "pos": "WR",
-        "team": "LAC",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 8,
-        "rank": 179
-      },
-      {
         "id": "4981",
         "name": "Calvin Ridley",
         "pos": "WR",
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 180
       },
       {
@@ -3531,6 +3510,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 83
+      },
+      {
+        "id": "5001",
+        "name": "Dalton Schultz",
+        "pos": "TE",
+        "team": "HOU",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 98
       },
       {
         "id": "13330",
@@ -3599,7 +3588,7 @@
         "team": "PHI",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 140
       },
       {
@@ -3631,16 +3620,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 153
-      },
-      {
-        "id": "13278",
-        "name": "Max Klare",
-        "pos": "TE",
-        "team": "LAR",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 5,
-        "rank": 212
       }
     ],
     "K": [
@@ -3757,6 +3736,16 @@
         "rank": null
       },
       {
+        "id": "NYJ",
+        "name": "New York Jets",
+        "pos": "DEF",
+        "team": "NYJ",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
+      },
+      {
         "id": "DAL",
         "name": "Dallas Cowboys",
         "pos": "DEF",
@@ -3795,16 +3784,6 @@
         "status": null,
         "depth": null,
         "rank": null
-      },
-      {
-        "id": "ATL",
-        "name": "Atlanta Falcons",
-        "pos": "DEF",
-        "team": "ATL",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
       }
     ]
   },
@@ -3818,7 +3797,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 539944
+      "adds": 761768
     },
     {
       "id": "TB",
@@ -3829,40 +3808,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 97960
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 660,
-      "adds": 71514
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 138,
-      "adds": 50695
-    },
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 532,
-      "adds": 45576
+      "adds": 161825
     },
     {
       "id": "WAS",
@@ -3873,7 +3819,40 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 35350
+      "adds": 107016
+    },
+    {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 660,
+      "adds": 97830
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 138,
+      "adds": 81150
+    },
+    {
+      "id": "7561",
+      "name": "Elijah Mitchell",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 532,
+      "adds": 80199
     },
     {
       "id": "5947",
@@ -3884,84 +3863,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 77,
-      "adds": 27390
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 24773
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 20226
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 19656
-    },
-    {
-      "id": "4195",
-      "name": "Jake Elliott",
-      "pos": "K",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 214,
-      "adds": 19355
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 18781
-    },
-    {
-      "id": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 128,
-      "adds": 18365
-    },
-    {
-      "id": "13269",
-      "name": "Fernando Mendoza",
-      "pos": "QB",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 107,
-      "adds": 16912
+      "adds": 62016
     },
     {
       "id": "7042",
@@ -3972,18 +3874,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 16775
+      "adds": 49610
     },
     {
-      "id": "13285",
-      "name": "Malachi Fields",
+      "id": "12482",
+      "name": "Savion Williams",
       "pos": "WR",
-      "team": "NYG",
+      "team": "GB",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 15070
+      "depth": 3,
+      "rank": 679,
+      "adds": 47852
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 447,
+      "adds": 36788
     },
     {
       "id": "8135",
@@ -3992,9 +3905,42 @@
       "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 4,
+      "depth": 3,
       "rank": 679,
-      "adds": 13867
+      "adds": 35819
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 34776
+    },
+    {
+      "id": "5844",
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 128,
+      "adds": 33426
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 32160
     },
     {
       "id": "2505",
@@ -4005,7 +3951,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 357,
-      "adds": 13797
+      "adds": 22248
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 125,
+      "adds": 22212
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 21906
     },
     {
       "id": "13421",
@@ -4016,18 +3984,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 13699
+      "adds": 21224
     },
     {
-      "id": "8207",
-      "name": "Tyler Goodson",
-      "pos": "RB",
-      "team": "DAL",
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 21102
+    },
+    {
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 480,
-      "adds": 13191
+      "rank": 156,
+      "adds": 20866
     }
   ]
 }
