@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T19:40:33.105Z",
+  "generated_at": "2026-10-28T23:31:55.140Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -91,7 +91,7 @@
         "name": "Dalton Kincaid",
         "pos": "TE",
         "team": "BUF",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 81
@@ -193,7 +193,7 @@
         "name": "Malik Washington",
         "pos": "WR",
         "team": "MIA",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 176
@@ -319,7 +319,7 @@
           "name": "Dalton Kincaid",
           "pos": "TE",
           "team": "BUF",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 81
@@ -740,7 +740,7 @@
           "name": "George Pickens",
           "pos": "WR",
           "team": "DAL",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 22
@@ -760,7 +760,7 @@
           "name": "Jahmyr Gibbs",
           "pos": "RB",
           "team": "DET",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 1
@@ -1272,7 +1272,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -1673,7 +1673,7 @@
           "name": "Stefon Diggs",
           "pos": "WR",
           "team": "WAS",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 105
@@ -2295,7 +2295,7 @@
           "name": "A.J. Brown",
           "pos": "WR",
           "team": "NE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 17
@@ -2538,7 +2538,7 @@
           "name": "Dylan Sampson",
           "pos": "RB",
           "team": "CLE",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 129
@@ -2627,7 +2627,7 @@
           "name": "Dalton Kincaid",
           "pos": "TE",
           "team": "BUF",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 81
@@ -2729,7 +2729,7 @@
           "name": "Malik Washington",
           "pos": "WR",
           "team": "MIA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 176
@@ -3355,7 +3355,7 @@
         "name": "Kenny Gainwell",
         "pos": "RB",
         "team": "TB",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 86
@@ -3475,7 +3475,7 @@
         "name": "Jaylen Wright",
         "pos": "RB",
         "team": "MIA",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 174
@@ -3723,14 +3723,14 @@
         "rank": 185
       },
       {
-        "id": "12536",
-        "name": "Jaylin Noel",
+        "id": "9494",
+        "name": "Marvin Mims Jr.",
         "pos": "WR",
-        "team": "HOU",
+        "team": "DEN",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 2,
-        "rank": 190
+        "depth": 3,
+        "rank": 192
       }
     ],
     "TE": [
@@ -3779,7 +3779,7 @@
         "name": "Colby Parkinson",
         "pos": "TE",
         "team": "LAR",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 136
@@ -4030,7 +4030,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 882756
+      "adds": 949004
     },
     {
       "id": "7561",
@@ -4041,7 +4041,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 468900
+      "adds": 722466
     },
     {
       "id": "7042",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 262265
+      "adds": 266200
     },
     {
       "id": "12482",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 228508
+      "adds": 228585
     },
     {
       "id": "12498",
@@ -4074,18 +4074,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 205610
+      "adds": 194660
     },
     {
       "id": "8135",
       "name": "Treylon Burks",
       "pos": "WR",
       "team": "WAS",
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 184716
+      "adds": 178248
     },
     {
       "id": "LV",
@@ -4096,7 +4096,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 126372
+      "adds": 141372
     },
     {
       "id": "10219",
@@ -4107,7 +4107,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 112482
+      "adds": 113535
     },
     {
       "id": "DET",
@@ -4118,7 +4118,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 98424
+      "adds": 108630
+    },
+    {
+      "id": "12457",
+      "name": "Jaydon Blue",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 189,
+      "adds": 83288
     },
     {
       "id": "13301",
@@ -4129,18 +4140,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 94181
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 82872
+      "adds": 82672
     },
     {
       "id": "11647",
@@ -4151,7 +4151,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 79290
+      "adds": 81705
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 136,
+      "adds": 79854
     },
     {
       "id": "13421",
@@ -4162,7 +4173,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 76433
+      "adds": 72968
     },
     {
       "id": "4993",
@@ -4173,7 +4184,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 70512
+      "adds": 66516
     },
     {
       "id": "13330",
@@ -4184,7 +4195,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 109,
-      "adds": 64251
+      "adds": 66204
     },
     {
       "id": "12530",
@@ -4195,18 +4206,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 105,
-      "adds": 61812
-    },
-    {
-      "id": "7839",
-      "name": "Evan McPherson",
-      "pos": "K",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 54818
+      "adds": 57162
     },
     {
       "id": "8110",
@@ -4217,18 +4217,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 52910
+      "adds": 57140
     },
     {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": "Questionable",
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
+      "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 627,
-      "adds": 52208
+      "depth": 1,
+      "rank": 155,
+      "adds": 54499
     },
     {
       "id": "12487",
@@ -4239,7 +4239,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 51784
+      "adds": 49912
     }
   ]
 }
