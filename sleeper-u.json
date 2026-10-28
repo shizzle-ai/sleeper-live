@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-27T22:47:55.666Z",
+  "generated_at": "2026-10-28T01:48:34.852Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -856,7 +856,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 10,
+          "depth": 9,
           "rank": 62
         },
         {
@@ -866,7 +866,7 @@
           "team": "SF",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 12,
+          "depth": 11,
           "rank": 113
         }
       ],
@@ -897,24 +897,24 @@
           "rank": 681
         },
         {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "pos": "QB",
-          "team": "NYG",
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "pos": "WR",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 122
+        },
+        {
+          "id": "12507",
+          "name": "Omarion Hampton",
+          "pos": "RB",
+          "team": "LAC",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 224
-        },
-        {
-          "id": "12474",
-          "name": "Woody Marks",
-          "pos": "RB",
-          "team": "HOU",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 105
+          "rank": 12
         },
         {
           "id": "12512",
@@ -937,6 +937,16 @@
           "rank": 151
         },
         {
+          "id": "6797",
+          "name": "Justin Herbert",
+          "pos": "QB",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
+        },
+        {
           "id": "7547",
           "name": "Amon-Ra St. Brown",
           "pos": "WR",
@@ -945,16 +955,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 7
-        },
-        {
-          "id": "7569",
-          "name": "Nico Collins",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 23
         },
         {
           "id": "9484",
@@ -989,14 +989,14 @@
       ],
       "bench": [
         {
-          "id": "11624",
-          "name": "Xavier Worthy",
-          "pos": "WR",
-          "team": "KC",
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "pos": "QB",
+          "team": "NYG",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 122
+          "depth": 1,
+          "rank": 224
         },
         {
           "id": "11834",
@@ -1009,14 +1009,14 @@
           "rank": 209
         },
         {
-          "id": "12507",
-          "name": "Omarion Hampton",
+          "id": "12474",
+          "name": "Woody Marks",
           "pos": "RB",
-          "team": "LAC",
-          "injury": null,
+          "team": "HOU",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 105
         },
         {
           "id": "5045",
@@ -1029,14 +1029,14 @@
           "rank": 72
         },
         {
-          "id": "6797",
-          "name": "Justin Herbert",
-          "pos": "QB",
-          "team": "LAC",
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "team": "HOU",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 23
         },
         {
           "id": "9502",
@@ -1205,7 +1205,7 @@
           "team": "GB",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 631
         },
         {
@@ -1618,7 +1618,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 8,
+          "depth": 7,
           "rank": 130
         },
         {
@@ -2159,7 +2159,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 118
         },
         {
@@ -2881,7 +2881,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 68
         }
       ],
@@ -3166,7 +3166,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 157
       },
       {
@@ -3186,7 +3186,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 167
       },
       {
@@ -3206,7 +3206,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 173
       },
       {
@@ -3358,7 +3358,7 @@
         "team": "SEA",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 150
       },
       {
@@ -3438,7 +3438,7 @@
         "team": "SF",
         "injury": "DNR",
         "status": "Active",
-        "depth": 9,
+        "depth": 8,
         "rank": 177
       },
       {
@@ -3550,7 +3550,7 @@
         "team": "LAR",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 136
       },
       {
@@ -3789,7 +3789,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 197,
-      "adds": 1288144
+      "adds": 1461600
     },
     {
       "id": "6130",
@@ -3800,18 +3800,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 660,
-      "adds": 304758
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 288375
+      "adds": 401013
     },
     {
       "id": "WAS",
@@ -3822,7 +3811,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 275198
+      "adds": 342993
     },
     {
       "id": "7561",
@@ -3833,7 +3822,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 250407
+      "adds": 342423
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "pos": "DEF",
+      "team": "TB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 322295
     },
     {
       "id": "12498",
@@ -3844,7 +3844,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 151265
+      "adds": 177725
     },
     {
       "id": "7042",
@@ -3855,18 +3855,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 143665
-    },
-    {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 77,
-      "adds": 139362
+      "adds": 170510
     },
     {
       "id": "12482",
@@ -3877,7 +3866,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 127253
+      "adds": 166635
+    },
+    {
+      "id": "5947",
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 77,
+      "adds": 164700
     },
     {
       "id": "8135",
@@ -3888,7 +3888,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 102067
+      "adds": 135002
     },
     {
       "id": "4993",
@@ -3899,7 +3899,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 72908
+      "adds": 80856
     },
     {
       "id": "5844",
@@ -3910,18 +3910,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 68359
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 61074
+      "adds": 79631
     },
     {
       "id": "10219",
@@ -3932,7 +3921,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 53595
+      "adds": 72369
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 136,
+      "adds": 72354
     },
     {
       "id": "13301",
@@ -3943,7 +3943,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 51631
+      "adds": 69656
     },
     {
       "id": "LV",
@@ -3954,18 +3954,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50004
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 47992
+      "adds": 57600
     },
     {
       "id": "13421",
@@ -3976,7 +3965,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 43995
+      "adds": 53746
+    },
+    {
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 105,
+      "adds": 51984
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 669,
+      "adds": 51590
     },
     {
       "id": "11603",
@@ -3987,18 +3998,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 42726
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 357,
-      "adds": 41688
+      "adds": 50652
     }
   ]
 }
