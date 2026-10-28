@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-28T01:48:34.852Z",
+  "generated_at": "2026-10-28T07:31:12.684Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -91,7 +91,7 @@
         "name": "Dalton Kincaid",
         "pos": "TE",
         "team": "BUF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 81
@@ -114,7 +114,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 267
+        "rank": 265
       },
       {
         "id": "13276",
@@ -174,20 +174,20 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 5
-      },
-      {
-        "id": "CLE",
-        "name": "Cleveland Browns",
-        "pos": "DEF",
-        "team": "CLE",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
+        "rank": 4
       }
     ],
     "bench": [
+      {
+        "id": "10955",
+        "name": "Chad Ryland",
+        "pos": "K",
+        "team": "ARI",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 324
+      },
       {
         "id": "11610",
         "name": "Malik Washington",
@@ -237,6 +237,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 80
+      },
+      {
+        "id": "CIN",
+        "name": "Cincinnati Bengals",
+        "pos": "DEF",
+        "team": "CIN",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
       }
     ],
     "reserve": [
@@ -245,14 +255,14 @@
         "name": "Emeka Egbuka",
         "pos": "WR",
         "team": "TB",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 39
       }
     ],
     "taxi": [],
-    "waiver_position": 3,
+    "waiver_position": 11,
     "faab_used": 0
   },
   "my_matchup": {
@@ -303,7 +313,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 5
+          "rank": 4
         },
         {
           "id": "13276",
@@ -320,7 +330,7 @@
           "name": "Dalton Kincaid",
           "pos": "TE",
           "team": "BUF",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 81
@@ -343,7 +353,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 267
+          "rank": 265
         },
         {
           "id": "3451",
@@ -356,10 +366,10 @@
           "rank": 128
         },
         {
-          "id": "CLE",
-          "name": "Cleveland Browns",
-          "pos": "DEF",
-          "team": "CLE",
+          "id": "0",
+          "name": "0",
+          "pos": "",
+          "team": null,
           "injury": null,
           "status": null,
           "depth": null,
@@ -389,12 +399,13 @@
         "8150": 0,
         "9493": 0,
         "10236": 0,
+        "10955": 0,
         "11584": 0,
         "11610": 0,
         "11637": 0,
         "12514": 0,
         "13276": 0,
-        "CLE": 0
+        "CIN": 0
       }
     },
     "opponent": {
@@ -482,7 +493,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 115
+          "rank": 116
         },
         {
           "id": "11533",
@@ -520,6 +531,7 @@
       "players_points": {
         "3257": 0,
         "4984": 0,
+        "5844": 0,
         "5967": 0,
         "7525": 0,
         "8134": 0,
@@ -559,7 +571,7 @@
       "losses": 1,
       "ties": 0,
       "fpts": 1032.18,
-      "fpts_against": 850.04
+      "fpts_against": 849.94
     },
     {
       "rank": 3,
@@ -635,7 +647,7 @@
       "wins": 2,
       "losses": 5,
       "ties": 0,
-      "fpts": 897.62,
+      "fpts": 897.52,
       "fpts_against": 1040.76
     },
     {
@@ -681,7 +693,7 @@
         "wins": 2,
         "losses": 5,
         "ties": 0,
-        "fpts": 897.62,
+        "fpts": 897.52,
         "fpts_against": 1040.76
       },
       "starters": [
@@ -693,7 +705,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 45
+          "rank": 46
         },
         {
           "id": "12711",
@@ -723,7 +735,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 74
+          "rank": 75
         },
         {
           "id": "8131",
@@ -798,6 +810,16 @@
           "rank": 161
         },
         {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 197
+        },
+        {
           "id": "13298",
           "name": "KC Concepcion Jr.",
           "pos": "WR",
@@ -818,16 +840,6 @@
           "rank": 153
         },
         {
-          "id": "8129",
-          "name": "Dameon Pierce",
-          "pos": "RB",
-          "team": "PHI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 627
-        },
-        {
           "id": "8132",
           "name": "Tyler Allgeier",
           "pos": "RB",
@@ -842,7 +854,7 @@
           "name": "Zach Charbonnet",
           "pos": "RB",
           "team": "SEA",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 101
@@ -871,7 +883,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 7,
+      "waiver_position": 9,
       "faab_used": 0
     },
     {
@@ -944,7 +956,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "7547",
@@ -1051,7 +1063,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 6,
+      "waiver_position": 2,
       "faab_used": 0
     },
     {
@@ -1104,7 +1116,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 35
+          "rank": 36
         },
         {
           "id": "3214",
@@ -1134,7 +1146,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 131
+          "rank": 132
         },
         {
           "id": "7611",
@@ -1199,14 +1211,14 @@
           "rank": 468
         },
         {
-          "id": "8116",
-          "name": "Pierre Strong Jr.",
+          "id": "8122",
+          "name": "Zonovan Knight",
           "pos": "RB",
-          "team": "GB",
+          "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 4,
-          "rank": 631
+          "depth": 3,
+          "rank": 669
         },
         {
           "id": "8144",
@@ -1282,7 +1294,7 @@
           "name": "Jalen Coker",
           "pos": "WR",
           "team": "CAR",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 132
@@ -1295,7 +1307,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "4943",
@@ -1305,7 +1317,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 93
+          "rank": 92
         },
         {
           "id": "6813",
@@ -1325,7 +1337,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "8167",
@@ -1355,7 +1367,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1380,26 +1392,6 @@
           "rank": 68
         },
         {
-          "id": "11655",
-          "name": "Tyrone Tracy Jr.",
-          "pos": "RB",
-          "team": "NYG",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 2,
-          "rank": 110
-        },
-        {
-          "id": "13545",
-          "name": "Trey Smack",
-          "pos": "K",
-          "team": "GB",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 194
-        },
-        {
           "id": "4017",
           "name": "Deshaun Watson",
           "pos": "QB",
@@ -1408,6 +1400,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 291
+        },
+        {
+          "id": "6130",
+          "name": "Devin Singletary",
+          "pos": "RB",
+          "team": "NYG",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 660
         },
         {
           "id": "7002",
@@ -1428,11 +1430,21 @@
           "status": "Active",
           "depth": 1,
           "rank": 56
+        },
+        {
+          "id": "GB",
+          "name": "Green Bay Packers",
+          "pos": "DEF",
+          "team": "GB",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -1444,7 +1456,7 @@
         "losses": 1,
         "ties": 0,
         "fpts": 1032.18,
-        "fpts_against": 850.04
+        "fpts_against": 849.94
       },
       "starters": [
         {
@@ -1465,7 +1477,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
+          "rank": 28
         },
         {
           "id": "12545",
@@ -1597,7 +1609,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 123
+          "rank": 122
         },
         {
           "id": "BAL",
@@ -1633,7 +1645,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 8,
+      "waiver_position": 3,
       "faab_used": 0
     },
     {
@@ -1696,7 +1708,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 68
+          "rank": 65
         },
         {
           "id": "7523",
@@ -1706,14 +1718,14 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 41
+          "rank": 42
         },
         {
           "id": "8112",
           "name": "Drake London",
           "pos": "WR",
           "team": "ATL",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 19
@@ -2018,14 +2030,14 @@
           "name": "Kyle Monangai",
           "pos": "RB",
           "team": "CHI",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 61
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 5,
       "faab_used": 0
     },
     {
@@ -2068,7 +2080,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 115
+          "rank": 116
         },
         {
           "id": "12527",
@@ -2137,7 +2149,7 @@
           "name": "Jeremiyah Love",
           "pos": "RB",
           "team": "ARI",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 15
@@ -2173,11 +2185,21 @@
           "rank": 3
         },
         {
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "pos": "TE",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 128
+        },
+        {
           "id": "7525",
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 34
@@ -2199,7 +2221,7 @@
           "name": "Rashee Rice",
           "pos": "WR",
           "team": "KC",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 29
@@ -2209,14 +2231,14 @@
           "name": "Tyler Warren",
           "pos": "TE",
           "team": "IND",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 48
         }
       ],
       "taxi": [],
-      "waiver_position": 2,
+      "waiver_position": 6,
       "faab_used": 0
     },
     {
@@ -2239,7 +2261,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 452
+          "rank": 449
         },
         {
           "id": "12506",
@@ -2361,7 +2383,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 457
+          "rank": 455
         },
         {
           "id": "4454",
@@ -2378,7 +2400,7 @@
           "name": "Lamar Jackson",
           "pos": "QB",
           "team": "BAL",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 9
@@ -2403,7 +2425,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 3,
-          "rank": 43
+          "rank": 41
         },
         {
           "id": "9226",
@@ -2417,7 +2439,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 4,
       "faab_used": 0
     },
     {
@@ -2447,7 +2469,7 @@
           "name": "Ladd McConkey",
           "pos": "WR",
           "team": "LAC",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -2480,14 +2502,14 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "4983",
           "name": "DJ Moore",
           "pos": "WR",
           "team": "BUF",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 50
@@ -2510,7 +2532,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "7564",
@@ -2572,7 +2594,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 461
+          "rank": 462
         },
         {
           "id": "9501",
@@ -2583,6 +2605,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 490
+        },
+        {
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "pos": "DEF",
+          "team": "TB",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -2598,7 +2630,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 4,
+      "waiver_position": 7,
       "faab_used": 0
     },
     {
@@ -2618,7 +2650,7 @@
           "name": "Dalton Kincaid",
           "pos": "TE",
           "team": "BUF",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 81
@@ -2641,7 +2673,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 267
+          "rank": 265
         },
         {
           "id": "13276",
@@ -2701,20 +2733,20 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 5
-        },
-        {
-          "id": "CLE",
-          "name": "Cleveland Browns",
-          "pos": "DEF",
-          "team": "CLE",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
+          "rank": 4
         }
       ],
       "bench": [
+        {
+          "id": "10955",
+          "name": "Chad Ryland",
+          "pos": "K",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 324
+        },
         {
           "id": "11610",
           "name": "Malik Washington",
@@ -2764,6 +2796,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 80
+        },
+        {
+          "id": "CIN",
+          "name": "Cincinnati Bengals",
+          "pos": "DEF",
+          "team": "CIN",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -2772,14 +2814,14 @@
           "name": "Emeka Egbuka",
           "pos": "WR",
           "team": "TB",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 39
         }
       ],
       "taxi": [],
-      "waiver_position": 3,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2852,7 +2894,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 62
+          "rank": 61
         },
         {
           "id": "5022",
@@ -2872,7 +2914,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "6806",
@@ -2914,7 +2956,17 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 385
+          "rank": 384
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "pos": "WR",
+          "team": "JAX",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 77
         },
         {
           "id": "8138",
@@ -2953,14 +3005,14 @@
           "name": "Breece Hall",
           "pos": "RB",
           "team": "NYJ",
-          "injury": "Out",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 27
         }
       ],
       "taxi": [],
-      "waiver_position": 5,
+      "waiver_position": 8,
       "faab_used": 0
     }
   ],
@@ -2975,7 +3027,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 107
+        "rank": 108
       },
       {
         "id": "138",
@@ -3012,7 +3064,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -3022,10 +3074,10 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
-        "rank": 288
+        "rank": 287
       },
       {
         "id": "13310",
@@ -3052,17 +3104,17 @@
         "name": "Drew Allar",
         "pos": "QB",
         "team": "PIT",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 360
+        "rank": 359
       },
       {
         "id": "7583",
         "name": "Sam Ehlinger",
         "pos": "QB",
         "team": "DEN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 378
@@ -3094,7 +3146,7 @@
         "name": "Brian Robinson Jr.",
         "pos": "RB",
         "team": "ATL",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 80
@@ -3104,7 +3156,7 @@
         "name": "Kenny Gainwell",
         "pos": "RB",
         "team": "TB",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 86
@@ -3124,7 +3176,7 @@
         "name": "Tyjae Spears",
         "pos": "RB",
         "team": "TEN",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 122
@@ -3184,7 +3236,7 @@
         "name": "Nicholas Singleton",
         "pos": "RB",
         "team": "TEN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 167
@@ -3204,7 +3256,7 @@
         "name": "Kaleb Johnson",
         "pos": "RB",
         "team": "GB",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 173
@@ -3224,7 +3276,7 @@
         "name": "Demond Claiborne",
         "pos": "RB",
         "team": "MIN",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 176
@@ -3244,7 +3296,7 @@
         "name": "Audric Estime",
         "pos": "RB",
         "team": "CLE",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 190
@@ -3284,7 +3336,7 @@
         "name": "Ben VanSumeren",
         "pos": "RB",
         "team": "KC",
-        "injury": "Out",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 228
@@ -3310,16 +3362,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 74
-      },
-      {
-        "id": "5947",
-        "name": "Jakobi Meyers",
-        "pos": "WR",
-        "team": "JAX",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 77
       },
       {
         "id": "9754",
@@ -3356,7 +3398,7 @@
         "name": "Rashid Shaheed",
         "pos": "WR",
         "team": "SEA",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 2,
         "rank": 150
@@ -3446,7 +3488,7 @@
         "name": "Tre' Harris",
         "pos": "WR",
         "team": "LAC",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 179
@@ -3466,7 +3508,7 @@
         "name": "Calvin Ridley",
         "pos": "WR",
         "team": "TEN",
-        "injury": "Out",
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 180
@@ -3489,6 +3531,16 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
+        "rank": 185
+      },
+      {
+        "id": "13320",
+        "name": "Zachariah Branch",
+        "pos": "WR",
+        "team": "ATL",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
         "rank": 185
       }
     ],
@@ -3532,16 +3584,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 126
-      },
-      {
-        "id": "5844",
-        "name": "T.J. Hockenson",
-        "pos": "TE",
-        "team": "MIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 128
       },
       {
         "id": "6865",
@@ -3612,6 +3654,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 153
+      },
+      {
+        "id": "13278",
+        "name": "Max Klare",
+        "pos": "TE",
+        "team": "LAR",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 212
       }
     ],
     "K": [
@@ -3686,14 +3738,14 @@
         "rank": 190
       },
       {
-        "id": "4195",
-        "name": "Jake Elliott",
+        "id": "13545",
+        "name": "Trey Smack",
         "pos": "K",
-        "team": "PHI",
+        "team": "GB",
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 214
+        "rank": 194
       }
     ],
     "DEF": [
@@ -3768,10 +3820,10 @@
         "rank": null
       },
       {
-        "id": "TB",
-        "name": "Tampa Bay Buccaneers",
+        "id": "CLE",
+        "name": "Cleveland Browns",
         "pos": "DEF",
-        "team": "TB",
+        "team": "CLE",
         "injury": null,
         "status": null,
         "depth": null,
@@ -3781,26 +3833,15 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 197,
-      "adds": 1461600
-    },
-    {
-      "id": "6130",
-      "name": "Devin Singletary",
+      "id": "7561",
+      "name": "Elijah Mitchell",
       "pos": "RB",
-      "team": "NYG",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 660,
-      "adds": 401013
+      "rank": 532,
+      "adds": 481707
     },
     {
       "id": "WAS",
@@ -3811,51 +3852,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 342993
-    },
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 532,
-      "adds": 342423
-    },
-    {
-      "id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "pos": "DEF",
-      "team": "TB",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 322295
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 138,
-      "adds": 177725
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 170510
+      "adds": 474509
     },
     {
       "id": "12482",
@@ -3866,18 +3863,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 166635
+      "adds": 236621
     },
     {
-      "id": "5947",
-      "name": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAX",
-      "injury": "Questionable",
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 77,
-      "adds": 164700
+      "rank": 138,
+      "adds": 211935
+    },
+    {
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 288,
+      "adds": 210885
     },
     {
       "id": "8135",
@@ -3888,29 +3896,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 135002
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 80856
-    },
-    {
-      "id": "5844",
-      "name": "T.J. Hockenson",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 128,
-      "adds": 79631
+      "adds": 190904
     },
     {
       "id": "10219",
@@ -3921,18 +3907,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 72369
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 72354
+      "adds": 101286
     },
     {
       "id": "13301",
@@ -3943,18 +3918,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 156,
-      "adds": 69656
+      "adds": 98668
     },
     {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
+      "id": "8129",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 627,
+      "adds": 88880
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 57600
+      "status": "Active",
+      "depth": 1,
+      "rank": 136,
+      "adds": 86316
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 85924
     },
     {
       "id": "13421",
@@ -3965,7 +3962,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 53746
+      "adds": 73430
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 67962
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 67735
     },
     {
       "id": "12530",
@@ -3976,18 +3995,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 105,
-      "adds": 51984
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 669,
-      "adds": 51590
+      "adds": 67050
     },
     {
       "id": "11603",
@@ -3998,7 +4006,51 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 50652
+      "adds": 60474
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 54216
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 356,
+      "adds": 52920
+    },
+    {
+      "id": "13330",
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 109,
+      "adds": 52326
+    },
+    {
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 49533
     }
   ]
 }
