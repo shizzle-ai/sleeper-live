@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T15:45:00.164Z",
+  "generated_at": "2026-10-29T20:39:32.017Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -760,7 +760,7 @@
           "name": "Jahmyr Gibbs",
           "pos": "RB",
           "team": "DET",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 1
@@ -887,16 +887,6 @@
       },
       "starters": [
         {
-          "id": "10235",
-          "name": "Roschon Johnson",
-          "pos": "RB",
-          "team": "CHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 681
-        },
-        {
           "id": "11624",
           "name": "Xavier Worthy",
           "pos": "WR",
@@ -937,6 +927,16 @@
           "rank": 151
         },
         {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "team": "DEN",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 72
+        },
+        {
           "id": "6797",
           "name": "Justin Herbert",
           "pos": "QB",
@@ -951,7 +951,7 @@
           "name": "Amon-Ra St. Brown",
           "pos": "WR",
           "team": "DET",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 6
@@ -989,6 +989,16 @@
       ],
       "bench": [
         {
+          "id": "10235",
+          "name": "Roschon Johnson",
+          "pos": "RB",
+          "team": "CHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 681
+        },
+        {
           "id": "11565",
           "name": "J.J. McCarthy",
           "pos": "QB",
@@ -1017,16 +1027,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 105
-        },
-        {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "pos": "WR",
-          "team": "DEN",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 72
         },
         {
           "id": "7569",
@@ -2281,6 +2281,16 @@
           "rank": 39
         },
         {
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "pos": "QB",
+          "team": "BAL",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 9
+        },
+        {
           "id": "5846",
           "name": "DK Metcalf",
           "pos": "WR",
@@ -2309,16 +2319,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 65
-        },
-        {
-          "id": "9230",
-          "name": "Tanner McKee",
-          "pos": "QB",
-          "team": "PHI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 677
         },
         {
           "id": "PIT",
@@ -2373,16 +2373,6 @@
           "rank": 673
         },
         {
-          "id": "4881",
-          "name": "Lamar Jackson",
-          "pos": "QB",
-          "team": "BAL",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 9
-        },
-        {
           "id": "5012",
           "name": "Mark Andrews",
           "pos": "TE",
@@ -2391,6 +2381,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 96
+        },
+        {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "pos": "QB",
+          "team": "PHI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 677
         }
       ],
       "reserve": [
@@ -2538,7 +2538,7 @@
           "name": "Dylan Sampson",
           "pos": "RB",
           "team": "CLE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 129
@@ -2803,16 +2803,6 @@
       },
       "starters": [
         {
-          "id": "11576",
-          "name": "Braelon Allen",
-          "pos": "RB",
-          "team": "NYJ",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 135
-        },
-        {
           "id": "11792",
           "name": "Will Reichard",
           "pos": "K",
@@ -2893,6 +2883,16 @@
           "rank": 27
         },
         {
+          "id": "8210",
+          "name": "Chig Okonkwo",
+          "pos": "TE",
+          "team": "WAS",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 137
+        },
+        {
           "id": "NE",
           "name": "New England Patriots",
           "pos": "DEF",
@@ -2913,6 +2913,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 228
+        },
+        {
+          "id": "11576",
+          "name": "Braelon Allen",
+          "pos": "RB",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 135
         },
         {
           "id": "11620",
@@ -2953,16 +2963,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 382
-        },
-        {
-          "id": "8210",
-          "name": "Chig Okonkwo",
-          "pos": "TE",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 137
         }
       ],
       "reserve": [
@@ -3435,7 +3435,7 @@
         "name": "Ray Davis",
         "pos": "RB",
         "team": "BUF",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 167
@@ -3771,7 +3771,7 @@
         "team": "NYJ",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 109
       },
       {
@@ -3781,7 +3781,7 @@
         "team": "LAR",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 136
       },
       {
@@ -3791,7 +3791,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 138
       },
       {
@@ -4030,7 +4030,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 778932
+      "adds": 907389
     },
     {
       "id": "WAS",
@@ -4041,7 +4041,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 597177
+      "adds": 530782
     },
     {
       "id": "12457",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 354504
+      "adds": 468968
     },
     {
       "id": "7042",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 151165
+      "adds": 129790
     },
     {
       "id": "12482",
@@ -4074,7 +4074,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 136626
+      "adds": 123914
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 138,
+      "adds": 93940
     },
     {
       "id": "LV",
@@ -4085,18 +4096,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 104904
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 138,
-      "adds": 89140
+      "adds": 93894
     },
     {
       "id": "DET",
@@ -4107,18 +4107,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 81495
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 72149
+      "adds": 71064
     },
     {
       "id": "11729",
@@ -4129,7 +4118,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 59626
+      "adds": 66122
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 58989
     },
     {
       "id": "10219",
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 57618
+      "adds": 52866
     },
     {
       "id": "11647",
@@ -4151,18 +4151,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 50240
-    },
-    {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 109,
-      "adds": 42768
+      "adds": 47740
     },
     {
       "id": "8110",
@@ -4173,7 +4162,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 40825
+      "adds": 38565
+    },
+    {
+      "id": "13330",
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 109,
+      "adds": 31716
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 634,
+      "adds": 30447
     },
     {
       "id": "4993",
@@ -4184,7 +4195,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 33740
+      "adds": 29892
     },
     {
       "id": "13421",
@@ -4195,18 +4206,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 32592
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 30666
+      "adds": 27286
     },
     {
       "id": "CLE",
@@ -4217,29 +4217,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 30156
+      "adds": 26950
     },
     {
-      "id": "3271",
-      "name": "Tyler Higbee",
+      "id": "2505",
+      "name": "Darren Waller",
       "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 634,
-      "adds": 29754
-    },
-    {
-      "id": "7839",
-      "name": "Evan McPherson",
-      "pos": "K",
-      "team": "CIN",
+      "team": "CAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 153,
-      "adds": 29566
+      "rank": 356,
+      "adds": 25488
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 25172
     }
   ]
 }
