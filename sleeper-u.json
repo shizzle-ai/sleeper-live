@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T08:55:32.929Z",
+  "generated_at": "2026-10-29T15:45:00.164Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2931,7 +2931,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 56
         },
         {
@@ -3082,7 +3082,7 @@
             "team": "DEN",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 3,
             "rank": 68
           },
           "roster_id": 12,
@@ -3337,7 +3337,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 68
       },
       {
@@ -4022,17 +4022,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 874321
-    },
-    {
       "id": "7561",
       "name": "Elijah Mitchell",
       "pos": "RB",
@@ -4041,7 +4030,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 692154
+      "adds": 778932
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 597177
     },
     {
       "id": "12457",
@@ -4052,7 +4052,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 241808
+      "adds": 354504
     },
     {
       "id": "7042",
@@ -4063,7 +4063,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 225425
+      "adds": 151165
     },
     {
       "id": "12482",
@@ -4074,7 +4074,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 153349
+      "adds": 136626
     },
     {
       "id": "LV",
@@ -4085,7 +4085,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 144198
+      "adds": 104904
     },
     {
       "id": "12498",
@@ -4096,7 +4096,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 138,
-      "adds": 128550
+      "adds": 89140
     },
     {
       "id": "DET",
@@ -4107,7 +4107,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 103059
+      "adds": 81495
     },
     {
       "id": "8135",
@@ -4118,51 +4118,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 99638
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 125,
-      "adds": 77859
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 64585
-    },
-    {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 109,
-      "adds": 55053
-    },
-    {
-      "id": "8110",
-      "name": "Jake Ferguson",
-      "pos": "TE",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 97,
-      "adds": 53085
+      "adds": 72149
     },
     {
       "id": "11729",
@@ -4173,7 +4129,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 50617
+      "adds": 59626
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 125,
+      "adds": 57618
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 50240
+    },
+    {
+      "id": "13330",
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 1,
+      "rank": 109,
+      "adds": 42768
+    },
+    {
+      "id": "8110",
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 97,
+      "adds": 40825
     },
     {
       "id": "4993",
@@ -4184,18 +4184,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 50408
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 1,
-      "rank": 136,
-      "adds": 49944
+      "adds": 33740
     },
     {
       "id": "13421",
@@ -4206,18 +4195,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 46207
+      "adds": 32592
     },
     {
-      "id": "7839",
-      "name": "Evan McPherson",
-      "pos": "K",
-      "team": "CIN",
-      "injury": null,
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "Questionable",
       "status": "Active",
       "depth": 1,
-      "rank": 153,
-      "adds": 45035
+      "rank": 136,
+      "adds": 30666
     },
     {
       "id": "CLE",
@@ -4228,18 +4217,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41055
+      "adds": 30156
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
+      "id": "3271",
+      "name": "Tyler Higbee",
       "pos": "TE",
-      "team": "CAR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 634,
+      "adds": 29754
+    },
+    {
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 356,
-      "adds": 36666
+      "rank": 153,
+      "adds": 29566
     }
   ]
 }
