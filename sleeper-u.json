@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-29T20:39:32.017Z",
+  "generated_at": "2026-10-30T00:20:25.287Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -448,7 +448,7 @@
           "name": "Matthew Golden",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 118
@@ -1272,7 +1272,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 21
@@ -1358,10 +1358,10 @@
           "rank": 7
         },
         {
-          "id": "GB",
-          "name": "Green Bay Packers",
+          "id": "WAS",
+          "name": "Washington Commanders",
           "pos": "DEF",
-          "team": "GB",
+          "team": "WAS",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1673,7 +1673,7 @@
           "name": "Stefon Diggs",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 105
@@ -2044,7 +2044,7 @@
           "name": "Matthew Golden",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 118
@@ -2456,7 +2456,7 @@
           "name": "Travis Kelce",
           "pos": "TE",
           "team": "KC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 90
@@ -2939,7 +2939,7 @@
           "name": "RJ Harvey",
           "pos": "RB",
           "team": "DEN",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 2,
           "rank": 56
@@ -2983,6 +2983,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1421637090839437312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793307204497,
+      "adds": [
+        {
+          "player": {
+            "id": "WAS",
+            "name": "Washington Commanders",
+            "pos": "DEF",
+            "team": "WAS",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 4,
+          "team": "4th and beer"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "GB",
+            "name": "Green Bay Packers",
+            "pos": "DEF",
+            "team": "GB",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 4,
+          "team": "4th and beer"
+        }
+      ],
+      "roster_ids": [
+        4
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1421177352829820928",
       "type": "free_agent",
@@ -3263,7 +3305,7 @@
         "name": "Carson Beck",
         "pos": "QB",
         "team": "ARI",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 289
@@ -3465,7 +3507,7 @@
         "name": "Kaleb Johnson",
         "pos": "RB",
         "team": "GB",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 173
@@ -3727,7 +3769,7 @@
         "name": "Marvin Mims Jr.",
         "pos": "WR",
         "team": "DEN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 192
@@ -3989,16 +4031,6 @@
         "rank": null
       },
       {
-        "id": "WAS",
-        "name": "Washington Commanders",
-        "pos": "DEF",
-        "team": "WAS",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
-      },
-      {
         "id": "LAC",
         "name": "Los Angeles Chargers",
         "pos": "DEF",
@@ -4017,6 +4049,16 @@
         "status": null,
         "depth": null,
         "rank": null
+      },
+      {
+        "id": "NO",
+        "name": "New Orleans Saints",
+        "pos": "DEF",
+        "team": "NO",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
       }
     ]
   },
@@ -4030,18 +4072,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 532,
-      "adds": 907389
-    },
-    {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 530782
+      "adds": 761625
     },
     {
       "id": "12457",
@@ -4052,7 +4083,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 468968
+      "adds": 504976
     },
     {
       "id": "7042",
@@ -4063,18 +4094,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 129790
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 123914
+      "adds": 171915
     },
     {
       "id": "12498",
@@ -4085,7 +4105,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 93940
+      "adds": 131395
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 122626
     },
     {
       "id": "LV",
@@ -4096,7 +4127,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 93894
+      "adds": 121986
     },
     {
       "id": "DET",
@@ -4107,51 +4138,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 71064
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 66122
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 58989
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 125,
-      "adds": 52866
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 47740
+      "adds": 89019
     },
     {
       "id": "8110",
@@ -4162,18 +4149,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 38565
+      "adds": 51180
     },
     {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 109,
-      "adds": 31716
+      "rank": 141,
+      "adds": 50145
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 50099
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 125,
+      "adds": 49617
     },
     {
       "id": "3271",
@@ -4184,51 +4193,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 634,
-      "adds": 30447
+      "adds": 41256
     },
     {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 448,
-      "adds": 29892
-    },
-    {
-      "id": "13421",
-      "name": "Eli Raridon",
-      "pos": "TE",
-      "team": "NE",
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 364,
-      "adds": 27286
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26950
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 356,
-      "adds": 25488
+      "rank": 527,
+      "adds": 39298
     },
     {
       "id": "13545",
@@ -4239,7 +4215,73 @@
       "status": "Active",
       "depth": 1,
       "rank": 194,
-      "adds": 25172
+      "adds": 39144
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 448,
+      "adds": 37084
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 356,
+      "adds": 34227
+    },
+    {
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 153,
+      "adds": 32264
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 32256
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 195,
+      "adds": 29562
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 98,
+      "adds": 27756
     }
   ]
 }
