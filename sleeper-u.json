@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-30T12:40:22.874Z",
+  "generated_at": "2026-10-30T18:12:16.405Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -127,16 +127,6 @@
         "rank": 263
       },
       {
-        "id": "12514",
-        "name": "Emeka Egbuka",
-        "pos": "WR",
-        "team": "TB",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 39
-      },
-      {
         "id": "13276",
         "name": "Omar Cooper Jr.",
         "pos": "WR",
@@ -145,6 +135,16 @@
         "status": "Active",
         "depth": 2,
         "rank": 151
+      },
+      {
+        "id": "4199",
+        "name": "Aaron Jones Sr.",
+        "pos": "RB",
+        "team": "MIN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 85
       },
       {
         "id": "6770",
@@ -209,6 +209,16 @@
         "rank": 206
       },
       {
+        "id": "12514",
+        "name": "Emeka Egbuka",
+        "pos": "WR",
+        "team": "TB",
+        "injury": "Out",
+        "status": "Active",
+        "depth": 1,
+        "rank": 39
+      },
+      {
         "id": "4035",
         "name": "Alvin Kamara",
         "pos": "RB",
@@ -227,16 +237,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 39
-      },
-      {
-        "id": "4199",
-        "name": "Aaron Jones Sr.",
-        "pos": "RB",
-        "team": "MIN",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 85
       },
       {
         "id": "4217",
@@ -325,14 +325,14 @@
           "rank": 81
         },
         {
-          "id": "12514",
-          "name": "Emeka Egbuka",
-          "pos": "WR",
-          "team": "TB",
+          "id": "4199",
+          "name": "Aaron Jones Sr.",
+          "pos": "RB",
+          "team": "MIN",
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 85
         },
         {
           "id": "1166",
@@ -2285,7 +2285,7 @@
           "name": "Lamar Jackson",
           "pos": "QB",
           "team": "BAL",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 9
@@ -2663,16 +2663,6 @@
           "rank": 263
         },
         {
-          "id": "12514",
-          "name": "Emeka Egbuka",
-          "pos": "WR",
-          "team": "TB",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 39
-        },
-        {
           "id": "13276",
           "name": "Omar Cooper Jr.",
           "pos": "WR",
@@ -2681,6 +2671,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 151
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones Sr.",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 85
         },
         {
           "id": "6770",
@@ -2745,6 +2745,16 @@
           "rank": 206
         },
         {
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "pos": "WR",
+          "team": "TB",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 39
+        },
+        {
           "id": "4035",
           "name": "Alvin Kamara",
           "pos": "RB",
@@ -2763,16 +2773,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 39
-        },
-        {
-          "id": "4199",
-          "name": "Aaron Jones Sr.",
-          "pos": "RB",
-          "team": "MIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 85
         },
         {
           "id": "4217",
@@ -3387,7 +3387,7 @@
         "name": "Brian Robinson Jr.",
         "pos": "RB",
         "team": "ATL",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 80
@@ -3509,7 +3509,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 173
       },
       {
@@ -4072,7 +4072,7 @@
       "status": "Active",
       "depth": null,
       "rank": 532,
-      "adds": 598356
+      "adds": 472725
     },
     {
       "id": "12457",
@@ -4083,7 +4083,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 416992
+      "adds": 350528
     },
     {
       "id": "7042",
@@ -4094,7 +4094,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 159105
+      "adds": 139995
     },
     {
       "id": "12498",
@@ -4105,7 +4105,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 142670
+      "adds": 139605
     },
     {
       "id": "LV",
@@ -4116,18 +4116,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 117474
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 85323
+      "adds": 102270
     },
     {
       "id": "DET",
@@ -4138,7 +4127,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 84870
+      "adds": 75546
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 63938
     },
     {
       "id": "8110",
@@ -4149,18 +4149,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 49670
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 44455
+      "adds": 45080
     },
     {
       "id": "3271",
@@ -4171,7 +4160,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 636,
-      "adds": 43686
+      "adds": 42435
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 40765
     },
     {
       "id": "10219",
@@ -4182,18 +4182,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 127,
-      "adds": 38313
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 36190
+      "adds": 36342
     },
     {
       "id": "4993",
@@ -4204,7 +4193,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 34436
+      "adds": 32180
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 30800
     },
     {
       "id": "CLE",
@@ -4215,29 +4215,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 31843
-    },
-    {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 30588
-    },
-    {
-      "id": "7839",
-      "name": "Evan McPherson",
-      "pos": "K",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 155,
-      "adds": 28415
+      "adds": 29715
     },
     {
       "id": "4039",
@@ -4248,7 +4226,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 27408
+      "adds": 25098
+    },
+    {
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 24873
+    },
+    {
+      "id": "13545",
+      "name": "Trey Smack",
+      "pos": "K",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 194,
+      "adds": 24684
     },
     {
       "id": "2505",
@@ -4259,29 +4259,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 357,
-      "adds": 24525
+      "adds": 19584
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
+      "id": "4663",
+      "name": "Austin Ekeler",
       "pos": "RB",
-      "team": "DET",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 527,
-      "adds": 22449
+      "rank": 632,
+      "adds": 19316
     },
     {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
+      "id": "12499",
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "team": "TEN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 98,
-      "adds": 20925
+      "depth": 3,
+      "rank": 185,
+      "adds": 18928
     }
   ]
 }
