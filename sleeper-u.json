@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-30T00:20:25.287Z",
+  "generated_at": "2026-10-30T06:01:27.972Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -401,7 +401,7 @@
       "team": "Kingz of Paulys",
       "is_me": false,
       "matchup_id": 3,
-      "points": 0,
+      "points": 20.9,
       "starters": [
         {
           "id": "3257",
@@ -509,7 +509,7 @@
         0,
         0,
         0,
-        0,
+        20.9,
         0,
         0,
         0,
@@ -527,7 +527,7 @@
         "9500": 0,
         "10229": 0,
         "11533": 0,
-        "12501": 0,
+        "12501": 20.9,
         "12518": 0,
         "12522": 0,
         "12527": 0,
@@ -743,7 +743,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 2,
-          "rank": 22
+          "rank": 23
         },
         {
           "id": "8146",
@@ -835,7 +835,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 106
         },
         {
           "id": "9753",
@@ -1325,14 +1325,14 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "8167",
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -1676,7 +1676,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 104
         },
         {
           "id": "6786",
@@ -2402,7 +2402,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 3,
-          "rank": 41
+          "rank": 43
         },
         {
           "id": "9226",
@@ -2449,7 +2449,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "1466",
@@ -2459,7 +2459,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 90
+          "rank": 89
         },
         {
           "id": "3198",
@@ -2489,7 +2489,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 48
+          "rank": 50
         },
         {
           "id": "5849",
@@ -2932,7 +2932,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "12489",
@@ -2952,7 +2952,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 161
+          "rank": 162
         },
         {
           "id": "13424",
@@ -3440,7 +3440,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 125
+        "rank": 127
       },
       {
         "id": "11647",
@@ -3509,7 +3509,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 173
       },
       {
@@ -3592,7 +3592,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 103
+        "rank": 104
       },
       {
         "id": "7049",
@@ -3919,20 +3919,20 @@
         "rank": 128
       },
       {
-        "id": "7839",
-        "name": "Evan McPherson",
-        "pos": "K",
-        "team": "CIN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 153
-      },
-      {
         "id": "4227",
         "name": "Harrison Butker",
         "pos": "K",
         "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 155
+      },
+      {
+        "id": "7839",
+        "name": "Evan McPherson",
+        "pos": "K",
+        "team": "CIN",
         "injury": null,
         "status": "Active",
         "depth": 1,
@@ -4070,9 +4070,9 @@
       "team": "PHI",
       "injury": null,
       "status": "Active",
-      "depth": 3,
+      "depth": null,
       "rank": 532,
-      "adds": 761625
+      "adds": 661797
     },
     {
       "id": "12457",
@@ -4083,7 +4083,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 504976
+      "adds": 456432
     },
     {
       "id": "7042",
@@ -4094,7 +4094,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 288,
-      "adds": 171915
+      "adds": 166940
     },
     {
       "id": "12498",
@@ -4105,18 +4105,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 131395
-    },
-    {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 122626
+      "adds": 141785
     },
     {
       "id": "LV",
@@ -4127,7 +4116,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 121986
+      "adds": 122220
+    },
+    {
+      "id": "12482",
+      "name": "Savion Williams",
+      "pos": "WR",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 100660
     },
     {
       "id": "DET",
@@ -4138,7 +4138,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 89019
+      "adds": 89028
     },
     {
       "id": "8110",
@@ -4149,7 +4149,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 51180
+      "adds": 51660
     },
     {
       "id": "11647",
@@ -4160,29 +4160,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 50145
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 50099
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 125,
-      "adds": 49617
+      "adds": 46995
     },
     {
       "id": "3271",
@@ -4193,29 +4171,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 634,
-      "adds": 41256
+      "adds": 43650
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
       "pos": "RB",
-      "team": "DET",
+      "team": "JAX",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 527,
-      "adds": 39298
+      "rank": 127,
+      "adds": 41589
     },
     {
-      "id": "13545",
-      "name": "Trey Smack",
-      "pos": "K",
-      "team": "GB",
-      "injury": null,
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": "Questionable",
       "status": "Active",
-      "depth": 1,
-      "rank": 194,
-      "adds": 39144
+      "depth": 3,
+      "rank": 679,
+      "adds": 41321
     },
     {
       "id": "4993",
@@ -4226,29 +4204,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 37084
+      "adds": 35764
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 356,
-      "adds": 34227
-    },
-    {
-      "id": "7839",
-      "name": "Evan McPherson",
+      "id": "13545",
+      "name": "Trey Smack",
       "pos": "K",
-      "team": "CIN",
+      "team": "GB",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 153,
-      "adds": 32264
+      "rank": 194,
+      "adds": 33204
     },
     {
       "id": "CLE",
@@ -4259,7 +4226,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 32256
+      "adds": 32480
+    },
+    {
+      "id": "7839",
+      "name": "Evan McPherson",
+      "pos": "K",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 155,
+      "adds": 29973
     },
     {
       "id": "4039",
@@ -4270,7 +4248,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 195,
-      "adds": 29562
+      "adds": 28710
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 28322
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 356,
+      "adds": 27144
     },
     {
       "id": "11581",
@@ -4281,7 +4281,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 98,
-      "adds": 27756
+      "adds": 23364
     }
   ]
 }
