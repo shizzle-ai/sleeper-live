@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-30T22:17:18.183Z",
+  "generated_at": "2026-10-31T01:37:53.467Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -803,7 +803,7 @@
           "team": "TEN",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 7,
           "rank": 61
         },
         {
@@ -2199,7 +2199,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 5,
           "rank": 34
         }
       ],
@@ -2338,7 +2338,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 658
         },
         {
@@ -2539,7 +2539,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 91
         },
         {
@@ -2930,7 +2930,7 @@
           "team": "DEN",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 6,
           "rank": 56
         },
         {
@@ -3455,7 +3455,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 5,
         "rank": 122
       },
       {
@@ -3515,7 +3515,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 167
       },
       {
@@ -3707,7 +3707,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 175
       },
       {
@@ -3737,7 +3737,7 @@
         "team": "TEN",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 180
       },
       {
@@ -4088,7 +4088,7 @@
       "status": "Active",
       "depth": null,
       "rank": 532,
-      "adds": 391770
+      "adds": 234783
     },
     {
       "id": "12457",
@@ -4099,7 +4099,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 290424
+      "adds": 182344
     },
     {
       "id": "12498",
@@ -4110,40 +4110,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 134580
-    },
-    {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 288,
-      "adds": 122150
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 89142
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 68229
+      "adds": 88055
     },
     {
       "id": "12499",
@@ -4154,29 +4121,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 52520
+      "adds": 64348
     },
     {
-      "id": "12482",
-      "name": "Savion Williams",
-      "pos": "WR",
-      "team": "GB",
+      "id": "7042",
+      "name": "Tyler Bass",
+      "pos": "K",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 45871
+      "depth": 1,
+      "rank": 288,
+      "adds": 51945
     },
     {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 43860
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 40860
     },
     {
       "id": "10219",
@@ -4187,7 +4154,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 127,
-      "adds": 43083
+      "adds": 36648
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 36621
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 34360
     },
     {
       "id": "3271",
@@ -4198,7 +4187,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 636,
-      "adds": 42831
+      "adds": 28656
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism III",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 572,
+      "adds": 23808
     },
     {
       "id": "8110",
@@ -4209,18 +4209,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 97,
-      "adds": 41130
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 30224
+      "adds": 21370
     },
     {
       "id": "8135",
@@ -4231,7 +4220,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 28623
+      "adds": 19124
     },
     {
       "id": "CLE",
@@ -4242,51 +4231,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27986
+      "adds": 18977
     },
     {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 26008
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 195,
-      "adds": 22542
-    },
-    {
-      "id": "7839",
-      "name": "Evan McPherson",
-      "pos": "K",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
       "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 155,
-      "adds": 21452
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 20548
+      "rank": 447,
+      "adds": 17512
     },
     {
       "id": "5995",
@@ -4297,7 +4253,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 20088
+      "adds": 15822
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 15340
+    },
+    {
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 363,
+      "adds": 14007
+    },
+    {
+      "id": "11631",
+      "name": "Brian Thomas Jr.",
+      "pos": "WR",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 74,
+      "adds": 13585
+    },
+    {
+      "id": "12530",
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 104,
+      "adds": 13464
     }
   ]
 }
