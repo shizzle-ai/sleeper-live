@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T01:37:53.467Z",
+  "generated_at": "2026-10-31T07:28:25.854Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -491,7 +491,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 91
+          "rank": 89
         },
         {
           "id": "LAR",
@@ -814,7 +814,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 199
+          "rank": 197
         },
         {
           "id": "13346",
@@ -1464,7 +1464,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 28
+          "rank": 26
         },
         {
           "id": "12545",
@@ -1675,7 +1675,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 104
+          "rank": 105
         },
         {
           "id": "6786",
@@ -1725,7 +1725,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 19
+          "rank": 17
         },
         {
           "id": "8228",
@@ -1869,14 +1869,14 @@
           "rank": 40
         },
         {
-          "id": "6083",
-          "name": "Matt Gay",
+          "id": "7042",
+          "name": "Tyler Bass",
           "pos": "K",
-          "team": "LV",
+          "team": "BUF",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 239
+          "rank": 288
         },
         {
           "id": "7526",
@@ -2046,7 +2046,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 91
+          "rank": 89
         },
         {
           "id": "12501",
@@ -2227,7 +2227,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 451
+          "rank": 449
         },
         {
           "id": "12506",
@@ -2498,7 +2498,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 46
+          "rank": 44
         },
         {
           "id": "7564",
@@ -2540,7 +2540,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 91
+          "rank": 89
         },
         {
           "id": "13305",
@@ -2921,7 +2921,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 64
+          "rank": 65
         },
         {
           "id": "12489",
@@ -2972,6 +2972,48 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1422075664479039488",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793411768601,
+      "adds": [
+        {
+          "player": {
+            "id": "7042",
+            "name": "Tyler Bass",
+            "pos": "K",
+            "team": "BUF",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 288
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "6083",
+            "name": "Matt Gay",
+            "pos": "K",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 239
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1421990176539820080",
       "type": "free_agent",
@@ -3274,7 +3316,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 109
+        "rank": 107
       },
       {
         "id": "138",
@@ -3466,7 +3508,7 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 127
+        "rank": 125
       },
       {
         "id": "11647",
@@ -3731,6 +3773,16 @@
         "rank": 179
       },
       {
+        "id": "13413",
+        "name": "Cyrus Allen",
+        "pos": "WR",
+        "team": "KC",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 179
+      },
+      {
         "id": "4981",
         "name": "Calvin Ridley",
         "pos": "WR",
@@ -3739,16 +3791,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 180
-      },
-      {
-        "id": "13413",
-        "name": "Cyrus Allen",
-        "pos": "WR",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 4,
-        "rank": 181
       },
       {
         "id": "12535",
@@ -4088,7 +4130,7 @@
       "status": "Active",
       "depth": null,
       "rank": 532,
-      "adds": 234783
+      "adds": 184941
     },
     {
       "id": "12457",
@@ -4099,18 +4141,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 182344
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 138,
-      "adds": 88055
+      "adds": 129072
     },
     {
       "id": "12499",
@@ -4121,29 +4152,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 64348
+      "adds": 76868
     },
     {
-      "id": "7042",
-      "name": "Tyler Bass",
-      "pos": "K",
-      "team": "BUF",
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 288,
-      "adds": 51945
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 40860
+      "rank": 138,
+      "adds": 75740
     },
     {
       "id": "10219",
@@ -4153,19 +4173,8 @@
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 127,
-      "adds": 36648
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 36621
+      "rank": 125,
+      "adds": 36702
     },
     {
       "id": "11647",
@@ -4176,7 +4185,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 34360
+      "adds": 32800
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 28080
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 27828
     },
     {
       "id": "3271",
@@ -4187,7 +4218,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 636,
-      "adds": 28656
+      "adds": 24696
     },
     {
       "id": "12542",
@@ -4198,18 +4229,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 23808
-    },
-    {
-      "id": "8110",
-      "name": "Jake Ferguson",
-      "pos": "TE",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 97,
-      "adds": 21370
+      "adds": 23480
     },
     {
       "id": "8135",
@@ -4220,7 +4240,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 19124
+      "adds": 16037
+    },
+    {
+      "id": "8110",
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 97,
+      "adds": 16015
     },
     {
       "id": "CLE",
@@ -4231,18 +4262,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 18977
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 447,
-      "adds": 17512
+      "adds": 15750
     },
     {
       "id": "5995",
@@ -4253,7 +4273,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 15822
+      "adds": 15633
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 449,
+      "adds": 14120
     },
     {
       "id": "4663",
@@ -4264,40 +4295,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 15340
+      "adds": 14092
     },
     {
-      "id": "13421",
-      "name": "Eli Raridon",
-      "pos": "TE",
-      "team": "NE",
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 363,
-      "adds": 14007
+      "rank": 196,
+      "adds": 13854
     },
     {
-      "id": "11631",
-      "name": "Brian Thomas Jr.",
-      "pos": "WR",
-      "team": "JAX",
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 13672
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 74,
-      "adds": 13585
+      "rank": 487,
+      "adds": 13632
     },
     {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
+      "id": "13337",
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "team": "KC",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 13464
+      "depth": 2,
+      "rank": 113,
+      "adds": 12996
     }
   ]
 }
