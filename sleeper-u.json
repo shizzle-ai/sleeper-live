@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T20:57:37.099Z",
+  "generated_at": "2026-10-31T23:56:26.558Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4226,7 +4226,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 100968
+      "adds": 95044
     },
     {
       "id": "12498",
@@ -4237,40 +4237,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 68655
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 125,
-      "adds": 59004
-    },
-    {
-      "id": "12457",
-      "name": "Jaydon Blue",
-      "pos": "RB",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 189,
-      "adds": 53712
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 48930
+      "adds": 61285
     },
     {
       "id": "12491",
@@ -4281,7 +4248,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 47616
+      "adds": 58194
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 125,
+      "adds": 56574
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 45985
+    },
+    {
+      "id": "12457",
+      "name": "Jaydon Blue",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 189,
+      "adds": 38272
     },
     {
       "id": "11581",
@@ -4292,7 +4292,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 98,
-      "adds": 30051
+      "adds": 35856
     },
     {
       "id": "DET",
@@ -4303,7 +4303,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28881
+      "adds": 28620
     },
     {
       "id": "3271",
@@ -4314,84 +4314,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 636,
-      "adds": 25623
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 22761
-    },
-    {
-      "id": "8207",
-      "name": "Tyler Goodson",
-      "pos": "RB",
-      "team": "DAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 480,
-      "adds": 22221
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 21824
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 572,
-      "adds": 21692
-    },
-    {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 21462
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 196,
-      "adds": 18912
-    },
-    {
-      "id": "8132",
-      "name": "Tyler Allgeier",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 89,
-      "adds": 18805
+      "adds": 25056
     },
     {
       "id": "12547",
@@ -4402,29 +4325,84 @@
       "status": "Active",
       "depth": 2,
       "rank": 195,
-      "adds": 17350
+      "adds": 24330
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
+      "id": "8207",
+      "name": "Tyler Goodson",
       "pos": "RB",
-      "team": "WAS",
+      "team": "DAL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 632,
-      "adds": 15788
+      "rank": 480,
+      "adds": 22488
     },
     {
-      "id": "13337",
-      "name": "Emmett Johnson",
+      "id": "12542",
+      "name": "Efton Chism III",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 572,
+      "adds": 21480
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
       "pos": "RB",
-      "team": "KC",
+      "team": "TB",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 21256
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 113,
-      "adds": 15624
+      "rank": 220,
+      "adds": 21159
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "pos": "DEF",
+      "team": "LV",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 20112
+    },
+    {
+      "id": "8132",
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 89,
+      "adds": 17905
+    },
+    {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 196,
+      "adds": 16686
     },
     {
       "id": "11631",
@@ -4435,7 +4413,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 74,
-      "adds": 15480
+      "adds": 15300
+    },
+    {
+      "id": "13337",
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 113,
+      "adds": 14481
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 13908
     }
   ]
 }
