@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-10-31T07:28:25.854Z",
+  "generated_at": "2026-10-31T13:46:58.222Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2167,7 +2167,7 @@
           "team": "DEN",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 118
         },
         {
@@ -3182,7 +3182,7 @@
             "team": "DEN",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 68
           },
           "roster_id": 12,
@@ -3437,7 +3437,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 68
       },
       {
@@ -3779,7 +3779,7 @@
         "team": "KC",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 179
       },
       {
@@ -4130,7 +4130,7 @@
       "status": "Active",
       "depth": null,
       "rank": 532,
-      "adds": 184941
+      "adds": 167391
     },
     {
       "id": "12457",
@@ -4141,7 +4141,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 189,
-      "adds": 129072
+      "adds": 99992
     },
     {
       "id": "12499",
@@ -4152,7 +4152,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 76868
+      "adds": 86836
     },
     {
       "id": "12498",
@@ -4163,7 +4163,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 75740
+      "adds": 72445
     },
     {
       "id": "10219",
@@ -4174,7 +4174,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 36702
+      "adds": 39303
     },
     {
       "id": "11647",
@@ -4185,7 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 32800
+      "adds": 33440
     },
     {
       "id": "DET",
@@ -4196,7 +4196,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28080
+      "adds": 26154
     },
     {
       "id": "LV",
@@ -4207,18 +4207,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27828
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 636,
-      "adds": 24696
+      "adds": 23610
     },
     {
       "id": "12542",
@@ -4229,40 +4218,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 572,
-      "adds": 23480
+      "adds": 23412
     },
     {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 16037
-    },
-    {
-      "id": "8110",
-      "name": "Jake Ferguson",
+      "id": "3271",
+      "name": "Tyler Higbee",
       "pos": "TE",
-      "team": "DAL",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 97,
-      "adds": 16015
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 15750
+      "rank": 636,
+      "adds": 22671
     },
     {
       "id": "5995",
@@ -4273,29 +4240,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 15633
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 14120
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 14092
+      "adds": 16218
     },
     {
       "id": "13317",
@@ -4306,7 +4251,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 196,
-      "adds": 13854
+      "adds": 15654
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 15295
     },
     {
       "id": "7567",
@@ -4317,7 +4273,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 13672
+      "adds": 14648
+    },
+    {
+      "id": "8207",
+      "name": "Tyler Goodson",
+      "pos": "RB",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 480,
+      "adds": 14586
+    },
+    {
+      "id": "8110",
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "team": "DAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 97,
+      "adds": 14455
     },
     {
       "id": "12491",
@@ -4328,18 +4306,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 487,
-      "adds": 13632
+      "adds": 14388
     },
     {
-      "id": "13337",
-      "name": "Emmett Johnson",
+      "id": "4663",
+      "name": "Austin Ekeler",
       "pos": "RB",
-      "team": "KC",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 113,
-      "adds": 12996
+      "rank": 632,
+      "adds": 13984
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 13895
+    },
+    {
+      "id": "12485",
+      "name": "Tez Johnson",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 674,
+      "adds": 13416
     }
   ]
 }
