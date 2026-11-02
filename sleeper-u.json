@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-02T14:47:02.337Z",
+  "generated_at": "2026-11-02T22:54:35.439Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1234,8 +1234,8 @@
           "name": "Jadarian Price",
           "pos": "RB",
           "team": "SEA",
-          "injury": "IR",
-          "status": "Inactive",
+          "injury": null,
+          "status": "Active",
           "depth": 8,
           "rank": 52
         },
@@ -4305,29 +4305,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 484504
-    },
-    {
-      "id": "8132",
-      "name": "Tyler Allgeier",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 89,
-      "adds": 274190
-    },
-    {
-      "id": "13337",
-      "name": "Emmett Johnson",
-      "pos": "RB",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 113,
-      "adds": 220446
+      "adds": 515496
     },
     {
       "id": "6011",
@@ -4338,40 +4316,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 164976
+      "adds": 290576
     },
     {
-      "id": "12491",
-      "name": "Corey Kiner",
+      "id": "13337",
+      "name": "Emmett Johnson",
       "pos": "RB",
-      "team": "NE",
+      "team": "KC",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 487,
-      "adds": 150858
+      "rank": 113,
+      "adds": 289971
     },
     {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 195,
-      "adds": 87864
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
+      "id": "8132",
+      "name": "Tyler Allgeier",
       "pos": "RB",
-      "team": "LAC",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 141,
-      "adds": 85165
+      "rank": 89,
+      "adds": 277770
     },
     {
       "id": "7567",
@@ -4382,62 +4349,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 84384
-    },
-    {
-      "id": "12547",
-      "name": "Kyle Williams",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 195,
-      "adds": 79195
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 127,
-      "adds": 74907
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 74880
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 60300
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 138,
-      "adds": 48725
+      "adds": 50488
     },
     {
       "id": "4993",
@@ -4448,7 +4360,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 44900
+      "adds": 49828
     },
     {
       "id": "8135",
@@ -4459,40 +4371,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 40768
+      "adds": 47138
     },
     {
-      "id": "LV",
-      "name": "Las Vegas Raiders",
-      "pos": "DEF",
-      "team": "LV",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 35616
-    },
-    {
-      "id": "11571",
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "team": "NYJ",
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 518,
-      "adds": 32373
+      "rank": 195,
+      "adds": 39024
     },
     {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "team": "NE",
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "team": "CHI",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 572,
-      "adds": 30932
+      "rank": 546,
+      "adds": 25296
     },
     {
       "id": "2020",
@@ -4503,7 +4404,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 26635
+      "adds": 23331
+    },
+    {
+      "id": "12540",
+      "name": "Chimere Dike",
+      "pos": "WR",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 175,
+      "adds": 22932
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 127,
+      "adds": 21906
     },
     {
       "id": "11729",
@@ -4514,7 +4437,84 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 25970
+      "adds": 20657
+    },
+    {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 98,
+      "adds": 11736
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 11565
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 11155
+    },
+    {
+      "id": "SF",
+      "name": "San Francisco 49ers",
+      "pos": "DEF",
+      "team": "SF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 10473
+    },
+    {
+      "id": "12547",
+      "name": "Kyle Williams",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 195,
+      "adds": 10390
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 471,
+      "adds": 10345
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 9846
     }
   ]
 }
