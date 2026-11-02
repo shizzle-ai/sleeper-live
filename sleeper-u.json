@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-02T00:11:22.330Z",
+  "generated_at": "2026-11-02T05:57:40.791Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -380,7 +380,7 @@
       "players_points": {
         "1166": 28.18,
         "4035": 0,
-        "4046": 22.96,
+        "4046": 25.44,
         "4199": 6,
         "4217": 0,
         "6770": 42.48,
@@ -401,7 +401,7 @@
       "team": "Kingz of Paulys",
       "is_me": false,
       "matchup_id": 3,
-      "points": 129.22,
+      "points": 143.02,
       "starters": [
         {
           "id": "3257",
@@ -508,10 +508,10 @@
         4.46,
         10.3,
         2.3,
-        17.1,
+        18.3,
         20.9,
         15.8,
-        7.8,
+        20.4,
         27.56,
         12,
         11
@@ -525,14 +525,14 @@
         "8134": 11.4,
         "8148": 17,
         "9500": 12.3,
-        "10229": 17.1,
+        "10229": 18.3,
         "11533": 12,
         "12501": 20.9,
         "12518": 5.8,
         "12522": 26.26,
         "12527": 10.3,
         "13287": 2.3,
-        "13345": 7.8,
+        "13345": 20.4,
         "LAR": 11
       }
     }
@@ -1110,7 +1110,7 @@
           "name": "Hunter Henry",
           "pos": "TE",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 92
@@ -4305,18 +4305,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 223016
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 210576
+      "adds": 396392
     },
     {
       "id": "8132",
@@ -4327,40 +4316,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 89,
-      "adds": 154005
+      "adds": 232865
     },
     {
-      "id": "11647",
-      "name": "Kimani Vidal",
+      "id": "12491",
+      "name": "Corey Kiner",
       "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 111720
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 105736
-    },
-    {
-      "id": "12547",
-      "name": "Kyle Williams",
-      "pos": "WR",
       "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 195,
-      "adds": 105475
+      "rank": 487,
+      "adds": 189300
     },
     {
       "id": "13337",
@@ -4371,51 +4338,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 113,
-      "adds": 98181
-    },
-    {
-      "id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "pos": "RB",
-      "team": "JAX",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 125,
-      "adds": 96660
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 647,
-      "adds": 86643
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 195,
-      "adds": 81354
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 138,
-      "adds": 80290
+      "adds": 187596
     },
     {
       "id": "6011",
@@ -4426,7 +4349,73 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 75252
+      "adds": 130892
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 102355
+    },
+    {
+      "id": "12547",
+      "name": "Kyle Williams",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 195,
+      "adds": 96640
+    },
+    {
+      "id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "team": "JAX",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 125,
+      "adds": 92763
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 195,
+      "adds": 92358
+    },
+    {
+      "id": "12499",
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 185,
+      "adds": 88200
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 647,
+      "adds": 83826
     },
     {
       "id": "7567",
@@ -4437,7 +4426,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 86,
-      "adds": 71224
+      "adds": 83288
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 138,
+      "adds": 68590
     },
     {
       "id": "LV",
@@ -4448,7 +4448,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54036
+      "adds": 48360
     },
     {
       "id": "12542",
@@ -4459,29 +4459,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 572,
-      "adds": 50912
+      "adds": 43648
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 34236
+      "depth": 1,
+      "rank": 448,
+      "adds": 38536
     },
     {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 98,
-      "adds": 32742
+      "depth": 3,
+      "rank": 679,
+      "adds": 37156
     },
     {
       "id": "11571",
@@ -4492,29 +4492,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 518,
-      "adds": 32364
+      "adds": 32733
     },
     {
-      "id": "8207",
-      "name": "Tyler Goodson",
+      "id": "5995",
+      "name": "Justice Hill",
       "pos": "RB",
-      "team": "DAL",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 480,
-      "adds": 30099
+      "rank": 220,
+      "adds": 30780
     },
     {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "team": "GB",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 27706
+      "status": "Active",
+      "depth": 2,
+      "rank": 98,
+      "adds": 27261
     }
   ]
 }
