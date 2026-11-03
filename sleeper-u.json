@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T18:29:19.566Z",
+  "generated_at": "2026-11-03T23:34:49.944Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2043,8 +2043,8 @@
           "name": "Jeremiyah Love",
           "pos": "RB",
           "team": "ARI",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 2,
           "rank": 15
         },
@@ -2244,8 +2244,8 @@
           "name": "Kendrick Bourne",
           "pos": "WR",
           "team": "ARI",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 6,
           "rank": 673
         },
@@ -2298,7 +2298,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 658
         },
         {
@@ -3203,7 +3203,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 173
       },
       {
@@ -3247,6 +3247,16 @@
         "rank": 189
       },
       {
+        "id": "11579",
+        "name": "Audric Estime",
+        "pos": "RB",
+        "team": "NO",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 190
+      },
+      {
         "id": "11569",
         "name": "Jarquez Hunter",
         "pos": "RB",
@@ -3255,16 +3265,6 @@
         "status": "Active",
         "depth": null,
         "rank": 191
-      },
-      {
-        "id": "5995",
-        "name": "Justice Hill",
-        "pos": "RB",
-        "team": "BAL",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 2,
-        "rank": 220
       }
     ],
     "WR": [
@@ -3445,7 +3445,7 @@
         "team": "ATL",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 8,
         "rank": 185
       },
       {
@@ -3613,16 +3613,6 @@
         "rank": 128
       },
       {
-        "id": "12711",
-        "name": "Tyler Loop",
-        "pos": "K",
-        "team": "BAL",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 150
-      },
-      {
         "id": "4227",
         "name": "Harrison Butker",
         "pos": "K",
@@ -3671,6 +3661,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 177
+      },
+      {
+        "id": "2020",
+        "name": "Cairo Santos",
+        "pos": "K",
+        "team": "CHI",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 190
       }
     ],
     "DEF": [
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 1221496
+      "adds": 1508096
     },
     {
       "id": "8132",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 89,
-      "adds": 810365
+      "adds": 1256485
     },
     {
       "id": "6011",
@@ -3788,7 +3788,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 650,
-      "adds": 780436
+      "adds": 795856
     },
     {
       "id": "13337",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 113,
-      "adds": 532809
+      "adds": 683883
     },
     {
       "id": "4993",
@@ -3810,84 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 214420
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 160538
-    },
-    {
-      "id": "SF",
-      "name": "San Francisco 49ers",
-      "pos": "DEF",
-      "team": "SF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 149562
-    },
-    {
-      "id": "2020",
-      "name": "Cairo Santos",
-      "pos": "K",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 146006
-    },
-    {
-      "id": "NO",
-      "name": "New Orleans Saints",
-      "pos": "DEF",
-      "team": "NO",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 144515
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 136248
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 112384
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 111468
+      "adds": 291216
     },
     {
       "id": "10219",
@@ -3898,7 +3821,84 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 98955
+      "adds": 238311
+    },
+    {
+      "id": "2020",
+      "name": "Cairo Santos",
+      "pos": "K",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 222166
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 208810
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "pos": "DEF",
+      "team": "NO",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 197345
+    },
+    {
+      "id": "SF",
+      "name": "San Francisco 49ers",
+      "pos": "DEF",
+      "team": "SF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 180756
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 86,
+      "adds": 163296
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 154864
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 153664
     },
     {
       "id": "12540",
@@ -3909,7 +3909,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 175,
-      "adds": 78309
+      "adds": 96273
     },
     {
       "id": "CHI",
@@ -3920,7 +3920,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 66920
+      "adds": 95059
     },
     {
       "id": "3451",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 57712
+      "adds": 84658
     },
     {
       "id": "3161",
@@ -3942,7 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 44868
+      "adds": 57030
     },
     {
       "id": "5189",
@@ -3953,7 +3953,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 31611
+      "adds": 46266
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 44064
     },
     {
       "id": "6083",
@@ -3964,18 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 30345
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 195,
-      "adds": 28926
+      "adds": 43905
     }
   ]
 }
