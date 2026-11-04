@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-03T23:34:49.944Z",
+  "generated_at": "2026-11-04T03:10:27.070Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -773,7 +773,7 @@
           "team": "SEA",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 161
         },
         {
@@ -1154,7 +1154,7 @@
           "team": "SEA",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 52
         },
         {
@@ -1216,7 +1216,7 @@
           "team": "ARI",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 669
         }
       ],
@@ -1628,6 +1628,16 @@
           "rank": 58
         },
         {
+          "id": "12481",
+          "name": "Cam Skattebo",
+          "pos": "RB",
+          "team": "NYG",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
+        {
           "id": "13968",
           "name": "Drew Stevens",
           "pos": "K",
@@ -1698,16 +1708,6 @@
           "rank": 17
         },
         {
-          "id": "8228",
-          "name": "Jaylen Warren",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 52
-        },
-        {
           "id": "JAX",
           "name": "Jacksonville Jaguars",
           "pos": "DEF",
@@ -1730,16 +1730,6 @@
           "rank": 199
         },
         {
-          "id": "12481",
-          "name": "Cam Skattebo",
-          "pos": "RB",
-          "team": "NYG",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
           "id": "1433",
           "name": "Brandon McManus",
           "pos": "K",
@@ -1748,6 +1738,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 674
+        },
+        {
+          "id": "8228",
+          "name": "Jaylen Warren",
+          "pos": "RB",
+          "team": "PIT",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 52
         },
         {
           "id": "9480",
@@ -2039,16 +2039,6 @@
           "rank": 12
         },
         {
-          "id": "13287",
-          "name": "Jeremiyah Love",
-          "pos": "RB",
-          "team": "ARI",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 2,
-          "rank": 15
-        },
-        {
           "id": "13345",
           "name": "Jonah Coleman",
           "pos": "RB",
@@ -2077,6 +2067,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 128
+        },
+        {
+          "id": "8148",
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "team": "DET",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 53
         },
         {
           "id": "LAR",
@@ -2117,7 +2117,7 @@
           "team": "ARI",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 203
         },
         {
@@ -2141,16 +2141,6 @@
           "rank": 120
         },
         {
-          "id": "8148",
-          "name": "Jameson Williams",
-          "pos": "WR",
-          "team": "DET",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 53
-        },
-        {
           "id": "9500",
           "name": "Josh Downs",
           "pos": "WR",
@@ -2162,6 +2152,16 @@
         }
       ],
       "reserve": [
+        {
+          "id": "13287",
+          "name": "Jeremiyah Love",
+          "pos": "RB",
+          "team": "ARI",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 7,
+          "rank": 15
+        },
         {
           "id": "7525",
           "name": "DeVonta Smith",
@@ -2922,7 +2922,7 @@
           "team": "DEN",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 6,
+          "depth": 7,
           "rank": 56
         },
         {
@@ -3163,7 +3163,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 157
       },
       {
@@ -3203,7 +3203,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 173
       },
       {
@@ -3253,7 +3253,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 7,
         "rank": 190
       },
       {
@@ -3315,7 +3315,7 @@
         "team": "SEA",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 150
       },
       {
@@ -3766,7 +3766,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 162,
-      "adds": 1508096
+      "adds": 1792040
     },
     {
       "id": "8132",
@@ -3777,7 +3777,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 89,
-      "adds": 1256485
+      "adds": 1486335
     },
     {
       "id": "6011",
@@ -3786,9 +3786,9 @@
       "team": "ARI",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 650,
-      "adds": 795856
+      "adds": 878932
     },
     {
       "id": "13337",
@@ -3799,7 +3799,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 113,
-      "adds": 683883
+      "adds": 802260
     },
     {
       "id": "4993",
@@ -3810,7 +3810,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 448,
-      "adds": 291216
+      "adds": 352996
     },
     {
       "id": "10219",
@@ -3821,7 +3821,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 125,
-      "adds": 238311
+      "adds": 330399
     },
     {
       "id": "2020",
@@ -3832,18 +3832,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 222166
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 208810
+      "adds": 266742
     },
     {
       "id": "NO",
@@ -3854,40 +3843,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 197345
+      "adds": 252745
     },
     {
-      "id": "SF",
-      "name": "San Francisco 49ers",
-      "pos": "DEF",
-      "team": "SF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 180756
-    },
-    {
-      "id": "7567",
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "team": "TB",
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 86,
-      "adds": 163296
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 154864
+      "depth": 3,
+      "rank": 679,
+      "adds": 251027
     },
     {
       "id": "11729",
@@ -3898,18 +3865,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 153664
+      "adds": 197904
     },
     {
-      "id": "12540",
-      "name": "Chimere Dike",
-      "pos": "WR",
-      "team": "TEN",
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 192776
+    },
+    {
+      "id": "SF",
+      "name": "San Francisco 49ers",
+      "pos": "DEF",
+      "team": "SF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 192351
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "team": "TB",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 175,
-      "adds": 96273
+      "depth": 2,
+      "rank": 86,
+      "adds": 184232
     },
     {
       "id": "CHI",
@@ -3920,7 +3909,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 95059
+      "adds": 118862
+    },
+    {
+      "id": "12540",
+      "name": "Chimere Dike",
+      "pos": "WR",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 175,
+      "adds": 113436
     },
     {
       "id": "3451",
@@ -3931,7 +3931,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 128,
-      "adds": 84658
+      "adds": 102904
     },
     {
       "id": "3161",
@@ -3942,18 +3942,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 633,
-      "adds": 57030
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 46266
+      "adds": 71370
     },
     {
       "id": "12487",
@@ -3964,7 +3953,18 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 44064
+      "adds": 70112
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 55785
     },
     {
       "id": "6083",
@@ -3975,7 +3975,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 239,
-      "adds": 43905
+      "adds": 50245
     }
   ]
 }
