@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-07T09:30:49.629Z",
+  "generated_at": "2026-11-07T15:51:45.266Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -827,14 +827,14 @@
           "rank": 153
         },
         {
-          "id": "13350",
-          "name": "Joe Fagnano",
-          "pos": "QB",
-          "team": "BAL",
+          "id": "4993",
+          "name": "Mike Gesicki",
+          "pos": "TE",
+          "team": "CIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 656
+          "rank": 449
         },
         {
           "id": "8146",
@@ -2952,6 +2952,48 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1424770345163816960",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794054230542,
+      "adds": [
+        {
+          "player": {
+            "id": "4993",
+            "name": "Mike Gesicki",
+            "pos": "TE",
+            "team": "CIN",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 449
+          },
+          "roster_id": 1,
+          "team": "Wades World"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "13350",
+            "name": "Joe Fagnano",
+            "pos": "QB",
+            "team": "BAL",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 656
+          },
+          "roster_id": 1,
+          "team": "Wades World"
+        }
+      ],
+      "roster_ids": [
+        1
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1424222531144937472",
       "type": "free_agent",
       "status": "complete",
@@ -3340,7 +3382,7 @@
             "team": "BAL",
             "injury": null,
             "status": "Active",
-            "depth": 1,
+            "depth": 2,
             "rank": 656
           },
           "roster_id": 1,
@@ -3548,7 +3590,7 @@
         "team": "BAL",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 203
       },
       {
@@ -4104,7 +4146,7 @@
         "team": "LAR",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 136
       },
       {
@@ -4343,7 +4385,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 679,
-      "adds": 228012
+      "adds": 246276
     },
     {
       "id": "12491",
@@ -4354,7 +4396,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 135012
+      "adds": 151488
     },
     {
       "id": "13150",
@@ -4365,7 +4407,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 90195
+      "adds": 93387
     },
     {
       "id": "13603",
@@ -4376,18 +4418,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 65656
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 449,
-      "adds": 57280
+      "adds": 86344
     },
     {
       "id": "12487",
@@ -4398,7 +4429,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 52912
+      "adds": 50560
     },
     {
       "id": "12634",
@@ -4407,9 +4438,9 @@
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 1,
       "rank": 999,
-      "adds": 44948
+      "adds": 48816
     },
     {
       "id": "8119",
@@ -4420,7 +4451,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 44109
+      "adds": 48285
     },
     {
       "id": "NYG",
@@ -4431,7 +4462,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41032
+      "adds": 41636
     },
     {
       "id": "5995",
@@ -4442,7 +4473,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 34713
+      "adds": 30501
     },
     {
       "id": "4663",
@@ -4453,7 +4484,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 27820
+      "adds": 28528
     },
     {
       "id": "11729",
@@ -4464,40 +4495,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 22953
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 17932
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 172,
-      "adds": 16664
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 15945
+      "adds": 20398
     },
     {
       "id": "4177",
@@ -4508,7 +4506,40 @@
       "status": "Inactive",
       "depth": 4,
       "rank": 697,
-      "adds": 15195
+      "adds": 17631
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 172,
+      "adds": 17336
+    },
+    {
+      "id": "13285",
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 201,
+      "adds": 16675
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 15462
     },
     {
       "id": "13421",
@@ -4519,7 +4550,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 13538
+      "adds": 13335
     },
     {
       "id": "9754",
@@ -4530,7 +4561,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 104,
-      "adds": 12614
+      "adds": 12236
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 12141
     },
     {
       "id": "8172",
@@ -4541,7 +4583,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 230,
-      "adds": 12020
+      "adds": 11880
     },
     {
       "id": "11647",
@@ -4552,7 +4594,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 10620
+      "adds": 10590
     }
   ]
 }
