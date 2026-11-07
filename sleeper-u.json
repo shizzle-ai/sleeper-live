@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-06T23:21:55.122Z",
+  "generated_at": "2026-11-07T02:56:09.095Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -215,7 +215,7 @@
         "team": "NYJ",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 151
       },
       {
@@ -494,10 +494,10 @@
           "rank": 149
         },
         {
-          "id": "TB",
-          "name": "Tampa Bay Buccaneers",
+          "id": "MIN",
+          "name": "Minnesota Vikings",
           "pos": "DEF",
-          "team": "TB",
+          "team": "MIN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1184,7 +1184,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 4,
           "rank": 60
         },
         {
@@ -1394,7 +1394,7 @@
           "team": "NYG",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 660
         },
         {
@@ -1554,7 +1554,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 8,
           "rank": 130
         },
         {
@@ -1596,7 +1596,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 4,
           "rank": 34
         }
       ],
@@ -1633,7 +1633,7 @@
           "team": "NYG",
           "injury": "Doubtful",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 36
         },
         {
@@ -1926,7 +1926,7 @@
           "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 162
         },
         {
@@ -1936,7 +1936,7 @@
           "team": "NE",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 5,
           "rank": 39
         },
         {
@@ -2136,7 +2136,7 @@
           "team": "PHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 5,
           "rank": 33
         },
         {
@@ -2327,7 +2327,7 @@
           "team": "NE",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 5,
           "rank": 17
         },
         {
@@ -2480,10 +2480,10 @@
           "rank": 487
         },
         {
-          "id": "TB",
-          "name": "Tampa Bay Buccaneers",
+          "id": "MIN",
+          "name": "Minnesota Vikings",
           "pos": "DEF",
-          "team": "TB",
+          "team": "MIN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2508,7 +2508,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 91
         },
         {
@@ -2542,10 +2542,10 @@
           "rank": 423
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "pos": "DEF",
-          "team": "MIN",
+          "team": "TB",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2709,7 +2709,7 @@
           "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 151
         },
         {
@@ -3800,7 +3800,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 190
       },
       {
@@ -3892,7 +3892,7 @@
         "team": "SEA",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 5,
         "rank": 150
       },
       {
@@ -4341,9 +4341,31 @@
       "team": "SF",
       "injury": "IR",
       "status": "Inactive",
-      "depth": 7,
+      "depth": 5,
       "rank": 679,
-      "adds": 305460
+      "adds": 242178
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 117570
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 658,
+      "adds": 92848
     },
     {
       "id": "4993",
@@ -4354,40 +4376,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 447,
-      "adds": 105708
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 658,
-      "adds": 103803
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 487,
-      "adds": 102090
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 77596
+      "adds": 67660
     },
     {
       "id": "12487",
@@ -4398,7 +4387,7 @@
       "status": "Inactive",
       "depth": 5,
       "rank": 141,
-      "adds": 67264
+      "adds": 57192
     },
     {
       "id": "5995",
@@ -4409,73 +4398,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 51786
+      "adds": 47565
     },
     {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 42669
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 999,
-      "adds": 42396
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 40838
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 40070
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 39908
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 31878
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 46560
     },
     {
       "id": "13603",
@@ -4486,7 +4420,62 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 27312
+      "adds": 45336
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 41493
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 999,
+      "adds": 41232
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 29208
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 28007
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 180,
+      "adds": 23080
     },
     {
       "id": "12492",
@@ -4497,40 +4486,7 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 172,
-      "adds": 20128
-    },
-    {
-      "id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 104,
-      "adds": 19614
-    },
-    {
-      "id": "12540",
-      "name": "Chimere Dike",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 175,
-      "adds": 18963
-    },
-    {
-      "id": "8172",
-      "name": "Greg Dulcich",
-      "pos": "TE",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 230,
-      "adds": 18596
+      "adds": 16992
     },
     {
       "id": "13285",
@@ -4541,7 +4497,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 199,
-      "adds": 18015
+      "adds": 16300
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 4,
+      "rank": 697,
+      "adds": 14739
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 104,
+      "adds": 13874
     },
     {
       "id": "13421",
@@ -4552,7 +4530,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 16632
+      "adds": 13762
+    },
+    {
+      "id": "8172",
+      "name": "Greg Dulcich",
+      "pos": "TE",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 230,
+      "adds": 13198
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 11130
     }
   ]
 }
