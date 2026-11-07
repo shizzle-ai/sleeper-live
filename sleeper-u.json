@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-07T19:40:51.994Z",
+  "generated_at": "2026-11-07T22:59:49.252Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -853,9 +853,9 @@
           "name": "Jordyn Tyson",
           "pos": "WR",
           "team": "NO",
-          "injury": "IR",
-          "status": "Inactive",
-          "depth": 9,
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 3,
           "rank": 62
         },
         {
@@ -1596,7 +1596,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 4,
+          "depth": 3,
           "rank": 34
         }
       ],
@@ -3687,16 +3687,6 @@
     ],
     "RB": [
       {
-        "id": "8154",
-        "name": "Brian Robinson Jr.",
-        "pos": "RB",
-        "team": "ATL",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 4,
-        "rank": 80
-      },
-      {
         "id": "11581",
         "name": "MarShawn Lloyd",
         "pos": "RB",
@@ -3823,7 +3813,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": null,
         "rank": 180
       },
       {
@@ -3843,7 +3833,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 190
       },
       {
@@ -3885,6 +3875,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 228
+      },
+      {
+        "id": "11186",
+        "name": "Carlos Washington Jr.",
+        "pos": "RB",
+        "team": "MIA",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 270
       }
     ],
     "WR": [
@@ -3915,7 +3915,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 6,
         "rank": 123
       },
       {
@@ -3977,6 +3977,16 @@
         "status": "Active",
         "depth": 4,
         "rank": 171
+      },
+      {
+        "id": "12492",
+        "name": "Pat Bryant",
+        "pos": "WR",
+        "team": "DEN",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 7,
+        "rank": 172
       },
       {
         "id": "12540",
@@ -4076,16 +4086,6 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 194
-      },
-      {
-        "id": "7090",
-        "name": "Darnell Mooney",
-        "pos": "WR",
-        "team": "NYG",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
         "rank": 194
       }
     ],
@@ -4382,11 +4382,11 @@
       "name": "Demarcus Robinson",
       "pos": "WR",
       "team": "SF",
-      "injury": "IR",
-      "status": "Inactive",
+      "injury": null,
+      "status": "Active",
       "depth": 5,
       "rank": 679,
-      "adds": 243606
+      "adds": 258408
     },
     {
       "id": "12491",
@@ -4397,7 +4397,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 129126
+      "adds": 111600
     },
     {
       "id": "13603",
@@ -4408,7 +4408,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 100840
+      "adds": 108944
     },
     {
       "id": "13150",
@@ -4419,7 +4419,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 84427
+      "adds": 74200
+    },
+    {
+      "id": "11579",
+      "name": "Audric Estime",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 190,
+      "adds": 52248
     },
     {
       "id": "12634",
@@ -4430,18 +4441,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 999,
-      "adds": 46172
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 41931
+      "adds": 43432
     },
     {
       "id": "NYG",
@@ -4452,18 +4452,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 41268
+      "adds": 38448
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 35592
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 35973
     },
     {
       "id": "4663",
@@ -4474,7 +4474,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 28784
+      "adds": 33820
+    },
+    {
+      "id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 689,
+      "adds": 28242
     },
     {
       "id": "5995",
@@ -4485,40 +4496,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 25470
+      "adds": 24516
     },
     {
       "id": "4177",
       "name": "Mack Hollins",
       "pos": "WR",
       "team": "NE",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 4,
-      "rank": 697,
-      "adds": 18081
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
       "injury": "Questionable",
       "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 15204
+      "depth": 4,
+      "rank": 697,
+      "adds": 23520
     },
     {
       "id": "12492",
       "name": "Pat Bryant",
       "pos": "WR",
       "team": "DEN",
-      "injury": "IR",
-      "status": "Inactive",
+      "injury": "Questionable",
+      "status": "Active",
       "depth": 7,
       "rank": 172,
-      "adds": 15160
+      "adds": 17024
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 16480
     },
     {
       "id": "3271",
@@ -4529,7 +4540,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 14022
+      "adds": 16353
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 13496
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 12495
     },
     {
       "id": "13285",
@@ -4540,7 +4573,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 201,
-      "adds": 13855
+      "adds": 11035
     },
     {
       "id": "13421",
@@ -4551,40 +4584,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 11802
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 180,
-      "adds": 10694
-    },
-    {
-      "id": "11579",
-      "name": "Audric Estime",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 190,
-      "adds": 10686
-    },
-    {
-      "id": "8172",
-      "name": "Greg Dulcich",
-      "pos": "TE",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 230,
-      "adds": 10608
+      "adds": 11018
     },
     {
       "id": "13482",
@@ -4595,7 +4595,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 9999999,
-      "adds": 10544
+      "adds": 10312
     }
   ]
 }
