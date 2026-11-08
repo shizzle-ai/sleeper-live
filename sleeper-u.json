@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T02:08:25.596Z",
+  "generated_at": "2026-11-08T08:55:08.739Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -431,7 +431,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "7564",
@@ -451,7 +451,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 50
+          "rank": 49
         },
         {
           "id": "1466",
@@ -692,7 +692,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "13298",
@@ -1263,7 +1263,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "5854",
@@ -1333,7 +1333,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 7
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1443,7 +1443,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
+          "rank": 28
         },
         {
           "id": "12545",
@@ -1503,7 +1503,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 68
+          "rank": 67
         },
         {
           "id": "7594",
@@ -2197,7 +2197,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 74
+          "rank": 73
         },
         {
           "id": "12495",
@@ -2361,7 +2361,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 3,
-          "rank": 8
+          "rank": 10
         },
         {
           "id": "5892",
@@ -2448,7 +2448,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 50
+          "rank": 49
         },
         {
           "id": "6790",
@@ -2458,7 +2458,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "7564",
@@ -2839,7 +2839,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "8138",
@@ -4386,29 +4386,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 276552
-    },
-    {
-      "id": "13603",
-      "name": "Gregory Desrosiers",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 570,
-      "adds": 114216
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 103068
+      "adds": 341208
     },
     {
       "id": "11579",
@@ -4419,7 +4397,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 89136
+      "adds": 156147
+    },
+    {
+      "id": "13603",
+      "name": "Gregory Desrosiers",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 570,
+      "adds": 118808
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 93198
     },
     {
       "id": "13150",
@@ -4430,7 +4430,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 70084
+      "adds": 70266
     },
     {
       "id": "7608",
@@ -4441,7 +4441,7 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 39708
+      "adds": 63513
     },
     {
       "id": "NYG",
@@ -4452,7 +4452,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 39612
+      "adds": 48792
     },
     {
       "id": "12634",
@@ -4463,7 +4463,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 38760
+      "adds": 36408
     },
     {
       "id": "4663",
@@ -4474,7 +4474,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 33364
+      "adds": 35316
     },
     {
       "id": "8119",
@@ -4485,7 +4485,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 32898
+      "adds": 32562
     },
     {
       "id": "4177",
@@ -4496,7 +4496,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 25266
+      "adds": 28308
     },
     {
       "id": "5995",
@@ -4507,7 +4507,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 23355
+      "adds": 22905
     },
     {
       "id": "12492",
@@ -4518,7 +4518,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 17424
+      "adds": 19800
     },
     {
       "id": "3271",
@@ -4529,7 +4529,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 16110
+      "adds": 16875
     },
     {
       "id": "11729",
@@ -4540,18 +4540,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 13531
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 13424
+      "adds": 15050
     },
     {
       "id": "11647",
@@ -4562,29 +4551,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 12635
+      "adds": 14085
     },
     {
-      "id": "13421",
-      "name": "Eli Raridon",
+      "id": "12487",
+      "name": "Terrance Ferguson",
       "pos": "TE",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 364,
-      "adds": 9828
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 9725
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 11496
     },
     {
       "id": "8172",
@@ -4595,7 +4573,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 230,
-      "adds": 9506
+      "adds": 10676
+    },
+    {
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 364,
+      "adds": 9842
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 104,
+      "adds": 9541
     }
   ]
 }
