@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-07T22:59:49.252Z",
+  "generated_at": "2026-11-08T02:08:25.596Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1184,7 +1184,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 5,
           "rank": 60
         },
         {
@@ -1204,7 +1204,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": null,
+          "depth": 2,
           "rank": 532
         },
         {
@@ -1596,7 +1596,7 @@
           "team": "NO",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 3,
+          "depth": 4,
           "rank": 34
         }
       ],
@@ -3733,7 +3733,7 @@
         "team": "MIA",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 157
       },
       {
@@ -3803,7 +3803,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 176
       },
       {
@@ -3823,7 +3823,7 @@
         "team": "PHI",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 189
       },
       {
@@ -3883,7 +3883,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": null,
+        "depth": 5,
         "rank": 270
       }
     ],
@@ -3975,7 +3975,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 171
       },
       {
@@ -3985,7 +3985,7 @@
         "team": "DEN",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 7,
+        "depth": 3,
         "rank": 172
       },
       {
@@ -4075,7 +4075,7 @@
         "team": "DEN",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 192
       },
       {
@@ -4384,20 +4384,9 @@
       "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 5,
+      "depth": 1,
       "rank": 679,
-      "adds": 258408
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 111600
+      "adds": 276552
     },
     {
       "id": "13603",
@@ -4408,18 +4397,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 108944
+      "adds": 114216
     },
     {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 658,
-      "adds": 74200
+      "rank": 487,
+      "adds": 103068
     },
     {
       "id": "11579",
@@ -4430,51 +4419,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 52248
+      "adds": 89136
     },
     {
-      "id": "12634",
-      "name": "Jordan Watkins",
+      "id": "13150",
+      "name": "Darius Cooper",
       "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 999,
-      "adds": 43432
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 38448
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 508,
-      "adds": 35973
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 33820
+      "rank": 658,
+      "adds": 70084
     },
     {
       "id": "7608",
@@ -4485,7 +4441,62 @@
       "status": "Active",
       "depth": null,
       "rank": 689,
-      "adds": 28242
+      "adds": 39708
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 39612
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 999,
+      "adds": 38760
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 33364
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 32898
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 25266
     },
     {
       "id": "5995",
@@ -4496,18 +4507,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 24516
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 4,
-      "rank": 697,
-      "adds": 23520
+      "adds": 23355
     },
     {
       "id": "12492",
@@ -4516,20 +4516,9 @@
       "team": "DEN",
       "injury": "Questionable",
       "status": "Active",
-      "depth": 7,
+      "depth": 3,
       "rank": 172,
-      "adds": 17024
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 16480
+      "adds": 17424
     },
     {
       "id": "3271",
@@ -4540,7 +4529,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 16353
+      "adds": 16110
     },
     {
       "id": "11729",
@@ -4551,7 +4540,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 13496
+      "adds": 13531
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 13424
     },
     {
       "id": "11647",
@@ -4562,18 +4562,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 12495
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 11035
+      "adds": 12635
     },
     {
       "id": "13421",
@@ -4584,18 +4573,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 364,
-      "adds": 11018
+      "adds": 9828
     },
     {
-      "id": "13482",
-      "name": "Kendal Daniels",
-      "pos": "LB",
-      "team": "ATL",
+      "id": "13285",
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 201,
+      "adds": 9725
+    },
+    {
+      "id": "8172",
+      "name": "Greg Dulcich",
+      "pos": "TE",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 9999999,
-      "adds": 10312
+      "rank": 230,
+      "adds": 9506
     }
   ]
 }
