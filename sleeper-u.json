@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T08:55:08.739Z",
+  "generated_at": "2026-11-08T15:40:27.870Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 2,
-      "points": 0,
+      "points": 25.9,
       "starters": [
         {
           "id": "6770",
@@ -366,6 +366,7 @@
         }
       ],
       "starters_points": [
+        21.9,
         0,
         0,
         0,
@@ -374,8 +375,7 @@
         0,
         0,
         0,
-        0,
-        0
+        4
       ],
       "players_points": {
         "1166": 0,
@@ -383,7 +383,7 @@
         "4046": 0,
         "4199": 0,
         "4217": 0,
-        "6770": 0,
+        "6770": 21.9,
         "7567": 0,
         "8150": 0,
         "9493": 0,
@@ -393,7 +393,7 @@
         "11610": 0,
         "12514": 0,
         "13276": 0,
-        "CIN": 0
+        "CIN": 4
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "CHASEing Dubs",
       "is_me": false,
       "matchup_id": 2,
-      "points": 5.58,
+      "points": 33.88,
       "starters": [
         {
           "id": "421",
@@ -508,7 +508,7 @@
         0,
         5.58,
         0,
-        0,
+        28.3,
         0,
         0,
         0,
@@ -523,7 +523,7 @@
         "4983": 0,
         "5849": 0,
         "6790": 0,
-        "7564": 0,
+        "7564": 28.3,
         "9225": 0,
         "9482": 0,
         "9501": 0,
@@ -1627,16 +1627,6 @@
           "rank": 58
         },
         {
-          "id": "12481",
-          "name": "Cam Skattebo",
-          "pos": "RB",
-          "team": "NYG",
-          "injury": "Doubtful",
-          "status": "Active",
-          "depth": 2,
-          "rank": 36
-        },
-        {
           "id": "13968",
           "name": "Drew Stevens",
           "pos": "K",
@@ -1707,6 +1697,16 @@
           "rank": 17
         },
         {
+          "id": "9511",
+          "name": "Keaton Mitchell",
+          "pos": "RB",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 148
+        },
+        {
           "id": "JAX",
           "name": "Jacksonville Jaguars",
           "pos": "DEF",
@@ -1739,6 +1739,16 @@
           "rank": 199
         },
         {
+          "id": "12481",
+          "name": "Cam Skattebo",
+          "pos": "RB",
+          "team": "NYG",
+          "injury": "Doubtful",
+          "status": "Active",
+          "depth": 2,
+          "rank": 36
+        },
+        {
           "id": "1433",
           "name": "Brandon McManus",
           "pos": "K",
@@ -1767,16 +1777,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 104
-        },
-        {
-          "id": "9511",
-          "name": "Keaton Mitchell",
-          "pos": "RB",
-          "team": "LAC",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 148
         }
       ],
       "reserve": [
@@ -4386,7 +4386,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 341208
+      "adds": 435732
     },
     {
       "id": "11579",
@@ -4397,7 +4397,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 156147
+      "adds": 257997
     },
     {
       "id": "13603",
@@ -4408,7 +4408,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 118808
+      "adds": 126120
     },
     {
       "id": "12491",
@@ -4419,7 +4419,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 93198
+      "adds": 95880
     },
     {
       "id": "13150",
@@ -4430,7 +4430,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 70266
+      "adds": 89782
     },
     {
       "id": "7608",
@@ -4439,9 +4439,9 @@
       "team": "ATL",
       "injury": null,
       "status": "Active",
-      "depth": null,
+      "depth": 2,
       "rank": 689,
-      "adds": 63513
+      "adds": 86823
     },
     {
       "id": "NYG",
@@ -4452,18 +4452,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 48792
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 999,
-      "adds": 36408
+      "adds": 82340
     },
     {
       "id": "4663",
@@ -4474,7 +4463,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 35316
+      "adds": 45376
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 999,
+      "adds": 40944
     },
     {
       "id": "8119",
@@ -4485,7 +4485,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 508,
-      "adds": 32562
+      "adds": 37629
     },
     {
       "id": "4177",
@@ -4496,18 +4496,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 28308
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 22905
+      "adds": 33519
     },
     {
       "id": "12492",
@@ -4518,7 +4507,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 19800
+      "adds": 23896
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 23841
     },
     {
       "id": "3271",
@@ -4529,18 +4529,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 16875
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 15050
+      "adds": 23589
     },
     {
       "id": "11647",
@@ -4551,18 +4540,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 14085
+      "adds": 20850
     },
     {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 11496
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 18543
     },
     {
       "id": "8172",
@@ -4573,18 +4562,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 230,
-      "adds": 10676
+      "adds": 14494
     },
     {
-      "id": "13421",
-      "name": "Eli Raridon",
-      "pos": "TE",
-      "team": "NE",
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
       "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 364,
-      "adds": 9842
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 13076
     },
     {
       "id": "9754",
@@ -4595,7 +4584,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 104,
-      "adds": 9541
+      "adds": 12985
+    },
+    {
+      "id": "5189",
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 174,
+      "adds": 12861
     }
   ]
 }
