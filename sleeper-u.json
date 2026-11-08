@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T15:40:27.870Z",
+  "generated_at": "2026-11-08T19:57:23.418Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 2,
-      "points": 25.9,
+      "points": 77.12,
       "starters": [
         {
           "id": "6770",
@@ -366,33 +366,33 @@
         }
       ],
       "starters_points": [
-        21.9,
+        29.54,
+        3.9,
+        0,
+        20.6,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2.4,
+        16.68,
         0,
         4
       ],
       "players_points": {
         "1166": 0,
-        "4035": 0,
-        "4046": 0,
+        "4035": 1.6,
+        "4046": 16.68,
         "4199": 0,
         "4217": 0,
-        "6770": 21.9,
+        "6770": 29.54,
         "7567": 0,
-        "8150": 0,
-        "9493": 0,
+        "8150": 3.9,
+        "9493": 20.6,
         "10236": 0,
         "10955": 0,
         "11584": 0,
-        "11610": 0,
+        "11610": 2.4,
         "12514": 0,
-        "13276": 0,
+        "13276": 7.4,
         "CIN": 4
       }
     },
@@ -401,7 +401,7 @@
       "team": "CHASEing Dubs",
       "is_me": false,
       "matchup_id": 2,
-      "points": 33.88,
+      "points": 65.22,
       "starters": [
         {
           "id": "421",
@@ -505,32 +505,32 @@
         }
       ],
       "starters_points": [
-        0,
+        6.14,
         5.58,
         0,
-        28.3,
+        31.5,
+        0,
+        12,
         0,
         0,
-        0,
-        0,
-        0,
+        10,
         0
       ],
       "players_points": {
-        "421": 0,
-        "1466": 0,
+        "421": 6.14,
+        "1466": 12,
         "3198": 5.58,
         "4983": 0,
         "5849": 0,
         "6790": 0,
-        "7564": 28.3,
+        "7564": 31.5,
         "9225": 0,
         "9482": 0,
         "9501": 0,
-        "11539": 0,
+        "11539": 10,
         "11635": 0,
-        "12469": 0,
-        "13294": 0,
+        "12469": 3.5,
+        "13294": 10.1,
         "13305": 0,
         "MIN": 0,
         "TB": 0
@@ -705,6 +705,16 @@
           "rank": 111
         },
         {
+          "id": "13346",
+          "name": "Denzel Boston",
+          "pos": "WR",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 153
+        },
+        {
           "id": "4892",
           "name": "Baker Mayfield",
           "pos": "QB",
@@ -733,16 +743,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 105
-        },
-        {
-          "id": "8137",
-          "name": "George Pickens",
-          "pos": "WR",
-          "team": "DAL",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 23
         },
         {
           "id": "9221",
@@ -797,6 +797,16 @@
           "rank": 61
         },
         {
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "pos": "WR",
+          "team": "NO",
+          "injury": "IR",
+          "status": "Active",
+          "depth": 3,
+          "rank": 62
+        },
+        {
           "id": "13296",
           "name": "Caleb Douglas",
           "pos": "WR",
@@ -817,16 +827,6 @@
           "rank": 113
         },
         {
-          "id": "13346",
-          "name": "Denzel Boston",
-          "pos": "WR",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 153
-        },
-        {
           "id": "4993",
           "name": "Mike Gesicki",
           "pos": "TE",
@@ -837,27 +837,17 @@
           "rank": 449
         },
         {
-          "id": "8146",
-          "name": "Garrett Wilson",
+          "id": "8137",
+          "name": "George Pickens",
           "pos": "WR",
-          "team": "NYJ",
+          "team": "DAL",
           "injury": "Out",
           "status": "Active",
-          "depth": 6,
-          "rank": 38
+          "depth": 2,
+          "rank": 23
         }
       ],
       "reserve": [
-        {
-          "id": "13281",
-          "name": "Jordyn Tyson",
-          "pos": "WR",
-          "team": "NO",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 3,
-          "rank": 62
-        },
         {
           "id": "13417",
           "name": "De'Zhaun Stribling",
@@ -867,6 +857,16 @@
           "status": "Inactive",
           "depth": 12,
           "rank": 112
+        },
+        {
+          "id": "8146",
+          "name": "Garrett Wilson",
+          "pos": "WR",
+          "team": "NYJ",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 6,
+          "rank": 38
         }
       ],
       "taxi": [],
@@ -950,7 +950,7 @@
           "name": "Amon-Ra St. Brown",
           "pos": "WR",
           "team": "DET",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 7
@@ -1372,7 +1372,7 @@
           "name": "Deshaun Watson",
           "pos": "QB",
           "team": "CLE",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 291
@@ -1743,7 +1743,7 @@
           "name": "Cam Skattebo",
           "pos": "RB",
           "team": "NYG",
-          "injury": "Doubtful",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 36
@@ -1852,7 +1852,7 @@
           "name": "Jaylen Waddle",
           "pos": "WR",
           "team": "DEN",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 42
@@ -3187,7 +3187,7 @@
             "name": "Tanner McKee",
             "pos": "QB",
             "team": "PHI",
-            "injury": "Questionable",
+            "injury": null,
             "status": "Active",
             "depth": 3,
             "rank": 677
@@ -3609,7 +3609,7 @@
         "name": "Ty Simpson",
         "pos": "QB",
         "team": "LAR",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 242
@@ -3669,7 +3669,7 @@
         "name": "Sam Ehlinger",
         "pos": "QB",
         "team": "DEN",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 378
@@ -3731,7 +3731,7 @@
         "name": "Kaytron Allen",
         "pos": "RB",
         "team": "MIA",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 157
@@ -3791,7 +3791,7 @@
         "name": "Jaylen Wright",
         "pos": "RB",
         "team": "MIA",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 2,
         "rank": 174
@@ -3805,16 +3805,6 @@
         "status": "Active",
         "depth": 5,
         "rank": 176
-      },
-      {
-        "id": "9757",
-        "name": "Kendre Miller",
-        "pos": "RB",
-        "team": "NO",
-        "injury": null,
-        "status": "Active",
-        "depth": null,
-        "rank": 180
       },
       {
         "id": "12457",
@@ -3871,7 +3861,7 @@
         "name": "Ben VanSumeren",
         "pos": "RB",
         "team": "KC",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 228
@@ -3885,6 +3875,16 @@
         "status": "Active",
         "depth": 5,
         "rank": 270
+      },
+      {
+        "id": "7599",
+        "name": "Jermar Jefferson",
+        "pos": "RB",
+        "team": "ARI",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 282
       }
     ],
     "WR": [
@@ -3983,7 +3983,7 @@
         "name": "Pat Bryant",
         "pos": "WR",
         "team": "DEN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 172
@@ -4105,7 +4105,7 @@
         "name": "Jake Ferguson",
         "pos": "TE",
         "team": "DAL",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 97
@@ -4145,7 +4145,7 @@
         "name": "Colby Parkinson",
         "pos": "TE",
         "team": "LAR",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 136
@@ -4386,7 +4386,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 435732
+      "adds": 581478
     },
     {
       "id": "11579",
@@ -4397,7 +4397,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 257997
+      "adds": 339903
     },
     {
       "id": "13603",
@@ -4408,18 +4408,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 570,
-      "adds": 126120
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 95880
+      "adds": 131608
     },
     {
       "id": "13150",
@@ -4430,18 +4419,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 658,
-      "adds": 89782
-    },
-    {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 689,
-      "adds": 86823
+      "adds": 127113
     },
     {
       "id": "NYG",
@@ -4452,7 +4430,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 82340
+      "adds": 109196
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 106200
+    },
+    {
+      "id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 689,
+      "adds": 88866
     },
     {
       "id": "4663",
@@ -4463,7 +4463,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 45376
+      "adds": 53008
     },
     {
       "id": "12634",
@@ -4474,18 +4474,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 40944
-    },
-    {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 508,
-      "adds": 37629
+      "adds": 52204
     },
     {
       "id": "4177",
@@ -4496,40 +4485,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 33519
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 23896
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 23841
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 23589
+      "adds": 41247
     },
     {
       "id": "11647",
@@ -4540,40 +4496,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 141,
-      "adds": 20850
+      "adds": 36200
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": "Questionable",
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 32608
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 527,
-      "adds": 18543
+      "rank": 508,
+      "adds": 32394
     },
     {
-      "id": "8172",
-      "name": "Greg Dulcich",
+      "id": "3271",
+      "name": "Tyler Higbee",
       "pos": "TE",
-      "team": "MIA",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 230,
-      "adds": 14494
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 13076
+      "rank": 652,
+      "adds": 30663
     },
     {
       "id": "9754",
@@ -4584,7 +4540,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 104,
-      "adds": 12985
+      "adds": 26810
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 220,
+      "adds": 26460
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 23408
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 195,
+      "adds": 20808
     },
     {
       "id": "5189",
@@ -4595,7 +4584,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 174,
-      "adds": 12861
+      "adds": 20427
+    },
+    {
+      "id": "8172",
+      "name": "Greg Dulcich",
+      "pos": "TE",
+      "team": "MIA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 230,
+      "adds": 18968
     }
   ]
 }
