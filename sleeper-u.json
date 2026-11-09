@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-09T10:25:49.640Z",
+  "generated_at": "2026-11-09T20:54:29.833Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -994,7 +994,7 @@
           "team": "CHI",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 681
         },
         {
@@ -1204,7 +1204,7 @@
           "team": "PHI",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": null,
           "rank": 532
         },
         {
@@ -1572,7 +1572,7 @@
           "name": "Malik Willis",
           "pos": "QB",
           "team": "MIA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 122
@@ -1936,8 +1936,18 @@
           "team": "CHI",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 61
+        },
+        {
+          "id": "13274",
+          "name": "Germie Bernard",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 194
         },
         {
           "id": "1479",
@@ -2953,6 +2963,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1425540914511683584",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794237948590,
+      "adds": [
+        {
+          "player": {
+            "id": "13274",
+            "name": "Germie Bernard",
+            "pos": "WR",
+            "team": "PIT",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 194
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1424770345163816960",
       "type": "free_agent",
       "status": "complete",
@@ -3873,7 +3910,7 @@
         "team": "MIA",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": null,
         "rank": 270
       },
       {
@@ -4079,13 +4116,13 @@
         "rank": 192
       },
       {
-        "id": "13274",
-        "name": "Germie Bernard",
+        "id": "7090",
+        "name": "Darnell Mooney",
         "pos": "WR",
-        "team": "PIT",
+        "team": "NYG",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 194
       }
     ],
@@ -4378,17 +4415,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 679,
-      "adds": 392004
-    },
-    {
       "id": "11579",
       "name": "Audric Estime",
       "pos": "RB",
@@ -4397,7 +4423,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 323511
+      "adds": 211887
     },
     {
       "id": "12491",
@@ -4408,40 +4434,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 158112
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 658,
-      "adds": 86170
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 80496
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 999,
-      "adds": 74600
+      "adds": 200850
     },
     {
       "id": "2505",
@@ -4452,18 +4445,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 355,
-      "adds": 71451
+      "adds": 108234
     },
     {
-      "id": "13603",
-      "name": "Gregory Desrosiers",
-      "pos": "RB",
-      "team": "NYG",
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 570,
-      "adds": 59960
+      "rank": 999,
+      "adds": 72988
     },
     {
       "id": "12492",
@@ -4474,7 +4467,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 59032
+      "adds": 64120
     },
     {
       "id": "5995",
@@ -4485,7 +4478,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 46899
+      "adds": 51615
     },
     {
       "id": "6039",
@@ -4496,84 +4489,51 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 37092
+      "adds": 39282
     },
     {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 35160
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 32668
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
+      "id": "3286",
+      "name": "Demarcus Robinson",
       "pos": "WR",
-      "team": "NE",
+      "team": "SF",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 30828
+      "depth": 1,
+      "rank": 679,
+      "adds": 39042
     },
     {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 689,
-      "adds": 29565
-    },
-    {
-      "id": "9754",
-      "name": "Quentin Johnston",
+      "id": "12718",
+      "name": "Konata Mumpfield",
       "pos": "WR",
-      "team": "LAC",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 104,
-      "adds": 29015
+      "rank": 678,
+      "adds": 23103
     },
     {
-      "id": "BUF",
-      "name": "Buffalo Bills",
+      "id": "BAL",
+      "name": "Baltimore Ravens",
       "pos": "DEF",
-      "team": "BUF",
+      "team": "BAL",
       "injury": null,
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 25280
+      "adds": 19395
     },
     {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
+      "id": "8116",
+      "name": "Pierre Strong Jr.",
+      "pos": "RB",
+      "team": "GB",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 23319
+      "depth": 2,
+      "rank": 631,
+      "adds": 18216
     },
     {
       "id": "11637",
@@ -4584,18 +4544,95 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 23085
+      "adds": 17991
     },
     {
-      "id": "4039",
-      "name": "Cooper Kupp",
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "pos": "DEF",
+      "team": "GB",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17611
+    },
+    {
+      "id": "12773",
+      "name": "DJ Uiagalelei",
+      "pos": "QB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 618,
+      "adds": 17361
+    },
+    {
+      "id": "BUF",
+      "name": "Buffalo Bills",
+      "pos": "DEF",
+      "team": "BUF",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 13571
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
       "pos": "WR",
-      "team": "SEA",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 195,
-      "adds": 19986
+      "rank": 697,
+      "adds": 11850
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 10640
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 104,
+      "adds": 9884
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 9774
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 9208
     }
   ]
 }
