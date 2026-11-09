@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-08T23:25:07.650Z",
+  "generated_at": "2026-11-09T02:49:53.804Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 2,
-      "points": 107.32,
+      "points": 122.32,
       "starters": [
         {
           "id": "6770",
@@ -368,30 +368,30 @@
       "starters_points": [
         29.54,
         9.1,
-        0,
+        4.5,
         35,
-        0,
-        6.1,
+        6.8,
+        9.8,
         4.1,
         16.48,
         3,
         4
       ],
       "players_points": {
-        "1166": 15.6,
+        "1166": 15.64,
         "4035": 7.9,
         "4046": 16.48,
         "4199": 0,
-        "4217": 6.1,
+        "4217": 9.8,
         "6770": 29.54,
-        "7567": 0,
+        "7567": 6,
         "8150": 9.1,
         "9493": 35,
         "10236": 0,
         "10955": 3,
-        "11584": 0,
+        "11584": 4.5,
         "11610": 4.1,
-        "12514": 0,
+        "12514": 6.8,
         "13276": 13.8,
         "CIN": 4
       }
@@ -401,7 +401,7 @@
       "team": "CHASEing Dubs",
       "is_me": false,
       "matchup_id": 2,
-      "points": 92.3,
+      "points": 99.2,
       "starters": [
         {
           "id": "421",
@@ -507,12 +507,12 @@
       "starters_points": [
         12.22,
         5.58,
-        0,
+        2.4,
         31.5,
         0,
         17.3,
         0,
-        10.7,
+        15.2,
         15,
         0
       ],
@@ -522,18 +522,18 @@
         "3198": 5.58,
         "4983": 0,
         "5849": 0,
-        "6790": 0,
+        "6790": 2.4,
         "7564": 31.5,
         "9225": 0,
-        "9482": 2,
-        "9501": 10.7,
+        "9482": 4.7,
+        "9501": 15.2,
         "11539": 15,
         "11635": 0,
         "12469": 7.8,
         "13294": 12.1,
-        "13305": 0,
+        "13305": -0.3,
         "MIN": 0,
-        "TB": 0
+        "TB": 7
       }
     }
   },
@@ -940,7 +940,7 @@
           "name": "Justin Herbert",
           "pos": "QB",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 34
@@ -1140,7 +1140,7 @@
           "name": "Rhamondre Stevenson",
           "pos": "RB",
           "team": "NE",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 58
@@ -1270,7 +1270,7 @@
           "name": "Drew Lock",
           "pos": "QB",
           "team": "SEA",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 691
@@ -1934,7 +1934,7 @@
           "name": "Kyle Monangai",
           "pos": "RB",
           "team": "CHI",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 61
@@ -3339,7 +3339,7 @@
             "name": "Drew Lock",
             "pos": "QB",
             "team": "SEA",
-            "injury": null,
+            "injury": "Questionable",
             "status": "Active",
             "depth": 1,
             "rank": 691
@@ -3693,7 +3693,7 @@
         "team": "GB",
         "injury": "Out",
         "status": "Active",
-        "depth": 2,
+        "depth": 5,
         "rank": 98
       },
       {
@@ -3783,7 +3783,7 @@
         "team": "GB",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 173
       },
       {
@@ -4386,7 +4386,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 679,
-      "adds": 548214
+      "adds": 482208
     },
     {
       "id": "11579",
@@ -4397,40 +4397,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 190,
-      "adds": 350328
-    },
-    {
-      "id": "13150",
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "team": "PHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 658,
-      "adds": 114219
-    },
-    {
-      "id": "13603",
-      "name": "Gregory Desrosiers",
-      "pos": "RB",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 570,
-      "adds": 111816
-    },
-    {
-      "id": "NYG",
-      "name": "New York Giants",
-      "pos": "DEF",
-      "team": "NYG",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 103396
+      "adds": 347445
     },
     {
       "id": "12491",
@@ -4441,18 +4408,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 98064
+      "adds": 133428
     },
     {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "team": "ATL",
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "team": "PHI",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 689,
-      "adds": 67374
+      "rank": 658,
+      "adds": 102438
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "pos": "DEF",
+      "team": "NYG",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 95356
+    },
+    {
+      "id": "13603",
+      "name": "Gregory Desrosiers",
+      "pos": "RB",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 570,
+      "adds": 88672
     },
     {
       "id": "12634",
@@ -4463,7 +4452,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 999,
-      "adds": 47808
+      "adds": 65552
     },
     {
       "id": "12492",
@@ -4474,73 +4463,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 46128
+      "adds": 53768
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
+      "id": "7608",
+      "name": "Khalil Herbert",
       "pos": "RB",
-      "team": "WAS",
+      "team": "ATL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 632,
-      "adds": 43524
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 40095
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 37140
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "team": "BAL",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 220,
-      "adds": 30726
-    },
-    {
-      "id": "3271",
-      "name": "Tyler Higbee",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 652,
-      "adds": 28665
-    },
-    {
-      "id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 104,
-      "adds": 28105
+      "rank": 689,
+      "adds": 52254
     },
     {
       "id": "2505",
@@ -4551,18 +4485,84 @@
       "status": "Active",
       "depth": 1,
       "rank": 355,
-      "adds": 27531
+      "adds": 47583
     },
     {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "team": "ATL",
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "team": "BAL",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 508,
-      "adds": 26844
+      "rank": 220,
+      "adds": 39555
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 38912
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 38250
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 34728
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 31176
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 104,
+      "adds": 29491
+    },
+    {
+      "id": "3271",
+      "name": "Tyler Higbee",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 652,
+      "adds": 26577
     },
     {
       "id": "BUF",
@@ -4573,7 +4573,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22649
+      "adds": 25341
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "team": "ATL",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 508,
+      "adds": 21978
     },
     {
       "id": "4039",
@@ -4584,18 +4595,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 195,
-      "adds": 22050
-    },
-    {
-      "id": "5189",
-      "name": "Eddy Pineiro",
-      "pos": "K",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 174,
-      "adds": 21696
+      "adds": 21294
     }
   ]
 }
