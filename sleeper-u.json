@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T07:09:15.967Z",
+  "generated_at": "2026-11-12T15:56:37.648Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -123,7 +123,7 @@
         "team": "NYJ",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 151
       },
       {
@@ -312,7 +312,7 @@
           "team": "NYJ",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 151
         },
         {
@@ -889,6 +889,16 @@
       },
       "starters": [
         {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "pos": "QB",
+          "team": "NYG",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 224
+        },
+        {
           "id": "12474",
           "name": "Woody Marks",
           "pos": "RB",
@@ -909,14 +919,14 @@
           "rank": 45
         },
         {
-          "id": "6797",
-          "name": "Justin Herbert",
-          "pos": "QB",
-          "team": "LAC",
-          "injury": "Questionable",
+          "id": "1945",
+          "name": "Chris Boswell",
+          "pos": "K",
+          "team": "PIT",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 151
         },
         {
           "id": "7547",
@@ -955,7 +965,7 @@
           "team": "HOU",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 187
         },
         {
@@ -969,10 +979,10 @@
           "rank": 186
         },
         {
-          "id": "DEN",
-          "name": "Denver Broncos",
+          "id": "BAL",
+          "name": "Baltimore Ravens",
           "pos": "DEF",
-          "team": "DEN",
+          "team": "BAL",
           "injury": null,
           "status": null,
           "depth": null,
@@ -981,34 +991,14 @@
       ],
       "bench": [
         {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "pos": "QB",
-          "team": "NYG",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 224
-        },
-        {
-          "id": "11579",
-          "name": "Audric Estime",
-          "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 190
-        },
-        {
-          "id": "11834",
-          "name": "Devaughn Vele",
+          "id": "11624",
+          "name": "Xavier Worthy",
           "pos": "WR",
-          "team": "NO",
+          "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 209
+          "depth": 3,
+          "rank": 122
         },
         {
           "id": "12507",
@@ -1021,16 +1011,6 @@
           "rank": 12
         },
         {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "pos": "K",
-          "team": "PIT",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 151
-        },
-        {
           "id": "5045",
           "name": "Courtland Sutton",
           "pos": "WR",
@@ -1041,28 +1021,27 @@
           "rank": 72
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "6797",
+          "name": "Justin Herbert",
+          "pos": "QB",
+          "team": "LAC",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
+        },
+        {
+          "id": "DEN",
+          "name": "Denver Broncos",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "injury": null,
           "status": null,
           "depth": null,
           "rank": null
         }
       ],
-      "reserve": [
-        {
-          "id": "11624",
-          "name": "Xavier Worthy",
-          "pos": "WR",
-          "team": "KC",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 122
-        }
-      ],
+      "reserve": [],
       "taxi": [],
       "waiver_position": 10,
       "faab_used": 0
@@ -1651,6 +1630,16 @@
           "rank": 58
         },
         {
+          "id": "12481",
+          "name": "Cam Skattebo",
+          "pos": "RB",
+          "team": "NYG",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 36
+        },
+        {
           "id": "13968",
           "name": "Drew Stevens",
           "pos": "K",
@@ -1659,16 +1648,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 630
-        },
-        {
-          "id": "2449",
-          "name": "Stefon Diggs",
-          "pos": "WR",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 105
         },
         {
           "id": "6786",
@@ -1721,14 +1700,14 @@
           "rank": 17
         },
         {
-          "id": "9511",
-          "name": "Keaton Mitchell",
+          "id": "8228",
+          "name": "Jaylen Warren",
           "pos": "RB",
-          "team": "LAC",
+          "team": "PIT",
           "injury": null,
           "status": "Active",
-          "depth": 3,
-          "rank": 148
+          "depth": 1,
+          "rank": 52
         },
         {
           "id": "JAX",
@@ -1763,16 +1742,6 @@
           "rank": 199
         },
         {
-          "id": "12481",
-          "name": "Cam Skattebo",
-          "pos": "RB",
-          "team": "NYG",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 36
-        },
-        {
           "id": "1433",
           "name": "Brandon McManus",
           "pos": "K",
@@ -1783,14 +1752,14 @@
           "rank": 674
         },
         {
-          "id": "8228",
-          "name": "Jaylen Warren",
-          "pos": "RB",
-          "team": "PIT",
+          "id": "2449",
+          "name": "Stefon Diggs",
+          "pos": "WR",
+          "team": "WAS",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 52
+          "rank": 105
         },
         {
           "id": "9480",
@@ -1801,6 +1770,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 104
+        },
+        {
+          "id": "9511",
+          "name": "Keaton Mitchell",
+          "pos": "RB",
+          "team": "LAC",
+          "injury": null,
+          "status": "Active",
+          "depth": 3,
+          "rank": 148
         }
       ],
       "reserve": [
@@ -1960,7 +1939,7 @@
           "team": "NYJ",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 162
         },
         {
@@ -1990,7 +1969,7 @@
           "team": "SF",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 180
         },
         {
@@ -2240,7 +2219,7 @@
           "team": "HOU",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 4,
+          "depth": 5,
           "rank": 73
         },
         {
@@ -2332,7 +2311,7 @@
           "team": "HOU",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 679
         },
         {
@@ -2672,7 +2651,7 @@
           "team": "NYJ",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 151
         },
         {
@@ -3017,6 +2996,60 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1426622184641564672",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794495743478,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "11579",
+            "name": "Audric Estime",
+            "pos": "RB",
+            "team": "NO",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 190
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "roster_ids": [
+        2
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1426621833360179200",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794495659726,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "11834",
+            "name": "Devaughn Vele",
+            "pos": "WR",
+            "team": "NO",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 209
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "roster_ids": [
+        2
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1426367437703479296",
       "type": "free_agent",
@@ -3495,6 +3528,16 @@
         "rank": 180
       },
       {
+        "id": "11579",
+        "name": "Audric Estime",
+        "pos": "RB",
+        "team": "NO",
+        "injury": null,
+        "status": "Active",
+        "depth": 1,
+        "rank": 190
+      },
+      {
         "id": "5995",
         "name": "Justice Hill",
         "pos": "RB",
@@ -3553,16 +3596,6 @@
         "status": "Active",
         "depth": null,
         "rank": 334
-      },
-      {
-        "id": "13424",
-        "name": "Seth McGowan",
-        "pos": "RB",
-        "team": "IND",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 377
       }
     ],
     "WR": [
@@ -3633,7 +3666,7 @@
         "team": "HOU",
         "injury": null,
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 164
       },
       {
@@ -3911,6 +3944,16 @@
         "rank": 125
       },
       {
+        "id": "12015",
+        "name": "Harrison Mevis",
+        "pos": "K",
+        "team": "BAL",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 154
+      },
+      {
         "id": "4227",
         "name": "Harrison Butker",
         "pos": "K",
@@ -3959,16 +4002,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 194
-      },
-      {
-        "id": "6650",
-        "name": "Chase McLaughlin",
-        "pos": "K",
-        "team": "TB",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 199
       }
     ],
     "DEF": [
@@ -4064,7 +4097,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 736253
+      "adds": 461265
     },
     {
       "id": "2505",
@@ -4075,7 +4108,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 356,
-      "adds": 567414
+      "adds": 373365
     },
     {
       "id": "6427",
@@ -4086,7 +4119,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 390645
+      "adds": 253566
     },
     {
       "id": "IND",
@@ -4097,7 +4130,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 341262
+      "adds": 231432
+    },
+    {
+      "id": "11579",
+      "name": "Audric Estime",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 190,
+      "adds": 205764
     },
     {
       "id": "5995",
@@ -4108,7 +4152,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 262350
+      "adds": 194337
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 163170
     },
     {
       "id": "8116",
@@ -4119,18 +4174,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 631,
-      "adds": 242919
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 679,
-      "adds": 232944
+      "adds": 122940
     },
     {
       "id": "5119",
@@ -4141,18 +4185,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 149635
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 674,
-      "adds": 132685
+      "adds": 104660
     },
     {
       "id": "11637",
@@ -4163,40 +4196,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 100818
-    },
-    {
-      "id": "13333",
-      "name": "Deion Burks",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 670,
-      "adds": 100797
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 5,
-      "rank": 999,
-      "adds": 96996
-    },
-    {
-      "id": "13337",
-      "name": "Emmett Johnson",
-      "pos": "RB",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 113,
-      "adds": 93033
+      "adds": 82557
     },
     {
       "id": "13270",
@@ -4207,7 +4207,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 550,
-      "adds": 90176
+      "adds": 79792
     },
     {
       "id": "4663",
@@ -4218,29 +4218,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 89492
+      "adds": 71940
     },
     {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
+      "id": "13333",
+      "name": "Deion Burks",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 73472
+      "status": "Active",
+      "depth": 3,
+      "rank": 670,
+      "adds": 70008
     },
     {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 399,
-      "adds": 62256
+      "rank": 674,
+      "adds": 69650
+    },
+    {
+      "id": "13337",
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 113,
+      "adds": 63720
     },
     {
       "id": "4177",
@@ -4251,29 +4262,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 58974
+      "adds": 63462
     },
     {
-      "id": "12773",
-      "name": "DJ Uiagalelei",
-      "pos": "QB",
-      "team": "LAC",
+      "id": "11762",
+      "name": "Anthony Gould",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
       "depth": 4,
-      "rank": 618,
-      "adds": 56430
+      "rank": 573,
+      "adds": 61733
     },
     {
-      "id": "13833",
-      "name": "Dominic Zvada",
-      "pos": "K",
-      "team": "NYG",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 330,
-      "adds": 56041
+      "rank": 399,
+      "adds": 49460
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 5,
+      "rank": 999,
+      "adds": 47692
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "pos": "DEF",
+      "team": "WAS",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 46704
     }
   ]
 }
