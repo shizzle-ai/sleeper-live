@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-12T22:00:14.878Z",
+  "generated_at": "2026-11-13T02:29:10.004Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -255,9 +255,9 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "team": "LAR",
-        "injury": "Out",
-        "status": "Active",
-        "depth": 7,
+        "injury": "IR",
+        "status": "Inactive",
+        "depth": 6,
         "rank": 4
       }
     ],
@@ -413,7 +413,7 @@
       "team": "Grass-fed Beef",
       "is_me": false,
       "matchup_id": 1,
-      "points": 0,
+      "points": 3.8,
       "starters": [
         {
           "id": "11564",
@@ -520,7 +520,7 @@
         0,
         0,
         0,
-        0,
+        3.8,
         0,
         0,
         0,
@@ -540,7 +540,7 @@
         "7600": 0,
         "8161": 0,
         "11564": 0,
-        "11632": 0,
+        "11632": 3.8,
         "12490": 0,
         "12504": 0,
         "12545": 0,
@@ -963,7 +963,7 @@
           "name": "Tank Dell",
           "pos": "WR",
           "team": "HOU",
-          "injury": "Questionable",
+          "injury": "IR",
           "status": "Active",
           "depth": 2,
           "rank": 187
@@ -1025,7 +1025,7 @@
           "name": "Justin Herbert",
           "pos": "QB",
           "team": "LAC",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 34
@@ -1135,7 +1135,7 @@
           "team": "NE",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 58
         },
         {
@@ -1776,7 +1776,7 @@
           "name": "Keaton Mitchell",
           "pos": "RB",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 148
@@ -2393,7 +2393,7 @@
           "team": "HOU",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 42
         }
       ],
@@ -2783,9 +2783,9 @@
           "name": "Puka Nacua",
           "pos": "WR",
           "team": "LAR",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 7,
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 6,
           "rank": 4
         }
       ],
@@ -2860,7 +2860,7 @@
           "name": "Tyler Higbee",
           "pos": "TE",
           "team": "LAR",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 652
@@ -3724,7 +3724,7 @@
         "name": "Tre' Harris",
         "pos": "WR",
         "team": "LAC",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 3,
         "rank": 179
@@ -3866,7 +3866,7 @@
         "name": "Chig Okonkwo",
         "pos": "TE",
         "team": "WAS",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 137
@@ -3998,7 +3998,7 @@
         "name": "Trey Smack",
         "pos": "K",
         "team": "GB",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 194
@@ -4089,17 +4089,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 691,
-      "adds": 370748
-    },
-    {
       "id": "2505",
       "name": "Darren Waller",
       "pos": "TE",
@@ -4108,29 +4097,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 356,
-      "adds": 352107
+      "adds": 474129
     },
     {
-      "id": "6427",
-      "name": "Ashton Dulin",
+      "id": "7562",
+      "name": "Tutu Atwell",
       "pos": "WR",
-      "team": "IND",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 697,
-      "adds": 217449
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 206202
+      "rank": 691,
+      "adds": 425719
     },
     {
       "id": "5995",
@@ -4141,7 +4119,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 191979
+      "adds": 286263
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 268731
+    },
+    {
+      "id": "6427",
+      "name": "Ashton Dulin",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 241236
     },
     {
       "id": "11579",
@@ -4152,18 +4152,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 190,
-      "adds": 154530
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 107250
+      "adds": 152283
     },
     {
       "id": "5119",
@@ -4174,7 +4163,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 91345
+      "adds": 131305
     },
     {
       "id": "4177",
@@ -4185,18 +4174,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 697,
-      "adds": 83409
-    },
-    {
-      "id": "13270",
-      "name": "CJ Daniels",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 550,
-      "adds": 77344
+      "adds": 112041
     },
     {
       "id": "4663",
@@ -4207,73 +4185,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 73660
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 73368
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong Jr.",
-      "pos": "RB",
-      "team": "GB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 631,
-      "adds": 69192
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 59591
-    },
-    {
-      "id": "13337",
-      "name": "Emmett Johnson",
-      "pos": "RB",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 113,
-      "adds": 56970
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 399,
-      "adds": 54260
-    },
-    {
-      "id": "13333",
-      "name": "Deion Burks",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 670,
-      "adds": 53673
+      "adds": 105624
     },
     {
       "id": "WAS",
@@ -4284,7 +4196,84 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50428
+      "adds": 89152
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 88884
+    },
+    {
+      "id": "13270",
+      "name": "CJ Daniels",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 550,
+      "adds": 78140
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 399,
+      "adds": 77460
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 69192
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong Jr.",
+      "pos": "RB",
+      "team": "GB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 631,
+      "adds": 68049
+    },
+    {
+      "id": "11762",
+      "name": "Anthony Gould",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 573,
+      "adds": 65849
+    },
+    {
+      "id": "13337",
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 113,
+      "adds": 64980
     },
     {
       "id": "3155",
@@ -4295,18 +4284,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 674,
-      "adds": 43815
+      "adds": 44925
     },
     {
-      "id": "12634",
-      "name": "Jordan Watkins",
+      "id": "13333",
+      "name": "Deion Burks",
       "pos": "WR",
-      "team": "SF",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 999,
-      "adds": 36640
+      "depth": 3,
+      "rank": 670,
+      "adds": 44553
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 44074
     }
   ]
 }
