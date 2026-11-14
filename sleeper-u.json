@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T20:13:07.171Z",
+  "generated_at": "2026-11-14T23:54:31.111Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -257,7 +257,7 @@
         "team": "LAR",
         "injury": "IR",
         "status": "Inactive",
-        "depth": 7,
+        "depth": 8,
         "rank": 4
       }
     ],
@@ -1007,7 +1007,7 @@
           "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 122
         },
         {
@@ -1565,7 +1565,7 @@
           "name": "Travis Etienne Jr.",
           "pos": "RB",
           "team": "NO",
-          "injury": "IR",
+          "injury": "Questionable",
           "status": "Active",
           "depth": 3,
           "rank": 34
@@ -1768,7 +1768,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 4,
           "rank": 19
         },
         {
@@ -1786,7 +1786,7 @@
           "name": "Keaton Mitchell",
           "pos": "RB",
           "team": "LAC",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 3,
           "rank": 148
@@ -1967,8 +1967,8 @@
           "name": "TreVeyon Henderson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Out",
-          "status": "Active",
+          "injury": "IR",
+          "status": "Inactive",
           "depth": 5,
           "rank": 39
         },
@@ -2180,7 +2180,7 @@
           "team": "KC",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 111
         },
         {
@@ -2259,7 +2259,7 @@
           "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 113
         },
         {
@@ -2403,7 +2403,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 42
         }
       ],
@@ -2795,7 +2795,7 @@
           "team": "LAR",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 8,
           "rank": 4
         }
       ],
@@ -2996,7 +2996,7 @@
           "team": "LAR",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 5,
+          "depth": 6,
           "rank": 46
         }
       ],
@@ -3089,7 +3089,7 @@
             "team": "KC",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 113
           },
           "roster_id": 9,
@@ -3477,7 +3477,7 @@
             "team": "KC",
             "injury": null,
             "status": "Active",
-            "depth": 2,
+            "depth": 1,
             "rank": 113
           },
           "roster_id": 1,
@@ -3803,7 +3803,7 @@
         "team": "KC",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 5,
         "rank": 228
       },
       {
@@ -4356,7 +4356,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 143397
+      "adds": 157176
     },
     {
       "id": "7562",
@@ -4367,7 +4367,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 124859
+      "adds": 105938
     },
     {
       "id": "6427",
@@ -4378,40 +4378,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 67779
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 397,
-      "adds": 61028
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 50145
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 49196
+      "adds": 58320
     },
     {
       "id": "12700",
@@ -4422,7 +4389,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 667,
-      "adds": 47358
+      "adds": 53712
     },
     {
       "id": "8122",
@@ -4433,7 +4400,40 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 46258
+      "adds": 49576
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 397,
+      "adds": 49268
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 47406
+    },
+    {
+      "id": "12499",
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 185,
+      "adds": 44540
     },
     {
       "id": "9479",
@@ -4444,7 +4444,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 471,
-      "adds": 41495
+      "adds": 40120
     },
     {
       "id": "13270",
@@ -4455,7 +4455,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 550,
-      "adds": 38464
+      "adds": 39800
     },
     {
       "id": "6865",
@@ -4466,18 +4466,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 28956
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 27643
+      "adds": 28776
     },
     {
       "id": "13424",
@@ -4488,29 +4477,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 379,
-      "adds": 23832
+      "adds": 25712
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
+      "id": "11762",
+      "name": "Anthony Gould",
+      "pos": "WR",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 22765
-    },
-    {
-      "id": "10231",
-      "name": "Elijah Higgins",
-      "pos": "TE",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 668,
-      "adds": 21825
+      "depth": 4,
+      "rank": 573,
+      "adds": 25459
     },
     {
       "id": "12492",
@@ -4521,29 +4499,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 20416
+      "adds": 22056
     },
     {
-      "id": "11603",
-      "name": "AJ Barner",
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 21655
+    },
+    {
+      "id": "10231",
+      "name": "Elijah Higgins",
       "pos": "TE",
-      "team": "SEA",
+      "team": "ARI",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 18738
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 119,
-      "adds": 16632
+      "depth": 2,
+      "rank": 668,
+      "adds": 17850
     },
     {
       "id": "7812",
@@ -4554,7 +4532,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 427,
-      "adds": 16328
+      "adds": 16488
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 119,
+      "adds": 16176
     },
     {
       "id": "11653",
@@ -4565,7 +4554,18 @@
       "status": "Active",
       "depth": null,
       "rank": 242,
-      "adds": 14536
+      "adds": 14024
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 674,
+      "adds": 13465
     }
   ]
 }
