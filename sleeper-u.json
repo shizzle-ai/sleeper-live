@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-13T22:43:23.079Z",
+  "generated_at": "2026-11-14T02:41:15.311Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -708,14 +708,14 @@
           "rank": 608
         },
         {
-          "id": "13279",
-          "name": "Carnell Tate",
+          "id": "13298",
+          "name": "KC Concepcion Jr.",
           "pos": "WR",
-          "team": "TEN",
-          "injury": "Out",
+          "team": "CLE",
+          "injury": null,
           "status": "Active",
-          "depth": 7,
-          "rank": 61
+          "depth": 2,
+          "rank": 111
         },
         {
           "id": "7839",
@@ -810,6 +810,16 @@
           "rank": 46
         },
         {
+          "id": "13279",
+          "name": "Carnell Tate",
+          "pos": "WR",
+          "team": "TEN",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 7,
+          "rank": 61
+        },
+        {
           "id": "13281",
           "name": "Jordyn Tyson",
           "pos": "WR",
@@ -828,16 +838,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 199
-        },
-        {
-          "id": "13298",
-          "name": "KC Concepcion Jr.",
-          "pos": "WR",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 111
         },
         {
           "id": "13346",
@@ -1177,7 +1177,7 @@
           "team": "SF",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 7,
           "rank": 60
         },
         {
@@ -2140,7 +2140,7 @@
           "team": "MIN",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 3,
           "rank": 128
         },
         {
@@ -2219,7 +2219,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 73
         },
         {
@@ -3095,7 +3095,7 @@
             "team": "NO",
             "injury": null,
             "status": "Active",
-            "depth": 1,
+            "depth": 2,
             "rank": 190
           },
           "roster_id": 2,
@@ -3508,7 +3508,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 1,
         "rank": 119
       },
       {
@@ -3618,7 +3618,7 @@
         "team": "NO",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 190
       },
       {
@@ -3710,7 +3710,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 6,
         "rank": 123
       },
       {
@@ -3808,7 +3808,7 @@
         "name": "Tre' Harris",
         "pos": "WR",
         "team": "LAC",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 179
@@ -4181,7 +4181,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 113,
-      "adds": 501138
+      "adds": 663345
     },
     {
       "id": "7562",
@@ -4192,7 +4192,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 301287
+      "adds": 177373
     },
     {
       "id": "5995",
@@ -4203,18 +4203,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 258210
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 175887
+      "adds": 144036
     },
     {
       "id": "6427",
@@ -4225,40 +4214,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 153279
+      "adds": 95319
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 95860
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 697,
-      "adds": 90195
-    },
-    {
-      "id": "11579",
-      "name": "Audric Estime",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 190,
-      "adds": 82746
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 78501
     },
     {
       "id": "4993",
@@ -4269,18 +4236,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 397,
-      "adds": 74604
+      "adds": 53204
     },
     {
-      "id": "4663",
-      "name": "Austin Ekeler",
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 697,
+      "adds": 50232
+    },
+    {
+      "id": "11579",
+      "name": "Audric Estime",
       "pos": "RB",
-      "team": "WAS",
+      "team": "NO",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 632,
-      "adds": 56364
+      "rank": 190,
+      "adds": 45309
     },
     {
       "id": "13270",
@@ -4291,7 +4269,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 550,
-      "adds": 54516
+      "adds": 41080
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 39080
     },
     {
       "id": "11762",
@@ -4302,29 +4291,18 @@
       "status": "Active",
       "depth": 4,
       "rank": 573,
-      "adds": 47908
+      "adds": 35504
     },
     {
-      "id": "WAS",
-      "name": "Washington Commanders",
-      "pos": "DEF",
-      "team": "WAS",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 46886
-    },
-    {
-      "id": "12961",
-      "name": "Ryan Fitzgerald",
-      "pos": "K",
-      "team": "CAR",
+      "id": "12499",
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "team": "TEN",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 327,
-      "adds": 44760
+      "depth": 2,
+      "rank": 185,
+      "adds": 34828
     },
     {
       "id": "8122",
@@ -4335,29 +4313,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 43144
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 39680
-    },
-    {
-      "id": "11653",
-      "name": "Charlie Smyth",
-      "pos": "K",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": null,
-      "rank": 242,
-      "adds": 38424
+      "adds": 31076
     },
     {
       "id": "9479",
@@ -4368,18 +4324,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 470,
-      "adds": 34960
+      "adds": 27910
     },
     {
-      "id": "3286",
-      "name": "Demarcus Robinson",
+      "id": "11610",
+      "name": "Malik Washington",
       "pos": "WR",
-      "team": "SF",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 33048
+      "depth": 2,
+      "rank": 176,
+      "adds": 26840
     },
     {
       "id": "12634",
@@ -4390,7 +4346,51 @@
       "status": "Active",
       "depth": 4,
       "rank": 999,
-      "adds": 32472
+      "adds": 22512
+    },
+    {
+      "id": "12961",
+      "name": "Ryan Fitzgerald",
+      "pos": "K",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 327,
+      "adds": 21000
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 20340
+    },
+    {
+      "id": "11653",
+      "name": "Charlie Smyth",
+      "pos": "K",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 242,
+      "adds": 19736
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 19554
     }
   ]
 }
