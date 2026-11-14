@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T15:54:21.645Z",
+  "generated_at": "2026-11-14T20:13:07.171Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -470,7 +470,7 @@
           "name": "Pat Freiermuth",
           "pos": "TE",
           "team": "PIT",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 230
@@ -1513,7 +1513,7 @@
           "name": "Pat Freiermuth",
           "pos": "TE",
           "team": "PIT",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 230
@@ -1566,7 +1566,7 @@
           "pos": "RB",
           "team": "NO",
           "injury": "IR",
-          "status": "Inactive",
+          "status": "Active",
           "depth": 3,
           "rank": 34
         },
@@ -1629,6 +1629,16 @@
         "fpts_against": 1104.58
       },
       "starters": [
+        {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "pos": "RB",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 127
+        },
         {
           "id": "10859",
           "name": "Sam LaPorta",
@@ -1700,16 +1710,6 @@
           "rank": 19
         },
         {
-          "id": "8151",
-          "name": "Kenneth Walker III",
-          "pos": "RB",
-          "team": "KC",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 19
-        },
-        {
           "id": "8228",
           "name": "Jaylen Warren",
           "pos": "RB",
@@ -1731,16 +1731,6 @@
         }
       ],
       "bench": [
-        {
-          "id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "pos": "RB",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 127
-        },
         {
           "id": "11783",
           "name": "Ryan Flournoy",
@@ -1770,6 +1760,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 104
+        },
+        {
+          "id": "8151",
+          "name": "Kenneth Walker III",
+          "pos": "RB",
+          "team": "KC",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 1,
+          "rank": 19
         },
         {
           "id": "9480",
@@ -2253,6 +2253,16 @@
           "rank": 38
         },
         {
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "pos": "RB",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 113
+        },
+        {
           "id": "3294",
           "name": "Dak Prescott",
           "pos": "QB",
@@ -2291,16 +2301,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 17
-        },
-        {
-          "id": "7021",
-          "name": "Rico Dowdle",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 65
         },
         {
           "id": "8132",
@@ -2345,14 +2345,14 @@
           "rank": 227
         },
         {
-          "id": "13337",
-          "name": "Emmett Johnson",
-          "pos": "RB",
-          "team": "KC",
+          "id": "4177",
+          "name": "Mack Hollins",
+          "pos": "WR",
+          "team": "NE",
           "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 113
+          "depth": 3,
+          "rank": 697
         },
         {
           "id": "5012",
@@ -2365,14 +2365,14 @@
           "rank": 96
         },
         {
-          "id": "5892",
-          "name": "David Montgomery",
+          "id": "7021",
+          "name": "Rico Dowdle",
           "pos": "RB",
-          "team": "HOU",
-          "injury": "Questionable",
+          "team": "PIT",
+          "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 42
+          "rank": 65
         },
         {
           "id": "CHI",
@@ -2395,6 +2395,16 @@
           "status": "Inactive",
           "depth": 2,
           "rank": 11
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "team": "HOU",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 2,
+          "rank": 42
         }
       ],
       "taxi": [],
@@ -2996,6 +3006,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1427410479587799040",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794683687640,
+      "adds": [
+        {
+          "player": {
+            "id": "4177",
+            "name": "Mack Hollins",
+            "pos": "WR",
+            "team": "NE",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 697
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1427320769938980864",
       "type": "free_agent",
@@ -4311,17 +4348,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 691,
-      "adds": 121345
-    },
-    {
       "id": "5995",
       "name": "Justice Hill",
       "pos": "RB",
@@ -4330,7 +4356,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 84942
+      "adds": 143397
+    },
+    {
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 691,
+      "adds": 124859
     },
     {
       "id": "6427",
@@ -4341,7 +4378,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 67986
+      "adds": 67779
     },
     {
       "id": "4993",
@@ -4352,7 +4389,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 397,
-      "adds": 49148
+      "adds": 61028
     },
     {
       "id": "IND",
@@ -4363,7 +4400,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 45924
+      "adds": 50145
     },
     {
       "id": "12499",
@@ -4374,29 +4411,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 45792
-    },
-    {
-      "id": "13270",
-      "name": "CJ Daniels",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 550,
-      "adds": 34408
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 697,
-      "adds": 31764
+      "adds": 49196
     },
     {
       "id": "12700",
@@ -4407,7 +4422,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 667,
-      "adds": 31059
+      "adds": 47358
     },
     {
       "id": "8122",
@@ -4418,18 +4433,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 27888
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 27447
+      "adds": 46258
     },
     {
       "id": "9479",
@@ -4440,7 +4444,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 471,
-      "adds": 27020
+      "adds": 41495
+    },
+    {
+      "id": "13270",
+      "name": "CJ Daniels",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 550,
+      "adds": 38464
     },
     {
       "id": "6865",
@@ -4451,62 +4466,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 22446
+      "adds": 28956
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 21500
-    },
-    {
-      "id": "10231",
-      "name": "Elijah Higgins",
-      "pos": "TE",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 668,
-      "adds": 21055
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
+      "id": "11762",
+      "name": "Anthony Gould",
       "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 18856
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 16866
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
+      "team": "IND",
       "injury": null,
       "status": "Active",
       "depth": 4,
-      "rank": 999,
-      "adds": 16052
+      "rank": 573,
+      "adds": 27643
     },
     {
       "id": "13424",
@@ -4517,7 +4488,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 379,
-      "adds": 15016
+      "adds": 23832
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 22765
+    },
+    {
+      "id": "10231",
+      "name": "Elijah Higgins",
+      "pos": "TE",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 668,
+      "adds": 21825
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 20416
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 18738
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 119,
+      "adds": 16632
     },
     {
       "id": "7812",
@@ -4528,7 +4554,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 427,
-      "adds": 14152
+      "adds": 16328
+    },
+    {
+      "id": "11653",
+      "name": "Charlie Smyth",
+      "pos": "K",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 242,
+      "adds": 14536
     }
   ]
 }
