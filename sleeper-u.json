@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T09:24:28.085Z",
+  "generated_at": "2026-11-14T15:54:21.645Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -262,7 +262,7 @@
       }
     ],
     "taxi": [],
-    "waiver_position": 11,
+    "waiver_position": 10,
     "faab_used": 0
   },
   "my_matchup": {
@@ -991,13 +991,23 @@
       ],
       "bench": [
         {
+          "id": "11579",
+          "name": "Audric Estime",
+          "pos": "RB",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 190
+        },
+        {
           "id": "11624",
           "name": "Xavier Worthy",
           "pos": "WR",
           "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 122
         },
         {
@@ -1043,7 +1053,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -1604,7 +1614,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2170,7 +2180,7 @@
           "team": "KC",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 111
         },
         {
@@ -2213,16 +2223,6 @@
       },
       "starters": [
         {
-          "id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 6,
-          "rank": 73
-        },
-        {
           "id": "12495",
           "name": "Ollie Gordon II",
           "pos": "RB",
@@ -2253,16 +2253,6 @@
           "rank": 38
         },
         {
-          "id": "3161",
-          "name": "Carson Wentz",
-          "pos": "QB",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 633
-        },
-        {
           "id": "3294",
           "name": "Dak Prescott",
           "pos": "QB",
@@ -2281,58 +2271,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 128
-        },
-        {
-          "id": "8132",
-          "name": "Tyler Allgeier",
-          "pos": "RB",
-          "team": "ARI",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 89
-        },
-        {
-          "id": "CHI",
-          "name": "Chicago Bears",
-          "pos": "DEF",
-          "team": "CHI",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        }
-      ],
-      "bench": [
-        {
-          "id": "10218",
-          "name": "Xavier Hutchinson",
-          "pos": "WR",
-          "team": "HOU",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 679
-        },
-        {
-          "id": "12524",
-          "name": "Shedeur Sanders",
-          "pos": "QB",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 227
-        },
-        {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "pos": "TE",
-          "team": "BAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 96
         },
         {
           "id": "5846",
@@ -2365,10 +2303,82 @@
           "rank": 65
         },
         {
+          "id": "8132",
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 89
+        },
+        {
           "id": "PIT",
           "name": "Pittsburgh Steelers",
           "pos": "DEF",
           "team": "PIT",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
+        }
+      ],
+      "bench": [
+        {
+          "id": "11610",
+          "name": "Malik Washington",
+          "pos": "WR",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 176
+        },
+        {
+          "id": "12524",
+          "name": "Shedeur Sanders",
+          "pos": "QB",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 227
+        },
+        {
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "pos": "RB",
+          "team": "KC",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 113
+        },
+        {
+          "id": "5012",
+          "name": "Mark Andrews",
+          "pos": "TE",
+          "team": "BAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 96
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "team": "HOU",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 42
+        },
+        {
+          "id": "CHI",
+          "name": "Chicago Bears",
+          "pos": "DEF",
+          "team": "CHI",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2385,16 +2395,6 @@
           "status": "Inactive",
           "depth": 2,
           "rank": 11
-        },
-        {
-          "id": "5892",
-          "name": "David Montgomery",
-          "pos": "RB",
-          "team": "HOU",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 2,
-          "rank": 42
         }
       ],
       "taxi": [],
@@ -2790,7 +2790,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -2997,6 +2997,117 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1427320769938980864",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794662299192,
+      "adds": [
+        {
+          "player": {
+            "id": "11610",
+            "name": "Malik Washington",
+            "pos": "WR",
+            "team": "MIA",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 176
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "11628",
+            "name": "Marvin Harrison Jr.",
+            "pos": "WR",
+            "team": "HOU",
+            "injury": "Out",
+            "status": "Active",
+            "depth": 6,
+            "rank": 73
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1427320641970765824",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794662268683,
+      "adds": [
+        {
+          "player": {
+            "id": "13337",
+            "name": "Emmett Johnson",
+            "pos": "RB",
+            "team": "KC",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 113
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "10218",
+            "name": "Xavier Hutchinson",
+            "pos": "WR",
+            "team": "HOU",
+            "injury": null,
+            "status": "Active",
+            "depth": 3,
+            "rank": 679
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1427311216899952640",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794660021571,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "3161",
+            "name": "Carson Wentz",
+            "pos": "QB",
+            "team": "MIN",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 633
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1427096358598221824",
       "type": "free_agent",
       "status": "complete",
@@ -3077,6 +3188,33 @@
       ],
       "roster_ids": [
         10
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1426765976350752768",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794530026093,
+      "adds": [
+        {
+          "player": {
+            "id": "11579",
+            "name": "Audric Estime",
+            "pos": "RB",
+            "team": "NO",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 190
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        2
       ],
       "waiver_bid": null
     },
@@ -3492,16 +3630,6 @@
         "rank": 98
       },
       {
-        "id": "13337",
-        "name": "Emmett Johnson",
-        "pos": "RB",
-        "team": "KC",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 113
-      },
-      {
         "id": "4035",
         "name": "Alvin Kamara",
         "pos": "RB",
@@ -3612,16 +3740,6 @@
         "rank": 180
       },
       {
-        "id": "11579",
-        "name": "Audric Estime",
-        "pos": "RB",
-        "team": "NO",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 190
-      },
-      {
         "id": "5995",
         "name": "Justice Hill",
         "pos": "RB",
@@ -3680,9 +3798,39 @@
         "status": "Active",
         "depth": null,
         "rank": 334
+      },
+      {
+        "id": "13424",
+        "name": "Seth McGowan",
+        "pos": "RB",
+        "team": "IND",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 379
+      },
+      {
+        "id": "7103",
+        "name": "Tavien Feaster",
+        "pos": "RB",
+        "team": "ARI",
+        "injury": null,
+        "status": "Active",
+        "depth": null,
+        "rank": 384
       }
     ],
     "WR": [
+      {
+        "id": "11628",
+        "name": "Marvin Harrison Jr.",
+        "pos": "WR",
+        "team": "HOU",
+        "injury": "Out",
+        "status": "Active",
+        "depth": 6,
+        "rank": 73
+      },
       {
         "id": "11631",
         "name": "Brian Thomas Jr.",
@@ -3782,16 +3930,6 @@
         "status": "Active",
         "depth": 3,
         "rank": 172
-      },
-      {
-        "id": "11610",
-        "name": "Malik Washington",
-        "pos": "WR",
-        "team": "MIA",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 176
       },
       {
         "id": "6803",
@@ -4173,17 +4311,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13337",
-      "name": "Emmett Johnson",
-      "pos": "RB",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 113,
-      "adds": 772200
-    },
-    {
       "id": "7562",
       "name": "Tutu Atwell",
       "pos": "WR",
@@ -4192,7 +4319,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 137011
+      "adds": 121345
     },
     {
       "id": "5995",
@@ -4203,7 +4330,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 101574
+      "adds": 84942
     },
     {
       "id": "6427",
@@ -4214,18 +4341,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 75483
-    },
-    {
-      "id": "IND",
-      "name": "Indianapolis Colts",
-      "pos": "DEF",
-      "team": "IND",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 53643
+      "adds": 67986
     },
     {
       "id": "4993",
@@ -4236,7 +4352,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 397,
-      "adds": 48844
+      "adds": 49148
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "team": "IND",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 45924
     },
     {
       "id": "12499",
@@ -4247,18 +4374,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 40120
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 697,
-      "adds": 37368
+      "adds": 45792
     },
     {
       "id": "13270",
@@ -4269,73 +4385,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 550,
-      "adds": 36820
+      "adds": 34408
     },
     {
-      "id": "11579",
-      "name": "Audric Estime",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 190,
-      "adds": 32217
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
+      "id": "4177",
+      "name": "Mack Hollins",
       "pos": "WR",
-      "team": "IND",
+      "team": "NE",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 29379
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 27696
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 471,
-      "adds": 26490
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 25785
-    },
-    {
-      "id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 176,
-      "adds": 22448
+      "depth": 3,
+      "rank": 697,
+      "adds": 31764
     },
     {
       "id": "12700",
@@ -4346,7 +4407,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 667,
-      "adds": 21915
+      "adds": 31059
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 27888
+    },
+    {
+      "id": "11762",
+      "name": "Anthony Gould",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 573,
+      "adds": 27447
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 471,
+      "adds": 27020
     },
     {
       "id": "6865",
@@ -4357,7 +4451,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 21216
+      "adds": 22446
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 21500
     },
     {
       "id": "10231",
@@ -4368,18 +4473,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 668,
-      "adds": 18620
-    },
-    {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 999,
-      "adds": 18520
+      "adds": 21055
     },
     {
       "id": "12492",
@@ -4390,7 +4484,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 17752
+      "adds": 18856
+    },
+    {
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 126,
+      "adds": 16866
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 999,
+      "adds": 16052
+    },
+    {
+      "id": "13424",
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 379,
+      "adds": 15016
+    },
+    {
+      "id": "7812",
+      "name": "Simi Fehoko",
+      "pos": "WR",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 427,
+      "adds": 14152
     }
   ]
 }
