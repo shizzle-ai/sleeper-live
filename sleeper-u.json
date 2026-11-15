@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-14T23:54:31.111Z",
+  "generated_at": "2026-11-15T03:43:35.716Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1007,7 +1007,7 @@
           "team": "KC",
           "injury": null,
           "status": "Active",
-          "depth": 3,
+          "depth": 2,
           "rank": 122
         },
         {
@@ -2180,7 +2180,7 @@
           "team": "KC",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 2,
+          "depth": 3,
           "rank": 111
         },
         {
@@ -2202,7 +2202,7 @@
           "team": "ARI",
           "injury": "IR",
           "status": "Inactive",
-          "depth": 7,
+          "depth": 6,
           "rank": 15
         }
       ],
@@ -3743,7 +3743,7 @@
         "team": "TEN",
         "injury": null,
         "status": "Active",
-        "depth": 4,
+        "depth": 3,
         "rank": 167
       },
       {
@@ -4035,7 +4035,7 @@
         "team": "ATL",
         "injury": "Out",
         "status": "Active",
-        "depth": 8,
+        "depth": 6,
         "rank": 185
       },
       {
@@ -4356,7 +4356,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 220,
-      "adds": 157176
+      "adds": 176238
     },
     {
       "id": "7562",
@@ -4367,7 +4367,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 105938
+      "adds": 100541
     },
     {
       "id": "6427",
@@ -4378,7 +4378,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 58320
+      "adds": 56772
     },
     {
       "id": "12700",
@@ -4389,7 +4389,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 667,
-      "adds": 53712
+      "adds": 56691
     },
     {
       "id": "8122",
@@ -4400,18 +4400,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 49576
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 397,
-      "adds": 49268
+      "adds": 53020
     },
     {
       "id": "IND",
@@ -4422,7 +4411,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 47406
+      "adds": 50808
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 397,
+      "adds": 48572
     },
     {
       "id": "12499",
@@ -4433,7 +4433,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 44540
+      "adds": 45040
     },
     {
       "id": "9479",
@@ -4444,7 +4444,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 471,
-      "adds": 40120
+      "adds": 42620
     },
     {
       "id": "13270",
@@ -4455,7 +4455,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 550,
-      "adds": 39800
+      "adds": 40436
     },
     {
       "id": "6865",
@@ -4466,7 +4466,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 136,
-      "adds": 28776
+      "adds": 32256
     },
     {
       "id": "13424",
@@ -4477,7 +4477,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 379,
-      "adds": 25712
+      "adds": 28536
     },
     {
       "id": "11762",
@@ -4488,7 +4488,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 573,
-      "adds": 25459
+      "adds": 25340
     },
     {
       "id": "12492",
@@ -4499,7 +4499,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 22056
+      "adds": 23888
     },
     {
       "id": "5119",
@@ -4510,18 +4510,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 21655
-    },
-    {
-      "id": "10231",
-      "name": "Elijah Higgins",
-      "pos": "TE",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 668,
-      "adds": 17850
+      "adds": 23080
     },
     {
       "id": "7812",
@@ -4532,7 +4521,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 427,
-      "adds": 16488
+      "adds": 16888
     },
     {
       "id": "4035",
@@ -4543,7 +4532,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 119,
-      "adds": 16176
+      "adds": 16840
+    },
+    {
+      "id": "10231",
+      "name": "Elijah Higgins",
+      "pos": "TE",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 668,
+      "adds": 15885
     },
     {
       "id": "11653",
@@ -4552,9 +4552,9 @@
       "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": null,
+      "depth": 1,
       "rank": 242,
-      "adds": 14024
+      "adds": 14320
     },
     {
       "id": "3155",
@@ -4565,7 +4565,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 674,
-      "adds": 13465
+      "adds": 14055
     }
   ]
 }
