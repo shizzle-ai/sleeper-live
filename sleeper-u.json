@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T11:31:11.419Z",
+  "generated_at": "2026-11-15T17:56:09.936Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -233,7 +233,7 @@
         "name": "Omar Cooper Jr.",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 151
@@ -413,14 +413,14 @@
       "team": "Grass-fed Beef",
       "is_me": false,
       "matchup_id": 1,
-      "points": 7.4,
+      "points": 10.42,
       "starters": [
         {
           "id": "11564",
           "name": "Drake Maye",
           "pos": "QB",
           "team": "NE",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 9
@@ -517,7 +517,7 @@
         }
       ],
       "starters_points": [
-        0,
+        3.02,
         0,
         0,
         7.4,
@@ -539,7 +539,7 @@
         "7594": 0,
         "7600": 0,
         "8161": 0,
-        "11564": 0,
+        "11564": 3.02,
         "11632": 7.4,
         "12490": 0,
         "12504": 0,
@@ -752,7 +752,7 @@
           "name": "Garrett Wilson",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 38
@@ -810,16 +810,6 @@
           "rank": 45
         },
         {
-          "id": "13279",
-          "name": "Carnell Tate",
-          "pos": "WR",
-          "team": "TEN",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 7,
-          "rank": 61
-        },
-        {
           "id": "13281",
           "name": "Jordyn Tyson",
           "pos": "WR",
@@ -844,7 +834,7 @@
           "name": "Denzel Boston",
           "pos": "WR",
           "team": "CLE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 153
@@ -854,13 +844,33 @@
           "name": "Baker Mayfield",
           "pos": "QB",
           "team": "TB",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 77
+        },
+        {
+          "id": "8122",
+          "name": "Zonovan Knight",
+          "pos": "RB",
+          "team": "ARI",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 669
         }
       ],
       "reserve": [
+        {
+          "id": "13279",
+          "name": "Carnell Tate",
+          "pos": "WR",
+          "team": "TEN",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 7,
+          "rank": 61
+        },
         {
           "id": "13417",
           "name": "De'Zhaun Stribling",
@@ -933,7 +943,7 @@
           "name": "Amon-Ra St. Brown",
           "pos": "WR",
           "team": "DET",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 7
@@ -1215,7 +1225,7 @@
           "name": "Rhamondre Stevenson",
           "pos": "RB",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 3,
           "rank": 58
@@ -1225,7 +1235,7 @@
           "name": "Jordan Addison",
           "pos": "WR",
           "team": "MIN",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 99
@@ -1444,7 +1454,7 @@
           "name": "Drake Maye",
           "pos": "QB",
           "team": "NE",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 9
@@ -1576,7 +1586,7 @@
           "name": "Travis Etienne Jr.",
           "pos": "RB",
           "team": "NO",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 3,
           "rank": 34
@@ -1842,16 +1852,6 @@
       },
       "starters": [
         {
-          "id": "12491",
-          "name": "Corey Kiner",
-          "pos": "RB",
-          "team": "NE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 487
-        },
-        {
           "id": "13274",
           "name": "Germie Bernard",
           "pos": "WR",
@@ -1860,6 +1860,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 194
+        },
+        {
+          "id": "1479",
+          "name": "Keenan Allen",
+          "pos": "WR",
+          "team": "SF",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 180
         },
         {
           "id": "7042",
@@ -1958,10 +1968,20 @@
           "name": "Adonai Mitchell",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 3,
           "rank": 162
+        },
+        {
+          "id": "12491",
+          "name": "Corey Kiner",
+          "pos": "RB",
+          "team": "NE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 487
         },
         {
           "id": "12519",
@@ -1982,16 +2002,6 @@
           "status": "Inactive",
           "depth": 5,
           "rank": 39
-        },
-        {
-          "id": "1479",
-          "name": "Keenan Allen",
-          "pos": "WR",
-          "team": "SF",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 180
         },
         {
           "id": "8408",
@@ -2308,7 +2318,7 @@
           "name": "A.J. Brown",
           "pos": "WR",
           "team": "NE",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 17
@@ -2782,7 +2792,7 @@
           "name": "Omar Cooper Jr.",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 2,
           "rank": 151
@@ -3017,6 +3027,33 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1427689693159391232",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794750257342,
+      "adds": [
+        {
+          "player": {
+            "id": "8122",
+            "name": "Zonovan Knight",
+            "pos": "RB",
+            "team": "ARI",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 669
+          },
+          "roster_id": 1,
+          "team": "Wades World"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        1
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1427552680787599360",
       "type": "free_agent",
@@ -3813,7 +3850,7 @@
         "name": "Tyjae Spears",
         "pos": "RB",
         "team": "TEN",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 122
@@ -3873,7 +3910,7 @@
         "name": "Nicholas Singleton",
         "pos": "RB",
         "team": "TEN",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 167
@@ -3923,7 +3960,7 @@
         "name": "Ben VanSumeren",
         "pos": "RB",
         "team": "KC",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 5,
         "rank": 228
@@ -4478,40 +4515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 105497
-    },
-    {
-      "id": "12700",
-      "name": "Gavin Bartholomew",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 667,
-      "adds": 65169
-    },
-    {
-      "id": "6427",
-      "name": "Ashton Dulin",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 61605
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 58920
+      "adds": 145047
     },
     {
       "id": "12499",
@@ -4522,7 +4526,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 185,
-      "adds": 51680
+      "adds": 97548
+    },
+    {
+      "id": "12700",
+      "name": "Gavin Bartholomew",
+      "pos": "TE",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 667,
+      "adds": 91125
     },
     {
       "id": "9479",
@@ -4533,84 +4548,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 471,
-      "adds": 49330
+      "adds": 81215
     },
     {
-      "id": "13270",
-      "name": "CJ Daniels",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 550,
-      "adds": 42868
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 39480
-    },
-    {
-      "id": "13424",
-      "name": "Seth McGowan",
-      "pos": "RB",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 380,
-      "adds": 33080
-    },
-    {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 172,
-      "adds": 27704
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 27595
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
+      "id": "6427",
+      "name": "Ashton Dulin",
       "pos": "WR",
       "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 26810
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 119,
-      "adds": 18648
+      "depth": 2,
+      "rank": 697,
+      "adds": 78435
     },
     {
       "id": "12961",
@@ -4621,40 +4570,106 @@
       "status": "Active",
       "depth": 1,
       "rank": 327,
-      "adds": 18285
+      "adds": 66915
     },
     {
-      "id": "7812",
-      "name": "Simi Fehoko",
-      "pos": "WR",
-      "team": "ARI",
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 427,
-      "adds": 17456
+      "rank": 136,
+      "adds": 64860
     },
     {
-      "id": "11653",
-      "name": "Charlie Smyth",
+      "id": "5119",
+      "name": "Jason Sanders",
       "pos": "K",
-      "team": "NO",
+      "team": "NYJ",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 242,
-      "adds": 16288
+      "rank": 582,
+      "adds": 56185
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
+      "id": "13424",
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 380,
+      "adds": 49816
+    },
+    {
+      "id": "13270",
+      "name": "CJ Daniels",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 550,
+      "adds": 49508
+    },
+    {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 172,
+      "adds": 38464
+    },
+    {
+      "id": "11762",
+      "name": "Anthony Gould",
       "pos": "WR",
       "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 674,
-      "adds": 16015
+      "depth": 4,
+      "rank": 573,
+      "adds": 31150
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 27060
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 26775
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 25641
     },
     {
       "id": "10218",
@@ -4665,18 +4680,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 15372
-    },
-    {
-      "id": "10231",
-      "name": "Elijah Higgins",
-      "pos": "TE",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 668,
-      "adds": 15195
+      "adds": 25487
     },
     {
       "id": "12897",
@@ -4687,7 +4691,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 609,
-      "adds": 13307
+      "adds": 25144
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 119,
+      "adds": 24984
+    },
+    {
+      "id": "11653",
+      "name": "Charlie Smyth",
+      "pos": "K",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 242,
+      "adds": 24528
+    },
+    {
+      "id": "3155",
+      "name": "Laquon Treadwell",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 674,
+      "adds": 22685
     }
   ]
 }
