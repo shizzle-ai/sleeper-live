@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-16T09:49:32.139Z",
+  "generated_at": "2026-11-16T19:53:20.270Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -4515,18 +4515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 380,
-      "adds": 181280
-    },
-    {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 691,
-      "adds": 173845
+      "adds": 209056
     },
     {
       "id": "10218",
@@ -4537,7 +4526,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 139349
+      "adds": 193949
     },
     {
       "id": "9482",
@@ -4548,40 +4537,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 422,
-      "adds": 96696
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 96230
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 91852
-    },
-    {
-      "id": "12700",
-      "name": "Gavin Bartholomew",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 667,
-      "adds": 86517
+      "adds": 167175
     },
     {
       "id": "12492",
@@ -4592,29 +4548,29 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 72712
+      "adds": 82312
     },
     {
-      "id": "12961",
-      "name": "Ryan Fitzgerald",
-      "pos": "K",
-      "team": "CAR",
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 691,
+      "adds": 81620
+    },
+    {
+      "id": "12700",
+      "name": "Gavin Bartholomew",
+      "pos": "TE",
+      "team": "MIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 327,
-      "adds": 69280
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 61302
+      "rank": 667,
+      "adds": 68571
     },
     {
       "id": "13264",
@@ -4625,18 +4581,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 56205
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 51190
+      "adds": 56007
     },
     {
       "id": "4035",
@@ -4647,51 +4592,29 @@
       "status": "Active",
       "depth": 1,
       "rank": 119,
-      "adds": 51088
+      "adds": 53952
     },
     {
-      "id": "6865",
-      "name": "Colby Parkinson",
+      "id": "9479",
+      "name": "Darnell Washington",
       "pos": "TE",
-      "team": "LAR",
+      "team": "PIT",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 136,
-      "adds": 45414
+      "rank": 470,
+      "adds": 50010
     },
     {
-      "id": "6427",
-      "name": "Ashton Dulin",
+      "id": "12499",
+      "name": "Elic Ayomanor",
       "pos": "WR",
-      "team": "IND",
+      "team": "TEN",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 697,
-      "adds": 38079
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 31160
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 179,
-      "adds": 30640
+      "rank": 185,
+      "adds": 49268
     },
     {
       "id": "DET",
@@ -4702,18 +4625,51 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 27855
+      "adds": 42858
     },
     {
-      "id": "13270",
-      "name": "CJ Daniels",
+      "id": "3286",
+      "name": "Demarcus Robinson",
       "pos": "WR",
-      "team": "LAR",
+      "team": "SF",
       "injury": null,
       "status": "Active",
       "depth": 3,
-      "rank": 550,
-      "adds": 26664
+      "rank": 679,
+      "adds": 38784
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 179,
+      "adds": 35460
+    },
+    {
+      "id": "13303",
+      "name": "Cade Klubnik",
+      "pos": "QB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 395,
+      "adds": 30564
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 30464
     },
     {
       "id": "12670",
@@ -4724,7 +4680,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 649,
-      "adds": 24588
+      "adds": 28458
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 25510
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 23536
+    },
+    {
+      "id": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 95,
+      "adds": 23400
+    },
+    {
+      "id": "7922",
+      "name": "Riley Patterson",
+      "pos": "K",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 241,
+      "adds": 21356
     }
   ]
 }
