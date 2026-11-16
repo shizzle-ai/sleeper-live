@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-15T22:23:28.332Z",
+  "generated_at": "2026-11-16T02:15:56.569Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -273,7 +273,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 1,
-      "points": 91.32,
+      "points": 122.4,
       "starters": [
         {
           "id": "6770",
@@ -377,12 +377,12 @@
         }
       ],
       "starters_points": [
-        0,
-        3.8,
+        11.88,
+        5.2,
         12.5,
         4.1,
-        3.7,
-        3,
+        11.1,
+        13.4,
         7.8,
         35.42,
         8,
@@ -392,18 +392,18 @@
         "1166": 16.38,
         "4046": 35.42,
         "4199": 12.5,
-        "4217": 3,
-        "6770": 0,
+        "4217": 13.4,
+        "6770": 11.88,
         "7567": 0,
-        "8150": 3.8,
+        "8150": 5.2,
         "9493": 0,
         "10236": 7.8,
         "10955": 8,
         "11584": 0,
         "12514": 0,
         "12540": 4.1,
-        "12718": 3.7,
-        "13269": 11.7,
+        "12718": 11.1,
+        "13269": 13.92,
         "13276": 0,
         "BUF": 13
       }
@@ -413,7 +413,7 @@
       "team": "Grass-fed Beef",
       "is_me": false,
       "matchup_id": 1,
-      "points": 95.7,
+      "points": 146.9,
       "starters": [
         {
           "id": "11564",
@@ -470,7 +470,7 @@
           "name": "Pat Freiermuth",
           "pos": "TE",
           "team": "PIT",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 230
@@ -518,22 +518,22 @@
       ],
       "starters_points": [
         3.02,
-        3.8,
+        46.3,
         34.2,
         7.4,
-        0,
+        4.7,
         0,
         20.3,
         10.98,
-        4,
+        8,
         12
       ],
       "players_points": {
-        "4034": 3.8,
-        "5189": 4,
+        "4034": 46.3,
+        "5189": 8,
         "5850": 0,
-        "5872": 8.9,
-        "6801": 0,
+        "5872": 25.9,
+        "6801": 4.7,
         "7543": 6.4,
         "7553": 7,
         "7594": 34.2,
@@ -544,9 +544,9 @@
         "12490": 20.3,
         "12504": 4.2,
         "12545": 10.98,
-        "13272": 3,
+        "13272": 2.42,
         "KC": 12,
-        "SF": 5
+        "SF": 4
       }
     }
   },
@@ -1237,7 +1237,7 @@
           "team": "MIN",
           "injury": "Out",
           "status": "Active",
-          "depth": 2,
+          "depth": 6,
           "rank": 99
         }
       ],
@@ -1274,7 +1274,7 @@
           "name": "Brock Bowers",
           "pos": "TE",
           "team": "LV",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 20
@@ -1534,7 +1534,7 @@
           "name": "Pat Freiermuth",
           "pos": "TE",
           "team": "PIT",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 230
@@ -1620,7 +1620,7 @@
           "team": "GB",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 20
         },
         {
@@ -1789,7 +1789,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 17
         },
         {
@@ -2211,7 +2211,7 @@
           "team": "LAC",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 104
         }
       ],
@@ -2553,7 +2553,7 @@
           "team": "LAC",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 7,
           "rank": 35
         },
         {
@@ -3758,7 +3758,7 @@
         "name": "Drew Allar",
         "pos": "QB",
         "team": "PIT",
-        "injury": null,
+        "injury": "Out",
         "status": "Active",
         "depth": 4,
         "rank": 362
@@ -3892,7 +3892,7 @@
         "team": "SEA",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 5,
         "rank": 161
       },
       {
@@ -3912,7 +3912,7 @@
         "team": "TEN",
         "injury": "Out",
         "status": "Active",
-        "depth": 3,
+        "depth": 5,
         "rank": 167
       },
       {
@@ -3962,7 +3962,7 @@
         "team": "KC",
         "injury": "Out",
         "status": "Active",
-        "depth": 5,
+        "depth": 4,
         "rank": 228
       },
       {
@@ -3982,7 +3982,7 @@
         "team": "PIT",
         "injury": null,
         "status": "Active",
-        "depth": 6,
+        "depth": 5,
         "rank": 324
       },
       {
@@ -4054,7 +4054,7 @@
         "team": "MIN",
         "injury": "Out",
         "status": "Active",
-        "depth": 6,
+        "depth": 5,
         "rank": 123
       },
       {
@@ -4144,7 +4144,7 @@
         "team": "LAC",
         "injury": null,
         "status": "Active",
-        "depth": 3,
+        "depth": 2,
         "rank": 179
       },
       {
@@ -4515,7 +4515,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 691,
-      "adds": 210756
+      "adds": 197491
     },
     {
       "id": "13424",
@@ -4526,18 +4526,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 380,
-      "adds": 96368
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 94592
+      "adds": 134648
     },
     {
       "id": "9479",
@@ -4548,62 +4537,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 471,
-      "adds": 91880
-    },
-    {
-      "id": "12700",
-      "name": "Gavin Bartholomew",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 667,
-      "adds": 91188
-    },
-    {
-      "id": "12961",
-      "name": "Ryan Fitzgerald",
-      "pos": "K",
-      "team": "CAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 327,
-      "adds": 70605
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 66624
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 136,
-      "adds": 66594
-    },
-    {
-      "id": "6427",
-      "name": "Ashton Dulin",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 65322
+      "adds": 107580
     },
     {
       "id": "10218",
@@ -4614,18 +4548,51 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 63231
+      "adds": 95088
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
+      "id": "12499",
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 185,
+      "adds": 94236
+    },
+    {
+      "id": "12700",
+      "name": "Gavin Bartholomew",
+      "pos": "TE",
+      "team": "MIN",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 582,
-      "adds": 54015
+      "rank": 667,
+      "adds": 91809
+    },
+    {
+      "id": "12961",
+      "name": "Ryan Fitzgerald",
+      "pos": "K",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 327,
+      "adds": 71815
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 64980
     },
     {
       "id": "12492",
@@ -4636,62 +4603,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 47480
-    },
-    {
-      "id": "13270",
-      "name": "CJ Daniels",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 550,
-      "adds": 45740
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 119,
-      "adds": 31144
-    },
-    {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 628,
-      "adds": 26748
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
-      "pos": "WR",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 573,
-      "adds": 26103
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 25533
+      "adds": 60760
     },
     {
       "id": "9482",
@@ -4702,18 +4614,106 @@
       "status": "Active",
       "depth": 2,
       "rank": 422,
-      "adds": 23940
+      "adds": 59040
     },
     {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 23772
+      "status": "Active",
+      "depth": 2,
+      "rank": 136,
+      "adds": 58686
+    },
+    {
+      "id": "6427",
+      "name": "Ashton Dulin",
+      "pos": "WR",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 55278
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 53985
+    },
+    {
+      "id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 119,
+      "adds": 41176
+    },
+    {
+      "id": "13264",
+      "name": "Dohnte Meyers",
+      "pos": "WR",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 628,
+      "adds": 39186
+    },
+    {
+      "id": "13270",
+      "name": "CJ Daniels",
+      "pos": "WR",
+      "team": "LAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 550,
+      "adds": 37412
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 26720
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 24435
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 179,
+      "adds": 24100
     },
     {
       "id": "3155",
@@ -4724,7 +4724,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 674,
-      "adds": 23600
+      "adds": 22780
     }
   ]
 }
