@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-16T19:53:20.270Z",
+  "generated_at": "2026-11-17T02:39:35.371Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -1236,7 +1236,7 @@
           "pos": "WR",
           "team": "MIN",
           "injury": "Out",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 6,
           "rank": 99
         }
@@ -2553,7 +2553,7 @@
           "team": "LAC",
           "injury": "Out",
           "status": "Active",
-          "depth": 7,
+          "depth": 6,
           "rank": 35
         },
         {
@@ -4224,7 +4224,7 @@
         "name": "Oronde Gadsden",
         "pos": "TE",
         "team": "LAC",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 83
@@ -4268,6 +4268,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 126
+      },
+      {
+        "id": "4033",
+        "name": "David Njoku",
+        "pos": "TE",
+        "team": "LAC",
+        "injury": null,
+        "status": "Active",
+        "depth": 3,
+        "rank": 131
       },
       {
         "id": "6865",
@@ -4328,16 +4338,6 @@
         "status": "Active",
         "depth": 1,
         "rank": 148
-      },
-      {
-        "id": "12502",
-        "name": "Gunnar Helm",
-        "pos": "TE",
-        "team": "TEN",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 153
       }
     ],
     "K": [
@@ -4507,17 +4507,6 @@
   },
   "trending_unrostered_adds": [
     {
-      "id": "13424",
-      "name": "Seth McGowan",
-      "pos": "RB",
-      "team": "IND",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 380,
-      "adds": 209056
-    },
-    {
       "id": "10218",
       "name": "Xavier Hutchinson",
       "pos": "WR",
@@ -4526,7 +4515,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 193949
+      "adds": 209755
+    },
+    {
+      "id": "13424",
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "team": "IND",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 380,
+      "adds": 206216
     },
     {
       "id": "9482",
@@ -4537,7 +4537,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 422,
-      "adds": 167175
+      "adds": 192456
     },
     {
       "id": "12492",
@@ -4548,18 +4548,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 172,
-      "adds": 82312
-    },
-    {
-      "id": "7562",
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "team": "LAR",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 691,
-      "adds": 81620
+      "adds": 87616
     },
     {
       "id": "12700",
@@ -4570,51 +4559,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 667,
-      "adds": 68571
-    },
-    {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 628,
-      "adds": 56007
-    },
-    {
-      "id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 119,
-      "adds": 53952
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 470,
-      "adds": 50010
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 185,
-      "adds": 49268
+      "adds": 64395
     },
     {
       "id": "DET",
@@ -4625,84 +4570,40 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 42858
+      "adds": 55998
     },
     {
-      "id": "3286",
-      "name": "Demarcus Robinson",
+      "id": "12499",
+      "name": "Elic Ayomanor",
       "pos": "WR",
-      "team": "SF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 38784
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
+      "team": "TEN",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 179,
-      "adds": 35460
+      "rank": 185,
+      "adds": 50016
     },
     {
-      "id": "13303",
-      "name": "Cade Klubnik",
-      "pos": "QB",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 395,
-      "adds": 30564
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 30464
-    },
-    {
-      "id": "12670",
-      "name": "KeAndre Lambert-Smith",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 649,
-      "adds": 28458
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 25510
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
+      "id": "4035",
+      "name": "Alvin Kamara",
       "pos": "RB",
-      "team": "WAS",
+      "team": "NO",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 632,
-      "adds": 23536
+      "depth": 1,
+      "rank": 119,
+      "adds": 40712
+    },
+    {
+      "id": "13264",
+      "name": "Dohnte Meyers",
+      "pos": "WR",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 628,
+      "adds": 36783
     },
     {
       "id": "12533",
@@ -4713,18 +4614,117 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 95,
-      "adds": 23400
+      "adds": 32238
     },
     {
-      "id": "7922",
-      "name": "Riley Patterson",
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 179,
+      "adds": 31288
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
       "pos": "K",
-      "team": "BAL",
+      "team": "TB",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 241,
-      "adds": 21356
+      "rank": 199,
+      "adds": 31256
+    },
+    {
+      "id": "1837",
+      "name": "Jimmy Garoppolo",
+      "pos": "QB",
+      "team": null,
+      "injury": null,
+      "status": "Active",
+      "depth": null,
+      "rank": 219,
+      "adds": 30945
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 24935
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 632,
+      "adds": 23256
+    },
+    {
+      "id": "12670",
+      "name": "KeAndre Lambert-Smith",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 649,
+      "adds": 20061
+    },
+    {
+      "id": "13303",
+      "name": "Cade Klubnik",
+      "pos": "QB",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 395,
+      "adds": 19845
+    },
+    {
+      "id": "12961",
+      "name": "Ryan Fitzgerald",
+      "pos": "K",
+      "team": "CAR",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 327,
+      "adds": 18770
+    },
+    {
+      "id": "11292",
+      "name": "Tommy DeVito",
+      "pos": "QB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 656,
+      "adds": 13257
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 458,
+      "adds": 11940
     }
   ]
 }
