@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-19T23:15:17.174Z",
+  "generated_at": "2026-11-20T03:59:41.719Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -273,7 +273,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 2,
-      "points": 0,
+      "points": 3.3,
       "starters": [
         {
           "id": "6770",
@@ -381,7 +381,7 @@
         0,
         0,
         0,
-        0,
+        3.3,
         0,
         0,
         0,
@@ -399,7 +399,7 @@
         "7567": 0,
         "8150": 0,
         "9493": 0,
-        "10218": 0,
+        "10218": 3.3,
         "10236": 0,
         "11584": 0,
         "12514": 0,
@@ -844,7 +844,7 @@
           "name": "Seth McGowan",
           "pos": "RB",
           "team": "IND",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 378
@@ -915,7 +915,7 @@
           "team": "HOU",
           "injury": "Out",
           "status": "Active",
-          "depth": 5,
+          "depth": 6,
           "rank": 105
         },
         {
@@ -959,14 +959,14 @@
           "rank": 23
         },
         {
-          "id": "9484",
-          "name": "Tucker Kraft",
+          "id": "8111",
+          "name": "Cade Otton",
           "pos": "TE",
-          "team": "GB",
-          "injury": "Questionable",
+          "team": "TB",
+          "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 148
         },
         {
           "id": "9502",
@@ -989,10 +989,10 @@
           "rank": 186
         },
         {
-          "id": "BAL",
-          "name": "Baltimore Ravens",
+          "id": "DEN",
+          "name": "Denver Broncos",
           "pos": "DEF",
-          "team": "BAL",
+          "team": "DEN",
           "injury": null,
           "status": null,
           "depth": null,
@@ -1051,14 +1051,14 @@
           "rank": 35
         },
         {
-          "id": "DEN",
-          "name": "Denver Broncos",
-          "pos": "DEF",
-          "team": "DEN",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
+          "id": "9484",
+          "name": "Tucker Kraft",
+          "pos": "TE",
+          "team": "GB",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 65
         }
       ],
       "reserve": [],
@@ -1310,14 +1310,14 @@
           "rank": 172
         },
         {
-          "id": "13425",
-          "name": "Jalon Daniels",
-          "pos": "QB",
-          "team": "TB",
+          "id": "4035",
+          "name": "Alvin Kamara",
+          "pos": "RB",
+          "team": "NO",
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 647
+          "rank": 119
         },
         {
           "id": "6813",
@@ -1382,6 +1382,16 @@
           "rank": 68
         },
         {
+          "id": "13425",
+          "name": "Jalon Daniels",
+          "pos": "QB",
+          "team": "TB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 647
+        },
+        {
           "id": "4017",
           "name": "Deshaun Watson",
           "pos": "QB",
@@ -1390,16 +1400,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 290
-        },
-        {
-          "id": "4035",
-          "name": "Alvin Kamara",
-          "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 119
         },
         {
           "id": "7002",
@@ -3029,6 +3029,48 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1429322689541079040",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795139594019,
+      "adds": [
+        {
+          "player": {
+            "id": "8111",
+            "name": "Cade Otton",
+            "pos": "TE",
+            "team": "TB",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 148
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "BAL",
+            "name": "Baltimore Ravens",
+            "pos": "DEF",
+            "team": "BAL",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 2,
+          "team": "Herby Fully Loaded! "
+        }
+      ],
+      "roster_ids": [
+        2
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1429165181069438976",
       "type": "free_agent",
       "status": "complete",
@@ -3480,7 +3522,7 @@
         "name": "Jordan James",
         "pos": "RB",
         "team": "SF",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 222
@@ -3850,16 +3892,6 @@
         "rank": 144
       },
       {
-        "id": "8111",
-        "name": "Cade Otton",
-        "pos": "TE",
-        "team": "TB",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 148
-      },
-      {
         "id": "12502",
         "name": "Gunnar Helm",
         "pos": "TE",
@@ -3868,6 +3900,16 @@
         "status": "Active",
         "depth": 1,
         "rank": 153
+      },
+      {
+        "id": "13278",
+        "name": "Max Klare",
+        "pos": "TE",
+        "team": "LAR",
+        "injury": null,
+        "status": "Active",
+        "depth": 4,
+        "rank": 212
       }
     ],
     "K": [
@@ -3964,6 +4006,16 @@
         "rank": null
       },
       {
+        "id": "BAL",
+        "name": "Baltimore Ravens",
+        "pos": "DEF",
+        "team": "BAL",
+        "injury": null,
+        "status": null,
+        "depth": null,
+        "rank": null
+      },
+      {
         "id": "PIT",
         "name": "Pittsburgh Steelers",
         "pos": "DEF",
@@ -4022,16 +4074,6 @@
         "status": null,
         "depth": null,
         "rank": null
-      },
-      {
-        "id": "CLE",
-        "name": "Cleveland Browns",
-        "pos": "DEF",
-        "team": "CLE",
-        "injury": null,
-        "status": null,
-        "depth": null,
-        "rank": null
       }
     ]
   },
@@ -4045,18 +4087,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 175,
-      "adds": 370584
-    },
-    {
-      "id": "12533",
-      "name": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 95,
-      "adds": 108216
+      "adds": 469476
     },
     {
       "id": "4147",
@@ -4067,18 +4098,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 458,
-      "adds": 104884
+      "adds": 119912
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 87560
+      "id": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 95,
+      "adds": 118845
     },
     {
       "id": "12700",
@@ -4089,40 +4120,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 667,
-      "adds": 86508
+      "adds": 110304
     },
     {
-      "id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
       "team": "NYJ",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 162,
-      "adds": 77528
-    },
-    {
-      "id": "6528",
-      "name": "Joey Slye",
-      "pos": "K",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
       "depth": 1,
-      "rank": 325,
-      "adds": 72630
-    },
-    {
-      "id": "PIT",
-      "name": "Pittsburgh Steelers",
-      "pos": "DEF",
-      "team": "PIT",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 65718
+      "rank": 582,
+      "adds": 101665
     },
     {
       "id": "13269",
@@ -4133,18 +4142,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 110,
-      "adds": 64688
+      "adds": 95088
     },
     {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
+      "id": "6528",
+      "name": "Joey Slye",
+      "pos": "K",
+      "team": "TEN",
       "injury": null,
       "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 52974
+      "depth": 1,
+      "rank": 325,
+      "adds": 94419
+    },
+    {
+      "id": "11625",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 162,
+      "adds": 87568
+    },
+    {
+      "id": "PIT",
+      "name": "Pittsburgh Steelers",
+      "pos": "DEF",
+      "team": "PIT",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 81324
     },
     {
       "id": "SF",
@@ -4155,18 +4186,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50214
+      "adds": 78501
     },
     {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
       "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 39796
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 62838
     },
     {
       "id": "12502",
@@ -4177,18 +4208,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 153,
-      "adds": 36358
+      "adds": 59612
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "team": "IND",
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "pos": "DEF",
+      "team": "CAR",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 674,
-      "adds": 30715
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 54647
     },
     {
       "id": "8135",
@@ -4199,18 +4230,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 29855
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 9,
-      "rank": 688,
-      "adds": 29700
+      "adds": 35133
     },
     {
       "id": "4037",
@@ -4221,18 +4241,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 88,
-      "adds": 24546
+      "adds": 33588
     },
     {
-      "id": "13285",
-      "name": "Malachi Fields",
+      "id": "3155",
+      "name": "Laquon Treadwell",
       "pos": "WR",
-      "team": "NYG",
+      "team": "IND",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 22890
+      "depth": 1,
+      "rank": 674,
+      "adds": 33340
     },
     {
       "id": "NYJ",
@@ -4243,18 +4263,40 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 22796
+      "adds": 28202
     },
     {
-      "id": "11685",
-      "name": "Kamari Lassiter",
-      "pos": "DB",
-      "team": "HOU",
+      "id": "12494",
+      "name": "Kyle McCord",
+      "pos": "QB",
+      "team": "MIA",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 303,
-      "adds": 20754
+      "rank": 608,
+      "adds": 25720
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 8,
+      "rank": 688,
+      "adds": 25407
+    },
+    {
+      "id": "13285",
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "team": "NYG",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 201,
+      "adds": 23610
     }
   ]
 }
