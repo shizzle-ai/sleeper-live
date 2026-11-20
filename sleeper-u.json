@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T03:59:41.719Z",
+  "generated_at": "2026-11-20T12:38:00.145Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -144,7 +144,7 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 40
+        "rank": 39
       },
       {
         "id": "4199",
@@ -196,7 +196,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 261
+        "rank": 260
       },
       {
         "id": "12718",
@@ -262,7 +262,7 @@
       }
     ],
     "taxi": [],
-    "waiver_position": 7,
+    "waiver_position": 6,
     "faab_used": 0
   },
   "my_matchup": {
@@ -353,7 +353,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 40
+          "rank": 39
         },
         {
           "id": "2020",
@@ -426,14 +426,14 @@
           "rank": 41
         },
         {
-          "id": "8228",
-          "name": "Jaylen Warren",
+          "id": "12481",
+          "name": "Cam Skattebo",
           "pos": "RB",
-          "team": "PIT",
+          "team": "NYG",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 52
+          "rank": 36
         },
         {
           "id": "8151",
@@ -476,14 +476,14 @@
           "rank": 58
         },
         {
-          "id": "12481",
-          "name": "Cam Skattebo",
+          "id": "8228",
+          "name": "Jaylen Warren",
           "pos": "RB",
-          "team": "NYG",
+          "team": "PIT",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 36
+          "rank": 52
         },
         {
           "id": "11783",
@@ -847,7 +847,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 378
+          "rank": 376
         },
         {
           "id": "4892",
@@ -857,7 +857,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 76
+          "rank": 77
         },
         {
           "id": "9482",
@@ -867,7 +867,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 422
+          "rank": 417
         }
       ],
       "reserve": [
@@ -883,7 +883,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 10,
+      "waiver_position": 8,
       "faab_used": 0
     },
     {
@@ -1048,7 +1048,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 35
+          "rank": 33
         },
         {
           "id": "9484",
@@ -1063,7 +1063,7 @@
       ],
       "reserve": [],
       "taxi": [],
-      "waiver_position": 6,
+      "waiver_position": 5,
       "faab_used": 0
     },
     {
@@ -1086,7 +1086,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 22
+          "rank": 21
         },
         {
           "id": "12185",
@@ -1146,7 +1146,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 132
         },
         {
           "id": "5995",
@@ -1167,16 +1167,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 29
-        },
-        {
-          "id": "IND",
-          "name": "Indianapolis Colts",
-          "pos": "DEF",
-          "team": "IND",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "bench": [
@@ -1189,6 +1179,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 184
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "pos": "QB",
+          "team": "LV",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 110
         },
         {
           "id": "13286",
@@ -1229,6 +1229,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 58
+        },
+        {
+          "id": "PIT",
+          "name": "Pittsburgh Steelers",
+          "pos": "DEF",
+          "team": "PIT",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -1254,7 +1264,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 2,
+      "waiver_position": 12,
       "faab_used": 0
     },
     {
@@ -1277,7 +1287,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 20
+          "rank": 19
         },
         {
           "id": "11646",
@@ -1297,7 +1307,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 131
         },
         {
           "id": "12492",
@@ -1347,7 +1357,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 55
+          "rank": 56
         },
         {
           "id": "9487",
@@ -1399,7 +1409,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 290
+          "rank": 291
         },
         {
           "id": "7002",
@@ -1429,7 +1439,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 7
+          "rank": 5
         }
       ],
       "reserve": [
@@ -1445,7 +1455,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 0
     },
     {
@@ -1468,7 +1478,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
+          "rank": 28
         },
         {
           "id": "12490",
@@ -1488,7 +1498,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 87
+          "rank": 88
         },
         {
           "id": "13272",
@@ -1632,7 +1642,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 8
+          "rank": 12
         },
         {
           "id": "8161",
@@ -1642,11 +1652,11 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 2,
-          "rank": 122
+          "rank": 123
         }
       ],
       "taxi": [],
-      "waiver_position": 12,
+      "waiver_position": 10,
       "faab_used": 0
     },
     {
@@ -1791,7 +1801,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 67
+          "rank": 66
         },
         {
           "id": "8112",
@@ -1940,7 +1950,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "9997",
@@ -1951,16 +1961,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 40
-        },
-        {
-          "id": "DET",
-          "name": "Detroit Lions",
-          "pos": "DEF",
-          "team": "DET",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
         }
       ],
       "bench": [
@@ -2002,7 +2002,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 131
+          "rank": 130
         },
         {
           "id": "9509",
@@ -2023,6 +2023,16 @@
           "status": null,
           "depth": null,
           "rank": null
+        },
+        {
+          "id": "SF",
+          "name": "San Francisco 49ers",
+          "pos": "DEF",
+          "team": "SF",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -2035,10 +2045,20 @@
           "status": "Inactive",
           "depth": 5,
           "rank": 39
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman Jr.",
+          "pos": "WR",
+          "team": "PIT",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 6,
+          "rank": 106
         }
       ],
       "taxi": [],
-      "waiver_position": 9,
+      "waiver_position": 11,
       "faab_used": 0
     },
     {
@@ -2061,7 +2081,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 29
+          "rank": 30
         },
         {
           "id": "11533",
@@ -2081,7 +2101,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 48
         },
         {
           "id": "12522",
@@ -2229,7 +2249,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 4,
+      "waiver_position": 3,
       "faab_used": 0
     },
     {
@@ -2262,7 +2282,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 392
+          "rank": 390
         },
         {
           "id": "12526",
@@ -2416,7 +2436,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 2,
-          "rank": 11
+          "rank": 9
         },
         {
           "id": "5859",
@@ -2430,7 +2450,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 5,
+      "waiver_position": 4,
       "faab_used": 0
     },
     {
@@ -2595,7 +2615,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "TB",
@@ -2631,7 +2651,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 3,
+      "waiver_position": 2,
       "faab_used": 0
     },
     {
@@ -2704,7 +2724,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 40
+          "rank": 39
         },
         {
           "id": "4199",
@@ -2756,7 +2776,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 261
+          "rank": 260
         },
         {
           "id": "12718",
@@ -2822,7 +2842,7 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 0
     },
     {
@@ -2875,7 +2895,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 211
+          "rank": 209
         },
         {
           "id": "3163",
@@ -2905,7 +2925,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "8138",
@@ -3023,11 +3043,161 @@
         }
       ],
       "taxi": [],
-      "waiver_position": 11,
+      "waiver_position": 9,
       "faab_used": 0
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1429369403689947136",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795150731541,
+      "adds": [
+        {
+          "player": {
+            "id": "SF",
+            "name": "San Francisco 49ers",
+            "pos": "DEF",
+            "team": "SF",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429369360899670016",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795150721339,
+      "adds": [
+        {
+          "player": {
+            "id": "PIT",
+            "name": "Pittsburgh Steelers",
+            "pos": "DEF",
+            "team": "PIT",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429369329543028736",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795150713863,
+      "adds": [
+        {
+          "player": {
+            "id": "13269",
+            "name": "Fernando Mendoza",
+            "pos": "QB",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 110
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429369193421103104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795150681408,
+      "adds": [
+        {
+          "player": {
+            "id": "6819",
+            "name": "Michael Pittman Jr.",
+            "pos": "WR",
+            "team": "PIT",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 6,
+            "rank": 106
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "DET",
+            "name": "Detroit Lions",
+            "pos": "DEF",
+            "team": "DET",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 7,
+          "team": "Bijan Mustard"
+        }
+      ],
+      "roster_ids": [
+        7
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429332478874619904",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795141927978,
+      "adds": [
+        {
+          "player": {
+            "id": "13269",
+            "name": "Fernando Mendoza",
+            "pos": "QB",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 110
+          },
+          "roster_id": 9,
+          "team": "Achane in the Membrane"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        9
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1429322689541079040",
       "type": "free_agent",
@@ -3098,6 +3268,75 @@
       "waiver_bid": null
     },
     {
+      "transaction_id": "1429153352289107968",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795099220873,
+      "adds": [
+        {
+          "player": {
+            "id": "PIT",
+            "name": "Pittsburgh Steelers",
+            "pos": "DEF",
+            "team": "PIT",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "IND",
+            "name": "Indianapolis Colts",
+            "pos": "DEF",
+            "team": "IND",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429152652767268864",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795099054094,
+      "adds": [
+        {
+          "player": {
+            "id": "13269",
+            "name": "Fernando Mendoza",
+            "pos": "QB",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 110
+          },
+          "roster_id": 3,
+          "team": "D’s Nuts"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        3
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1428851118108065792",
       "type": "free_agent",
       "status": "complete",
@@ -3113,6 +3352,33 @@
             "status": "Active",
             "depth": 2,
             "rank": 647
+          },
+          "roster_id": 4,
+          "team": "4th and beer"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        4
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1428781824179453952",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795010641668,
+      "adds": [
+        {
+          "player": {
+            "id": "13269",
+            "name": "Fernando Mendoza",
+            "pos": "QB",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 110
           },
           "roster_id": 4,
           "team": "4th and beer"
@@ -3236,6 +3502,33 @@
       "waiver_bid": null
     },
     {
+      "transaction_id": "1428737669663313920",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1795000114411,
+      "adds": [
+        {
+          "player": {
+            "id": "13269",
+            "name": "Fernando Mendoza",
+            "pos": "QB",
+            "team": "LV",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 110
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1428737266989174784",
       "type": "free_agent",
       "status": "complete",
@@ -3265,16 +3558,6 @@
   ],
   "free_agents": {
     "QB": [
-      {
-        "id": "13269",
-        "name": "Fernando Mendoza",
-        "pos": "QB",
-        "team": "LV",
-        "injury": null,
-        "status": "Active",
-        "depth": 1,
-        "rank": 110
-      },
       {
         "id": "138",
         "name": "Ben Roethlisberger",
@@ -3323,7 +3606,7 @@
         "injury": null,
         "status": "Active",
         "depth": null,
-        "rank": 295
+        "rank": 294
       },
       {
         "id": "6136",
@@ -3363,7 +3646,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 395
+        "rank": 396
       },
       {
         "id": "7527",
@@ -3384,6 +3667,16 @@
         "status": "Active",
         "depth": 2,
         "rank": 465
+      },
+      {
+        "id": "2306",
+        "name": "Jameis Winston",
+        "pos": "QB",
+        "team": "NYG",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 467
       }
     ],
     "RB": [
@@ -3674,7 +3967,7 @@
         "name": "Kayshon Boutte",
         "pos": "WR",
         "team": "HOU",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 4,
         "rank": 164
@@ -4016,10 +4309,10 @@
         "rank": null
       },
       {
-        "id": "PIT",
-        "name": "Pittsburgh Steelers",
+        "id": "IND",
+        "name": "Indianapolis Colts",
         "pos": "DEF",
-        "team": "PIT",
+        "team": "IND",
         "injury": null,
         "status": null,
         "depth": null,
@@ -4079,6 +4372,17 @@
   },
   "trending_unrostered_adds": [
     {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 618678
+    },
+    {
       "id": "12540",
       "name": "Chimere Dike",
       "pos": "WR",
@@ -4087,7 +4391,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 175,
-      "adds": 469476
+      "adds": 454356
     },
     {
       "id": "4147",
@@ -4097,8 +4401,8 @@
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 458,
-      "adds": 119912
+      "rank": 459,
+      "adds": 110764
     },
     {
       "id": "12533",
@@ -4109,7 +4413,7 @@
       "status": "Inactive",
       "depth": 7,
       "rank": 95,
-      "adds": 118845
+      "adds": 109908
     },
     {
       "id": "12700",
@@ -4120,7 +4424,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 667,
-      "adds": 110304
+      "adds": 104616
     },
     {
       "id": "5119",
@@ -4131,18 +4435,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 101665
-    },
-    {
-      "id": "13269",
-      "name": "Fernando Mendoza",
-      "pos": "QB",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 110,
-      "adds": 95088
+      "adds": 95385
     },
     {
       "id": "6528",
@@ -4153,7 +4446,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 325,
-      "adds": 94419
+      "adds": 90711
     },
     {
       "id": "11625",
@@ -4164,40 +4457,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 162,
-      "adds": 87568
-    },
-    {
-      "id": "PIT",
-      "name": "Pittsburgh Steelers",
-      "pos": "DEF",
-      "team": "PIT",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 81324
-    },
-    {
-      "id": "SF",
-      "name": "San Francisco 49ers",
-      "pos": "DEF",
-      "team": "SF",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 78501
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 206,
-      "adds": 62838
+      "adds": 82504
     },
     {
       "id": "12502",
@@ -4208,7 +4468,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 153,
-      "adds": 59612
+      "adds": 58079
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 206,
+      "adds": 58068
     },
     {
       "id": "CAR",
@@ -4219,18 +4490,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 54647
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 35133
+      "adds": 51738
     },
     {
       "id": "4037",
@@ -4241,7 +4501,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 88,
-      "adds": 33588
+      "adds": 33372
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 32312
     },
     {
       "id": "3155",
@@ -4252,7 +4523,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 674,
-      "adds": 33340
+      "adds": 27185
     },
     {
       "id": "NYJ",
@@ -4263,7 +4534,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28202
+      "adds": 26300
     },
     {
       "id": "12494",
@@ -4274,18 +4545,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 608,
-      "adds": 25720
+      "adds": 25552
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 8,
-      "rank": 688,
-      "adds": 25407
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "pos": "DEF",
+      "team": "DAL",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 22019
     },
     {
       "id": "13285",
@@ -4296,7 +4567,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 201,
-      "adds": 23610
+      "adds": 21810
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 8,
+      "rank": 688,
+      "adds": 21411
     }
   ]
 }
