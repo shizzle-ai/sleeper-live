@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-20T12:38:00.145Z",
+  "generated_at": "2026-11-20T20:41:58.880Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -97,16 +97,6 @@
         "rank": 679
       },
       {
-        "id": "10236",
-        "name": "Dalton Kincaid",
-        "pos": "TE",
-        "team": "BUF",
-        "injury": "Questionable",
-        "status": "Active",
-        "depth": 1,
-        "rank": 81
-      },
-      {
         "id": "11584",
         "name": "Bucky Irving",
         "pos": "RB",
@@ -177,6 +167,16 @@
         "rank": 15
       },
       {
+        "id": "7567",
+        "name": "Kenny Gainwell",
+        "pos": "RB",
+        "team": "TB",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 86
+      },
+      {
         "id": "BUF",
         "name": "Buffalo Bills",
         "pos": "DEF",
@@ -188,6 +188,16 @@
       }
     ],
     "bench": [
+      {
+        "id": "10236",
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "team": "BUF",
+        "injury": "Doubtful",
+        "status": "Active",
+        "depth": 1,
+        "rank": 81
+      },
       {
         "id": "1166",
         "name": "Kirk Cousins",
@@ -213,7 +223,7 @@
         "name": "Omar Cooper Jr.",
         "pos": "WR",
         "team": "NYJ",
-        "injury": "Questionable",
+        "injury": "Out",
         "status": "Active",
         "depth": 3,
         "rank": 151
@@ -227,16 +237,6 @@
         "status": "Active",
         "depth": 9,
         "rank": 177
-      },
-      {
-        "id": "7567",
-        "name": "Kenny Gainwell",
-        "pos": "RB",
-        "team": "TB",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 86
       },
       {
         "id": "8150",
@@ -336,14 +336,14 @@
           "rank": 80
         },
         {
-          "id": "10236",
-          "name": "Dalton Kincaid",
-          "pos": "TE",
-          "team": "BUF",
-          "injury": "Questionable",
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "pos": "RB",
+          "team": "TB",
+          "injury": null,
           "status": "Active",
-          "depth": 1,
-          "rank": 81
+          "depth": 2,
+          "rank": 86
         },
         {
           "id": "4046",
@@ -440,7 +440,7 @@
           "name": "Kenneth Walker III",
           "pos": "RB",
           "team": "KC",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 17
@@ -722,7 +722,7 @@
           "name": "Isaiah Likely",
           "pos": "TE",
           "team": "NYG",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 105
@@ -814,7 +814,7 @@
           "name": "Jordyn Tyson",
           "pos": "WR",
           "team": "NO",
-          "injury": "Questionable",
+          "injury": "IR",
           "status": "Active",
           "depth": 2,
           "rank": 62
@@ -824,7 +824,7 @@
           "name": "Caleb Douglas",
           "pos": "WR",
           "team": "MIA",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 197
@@ -1491,6 +1491,16 @@
           "rank": 44
         },
         {
+          "id": "12494",
+          "name": "Kyle McCord",
+          "pos": "QB",
+          "team": "MIA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 608
+        },
+        {
           "id": "12545",
           "name": "Tyler Shough",
           "pos": "QB",
@@ -1499,16 +1509,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 88
-        },
-        {
-          "id": "13272",
-          "name": "Carson Beck",
-          "pos": "QB",
-          "team": "ARI",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 287
         },
         {
           "id": "4034",
@@ -1746,7 +1746,7 @@
           "name": "Kenneth Walker III",
           "pos": "RB",
           "team": "KC",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 2,
           "rank": 17
@@ -1961,6 +1961,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 40
+        },
+        {
+          "id": "SF",
+          "name": "San Francisco 49ers",
+          "pos": "DEF",
+          "team": "SF",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "bench": [
@@ -2019,16 +2029,6 @@
           "name": "Seattle Seahawks",
           "pos": "DEF",
           "team": "SEA",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        },
-        {
-          "id": "SF",
-          "name": "San Francisco 49ers",
-          "pos": "DEF",
-          "team": "SF",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2144,14 +2144,14 @@
           "rank": 63
         },
         {
-          "id": "8134",
-          "name": "Khalil Shakir",
+          "id": "7525",
+          "name": "DeVonta Smith",
           "pos": "WR",
-          "team": "BUF",
-          "injury": "Questionable",
+          "team": "PHI",
+          "injury": null,
           "status": "Active",
-          "depth": 2,
-          "rank": 120
+          "depth": 1,
+          "rank": 33
         },
         {
           "id": "8148",
@@ -2164,10 +2164,10 @@
           "rank": 53
         },
         {
-          "id": "LAR",
-          "name": "Los Angeles Rams",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "pos": "DEF",
-          "team": "LAR",
+          "team": "CAR",
           "injury": null,
           "status": null,
           "depth": null,
@@ -2196,14 +2196,24 @@
           "rank": 118
         },
         {
-          "id": "7525",
-          "name": "DeVonta Smith",
-          "pos": "WR",
-          "team": "PHI",
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "pos": "TE",
+          "team": "MIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 33
+          "rank": 128
+        },
+        {
+          "id": "8134",
+          "name": "Khalil Shakir",
+          "pos": "WR",
+          "team": "BUF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
+          "rank": 120
         },
         {
           "id": "9500",
@@ -2216,14 +2226,14 @@
           "rank": 111
         },
         {
-          "id": "9754",
-          "name": "Quentin Johnston",
-          "pos": "WR",
-          "team": "LAC",
+          "id": "LAR",
+          "name": "Los Angeles Rams",
+          "pos": "DEF",
+          "team": "LAR",
           "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 104
+          "status": null,
+          "depth": null,
+          "rank": null
         }
       ],
       "reserve": [
@@ -2236,16 +2246,6 @@
           "status": "Inactive",
           "depth": 7,
           "rank": 15
-        },
-        {
-          "id": "5844",
-          "name": "T.J. Hockenson",
-          "pos": "TE",
-          "team": "MIN",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 128
         }
       ],
       "taxi": [],
@@ -2677,16 +2677,6 @@
           "rank": 679
         },
         {
-          "id": "10236",
-          "name": "Dalton Kincaid",
-          "pos": "TE",
-          "team": "BUF",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 81
-        },
-        {
           "id": "11584",
           "name": "Bucky Irving",
           "pos": "RB",
@@ -2757,6 +2747,16 @@
           "rank": 15
         },
         {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "pos": "RB",
+          "team": "TB",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 86
+        },
+        {
           "id": "BUF",
           "name": "Buffalo Bills",
           "pos": "DEF",
@@ -2768,6 +2768,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid",
+          "pos": "TE",
+          "team": "BUF",
+          "injury": "Doubtful",
+          "status": "Active",
+          "depth": 1,
+          "rank": 81
+        },
         {
           "id": "1166",
           "name": "Kirk Cousins",
@@ -2793,7 +2803,7 @@
           "name": "Omar Cooper Jr.",
           "pos": "WR",
           "team": "NYJ",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 3,
           "rank": 151
@@ -2807,16 +2817,6 @@
           "status": "Active",
           "depth": 9,
           "rank": 177
-        },
-        {
-          "id": "7567",
-          "name": "Kenny Gainwell",
-          "pos": "RB",
-          "team": "TB",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 86
         },
         {
           "id": "8150",
@@ -3048,6 +3048,102 @@
     }
   ],
   "recent_transactions": [
+    {
+      "transaction_id": "1429534345151922176",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795190056649,
+      "adds": [
+        {
+          "player": {
+            "id": "CAR",
+            "name": "Carolina Panthers",
+            "pos": "DEF",
+            "team": "CAR",
+            "injury": null,
+            "status": null,
+            "depth": null,
+            "rank": null
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429507002727411712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795183537707,
+      "adds": [
+        {
+          "player": {
+            "id": "12494",
+            "name": "Kyle McCord",
+            "pos": "QB",
+            "team": "MIA",
+            "injury": null,
+            "status": "Active",
+            "depth": 1,
+            "rank": 608
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "13272",
+            "name": "Carson Beck",
+            "pos": "QB",
+            "team": "ARI",
+            "injury": "Questionable",
+            "status": "Active",
+            "depth": 1,
+            "rank": 287
+          },
+          "roster_id": 5,
+          "team": "Grass-fed Beef"
+        }
+      ],
+      "roster_ids": [
+        5
+      ],
+      "waiver_bid": null
+    },
+    {
+      "transaction_id": "1429485361054105600",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795178377930,
+      "adds": [],
+      "drops": [
+        {
+          "player": {
+            "id": "9754",
+            "name": "Quentin Johnston",
+            "pos": "WR",
+            "team": "LAC",
+            "injury": null,
+            "status": "Active",
+            "depth": 2,
+            "rank": 104
+          },
+          "roster_id": 8,
+          "team": "Kingz of Paulys"
+        }
+      ],
+      "roster_ids": [
+        8
+      ],
+      "waiver_bid": null
+    },
     {
       "transaction_id": "1429369403689947136",
       "type": "waiver",
@@ -3599,6 +3695,16 @@
         "rank": 242
       },
       {
+        "id": "13272",
+        "name": "Carson Beck",
+        "pos": "QB",
+        "team": "ARI",
+        "injury": "Questionable",
+        "status": "Active",
+        "depth": 1,
+        "rank": 287
+      },
+      {
         "id": "13310",
         "name": "Miller Moss",
         "pos": "QB",
@@ -3667,16 +3773,6 @@
         "status": "Active",
         "depth": 2,
         "rank": 465
-      },
-      {
-        "id": "2306",
-        "name": "Jameis Winston",
-        "pos": "QB",
-        "team": "NYG",
-        "injury": null,
-        "status": "Active",
-        "depth": 2,
-        "rank": 467
       }
     ],
     "RB": [
@@ -3755,7 +3851,7 @@
         "name": "Ray Davis",
         "pos": "RB",
         "team": "BUF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 3,
         "rank": 167
@@ -3911,6 +4007,16 @@
         "status": "Active",
         "depth": 3,
         "rank": 88
+      },
+      {
+        "id": "9754",
+        "name": "Quentin Johnston",
+        "pos": "WR",
+        "team": "LAC",
+        "injury": null,
+        "status": "Active",
+        "depth": 2,
+        "rank": 104
       },
       {
         "id": "7049",
@@ -4070,16 +4176,6 @@
         "injury": null,
         "status": "Active",
         "depth": 2,
-        "rank": 194
-      },
-      {
-        "id": "7090",
-        "name": "Darnell Mooney",
-        "pos": "WR",
-        "team": "NYG",
-        "injury": null,
-        "status": "Active",
-        "depth": 3,
         "rank": 194
       }
     ],
@@ -4380,7 +4476,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 618678
+      "adds": 492579
     },
     {
       "id": "12540",
@@ -4391,62 +4487,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 175,
-      "adds": 454356
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 459,
-      "adds": 110764
-    },
-    {
-      "id": "12533",
-      "name": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 95,
-      "adds": 109908
-    },
-    {
-      "id": "12700",
-      "name": "Gavin Bartholomew",
-      "pos": "TE",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 667,
-      "adds": 104616
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 95385
-    },
-    {
-      "id": "6528",
-      "name": "Joey Slye",
-      "pos": "K",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 325,
-      "adds": 90711
+      "adds": 445599
     },
     {
       "id": "11625",
@@ -4457,7 +4498,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 162,
-      "adds": 82504
+      "adds": 133112
+    },
+    {
+      "id": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "team": "WAS",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 7,
+      "rank": 95,
+      "adds": 103797
+    },
+    {
+      "id": "12700",
+      "name": "Gavin Bartholomew",
+      "pos": "TE",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 667,
+      "adds": 101322
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 459,
+      "adds": 97728
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 82170
+    },
+    {
+      "id": "6528",
+      "name": "Joey Slye",
+      "pos": "K",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 325,
+      "adds": 79308
     },
     {
       "id": "12502",
@@ -4468,7 +4564,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 153,
-      "adds": 58079
+      "adds": 62230
     },
     {
       "id": "11637",
@@ -4479,18 +4575,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 58068
-    },
-    {
-      "id": "CAR",
-      "name": "Carolina Panthers",
-      "pos": "DEF",
-      "team": "CAR",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 51738
+      "adds": 55161
     },
     {
       "id": "4037",
@@ -4501,7 +4586,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 88,
-      "adds": 33372
+      "adds": 32526
     },
     {
       "id": "8135",
@@ -4512,51 +4597,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 32312
+      "adds": 31024
     },
     {
-      "id": "3155",
-      "name": "Laquon Treadwell",
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 26512
+    },
+    {
+      "id": "9754",
+      "name": "Quentin Johnston",
       "pos": "WR",
-      "team": "IND",
+      "team": "LAC",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 674,
-      "adds": 27185
+      "depth": 2,
+      "rank": 104,
+      "adds": 23814
     },
     {
-      "id": "NYJ",
-      "name": "New York Jets",
-      "pos": "DEF",
-      "team": "NYJ",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 26300
-    },
-    {
-      "id": "12494",
-      "name": "Kyle McCord",
-      "pos": "QB",
-      "team": "MIA",
+      "id": "5906",
+      "name": "Dawson Knox",
+      "pos": "TE",
+      "team": "BUF",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 608,
-      "adds": 25552
-    },
-    {
-      "id": "DAL",
-      "name": "Dallas Cowboys",
-      "pos": "DEF",
-      "team": "DAL",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 22019
+      "depth": 2,
+      "rank": 684,
+      "adds": 23292
     },
     {
       "id": "13285",
@@ -4567,18 +4641,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 201,
-      "adds": 21810
+      "adds": 22980
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 8,
-      "rank": 688,
-      "adds": 21411
+      "id": "NYJ",
+      "name": "New York Jets",
+      "pos": "DEF",
+      "team": "NYJ",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 21492
     }
   ]
 }
