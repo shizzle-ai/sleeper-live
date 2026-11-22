@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-22T01:37:22.302Z",
+  "generated_at": "2026-11-22T08:46:45.907Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -134,7 +134,7 @@
         "injury": "Questionable",
         "status": "Active",
         "depth": 1,
-        "rank": 40
+        "rank": 39
       },
       {
         "id": "4199",
@@ -209,6 +209,16 @@
         "rank": 261
       },
       {
+        "id": "12533",
+        "name": "Jacory Croskey-Merritt",
+        "pos": "RB",
+        "team": "WAS",
+        "injury": "IR",
+        "status": "Inactive",
+        "depth": 7,
+        "rank": 95
+      },
+      {
         "id": "12718",
         "name": "Konata Mumpfield",
         "pos": "WR",
@@ -256,7 +266,7 @@
         "pos": "WR",
         "team": "LAR",
         "injury": "IR",
-        "status": "Active",
+        "status": "Inactive",
         "depth": 6,
         "rank": 4
       }
@@ -353,7 +363,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 40
+          "rank": 39
         },
         {
           "id": "2020",
@@ -403,6 +413,7 @@
         "10236": 0,
         "11584": 0,
         "12514": 0,
+        "12533": 0,
         "12718": 0,
         "13276": 0,
         "BUF": 0
@@ -463,7 +474,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 104
         },
         {
           "id": "10859",
@@ -725,7 +736,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 77
+          "rank": 76
         },
         {
           "id": "7839",
@@ -735,7 +746,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 153
+          "rank": 155
         },
         {
           "id": "8131",
@@ -976,7 +987,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 186
+          "rank": 187
         },
         {
           "id": "DEN",
@@ -1038,7 +1049,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "9484",
@@ -1048,7 +1059,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 64
         }
       ],
       "reserve": [],
@@ -1297,7 +1308,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 133
+          "rank": 132
         },
         {
           "id": "12492",
@@ -1441,7 +1452,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 2,
-          "rank": 92
+          "rank": 93
         }
       ],
       "taxi": [],
@@ -1632,7 +1643,7 @@
           "injury": "Out",
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "8161",
@@ -1709,7 +1720,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 104
         },
         {
           "id": "6786",
@@ -1771,7 +1782,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 125
+          "rank": 127
         },
         {
           "id": "1433",
@@ -2245,6 +2256,16 @@
       },
       "starters": [
         {
+          "id": "11625",
+          "name": "Adonai Mitchell",
+          "pos": "WR",
+          "team": "NYJ",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 162
+        },
+        {
           "id": "12526",
           "name": "Tetairoa McMillan",
           "pos": "WR",
@@ -2272,7 +2293,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "3451",
@@ -2315,16 +2336,6 @@
           "rank": 42
         },
         {
-          "id": "8408",
-          "name": "Jordan Mason",
-          "pos": "RB",
-          "team": "MIN",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 91
-        },
-        {
           "id": "9228",
           "name": "Bryce Young",
           "pos": "QB",
@@ -2355,16 +2366,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 503
-        },
-        {
-          "id": "11625",
-          "name": "Adonai Mitchell",
-          "pos": "WR",
-          "team": "NYJ",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 162
         },
         {
           "id": "12506",
@@ -2405,6 +2406,16 @@
           "status": "Active",
           "depth": 1,
           "rank": 89
+        },
+        {
+          "id": "8408",
+          "name": "Jordan Mason",
+          "pos": "RB",
+          "team": "MIN",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 91
         }
       ],
       "reserve": [
@@ -2694,7 +2705,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 40
+          "rank": 39
         },
         {
           "id": "4199",
@@ -2769,6 +2780,16 @@
           "rank": 261
         },
         {
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "pos": "RB",
+          "team": "WAS",
+          "injury": "IR",
+          "status": "Inactive",
+          "depth": 7,
+          "rank": 95
+        },
+        {
           "id": "12718",
           "name": "Konata Mumpfield",
           "pos": "WR",
@@ -2816,7 +2837,7 @@
           "pos": "WR",
           "team": "LAR",
           "injury": "IR",
-          "status": "Active",
+          "status": "Inactive",
           "depth": 6,
           "rank": 4
         }
@@ -2845,7 +2866,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 65
+          "rank": 63
         },
         {
           "id": "11792",
@@ -2875,7 +2896,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 209
+          "rank": 211
         },
         {
           "id": "3163",
@@ -2885,7 +2906,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 61
+          "rank": 62
         },
         {
           "id": "5022",
@@ -2977,7 +2998,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 161
+          "rank": 162
         },
         {
           "id": "5947",
@@ -3029,6 +3050,33 @@
   ],
   "recent_transactions": [
     {
+      "transaction_id": "1430075154381164544",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795318995617,
+      "adds": [
+        {
+          "player": {
+            "id": "12533",
+            "name": "Jacory Croskey-Merritt",
+            "pos": "RB",
+            "team": "WAS",
+            "injury": "IR",
+            "status": "Inactive",
+            "depth": 7,
+            "rank": 95
+          },
+          "roster_id": 11,
+          "team": "PimpShizzle"
+        }
+      ],
+      "drops": [],
+      "roster_ids": [
+        11
+      ],
+      "waiver_bid": null
+    },
+    {
       "transaction_id": "1429898227712274453",
       "type": "free_agent",
       "status": "complete",
@@ -3059,7 +3107,7 @@
             "injury": "Out",
             "status": "Active",
             "depth": 2,
-            "rank": 376
+            "rank": 375
           },
           "roster_id": 1,
           "team": "Wades World"
@@ -4076,7 +4124,7 @@
         "injury": null,
         "status": "Active",
         "depth": null,
-        "rank": 294
+        "rank": 295
       },
       {
         "id": "6136",
@@ -4308,7 +4356,7 @@
         "injury": "Out",
         "status": "Active",
         "depth": 2,
-        "rank": 376
+        "rank": 375
       },
       {
         "id": "7103",
@@ -4328,7 +4376,7 @@
         "injury": null,
         "status": "Active",
         "depth": 4,
-        "rank": 412
+        "rank": 413
       }
     ],
     "WR": [
@@ -4830,7 +4878,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 175,
-      "adds": 183654
+      "adds": 208710
     },
     {
       "id": "5906",
@@ -4841,18 +4889,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 684,
-      "adds": 72102
-    },
-    {
-      "id": "DET",
-      "name": "Detroit Lions",
-      "pos": "DEF",
-      "team": "DET",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 65997
+      "adds": 100668
     },
     {
       "id": "11630",
@@ -4863,18 +4900,18 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 49401
+      "adds": 80955
     },
     {
-      "id": "12533",
-      "name": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 7,
-      "rank": 95,
-      "adds": 49239
+      "id": "DET",
+      "name": "Detroit Lions",
+      "pos": "DEF",
+      "team": "DET",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 65682
     },
     {
       "id": "4147",
@@ -4885,7 +4922,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 459,
-      "adds": 40228
+      "adds": 44828
     },
     {
       "id": "12502",
@@ -4896,18 +4933,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 153,
-      "adds": 26656
-    },
-    {
-      "id": "12487",
-      "name": "Terrance Ferguson",
-      "pos": "TE",
-      "team": "LAR",
-      "injury": "IR",
-      "status": "Inactive",
-      "depth": 5,
-      "rank": 141,
-      "adds": 26168
+      "adds": 34755
     },
     {
       "id": "5119",
@@ -4918,7 +4944,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 26140
+      "adds": 29460
     },
     {
       "id": "12498",
@@ -4929,7 +4955,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 25945
+      "adds": 27505
     },
     {
       "id": "6528",
@@ -4940,7 +4966,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 325,
-      "adds": 21528
+      "adds": 26478
+    },
+    {
+      "id": "12487",
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "team": "LAR",
+      "injury": "IR",
+      "status": "Inactive",
+      "depth": 5,
+      "rank": 141,
+      "adds": 25016
     },
     {
       "id": "260",
@@ -4951,7 +4988,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 544,
-      "adds": 19615
+      "adds": 24681
     },
     {
       "id": "11637",
@@ -4962,7 +4999,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 19053
+      "adds": 21582
     },
     {
       "id": "7049",
@@ -4973,29 +5010,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 123,
-      "adds": 15295
-    },
-    {
-      "id": "13285",
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "team": "NYG",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 201,
-      "adds": 15160
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin Jr.",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 88,
-      "adds": 13854
+      "adds": 21392
     },
     {
       "id": "8135",
@@ -5006,29 +5021,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 13496
+      "adds": 19768
     },
     {
-      "id": "12700",
-      "name": "Gavin Bartholomew",
-      "pos": "TE",
-      "team": "MIN",
+      "id": "4037",
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 88,
+      "adds": 16086
+    },
+    {
+      "id": "13285",
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "team": "NYG",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 667,
-      "adds": 11871
+      "rank": 199,
+      "adds": 16070
     },
     {
-      "id": "13330",
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "injury": "Questionable",
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 109,
-      "adds": 11511
+      "depth": 3,
+      "rank": 179,
+      "adds": 14728
     },
     {
       "id": "6039",
@@ -5039,7 +5065,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 534,
-      "adds": 11508
+      "adds": 14034
+    },
+    {
+      "id": "13419",
+      "name": "Jaydn Ott",
+      "pos": "RB",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 13785
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 11767
     }
   ]
 }
