@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-22T22:01:19.552Z",
+  "generated_at": "2026-11-23T02:27:52.621Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -283,7 +283,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 2,
-      "points": 75.96,
+      "points": 102.66,
       "starters": [
         {
           "id": "6770",
@@ -389,21 +389,21 @@
       "starters_points": [
         0,
         19,
-        0,
+        10.2,
         3.8,
         3.3,
-        0,
+        16.5,
         9.9,
         24.96,
         7,
         8
       ],
       "players_points": {
-        "1166": 0,
+        "1166": 4.8,
         "2020": 7,
         "4046": 24.96,
-        "4199": 0,
-        "4217": 0,
+        "4199": 10.2,
+        "4217": 16.5,
         "6770": 0,
         "6803": 0,
         "7567": 9.9,
@@ -424,7 +424,7 @@
       "team": "BlackLightning1",
       "is_me": false,
       "matchup_id": 2,
-      "points": 54.32,
+      "points": 75.54,
       "starters": [
         {
           "id": "7523",
@@ -528,36 +528,36 @@
         }
       ],
       "starters_points": [
-        -0.08,
-        0,
+        14.74,
+        5.8,
         4.9,
         30.2,
         0,
         9.2,
         2.1,
+        4.6,
         0,
-        0,
-        8
+        4
       ],
       "players_points": {
         "1433": 0,
         "2449": 0,
         "6786": 30.2,
         "6804": 0,
-        "7523": -0.08,
+        "7523": 14.74,
         "8112": 0,
         "8121": 0,
         "8151": 0,
         "8228": 4.9,
-        "9480": 0,
+        "9480": 4.6,
         "9511": 1.6,
-        "10219": 2.1,
+        "10219": 5.1,
         "10222": 0,
         "10859": 9.2,
         "11783": 2.1,
-        "12481": 0,
+        "12481": 5.8,
         "13968": 0,
-        "JAX": 8
+        "JAX": 4
       }
     }
   },
@@ -857,7 +857,7 @@
           "team": "LV",
           "injury": null,
           "status": "Active",
-          "depth": 2,
+          "depth": 1,
           "rank": 417
         },
         {
@@ -1046,7 +1046,7 @@
           "name": "Justin Herbert",
           "pos": "QB",
           "team": "LAC",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 35
@@ -1124,7 +1124,7 @@
           "name": "Saquon Barkley",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -1399,7 +1399,7 @@
           "team": "LV",
           "injury": "Out",
           "status": "Active",
-          "depth": 1,
+          "depth": 4,
           "rank": 19
         },
         {
@@ -4250,7 +4250,7 @@
         "name": "Mac Jones",
         "pos": "QB",
         "team": "SF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 2,
         "rank": 402
@@ -4382,7 +4382,7 @@
         "name": "Jordan James",
         "pos": "RB",
         "team": "SF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 4,
         "rank": 222
@@ -4957,7 +4957,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 138,
-      "adds": 203195
+      "adds": 198430
     },
     {
       "id": "11630",
@@ -4968,7 +4968,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 688,
-      "adds": 200610
+      "adds": 187002
     },
     {
       "id": "4147",
@@ -4979,7 +4979,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 459,
-      "adds": 131512
+      "adds": 140468
     },
     {
       "id": "DET",
@@ -4990,18 +4990,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 127413
-    },
-    {
-      "id": "12502",
-      "name": "Gunnar Helm",
-      "pos": "TE",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 153,
-      "adds": 99120
+      "adds": 116640
     },
     {
       "id": "4066",
@@ -5012,29 +5001,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 463,
-      "adds": 93856
-    },
-    {
-      "id": "6528",
-      "name": "Joey Slye",
-      "pos": "K",
-      "team": "TEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 325,
-      "adds": 82476
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 81925
+      "adds": 103744
     },
     {
       "id": "8135",
@@ -5045,7 +5012,40 @@
       "status": "Active",
       "depth": 3,
       "rank": 679,
-      "adds": 81550
+      "adds": 100436
+    },
+    {
+      "id": "12502",
+      "name": "Gunnar Helm",
+      "pos": "TE",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 153,
+      "adds": 91630
+    },
+    {
+      "id": "6528",
+      "name": "Joey Slye",
+      "pos": "K",
+      "team": "TEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 325,
+      "adds": 80154
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 79335
     },
     {
       "id": "13330",
@@ -5056,7 +5056,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 109,
-      "adds": 69057
+      "adds": 68697
     },
     {
       "id": "11637",
@@ -5067,7 +5067,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 206,
-      "adds": 58626
+      "adds": 56322
     },
     {
       "id": "7049",
@@ -5078,73 +5078,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 123,
-      "adds": 48377
-    },
-    {
-      "id": "13419",
-      "name": "Jaydn Ott",
-      "pos": "RB",
-      "team": "KC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 37836
-    },
-    {
-      "id": "260",
-      "name": "Josh Johnson",
-      "pos": "QB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 544,
-      "adds": 33476
-    },
-    {
-      "id": "4037",
-      "name": "Chris Godwin Jr.",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 88,
-      "adds": 32730
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "team": "BUF",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 534,
-      "adds": 31824
-    },
-    {
-      "id": "12509",
-      "name": "Tre' Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 179,
-      "adds": 30692
-    },
-    {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 141,
-      "adds": 29260
+      "adds": 54005
     },
     {
       "id": "WAS",
@@ -5155,7 +5089,18 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 28756
+      "adds": 53550
+    },
+    {
+      "id": "13419",
+      "name": "Jaydn Ott",
+      "pos": "RB",
+      "team": "KC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 34563
     },
     {
       "id": "4663",
@@ -5166,7 +5111,62 @@
       "status": "Active",
       "depth": 2,
       "rank": 632,
-      "adds": 28740
+      "adds": 34016
+    },
+    {
+      "id": "6001",
+      "name": "Drew Sample",
+      "pos": "TE",
+      "team": "CIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 644,
+      "adds": 32055
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 31470
+    },
+    {
+      "id": "4037",
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 88,
+      "adds": 29958
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 141,
+      "adds": 28065
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 179,
+      "adds": 27996
     }
   ]
 }
