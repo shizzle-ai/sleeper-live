@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-23T22:31:48.927Z",
+  "generated_at": "2026-11-24T06:18:37.053Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -8,7 +8,7 @@
     "name": "Paul’s League",
     "season": "2026",
     "status": "in_season",
-    "current_week": 11,
+    "current_week": 12,
     "total_rosters": 12,
     "roster_positions": [
       "QB",
@@ -79,11 +79,11 @@
     "owner_id": "1022575756326666240",
     "team": "PimpShizzle",
     "record": {
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0,
-      "fpts": 1507.08,
-      "fpts_against": 1254.7
+      "fpts": 1632.64,
+      "fpts_against": 1356.74
     },
     "starters": [
       {
@@ -215,7 +215,7 @@
         "team": "WAS",
         "injury": "Questionable",
         "status": "Active",
-        "depth": 7,
+        "depth": 1,
         "rank": 95
       },
       {
@@ -276,14 +276,14 @@
     "faab_used": 0
   },
   "my_matchup": {
-    "week": 11,
+    "week": 12,
     "found": true,
     "mine": {
       "roster_id": 11,
       "team": "PimpShizzle",
       "is_me": true,
-      "matchup_id": 2,
-      "points": 105.66,
+      "matchup_id": 3,
+      "points": 0,
       "starters": [
         {
           "id": "6770",
@@ -388,139 +388,139 @@
       ],
       "starters_points": [
         0,
-        19,
-        11.3,
-        3.8,
-        3.3,
-        18.4,
-        9.9,
-        24.96,
-        7,
-        8
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "1166": 8.4,
-        "2020": 7,
-        "4046": 24.96,
-        "4199": 11.3,
-        "4217": 18.4,
+        "1166": 0,
+        "2020": 0,
+        "4046": 0,
+        "4199": 0,
+        "4217": 0,
         "6770": 0,
         "6803": 0,
-        "7567": 9.9,
+        "7567": 0,
         "8150": 0,
-        "10218": 3.3,
+        "10218": 0,
         "10236": 0,
-        "11584": 19,
-        "12514": 3.8,
+        "11584": 0,
+        "12514": 0,
         "12533": 0,
-        "12540": 13.3,
+        "12540": 0,
         "12718": 0,
         "13276": 0,
-        "BUF": 8
+        "BUF": 0
       }
     },
     "opponent": {
-      "roster_id": 6,
-      "team": "BlackLightning1",
+      "roster_id": 3,
+      "team": "D’s Nuts",
       "is_me": false,
-      "matchup_id": 2,
-      "points": 75.54,
+      "matchup_id": 3,
+      "points": 0,
       "starters": [
         {
-          "id": "7523",
-          "name": "Trevor Lawrence",
+          "id": "11566",
+          "name": "Jayden Daniels",
           "pos": "QB",
-          "team": "JAX",
+          "team": "WAS",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 41
+          "rank": 21
         },
         {
-          "id": "12481",
-          "name": "Cam Skattebo",
+          "id": "4866",
+          "name": "Saquon Barkley",
           "pos": "RB",
-          "team": "NYG",
+          "team": "PHI",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 10
+        },
+        {
+          "id": "5995",
+          "name": "Justice Hill",
+          "pos": "RB",
+          "team": "BAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 2,
+          "rank": 220
+        },
+        {
+          "id": "8144",
+          "name": "Chris Olave",
+          "pos": "WR",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 29
+        },
+        {
+          "id": "2216",
+          "name": "Mike Evans",
+          "pos": "WR",
+          "team": "SF",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 1,
+          "rank": 60
+        },
+        {
+          "id": "12517",
+          "name": "Colston Loveland",
+          "pos": "TE",
+          "team": "CHI",
           "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 36
         },
         {
-          "id": "8228",
-          "name": "Jaylen Warren",
-          "pos": "RB",
-          "team": "PIT",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 52
-        },
-        {
-          "id": "6786",
-          "name": "CeeDee Lamb",
-          "pos": "WR",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 10
-        },
-        {
-          "id": "2449",
-          "name": "Stefon Diggs",
-          "pos": "WR",
-          "team": "WAS",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 105
-        },
-        {
-          "id": "10859",
-          "name": "Sam LaPorta",
+          "id": "4993",
+          "name": "Mike Gesicki",
           "pos": "TE",
-          "team": "DET",
-          "injury": "Questionable",
-          "status": "Active",
-          "depth": 1,
-          "rank": 58
-        },
-        {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "pos": "WR",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 3,
-          "rank": 199
-        },
-        {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "pos": "TE",
-          "team": "JAX",
+          "team": "CIN",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 104
+          "rank": 397
         },
         {
-          "id": "13968",
-          "name": "Drew Stevens",
+          "id": "5870",
+          "name": "Daniel Jones",
+          "pos": "QB",
+          "team": "IND",
+          "injury": null,
+          "status": "Active",
+          "depth": null,
+          "rank": 132
+        },
+        {
+          "id": "12185",
+          "name": "Spencer Shrader",
           "pos": "K",
-          "team": "WAS",
+          "team": "IND",
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 630
+          "rank": 355
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "IND",
+          "name": "Indianapolis Colts",
           "pos": "DEF",
-          "team": "JAX",
+          "team": "IND",
           "injury": null,
           "status": null,
           "depth": null,
@@ -528,36 +528,36 @@
         }
       ],
       "starters_points": [
-        14.74,
-        5.8,
-        4.9,
-        30.2,
         0,
-        9.2,
-        2.1,
-        4.6,
         0,
-        4
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "players_points": {
-        "1433": 0,
-        "2449": 0,
-        "6786": 30.2,
-        "6804": 0,
-        "7523": 14.74,
-        "8112": 0,
-        "8121": 0,
-        "8151": 0,
-        "8228": 4.9,
-        "9480": 4.6,
-        "9511": 1.6,
-        "10219": 5.1,
-        "10222": 0,
-        "10859": 9.2,
-        "11783": 2.1,
-        "12481": 5.8,
-        "13968": 0,
-        "JAX": 4
+        "2216": 0,
+        "3214": 0,
+        "4866": 0,
+        "4993": 0,
+        "5870": 0,
+        "5995": 0,
+        "7561": 0,
+        "7611": 0,
+        "8126": 0,
+        "8144": 0,
+        "9756": 0,
+        "10213": 0,
+        "11566": 0,
+        "12185": 0,
+        "12517": 0,
+        "13269": 0,
+        "13286": 0,
+        "PIT": 0
       }
     }
   },
@@ -568,32 +568,32 @@
       "team": "Grass-fed Beef",
       "is_me": false,
       "wins": 9,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "fpts": 1528.04,
-      "fpts_against": 1259.88
+      "fpts": 1646.6,
+      "fpts_against": 1404.14
     },
     {
       "rank": 2,
       "roster_id": 11,
       "team": "PimpShizzle",
       "is_me": true,
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0,
-      "fpts": 1507.08,
-      "fpts_against": 1254.7
+      "fpts": 1632.64,
+      "fpts_against": 1356.74
     },
     {
       "rank": 3,
       "roster_id": 4,
       "team": "4th and beer",
       "is_me": false,
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0,
-      "fpts": 1621.38,
-      "fpts_against": 1319.8
+      "fpts": 1747.88,
+      "fpts_against": 1442.98
     },
     {
       "rank": 4,
@@ -601,32 +601,32 @@
       "team": "BlackLightning1",
       "is_me": false,
       "wins": 7,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "fpts": 1488.98,
-      "fpts_against": 1242.34
+      "fpts": 1591.02,
+      "fpts_against": 1367.9
     },
     {
       "rank": 5,
       "roster_id": 8,
       "team": "Kingz of Paulys",
       "is_me": false,
-      "wins": 5,
+      "wins": 6,
       "losses": 5,
       "ties": 0,
-      "fpts": 1376.32,
-      "fpts_against": 1431.16
+      "fpts": 1512.5,
+      "fpts_against": 1535.66
     },
     {
       "rank": 6,
       "roster_id": 7,
       "team": "Bijan Mustard",
       "is_me": false,
-      "wins": 5,
+      "wins": 6,
       "losses": 5,
       "ties": 0,
-      "fpts": 1350.4,
-      "fpts_against": 1357.96
+      "fpts": 1474.3,
+      "fpts_against": 1472.66
     },
     {
       "rank": 7,
@@ -634,10 +634,10 @@
       "team": "CHASEing Dubs",
       "is_me": false,
       "wins": 5,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
-      "fpts": 1261.28,
-      "fpts_against": 1365.28
+      "fpts": 1380.12,
+      "fpts_against": 1489.2
     },
     {
       "rank": 8,
@@ -645,10 +645,10 @@
       "team": "Wades World",
       "is_me": false,
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "fpts": 1326.16,
-      "fpts_against": 1359.48
+      "fpts": 1449.34,
+      "fpts_against": 1485.98
     },
     {
       "rank": 9,
@@ -656,21 +656,21 @@
       "team": "Hakuna Mailata",
       "is_me": false,
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "fpts": 1279.7,
-      "fpts_against": 1387.2
+      "fpts": 1394.4,
+      "fpts_against": 1511.1
     },
     {
       "rank": 10,
       "roster_id": 9,
       "team": "Achane in the Membrane",
       "is_me": false,
-      "wins": 3,
+      "wins": 4,
       "losses": 7,
       "ties": 0,
-      "fpts": 1142,
-      "fpts_against": 1368.36
+      "fpts": 1286.26,
+      "fpts_against": 1486.92
     },
     {
       "rank": 11,
@@ -678,21 +678,21 @@
       "team": "Herby Fully Loaded! ",
       "is_me": false,
       "wins": 2,
-      "losses": 8,
+      "losses": 9,
       "ties": 0,
-      "fpts": 1125.18,
-      "fpts_against": 1322.14
+      "fpts": 1229.68,
+      "fpts_against": 1458.32
     },
     {
       "rank": 12,
       "roster_id": 3,
       "team": "D’s Nuts",
       "is_me": false,
-      "wins": 1,
+      "wins": 2,
       "losses": 9,
       "ties": 0,
-      "fpts": 1086.66,
-      "fpts_against": 1424.88
+      "fpts": 1210.58,
+      "fpts_against": 1543.72
     }
   ],
   "rosters": [
@@ -702,10 +702,10 @@
       "team": "Wades World",
       "record": {
         "wins": 4,
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
-        "fpts": 1326.16,
-        "fpts_against": 1359.48
+        "fpts": 1449.34,
+        "fpts_against": 1485.98
       },
       "starters": [
         {
@@ -893,10 +893,10 @@
       "team": "Herby Fully Loaded! ",
       "record": {
         "wins": 2,
-        "losses": 8,
+        "losses": 9,
         "ties": 0,
-        "fpts": 1125.18,
-        "fpts_against": 1322.14
+        "fpts": 1229.68,
+        "fpts_against": 1458.32
       },
       "starters": [
         {
@@ -1072,11 +1072,11 @@
       "owner_id": "1122222572042600448",
       "team": "D’s Nuts",
       "record": {
-        "wins": 1,
+        "wins": 2,
         "losses": 9,
         "ties": 0,
-        "fpts": 1086.66,
-        "fpts_against": 1424.88
+        "fpts": 1210.58,
+        "fpts_against": 1543.72
       },
       "starters": [
         {
@@ -1273,22 +1273,32 @@
       "owner_id": "1122225852273643520",
       "team": "4th and beer",
       "record": {
-        "wins": 7,
+        "wins": 8,
         "losses": 3,
         "ties": 0,
-        "fpts": 1621.38,
-        "fpts_against": 1319.8
+        "fpts": 1747.88,
+        "fpts_against": 1442.98
       },
       "starters": [
         {
-          "id": "11646",
-          "name": "Jalen Coker",
-          "pos": "WR",
-          "team": "CAR",
-          "injury": "Questionable",
+          "id": "11586",
+          "name": "Blake Corum",
+          "pos": "RB",
+          "team": "LAR",
+          "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 132
+          "rank": 68
+        },
+        {
+          "id": "11604",
+          "name": "Brock Bowers",
+          "pos": "TE",
+          "team": "LV",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 4,
+          "rank": 19
         },
         {
           "id": "11786",
@@ -1298,6 +1308,88 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
+          "rank": 132
+        },
+        {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "pos": "QB",
+          "team": "CLE",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 291
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams",
+          "pos": "RB",
+          "team": "DAL",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 30
+        },
+        {
+          "id": "8167",
+          "name": "Christian Watson",
+          "pos": "WR",
+          "team": "GB",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 64
+        },
+        {
+          "id": "8183",
+          "name": "Brock Purdy",
+          "pos": "QB",
+          "team": "SF",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 56
+        },
+        {
+          "id": "9487",
+          "name": "Parker Washington",
+          "pos": "WR",
+          "team": "JAX",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 68
+        },
+        {
+          "id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "pos": "WR",
+          "team": "SEA",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 7
+        },
+        {
+          "id": "HOU",
+          "name": "Houston Texans",
+          "pos": "DEF",
+          "team": "HOU",
+          "injury": null,
+          "status": null,
+          "depth": null,
+          "rank": null
+        }
+      ],
+      "bench": [
+        {
+          "id": "11646",
+          "name": "Jalen Coker",
+          "pos": "WR",
+          "team": "CAR",
+          "injury": "Questionable",
+          "status": "Active",
+          "depth": 2,
           "rank": 132
         },
         {
@@ -1341,78 +1433,6 @@
           "rank": 4
         },
         {
-          "id": "7588",
-          "name": "Javonte Williams",
-          "pos": "RB",
-          "team": "DAL",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 30
-        },
-        {
-          "id": "8183",
-          "name": "Brock Purdy",
-          "pos": "QB",
-          "team": "SF",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 56
-        },
-        {
-          "id": "9487",
-          "name": "Parker Washington",
-          "pos": "WR",
-          "team": "JAX",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 68
-        },
-        {
-          "id": "HOU",
-          "name": "Houston Texans",
-          "pos": "DEF",
-          "team": "HOU",
-          "injury": null,
-          "status": null,
-          "depth": null,
-          "rank": null
-        }
-      ],
-      "bench": [
-        {
-          "id": "11586",
-          "name": "Blake Corum",
-          "pos": "RB",
-          "team": "LAR",
-          "injury": null,
-          "status": "Active",
-          "depth": 2,
-          "rank": 68
-        },
-        {
-          "id": "11604",
-          "name": "Brock Bowers",
-          "pos": "TE",
-          "team": "LV",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 4,
-          "rank": 19
-        },
-        {
-          "id": "4017",
-          "name": "Deshaun Watson",
-          "pos": "QB",
-          "team": "CLE",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 291
-        },
-        {
           "id": "7002",
           "name": "Juwan Johnson",
           "pos": "TE",
@@ -1421,26 +1441,6 @@
           "status": "Active",
           "depth": 1,
           "rank": 103
-        },
-        {
-          "id": "8167",
-          "name": "Christian Watson",
-          "pos": "WR",
-          "team": "GB",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 64
-        },
-        {
-          "id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "pos": "WR",
-          "team": "SEA",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 7
         }
       ],
       "reserve": [
@@ -1465,10 +1465,10 @@
       "team": "Grass-fed Beef",
       "record": {
         "wins": 9,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "fpts": 1528.04,
-        "fpts_against": 1259.88
+        "fpts": 1646.6,
+        "fpts_against": 1404.14
       },
       "starters": [
         {
@@ -1666,10 +1666,10 @@
       "team": "BlackLightning1",
       "record": {
         "wins": 7,
-        "losses": 3,
+        "losses": 4,
         "ties": 0,
-        "fpts": 1488.98,
-        "fpts_against": 1242.34
+        "fpts": 1591.02,
+        "fpts_against": 1367.9
       },
       "starters": [
         {
@@ -1866,11 +1866,11 @@
       "owner_id": "1003020467722260480",
       "team": "Bijan Mustard",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 5,
         "ties": 0,
-        "fpts": 1350.4,
-        "fpts_against": 1357.96
+        "fpts": 1474.3,
+        "fpts_against": 1472.66
       },
       "starters": [
         {
@@ -1992,7 +1992,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 1,
+          "depth": 2,
           "rank": 125
         },
         {
@@ -2067,11 +2067,11 @@
       "owner_id": "1123815069701304320",
       "team": "Kingz of Paulys",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 5,
         "ties": 0,
-        "fpts": 1376.32,
-        "fpts_against": 1431.16
+        "fpts": 1512.5,
+        "fpts_against": 1535.66
       },
       "starters": [
         {
@@ -2258,11 +2258,11 @@
       "owner_id": "974830973529522176",
       "team": "Achane in the Membrane",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 7,
         "ties": 0,
-        "fpts": 1142,
-        "fpts_against": 1368.36
+        "fpts": 1286.26,
+        "fpts_against": 1486.92
       },
       "starters": [
         {
@@ -2460,10 +2460,10 @@
       "team": "CHASEing Dubs",
       "record": {
         "wins": 5,
-        "losses": 5,
+        "losses": 6,
         "ties": 0,
-        "fpts": 1261.28,
-        "fpts_against": 1365.28
+        "fpts": 1380.12,
+        "fpts_against": 1489.2
       },
       "starters": [
         {
@@ -2660,11 +2660,11 @@
       "owner_id": "1022575756326666240",
       "team": "PimpShizzle",
       "record": {
-        "wins": 8,
+        "wins": 9,
         "losses": 2,
         "ties": 0,
-        "fpts": 1507.08,
-        "fpts_against": 1254.7
+        "fpts": 1632.64,
+        "fpts_against": 1356.74
       },
       "starters": [
         {
@@ -2796,7 +2796,7 @@
           "team": "WAS",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 7,
+          "depth": 1,
           "rank": 95
         },
         {
@@ -2862,10 +2862,10 @@
       "team": "Hakuna Mailata",
       "record": {
         "wins": 4,
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
-        "fpts": 1279.7,
-        "fpts_against": 1387.2
+        "fpts": 1394.4,
+        "fpts_against": 1511.1
       },
       "starters": [
         {
@@ -3058,1081 +3058,7 @@
       "faab_used": 0
     }
   ],
-  "recent_transactions": [
-    {
-      "transaction_id": "1430276826680270848",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795367078040,
-      "adds": [
-        {
-          "player": {
-            "id": "5906",
-            "name": "Dawson Knox",
-            "pos": "TE",
-            "team": "BUF",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 684
-          },
-          "roster_id": 4,
-          "team": "4th and beer"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13425",
-            "name": "Jalon Daniels",
-            "pos": "QB",
-            "team": "TB",
-            "injury": null,
-            "status": "Active",
-            "depth": 4,
-            "rank": 647
-          },
-          "roster_id": 4,
-          "team": "4th and beer"
-        }
-      ],
-      "roster_ids": [
-        4
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1430202877439143936",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795349447167,
-      "adds": [
-        {
-          "player": {
-            "id": "12540",
-            "name": "Chimere Dike",
-            "pos": "WR",
-            "team": "TEN",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 175
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1430202287531257856",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795349306522,
-      "adds": [],
-      "drops": [
-        {
-          "player": {
-            "id": "9493",
-            "name": "Puka Nacua",
-            "pos": "WR",
-            "team": "LAR",
-            "injury": "IR",
-            "status": "Inactive",
-            "depth": 8,
-            "rank": 4
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1430075154381164544",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795318995617,
-      "adds": [
-        {
-          "player": {
-            "id": "12533",
-            "name": "Jacory Croskey-Merritt",
-            "pos": "RB",
-            "team": "WAS",
-            "injury": "Questionable",
-            "status": "Active",
-            "depth": 7,
-            "rank": 95
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1430061509194579968",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1795315742351,
-      "adds": [
-        {
-          "player": {
-            "id": "9754",
-            "name": "Quentin Johnston",
-            "pos": "WR",
-            "team": "LAC",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 104
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429898227712274453",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795276813012,
-      "adds": [
-        {
-          "player": {
-            "id": "NYJ",
-            "name": "New York Jets",
-            "pos": "DEF",
-            "team": "NYJ",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13424",
-            "name": "Seth McGowan",
-            "pos": "RB",
-            "team": "IND",
-            "injury": "Out",
-            "status": "Active",
-            "depth": 2,
-            "rank": 376
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "roster_ids": [
-        1
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429893692268773397",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795275731678,
-      "adds": [],
-      "drops": [
-        {
-          "player": {
-            "id": "NYG",
-            "name": "New York Giants",
-            "pos": "DEF",
-            "team": "NYG",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 1,
-          "team": "Wades World"
-        }
-      ],
-      "roster_ids": [
-        1
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429867305973596160",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795269440695,
-      "adds": [],
-      "drops": [
-        {
-          "player": {
-            "id": "12524",
-            "name": "Shedeur Sanders",
-            "pos": "QB",
-            "team": "CLE",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 227
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "roster_ids": [
-        9
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429867262965211136",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795269430442,
-      "adds": [
-        {
-          "player": {
-            "id": "11625",
-            "name": "Adonai Mitchell",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 162
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429651292514426880",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795217939074,
-      "adds": [
-        {
-          "player": {
-            "id": "11625",
-            "name": "Adonai Mitchell",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 162
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429534345151922176",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795190056649,
-      "adds": [
-        {
-          "player": {
-            "id": "CAR",
-            "name": "Carolina Panthers",
-            "pos": "DEF",
-            "team": "CAR",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 8,
-          "team": "Kingz of Paulys"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        8
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429515076922011648",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795185462745,
-      "adds": [
-        {
-          "player": {
-            "id": "11625",
-            "name": "Adonai Mitchell",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 162
-          },
-          "roster_id": 4,
-          "team": "4th and beer"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        4
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429507002727411712",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795183537707,
-      "adds": [
-        {
-          "player": {
-            "id": "12494",
-            "name": "Kyle McCord",
-            "pos": "QB",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 608
-          },
-          "roster_id": 5,
-          "team": "Grass-fed Beef"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "13272",
-            "name": "Carson Beck",
-            "pos": "QB",
-            "team": "ARI",
-            "injury": "Out",
-            "status": "Active",
-            "depth": 3,
-            "rank": 287
-          },
-          "roster_id": 5,
-          "team": "Grass-fed Beef"
-        }
-      ],
-      "roster_ids": [
-        5
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429485361054105600",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795178377930,
-      "adds": [],
-      "drops": [
-        {
-          "player": {
-            "id": "9754",
-            "name": "Quentin Johnston",
-            "pos": "WR",
-            "team": "LAC",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 104
-          },
-          "roster_id": 8,
-          "team": "Kingz of Paulys"
-        }
-      ],
-      "roster_ids": [
-        8
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429369403689947136",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1795150731541,
-      "adds": [
-        {
-          "player": {
-            "id": "SF",
-            "name": "San Francisco 49ers",
-            "pos": "DEF",
-            "team": "SF",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429369360899670016",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795150721339,
-      "adds": [
-        {
-          "player": {
-            "id": "PIT",
-            "name": "Pittsburgh Steelers",
-            "pos": "DEF",
-            "team": "PIT",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429369329543028736",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795150713863,
-      "adds": [
-        {
-          "player": {
-            "id": "13269",
-            "name": "Fernando Mendoza",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 109
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429369193421103104",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795150681408,
-      "adds": [
-        {
-          "player": {
-            "id": "6819",
-            "name": "Michael Pittman Jr.",
-            "pos": "WR",
-            "team": "PIT",
-            "injury": "IR",
-            "status": "Inactive",
-            "depth": 6,
-            "rank": 106
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "DET",
-            "name": "Detroit Lions",
-            "pos": "DEF",
-            "team": "DET",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429334538189799424",
-      "type": "trade",
-      "status": "complete",
-      "created": 1795142418957,
-      "adds": [
-        {
-          "player": {
-            "id": "1479",
-            "name": "Keenan Allen",
-            "pos": "WR",
-            "team": "SF",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 180
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        },
-        {
-          "player": {
-            "id": "8408",
-            "name": "Jordan Mason",
-            "pos": "RB",
-            "team": "MIN",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 91
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        },
-        {
-          "player": {
-            "id": "9228",
-            "name": "Bryce Young",
-            "pos": "QB",
-            "team": "CAR",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 130
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        },
-        {
-          "player": {
-            "id": "11610",
-            "name": "Malik Washington",
-            "pos": "WR",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 177
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        },
-        {
-          "player": {
-            "id": "12495",
-            "name": "Ollie Gordon II",
-            "pos": "RB",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 388
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "1479",
-            "name": "Keenan Allen",
-            "pos": "WR",
-            "team": "SF",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 180
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        },
-        {
-          "player": {
-            "id": "8408",
-            "name": "Jordan Mason",
-            "pos": "RB",
-            "team": "MIN",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 91
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        },
-        {
-          "player": {
-            "id": "9228",
-            "name": "Bryce Young",
-            "pos": "QB",
-            "team": "CAR",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 130
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        },
-        {
-          "player": {
-            "id": "11610",
-            "name": "Malik Washington",
-            "pos": "WR",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 177
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        },
-        {
-          "player": {
-            "id": "12495",
-            "name": "Ollie Gordon II",
-            "pos": "RB",
-            "team": "MIA",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 388
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "roster_ids": [
-        7,
-        9
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429332837256921089",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1795142013423,
-      "adds": [
-        {
-          "player": {
-            "id": "11625",
-            "name": "Adonai Mitchell",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 162
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "4177",
-            "name": "Mack Hollins",
-            "pos": "WR",
-            "team": "NE",
-            "injury": null,
-            "status": "Active",
-            "depth": 3,
-            "rank": 697
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "roster_ids": [
-        9
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429332478874619904",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795141927978,
-      "adds": [
-        {
-          "player": {
-            "id": "13269",
-            "name": "Fernando Mendoza",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 109
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        9
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429322689541079040",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795139594019,
-      "adds": [
-        {
-          "player": {
-            "id": "8111",
-            "name": "Cade Otton",
-            "pos": "TE",
-            "team": "TB",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 148
-          },
-          "roster_id": 2,
-          "team": "Herby Fully Loaded! "
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "BAL",
-            "name": "Baltimore Ravens",
-            "pos": "DEF",
-            "team": "BAL",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 2,
-          "team": "Herby Fully Loaded! "
-        }
-      ],
-      "roster_ids": [
-        2
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429165181069438976",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795102041073,
-      "adds": [],
-      "drops": [
-        {
-          "player": {
-            "id": "11625",
-            "name": "Adonai Mitchell",
-            "pos": "WR",
-            "team": "NYJ",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 162
-          },
-          "roster_id": 7,
-          "team": "Bijan Mustard"
-        }
-      ],
-      "roster_ids": [
-        7
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429153352289107968",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1795099220873,
-      "adds": [
-        {
-          "player": {
-            "id": "PIT",
-            "name": "Pittsburgh Steelers",
-            "pos": "DEF",
-            "team": "PIT",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 3,
-          "team": "D’s Nuts"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "IND",
-            "name": "Indianapolis Colts",
-            "pos": "DEF",
-            "team": "IND",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 3,
-          "team": "D’s Nuts"
-        }
-      ],
-      "roster_ids": [
-        3
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1429152652767268864",
-      "type": "waiver",
-      "status": "complete",
-      "created": 1795099054094,
-      "adds": [
-        {
-          "player": {
-            "id": "13269",
-            "name": "Fernando Mendoza",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 109
-          },
-          "roster_id": 3,
-          "team": "D’s Nuts"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        3
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1428851118108065792",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795027162628,
-      "adds": [
-        {
-          "player": {
-            "id": "13425",
-            "name": "Jalon Daniels",
-            "pos": "QB",
-            "team": "TB",
-            "injury": null,
-            "status": "Active",
-            "depth": 4,
-            "rank": 647
-          },
-          "roster_id": 4,
-          "team": "4th and beer"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        4
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1428781824179453952",
-      "type": "waiver",
-      "status": "failed",
-      "created": 1795010641668,
-      "adds": [
-        {
-          "player": {
-            "id": "13269",
-            "name": "Fernando Mendoza",
-            "pos": "QB",
-            "team": "LV",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 109
-          },
-          "roster_id": 4,
-          "team": "4th and beer"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        4
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1428742204741910528",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795001195658,
-      "adds": [
-        {
-          "player": {
-            "id": "11557",
-            "name": "Joe Milton",
-            "pos": "QB",
-            "team": "PHI",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 503
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "PIT",
-            "name": "Pittsburgh Steelers",
-            "pos": "DEF",
-            "team": "PIT",
-            "injury": null,
-            "status": null,
-            "depth": null,
-            "rank": null
-          },
-          "roster_id": 9,
-          "team": "Achane in the Membrane"
-        }
-      ],
-      "roster_ids": [
-        9
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1428742166527623168",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795001186547,
-      "adds": [
-        {
-          "player": {
-            "id": "2020",
-            "name": "Cairo Santos",
-            "pos": "K",
-            "team": "CHI",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 190
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [
-        {
-          "player": {
-            "id": "10955",
-            "name": "Chad Ryland",
-            "pos": "K",
-            "team": "ARI",
-            "injury": null,
-            "status": "Active",
-            "depth": 1,
-            "rank": 324
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    },
-    {
-      "transaction_id": "1428741156597932032",
-      "type": "free_agent",
-      "status": "complete",
-      "created": 1795000945761,
-      "adds": [
-        {
-          "player": {
-            "id": "10218",
-            "name": "Xavier Hutchinson",
-            "pos": "WR",
-            "team": "HOU",
-            "injury": null,
-            "status": "Active",
-            "depth": 2,
-            "rank": 679
-          },
-          "roster_id": 11,
-          "team": "PimpShizzle"
-        }
-      ],
-      "drops": [],
-      "roster_ids": [
-        11
-      ],
-      "waiver_bid": null
-    }
-  ],
+  "recent_transactions": [],
   "free_agents": {
     "QB": [
       {
@@ -4957,7 +3883,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 208,
-      "adds": 78648
+      "adds": 102226
     },
     {
       "id": "WAS",
@@ -4968,18 +3894,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 72065
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "team": "WAS",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 679,
-      "adds": 45955
+      "adds": 101927
     },
     {
       "id": "13317",
@@ -4990,29 +3905,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 196,
-      "adds": 44004
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 459,
-      "adds": 41972
-    },
-    {
-      "id": "4066",
-      "name": "Evan Engram",
-      "pos": "TE",
-      "team": "DEN",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 463,
-      "adds": 35848
+      "adds": 73488
     },
     {
       "id": "NYG",
@@ -5023,40 +3916,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 29992
+      "adds": 66324
     },
     {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 688,
-      "adds": 28755
-    },
-    {
-      "id": "11834",
-      "name": "Devaughn Vele",
-      "pos": "WR",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 209,
-      "adds": 23947
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
+      "id": "4147",
+      "name": "Samaje Perine",
       "pos": "RB",
-      "team": "WAS",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 632,
-      "adds": 19344
+      "rank": 459,
+      "adds": 59376
+    },
+    {
+      "id": "4066",
+      "name": "Evan Engram",
+      "pos": "TE",
+      "team": "DEN",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 463,
+      "adds": 47584
     },
     {
       "id": "3271",
@@ -5067,29 +3949,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 652,
-      "adds": 18540
-    },
-    {
-      "id": "12496",
-      "name": "Tai Felton",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 693,
-      "adds": 18432
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 16430
+      "adds": 45864
     },
     {
       "id": "CLE",
@@ -5100,7 +3960,62 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 15015
+      "adds": 32984
+    },
+    {
+      "id": "11834",
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 209,
+      "adds": 31199
+    },
+    {
+      "id": "12496",
+      "name": "Tai Felton",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 693,
+      "adds": 30816
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 688,
+      "adds": 26658
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "team": "WAS",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 679,
+      "adds": 25536
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 25150
     },
     {
       "id": "13411",
@@ -5111,29 +4026,7 @@
       "status": "Active",
       "depth": 4,
       "rank": 366,
-      "adds": 14148
-    },
-    {
-      "id": "7049",
-      "name": "Jauan Jennings",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 123,
-      "adds": 12838
-    },
-    {
-      "id": "6001",
-      "name": "Drew Sample",
-      "pos": "TE",
-      "team": "CIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 644,
-      "adds": 12760
+      "adds": 19080
     },
     {
       "id": "13264",
@@ -5144,18 +4037,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 628,
-      "adds": 12375
+      "adds": 13050
     },
     {
-      "id": "6528",
-      "name": "Joey Slye",
-      "pos": "K",
-      "team": "TEN",
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "team": "WAS",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 325,
-      "adds": 8496
+      "depth": 3,
+      "rank": 632,
+      "adds": 11688
     },
     {
       "id": "12773",
@@ -5166,7 +4059,40 @@
       "status": "Active",
       "depth": 4,
       "rank": 618,
-      "adds": 7776
+      "adds": 11034
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "team": "BUF",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 534,
+      "adds": 10908
+    },
+    {
+      "id": "11577",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 2,
+      "rank": 686,
+      "adds": 9678
+    },
+    {
+      "id": "NE",
+      "name": "New England Patriots",
+      "pos": "DEF",
+      "team": "NE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 9548
     }
   ]
 }
