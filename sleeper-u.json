@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T02:45:20.715Z",
+  "generated_at": "2026-11-26T11:30:51.751Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -104,7 +104,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 261
+        "rank": 260
       },
       {
         "id": "12514",
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 3,
-      "points": 19,
+      "points": 27.4,
       "starters": [
         {
           "id": "6770",
@@ -342,7 +342,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 261
+          "rank": 260
         },
         {
           "id": "2020",
@@ -368,9 +368,9 @@
       "starters_points": [
         0,
         0,
-        13.1,
+        16.5,
         0,
-        5.9,
+        10.9,
         0,
         0,
         0,
@@ -386,13 +386,13 @@
         "6770": 0,
         "6803": 0,
         "7567": 0,
-        "8150": 13.1,
+        "8150": 16.5,
         "10236": 0,
         "11584": 0,
         "12514": 0,
         "12533": 0,
         "12540": 0,
-        "12718": 5.9,
+        "12718": 10.9,
         "BUF": 0
       }
     },
@@ -411,7 +411,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 21
+          "rank": 22
         },
         {
           "id": "4866",
@@ -693,7 +693,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 46
+          "rank": 45
         },
         {
           "id": "13298",
@@ -713,7 +713,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 77
+          "rank": 76
         },
         {
           "id": "7839",
@@ -723,7 +723,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 153
+          "rank": 155
         },
         {
           "id": "8131",
@@ -924,7 +924,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 33
+          "rank": 34
         },
         {
           "id": "7547",
@@ -954,7 +954,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 65
+          "rank": 63
         },
         {
           "id": "9502",
@@ -1074,7 +1074,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 21
+          "rank": 22
         },
         {
           "id": "12185",
@@ -1196,7 +1196,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 397
+          "rank": 395
         },
         {
           "id": "5995",
@@ -1295,7 +1295,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 290
+          "rank": 291
         },
         {
           "id": "7588",
@@ -1312,7 +1312,7 @@
           "name": "Christian Watson",
           "pos": "WR",
           "team": "GB",
-          "injury": "Questionable",
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 64
@@ -1397,7 +1397,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 92
+          "rank": 93
         },
         {
           "id": "6813",
@@ -1445,7 +1445,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 28
+          "rank": 27
         },
         {
           "id": "12490",
@@ -1475,7 +1475,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 88
+          "rank": 87
         },
         {
           "id": "13833",
@@ -1505,7 +1505,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 461
+          "rank": 463
         },
         {
           "id": "6801",
@@ -1547,7 +1547,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 458
+          "rank": 456
         },
         {
           "id": "5850",
@@ -1556,7 +1556,7 @@
           "team": "GB",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 1,
           "rank": 20
         },
         {
@@ -1619,7 +1619,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 2,
-          "rank": 123
+          "rank": 122
         }
       ],
       "taxi": [],
@@ -1676,7 +1676,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 105
+          "rank": 104
         },
         {
           "id": "6786",
@@ -1706,7 +1706,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 41
+          "rank": 42
         },
         {
           "id": "8112",
@@ -1748,7 +1748,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 125
+          "rank": 127
         },
         {
           "id": "11783",
@@ -1857,7 +1857,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 387
+          "rank": 386
         },
         {
           "id": "12519",
@@ -1917,7 +1917,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 101
+          "rank": 102
         },
         {
           "id": "9997",
@@ -1949,7 +1949,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 177
+          "rank": 176
         },
         {
           "id": "13272",
@@ -1959,7 +1959,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 287
+          "rank": 288
         },
         {
           "id": "8136",
@@ -2021,7 +2021,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 7,
-          "rank": 106
+          "rank": 107
         }
       ],
       "taxi": [],
@@ -2068,7 +2068,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 115
+          "rank": 116
         },
         {
           "id": "12527",
@@ -2098,7 +2098,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "5844",
@@ -2160,7 +2160,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 48
         },
         {
           "id": "8134",
@@ -2279,7 +2279,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 39
+          "rank": 38
         },
         {
           "id": "3451",
@@ -2319,7 +2319,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 130
+          "rank": 131
         },
         {
           "id": "CHI",
@@ -2480,7 +2480,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 66
+          "rank": 65
         },
         {
           "id": "4983",
@@ -2510,7 +2510,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "MIN",
@@ -2552,7 +2552,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 123
+          "rank": 124
         },
         {
           "id": "2505",
@@ -2572,7 +2572,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 476
+          "rank": 474
         },
         {
           "id": "TB",
@@ -2594,7 +2594,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 3,
-          "rank": 89
+          "rank": 88
         },
         {
           "id": "9225",
@@ -2641,7 +2641,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 261
+          "rank": 260
         },
         {
           "id": "12514",
@@ -2811,7 +2811,7 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 65
+          "rank": 63
         },
         {
           "id": "11792",
@@ -2943,14 +2943,14 @@
           "injury": null,
           "status": "Active",
           "depth": 2,
-          "rank": 161
+          "rank": 162
         },
         {
           "id": "3271",
           "name": "Tyler Higbee",
           "pos": "TE",
           "team": "LAR",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 652
@@ -3036,7 +3036,7 @@
             "injury": null,
             "status": "Active",
             "depth": 1,
-            "rank": 461
+            "rank": 463
           },
           "roster_id": 5,
           "team": "Grass-fed Beef"
@@ -3144,7 +3144,7 @@
             "name": "Tyler Higbee",
             "pos": "TE",
             "team": "LAR",
-            "injury": null,
+            "injury": "Out",
             "status": "Active",
             "depth": 1,
             "rank": 652
@@ -3331,7 +3331,7 @@
         "injury": null,
         "status": "Active",
         "depth": 3,
-        "rank": 396
+        "rank": 398
       },
       {
         "id": "7527",
@@ -3382,7 +3382,7 @@
         "team": "GB",
         "injury": null,
         "status": "Active",
-        "depth": 2,
+        "depth": 3,
         "rank": 98
       },
       {
@@ -3462,7 +3462,7 @@
         "team": "GB",
         "injury": null,
         "status": "Active",
-        "depth": 1,
+        "depth": 2,
         "rank": 173
       },
       {
@@ -3553,7 +3553,7 @@
         "injury": "Out",
         "status": "Active",
         "depth": 4,
-        "rank": 376
+        "rank": 375
       },
       {
         "id": "7103",
@@ -4065,29 +4065,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 467509
-    },
-    {
-      "id": "4972",
-      "name": "Mason Rudolph",
-      "pos": "QB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 655,
-      "adds": 298306
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 196,
-      "adds": 259188
+      "adds": 370097
     },
     {
       "id": "NE",
@@ -4098,7 +4076,29 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 238931
+      "adds": 211939
+    },
+    {
+      "id": "4972",
+      "name": "Mason Rudolph",
+      "pos": "QB",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 655,
+      "adds": 146666
+    },
+    {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 196,
+      "adds": 146070
     },
     {
       "id": "12496",
@@ -4109,18 +4109,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 693,
-      "adds": 221808
-    },
-    {
-      "id": "12483",
-      "name": "Jack Bech",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 208,
-      "adds": 164942
+      "adds": 107850
     },
     {
       "id": "13276",
@@ -4131,7 +4120,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 151,
-      "adds": 140216
+      "adds": 106064
     },
     {
       "id": "5119",
@@ -4142,7 +4131,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 582,
-      "adds": 135560
+      "adds": 104015
     },
     {
       "id": "6650",
@@ -4153,18 +4142,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 199,
-      "adds": 96496
+      "adds": 75912
     },
     {
-      "id": "12773",
-      "name": "DJ Uiagalelei",
-      "pos": "QB",
-      "team": "LAC",
+      "id": "12483",
+      "name": "Jack Bech",
+      "pos": "WR",
+      "team": "LV",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 618,
-      "adds": 71127
+      "rank": 208,
+      "adds": 68080
     },
     {
       "id": "10218",
@@ -4175,18 +4164,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 70826
-    },
-    {
-      "id": "11834",
-      "name": "Devaughn Vele",
-      "pos": "WR",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 209,
-      "adds": 69391
+      "adds": 55496
     },
     {
       "id": "12491",
@@ -4197,7 +4175,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 67836
+      "adds": 51996
     },
     {
       "id": "4177",
@@ -4208,29 +4186,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 697,
-      "adds": 62565
+      "adds": 51654
     },
     {
-      "id": "11577",
-      "name": "Will Shipley",
-      "pos": "RB",
-      "team": "PHI",
+      "id": "11834",
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 209,
+      "adds": 46242
+    },
+    {
+      "id": "12773",
+      "name": "DJ Uiagalelei",
+      "pos": "QB",
+      "team": "LAC",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 686,
-      "adds": 43610
-    },
-    {
-      "id": "13411",
-      "name": "Zavion Thomas",
-      "pos": "WR",
-      "team": "CHI",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 363,
-      "adds": 41958
+      "rank": 618,
+      "adds": 39870
     },
     {
       "id": "11729",
@@ -4241,7 +4219,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 527,
-      "adds": 36064
+      "adds": 25347
     },
     {
       "id": "11581",
@@ -4250,9 +4228,9 @@
       "team": "GB",
       "injury": null,
       "status": "Active",
-      "depth": 2,
+      "depth": 3,
       "rank": 98,
-      "adds": 35730
+      "adds": 25272
     },
     {
       "id": "13289",
@@ -4263,7 +4241,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 362,
-      "adds": 29709
+      "adds": 24579
     },
     {
       "id": "8122",
@@ -4274,7 +4252,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 29274
+      "adds": 22982
+    },
+    {
+      "id": "13411",
+      "name": "Zavion Thomas",
+      "pos": "WR",
+      "team": "CHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 363,
+      "adds": 22698
+    },
+    {
+      "id": "11577",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 686,
+      "adds": 21080
     }
   ]
 }
