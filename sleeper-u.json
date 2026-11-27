@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-26T20:27:44.414Z",
+  "generated_at": "2026-11-27T03:03:14.109Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -193,7 +193,7 @@
         "name": "Dalton Kincaid",
         "pos": "TE",
         "team": "BUF",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 1,
         "rank": 81
@@ -262,7 +262,7 @@
       "team": "PimpShizzle",
       "is_me": true,
       "matchup_id": 3,
-      "points": 33.4,
+      "points": 42.4,
       "starters": [
         {
           "id": "6770",
@@ -374,13 +374,13 @@
         0,
         0,
         0,
-        6,
-        0
+        8,
+        7
       ],
       "players_points": {
         "1166": 0,
-        "2020": 6,
-        "4046": 0,
+        "2020": 8,
+        "4046": 4.08,
         "4199": 0,
         "4217": 0,
         "6770": 0,
@@ -393,7 +393,7 @@
         "12533": 0,
         "12540": 0,
         "12718": 10.9,
-        "BUF": 0
+        "BUF": 7
       }
     },
     "opponent": {
@@ -401,7 +401,7 @@
       "team": "D’s Nuts",
       "is_me": false,
       "matchup_id": 3,
-      "points": -0.5,
+      "points": 0.2,
       "starters": [
         {
           "id": "11566",
@@ -418,7 +418,7 @@
           "name": "Saquon Barkley",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -506,7 +506,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        0.7,
         0,
         0,
         0,
@@ -519,7 +519,7 @@
       "players_points": {
         "2216": 0,
         "3214": 0,
-        "4866": 0,
+        "4866": 0.7,
         "4993": 0,
         "5995": 0,
         "7611": 0,
@@ -1110,7 +1110,7 @@
           "name": "Saquon Barkley",
           "pos": "RB",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 10
@@ -1662,7 +1662,7 @@
           "name": "Stefon Diggs",
           "pos": "WR",
           "team": "WAS",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 104
@@ -1766,7 +1766,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 3,
+          "depth": 4,
           "rank": 19
         },
         {
@@ -1833,7 +1833,7 @@
           "name": "Caleb Williams",
           "pos": "QB",
           "team": "CHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 23
@@ -1967,7 +1967,7 @@
           "team": "PIT",
           "injury": "Questionable",
           "status": "Active",
-          "depth": 7,
+          "depth": 4,
           "rank": 107
         },
         {
@@ -2104,7 +2104,7 @@
           "name": "DeVonta Smith",
           "pos": "WR",
           "team": "PHI",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 33
@@ -2225,7 +2225,7 @@
           "name": "Harold Fannin Jr.",
           "pos": "TE",
           "team": "CLE",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 63
@@ -2538,7 +2538,7 @@
           "name": "Darren Waller",
           "pos": "TE",
           "team": "CAR",
-          "injury": null,
+          "injury": "Questionable",
           "status": "Active",
           "depth": 1,
           "rank": 355
@@ -2709,7 +2709,7 @@
           "name": "Dalton Kincaid",
           "pos": "TE",
           "team": "BUF",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 81
@@ -2827,7 +2827,7 @@
           "name": "Dallas Goedert",
           "pos": "TE",
           "team": "PHI",
-          "injury": null,
+          "injury": "Out",
           "status": "Active",
           "depth": 1,
           "rank": 94
@@ -3405,7 +3405,7 @@
         "team": "DEN",
         "injury": "Sus",
         "status": "Active",
-        "depth": 3,
+        "depth": 4,
         "rank": 68
       },
       {
@@ -3605,7 +3605,7 @@
         "name": "Marvin Harrison Jr.",
         "pos": "WR",
         "team": "HOU",
-        "injury": "Questionable",
+        "injury": null,
         "status": "Active",
         "depth": 5,
         "rank": 73
@@ -3837,7 +3837,7 @@
         "name": "Dalton Schultz",
         "pos": "TE",
         "team": "HOU",
-        "injury": null,
+        "injury": "Questionable",
         "status": "Active",
         "depth": 1,
         "rank": 98
@@ -4098,7 +4098,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 280546
+      "adds": 177527
     },
     {
       "id": "NE",
@@ -4109,106 +4109,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 178395
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 196,
-      "adds": 96678
-    },
-    {
-      "id": "4972",
-      "name": "Mason Rudolph",
-      "pos": "QB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 655,
-      "adds": 78884
-    },
-    {
-      "id": "13276",
-      "name": "Omar Cooper Jr.",
-      "pos": "WR",
-      "team": "NYJ",
-      "injury": "Questionable",
-      "status": "Active",
-      "depth": 3,
-      "rank": 151,
-      "adds": 74304
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 72975
-    },
-    {
-      "id": "12496",
-      "name": "Tai Felton",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 693,
-      "adds": 60126
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 55504
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 679,
-      "adds": 45899
-    },
-    {
-      "id": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 697,
-      "adds": 44193
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 42426
+      "adds": 131229
     },
     {
       "id": "13322",
@@ -4219,7 +4120,106 @@
       "status": "Active",
       "depth": 2,
       "rank": 630,
-      "adds": 33908
+      "adds": 81270
+    },
+    {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 196,
+      "adds": 64254
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 52065
+    },
+    {
+      "id": "13276",
+      "name": "Omar Cooper Jr.",
+      "pos": "WR",
+      "team": "NYJ",
+      "injury": "Questionable",
+      "status": "Active",
+      "depth": 3,
+      "rank": 151,
+      "adds": 47232
+    },
+    {
+      "id": "12496",
+      "name": "Tai Felton",
+      "pos": "WR",
+      "team": "MIN",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 693,
+      "adds": 40422
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 40000
+    },
+    {
+      "id": "4972",
+      "name": "Mason Rudolph",
+      "pos": "QB",
+      "team": "PIT",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 655,
+      "adds": 33822
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 679,
+      "adds": 32970
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 487,
+      "adds": 31086
+    },
+    {
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 697,
+      "adds": 29367
     },
     {
       "id": "12773",
@@ -4230,7 +4230,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 618,
-      "adds": 31995
+      "adds": 25110
     },
     {
       "id": "11834",
@@ -4241,51 +4241,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 209,
-      "adds": 31479
-    },
-    {
-      "id": "12483",
-      "name": "Jack Bech",
-      "pos": "WR",
-      "team": "LV",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 208,
-      "adds": 30488
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "team": "DET",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 527,
-      "adds": 21833
-    },
-    {
-      "id": "13289",
-      "name": "Drew Allar",
-      "pos": "QB",
-      "team": "PIT",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 362,
-      "adds": 18369
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "team": "ARI",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 669,
-      "adds": 16602
+      "adds": 21714
     },
     {
       "id": "11603",
@@ -4296,18 +4252,62 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 15960
+      "adds": 15606
     },
     {
-      "id": "12511",
-      "name": "Will Howard",
-      "pos": "QB",
-      "team": "PIT",
+      "id": "12483",
+      "name": "Jack Bech",
+      "pos": "WR",
+      "team": "LV",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 497,
-      "adds": 13980
+      "rank": 208,
+      "adds": 15342
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "team": "DET",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 527,
+      "adds": 14910
+    },
+    {
+      "id": "5012",
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 96,
+      "adds": 13248
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 11396
+    },
+    {
+      "id": "11577",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "team": "PHI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 686,
+      "adds": 10452
     }
   ]
 }
