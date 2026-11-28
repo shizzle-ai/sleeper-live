@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-28T02:58:42.167Z",
+  "generated_at": "2026-11-28T11:25:43.652Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -104,7 +104,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 261
+        "rank": 260
       },
       {
         "id": "12514",
@@ -342,7 +342,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 261
+          "rank": 260
         },
         {
           "id": "2020",
@@ -692,7 +692,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 45
+          "rank": 46
         },
         {
           "id": "13298",
@@ -1294,7 +1294,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 291
+          "rank": 290
         },
         {
           "id": "4943",
@@ -1304,7 +1304,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 93
+          "rank": 92
         },
         {
           "id": "7588",
@@ -1334,7 +1334,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "HOU",
@@ -1434,17 +1434,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 26
-        },
-        {
-          "id": "12490",
-          "name": "Bhayshul Tuten",
-          "pos": "RB",
-          "team": "JAX",
-          "injury": "Out",
-          "status": "Active",
-          "depth": 4,
-          "rank": 44
+          "rank": 27
         },
         {
           "id": "12494",
@@ -1494,7 +1484,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 463
+          "rank": 461
         },
         {
           "id": "6801",
@@ -1505,6 +1495,16 @@
           "status": "Active",
           "depth": 2,
           "rank": 36
+        },
+        {
+          "id": "7543",
+          "name": "Travis Etienne Jr.",
+          "pos": "RB",
+          "team": "NO",
+          "injury": null,
+          "status": "Active",
+          "depth": 1,
+          "rank": 34
         },
         {
           "id": "7594",
@@ -1528,6 +1528,16 @@
         }
       ],
       "bench": [
+        {
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "team": "JAX",
+          "injury": "Out",
+          "status": "Active",
+          "depth": 4,
+          "rank": 44
+        },
         {
           "id": "4147",
           "name": "Samaje Perine",
@@ -1557,16 +1567,6 @@
           "status": "Active",
           "depth": 2,
           "rank": 130
-        },
-        {
-          "id": "7543",
-          "name": "Travis Etienne Jr.",
-          "pos": "RB",
-          "team": "NO",
-          "injury": null,
-          "status": "Active",
-          "depth": 1,
-          "rank": 34
         },
         {
           "id": "7553",
@@ -1766,7 +1766,7 @@
           "team": "KC",
           "injury": "Out",
           "status": "Active",
-          "depth": 4,
+          "depth": 3,
           "rank": 17
         },
         {
@@ -2139,7 +2139,7 @@
           "injury": "Questionable",
           "status": "Active",
           "depth": 1,
-          "rank": 49
+          "rank": 48
         },
         {
           "id": "8134",
@@ -2298,7 +2298,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 131
+          "rank": 130
         },
         {
           "id": "CHI",
@@ -2382,7 +2382,7 @@
           "injury": "IR",
           "status": "Inactive",
           "depth": 2,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "5859",
@@ -2489,7 +2489,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 44
+          "rank": 46
         },
         {
           "id": "7564",
@@ -2561,7 +2561,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 474
+          "rank": 473
         },
         {
           "id": "TB",
@@ -2630,7 +2630,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 261
+          "rank": 260
         },
         {
           "id": "12514",
@@ -2860,7 +2860,7 @@
           "injury": null,
           "status": "Active",
           "depth": 1,
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "8138",
@@ -3148,7 +3148,7 @@
             "injury": null,
             "status": "Active",
             "depth": 1,
-            "rank": 463
+            "rank": 461
           },
           "roster_id": 5,
           "team": "Grass-fed Beef"
@@ -3495,7 +3495,7 @@
         "injury": null,
         "status": "Active",
         "depth": 1,
-        "rank": 403
+        "rank": 402
       },
       {
         "id": "7591",
@@ -4219,7 +4219,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 75,
-      "adds": 365480
+      "adds": 394715
     },
     {
       "id": "13322",
@@ -4230,7 +4230,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 630,
-      "adds": 251958
+      "adds": 257117
     },
     {
       "id": "12773",
@@ -4241,7 +4241,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 618,
-      "adds": 194481
+      "adds": 248409
     },
     {
       "id": "NE",
@@ -4252,7 +4252,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 49581
+      "adds": 50911
     },
     {
       "id": "12496",
@@ -4263,7 +4263,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 693,
-      "adds": 44502
+      "adds": 45870
     },
     {
       "id": "7527",
@@ -4273,8 +4273,8 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 403,
-      "adds": 38219
+      "rank": 402,
+      "adds": 42991
     },
     {
       "id": "10218",
@@ -4285,29 +4285,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 679,
-      "adds": 28777
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 27531
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 196,
-      "adds": 27462
+      "adds": 28119
     },
     {
       "id": "6130",
@@ -4318,7 +4296,29 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 22734
+      "adds": 25785
+    },
+    {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 196,
+      "adds": 24036
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
+      "injury": null,
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 22855
     },
     {
       "id": "12491",
@@ -4329,18 +4329,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 487,
-      "adds": 20268
-    },
-    {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 582,
-      "adds": 19030
+      "adds": 19770
     },
     {
       "id": "11603",
@@ -4351,29 +4340,7 @@
       "status": "Active",
       "depth": 1,
       "rank": 126,
-      "adds": 18150
-    },
-    {
-      "id": "11834",
-      "name": "Devaughn Vele",
-      "pos": "WR",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 209,
-      "adds": 15827
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 15312
+      "adds": 18678
     },
     {
       "id": "12544",
@@ -4384,7 +4351,7 @@
       "status": "Active",
       "depth": 3,
       "rank": 512,
-      "adds": 13560
+      "adds": 17808
     },
     {
       "id": "260",
@@ -4395,7 +4362,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 544,
-      "adds": 13500
+      "adds": 16396
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 16100
+    },
+    {
+      "id": "11834",
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 209,
+      "adds": 14357
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 13384
     },
     {
       "id": "8122",
@@ -4406,7 +4406,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 669,
-      "adds": 13246
+      "adds": 13366
     },
     {
       "id": "12530",
@@ -4416,19 +4416,19 @@
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 103,
-      "adds": 13104
+      "rank": 104,
+      "adds": 13224
     },
     {
-      "id": "5012",
-      "name": "Mark Andrews",
-      "pos": "TE",
-      "team": "BAL",
+      "id": "13264",
+      "name": "Dohnte Meyers",
+      "pos": "WR",
+      "team": "CIN",
       "injury": null,
       "status": "Active",
-      "depth": 1,
-      "rank": 96,
-      "adds": 12195
+      "depth": 3,
+      "rank": 626,
+      "adds": 12879
     }
   ]
 }
