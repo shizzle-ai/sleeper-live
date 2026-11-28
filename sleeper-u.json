@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-11-28T11:25:43.652Z",
+  "generated_at": "2026-11-28T19:01:51.412Z",
   "mode": "in-season",
   "version": "2026-09-16-chatgpt-1",
   "league": {
@@ -2235,7 +2235,7 @@
           "name": "Tetairoa McMillan",
           "pos": "WR",
           "team": "CAR",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 38
@@ -2548,7 +2548,7 @@
           "name": "Darren Waller",
           "pos": "TE",
           "team": "CAR",
-          "injury": "Questionable",
+          "injury": null,
           "status": "Active",
           "depth": 1,
           "rank": 355
@@ -4211,6 +4211,17 @@
   },
   "trending_unrostered_adds": [
     {
+      "id": "12773",
+      "name": "DJ Uiagalelei",
+      "pos": "QB",
+      "team": "LAC",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 618,
+      "adds": 303156
+    },
+    {
       "id": "11631",
       "name": "Brian Thomas Jr.",
       "pos": "WR",
@@ -4219,7 +4230,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 75,
-      "adds": 394715
+      "adds": 283410
     },
     {
       "id": "13322",
@@ -4230,18 +4241,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 630,
-      "adds": 257117
-    },
-    {
-      "id": "12773",
-      "name": "DJ Uiagalelei",
-      "pos": "QB",
-      "team": "LAC",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 618,
-      "adds": 248409
+      "adds": 202853
     },
     {
       "id": "NE",
@@ -4252,18 +4252,7 @@
       "status": null,
       "depth": null,
       "rank": null,
-      "adds": 50911
-    },
-    {
-      "id": "12496",
-      "name": "Tai Felton",
-      "pos": "WR",
-      "team": "MIN",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 693,
-      "adds": 45870
+      "adds": 54222
     },
     {
       "id": "7527",
@@ -4274,18 +4263,18 @@
       "status": "Active",
       "depth": 1,
       "rank": 402,
-      "adds": 42991
+      "adds": 47280
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
+      "id": "12496",
+      "name": "Tai Felton",
       "pos": "WR",
-      "team": "HOU",
+      "team": "MIN",
       "injury": null,
       "status": "Active",
-      "depth": 2,
-      "rank": 679,
-      "adds": 28119
+      "depth": 3,
+      "rank": 693,
+      "adds": 40806
     },
     {
       "id": "6130",
@@ -4296,51 +4285,7 @@
       "status": "Active",
       "depth": 2,
       "rank": 660,
-      "adds": 25785
-    },
-    {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 4,
-      "rank": 196,
-      "adds": 24036
-    },
-    {
-      "id": "CLE",
-      "name": "Cleveland Browns",
-      "pos": "DEF",
-      "team": "CLE",
-      "injury": null,
-      "status": null,
-      "depth": null,
-      "rank": null,
-      "adds": 22855
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "injury": null,
-      "status": "Active",
-      "depth": 2,
-      "rank": 487,
-      "adds": 19770
-    },
-    {
-      "id": "11603",
-      "name": "AJ Barner",
-      "pos": "TE",
-      "team": "SEA",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 126,
-      "adds": 18678
+      "adds": 26073
     },
     {
       "id": "12544",
@@ -4351,7 +4296,18 @@
       "status": "Active",
       "depth": 3,
       "rank": 512,
-      "adds": 17808
+      "adds": 21752
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 679,
+      "adds": 19341
     },
     {
       "id": "260",
@@ -4362,62 +4318,40 @@
       "status": "Active",
       "depth": 1,
       "rank": 544,
-      "adds": 16396
+      "adds": 18548
     },
     {
-      "id": "5119",
-      "name": "Jason Sanders",
-      "pos": "K",
-      "team": "NYJ",
+      "id": "11603",
+      "name": "AJ Barner",
+      "pos": "TE",
+      "team": "SEA",
       "injury": null,
       "status": "Active",
       "depth": 1,
-      "rank": 582,
-      "adds": 16100
+      "rank": 126,
+      "adds": 18540
     },
     {
-      "id": "11834",
-      "name": "Devaughn Vele",
-      "pos": "WR",
-      "team": "NO",
-      "injury": null,
-      "status": "Active",
-      "depth": 3,
-      "rank": 209,
-      "adds": 14357
-    },
-    {
-      "id": "6650",
-      "name": "Chase McLaughlin",
-      "pos": "K",
-      "team": "TB",
-      "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 199,
-      "adds": 13384
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
+      "id": "12491",
+      "name": "Corey Kiner",
       "pos": "RB",
-      "team": "ARI",
+      "team": "NE",
       "injury": null,
       "status": "Active",
       "depth": 2,
-      "rank": 669,
-      "adds": 13366
+      "rank": 487,
+      "adds": 17676
     },
     {
-      "id": "12530",
-      "name": "Travis Hunter",
-      "pos": "DB",
-      "team": "JAX",
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "pos": "DEF",
+      "team": "CLE",
       "injury": null,
-      "status": "Active",
-      "depth": 1,
-      "rank": 104,
-      "adds": 13224
+      "status": null,
+      "depth": null,
+      "rank": null,
+      "adds": 17038
     },
     {
       "id": "13264",
@@ -4428,7 +4362,73 @@
       "status": "Active",
       "depth": 3,
       "rank": 626,
-      "adds": 12879
+      "adds": 16011
+    },
+    {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 4,
+      "rank": 196,
+      "adds": 15078
+    },
+    {
+      "id": "5119",
+      "name": "Jason Sanders",
+      "pos": "K",
+      "team": "NYJ",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 582,
+      "adds": 13680
+    },
+    {
+      "id": "11834",
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "team": "NO",
+      "injury": null,
+      "status": "Active",
+      "depth": 3,
+      "rank": 209,
+      "adds": 11305
+    },
+    {
+      "id": "5012",
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "team": "BAL",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 96,
+      "adds": 11079
+    },
+    {
+      "id": "6650",
+      "name": "Chase McLaughlin",
+      "pos": "K",
+      "team": "TB",
+      "injury": null,
+      "status": "Active",
+      "depth": 1,
+      "rank": 199,
+      "adds": 10368
+    },
+    {
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "team": "ARI",
+      "injury": null,
+      "status": "Active",
+      "depth": 2,
+      "rank": 669,
+      "adds": 8794
     }
   ]
 }
